@@ -1,0 +1,886 @@
+[
+    {
+        "Item ID": "85",
+        "Name": "Chain",
+        "Bonus": "+3 range",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Can be climbed on",
+        "Rarity": "0",
+        "Sell": "40 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1143",
+                "1409"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "965",
+        "Name": "Rope",
+        "Bonus": "+3 range",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Can be climbed on",
+        "Rarity": "0",
+        "Sell": "2 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "12",
+                "544"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "985",
+        "Name": "Rope Coil",
+        "Use time": "20 (Very fast)",
+        "Velocity": "10",
+        "Tooltip": "Throw to create a climbable line of rope",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "10 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "224"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1073",
+        "Name": "Red Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "143"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1074",
+        "Name": "Orange Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "144"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1075",
+        "Name": "Yellow Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "145"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1076",
+        "Name": "Lime Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "146"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1077",
+        "Name": "Green Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "147"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1078",
+        "Name": "Teal Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "148"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1079",
+        "Name": "Cyan Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "149"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1080",
+        "Name": "Sky Blue Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "150"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1081",
+        "Name": "Blue Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "151"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1082",
+        "Name": "Purple Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "152"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1083",
+        "Name": "Violet Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "153"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1084",
+        "Name": "Pink Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "154"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1085",
+        "Name": "Deep Red Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2324"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1086",
+        "Name": "Deep Orange Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2321"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1087",
+        "Name": "Deep Yellow Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2328"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1088",
+        "Name": "Deep Lime Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2320"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1089",
+        "Name": "Deep Green Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2319"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1090",
+        "Name": "Deep Teal Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2326"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1091",
+        "Name": "Deep Cyan Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2318"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1092",
+        "Name": "Deep Sky Blue Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2325"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1093",
+        "Name": "Deep Blue Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2317"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1094",
+        "Name": "Deep Purple Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2323"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1095",
+        "Name": "Deep Violet Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2327"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1096",
+        "Name": "Deep Pink Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2322"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1097",
+        "Name": "Black Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "155"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1098",
+        "Name": "White Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "157"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1099",
+        "Name": "Gray Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "156"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1966",
+        "Name": "Brown Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "158"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1967",
+        "Name": "Shadow Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "159"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1968",
+        "Name": "Negative Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "160"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2996",
+        "Name": "Vine Rope",
+        "Bonus": "+3 range",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Can be climbed on",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3005",
+        "Name": "Vine Rope Coil",
+        "Use time": "20 (Very fast)",
+        "Velocity": "10",
+        "Tooltip": "Throw to create a climbable line of rope",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "10 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "291"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3077",
+        "Name": "Silk Rope",
+        "Bonus": "+3 range",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Can be climbed on",
+        "Rarity": "0",
+        "Sell": "2 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2003"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3078",
+        "Name": "Web Rope",
+        "Bonus": "+3 range",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Can be climbed on",
+        "Rarity": "0",
+        "Sell": "2 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "295"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3079",
+        "Name": "Silk Rope Coil",
+        "Use time": "20 (Very fast)",
+        "Velocity": "10",
+        "Tooltip": "Throw to create a climbable line of rope",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "10 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "240"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3080",
+        "Name": "Web Rope Coil",
+        "Use time": "20 (Very fast)",
+        "Velocity": "10",
+        "Tooltip": "Throw to create a climbable line of rope",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "10 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "296"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3335",
+        "Name": "Demon Heart",
+        "Use time": "30 (Average)",
+        "Tooltip": "Permanently increases the number of accessory slots",
+        "Rarity": "-12",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1060"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3822",
+        "Name": "Etherian Mana",
+        "Tooltip": "Often used to manifest one's will as a physical form of defense",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4382",
+        "Name": "Advanced Combat Techniques",
+        "Use time": "45 (Very slow)",
+        "Tooltip": "Increases the defense and strength of all villagers. 'Contains offensive and defensive fighting techniques'",
+        "Rarity": "2",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4423",
+        "Name": "Scarab Bomb",
+        "Damage": "100",
+        "Knockback": "0 (No knockback)",
+        "Use time": "25 (Fast)",
+        "Velocity": "5",
+        "Tooltip": "A narrow explosion that will destroy most tiles. Explosion aims away from your position",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "99 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "233"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "698",
+                "733"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4608",
+        "Name": "Chum Bucket",
+        "Use time": "19 (Very fast)",
+        "Velocity": "7",
+        "Tooltip": "Toss in water up to 3 times to increase fishing power. 'Plankton!'",
+        "Rarity": "1",
+        "Sell": "5 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4668",
+        "Name": "Illuminant Paint",
+        "Rarity": "0",
+        "Sell": "5 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "161"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4824",
+        "Name": "Wet Bomb",
+        "Damage": "100",
+        "Knockback": "0 (No knockback)",
+        "Use time": "25 (Fast)",
+        "Velocity": "5",
+        "Tooltip": "A small explosion that will spread water",
+        "Rarity": "1",
+        "Sell": "5 Silver Coins",
+        "Research": "99 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1763",
+                "3486"
+            ],
+            "NPC": [
+                "40"
+            ],
+            "Drop": [],
+            "Grab Bag": [
+                "780",
+                "821"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4825",
+        "Name": "Lava Bomb",
+        "Damage": "100",
+        "Knockback": "0 (No knockback)",
+        "Use time": "25 (Fast)",
+        "Velocity": "5",
+        "Tooltip": "A small explosion that will spread lava",
+        "Rarity": "1",
+        "Sell": "5 Silver Coins",
+        "Research": "99 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3493"
+            ],
+            "NPC": [
+                "41"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4826",
+        "Name": "Honey Bomb",
+        "Damage": "100",
+        "Knockback": "0 (No knockback)",
+        "Use time": "25 (Fast)",
+        "Velocity": "5",
+        "Tooltip": "A small explosion that will spread honey",
+        "Rarity": "1",
+        "Sell": "5 Silver Coins",
+        "Research": "99 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3498"
+            ],
+            "NPC": [
+                "42"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4827",
+        "Name": "Dry Bomb",
+        "Damage": "100",
+        "Knockback": "0 (No knockback)",
+        "Use time": "25 (Fast)",
+        "Velocity": "5",
+        "Tooltip": "A small explosion that will absorb liquid",
+        "Rarity": "1",
+        "Sell": "5 Silver Coins",
+        "Research": "99 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "68",
+                "69",
+                "70"
+            ],
+            "NPC": [
+                "39"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4908",
+        "Name": "Dirt Bomb",
+        "Damage": "100",
+        "Knockback": "0 (No knockback)",
+        "Use time": "25 (Fast)",
+        "Velocity": "5",
+        "Tooltip": "A small explosion that will spread dirt",
+        "Rarity": "1",
+        "Sell": "1 Silver Coin",
+        "Research": "99 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "67"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4909",
+        "Name": "Sticky Dirt Bomb",
+        "Damage": "100",
+        "Knockback": "0 (No knockback)",
+        "Use time": "25 (Fast)",
+        "Velocity": "5",
+        "Tooltip": "A small explosion that will spread dirt",
+        "Rarity": "1",
+        "Sell": "1 Silver Coin",
+        "Research": "99 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "273",
+                "274"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5043",
+        "Name": "Torch God's Favor",
+        "Use time": "30 (Average)",
+        "Tooltip": "Unlocks an ability toggle to the left of the inventory. When enabled normal torches change according to your biome",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

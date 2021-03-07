@@ -1,0 +1,454 @@
+[
+    {
+        "Item ID": "84",
+        "Reach": "18.75",
+        "Velocity": "11.5",
+        "Hooks": "1",
+        "Latching": "Single",
+        "Rarity": "1",
+        "Sources": {
+            "Crafting Recipes": [
+                "1203",
+                "1469"
+            ],
+            "NPC": [
+                "261"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "185",
+        "Reach": "28",
+        "Velocity": "13",
+        "Hooks": "3",
+        "Latching": "Simultaneous",
+        "Rarity": "3",
+        "Sources": {
+            "Crafting Recipes": [
+                "1223",
+                "1489"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "437",
+        "Reach": "27.5",
+        "Velocity": "14",
+        "Hooks": "2",
+        "Latching": "Individual",
+        "Rarity": "4",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "939",
+        "Reach": "15.625",
+        "Velocity": "10",
+        "Hooks": "8",
+        "Latching": "Simultaneous",
+        "Rarity": "2",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Web Covered Chests"
+        }
+    },
+    {
+        "Item ID": "1236",
+        "Reach": "18.75",
+        "Velocity": "10",
+        "Hooks": "1",
+        "Latching": "Single",
+        "Rarity": "1",
+        "Sources": {
+            "Crafting Recipes": [
+                "1123",
+                "1389"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1237",
+        "Reach": "20.625",
+        "Velocity": "10.5",
+        "Hooks": "1",
+        "Latching": "Single",
+        "Rarity": "1",
+        "Sources": {
+            "Crafting Recipes": [
+                "1354",
+                "1620"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1238",
+        "Reach": "22.5",
+        "Velocity": "11",
+        "Hooks": "1",
+        "Latching": "Single",
+        "Rarity": "1",
+        "Sources": {
+            "Crafting Recipes": [
+                "1309",
+                "1575"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1239",
+        "Reach": "24.375",
+        "Velocity": "11.5",
+        "Hooks": "1",
+        "Latching": "Single",
+        "Rarity": "1",
+        "Sources": {
+            "Crafting Recipes": [
+                "1177",
+                "1443"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1240",
+        "Reach": "26.25",
+        "Velocity": "12",
+        "Hooks": "1",
+        "Latching": "Single",
+        "Rarity": "1",
+        "Sources": {
+            "Crafting Recipes": [
+                "1305",
+                "1571"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1241",
+        "Reach": "29.125",
+        "Velocity": "12.5",
+        "Hooks": "1",
+        "Latching": "Single",
+        "Rarity": "1",
+        "Sources": {
+            "Crafting Recipes": [
+                "1173",
+                "1439"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1273",
+        "Reach": "21.875",
+        "Velocity": "15",
+        "Hooks": "2",
+        "Latching": "Simultaneous",
+        "Rarity": "2",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1074"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1800",
+        "Reach": "31.25",
+        "Velocity": "13.5",
+        "Hooks": "1",
+        "Latching": "Single",
+        "Rarity": "3",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "962"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1829",
+        "Reach": "34.375",
+        "Velocity": "15.5",
+        "Hooks": "3",
+        "Latching": "Simultaneous",
+        "Rarity": "7",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1915",
+        "Reach": "25",
+        "Velocity": "11.5",
+        "Hooks": "1",
+        "Latching": "Single",
+        "Rarity": "7",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "995"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1916",
+        "Reach": "34.375",
+        "Velocity": "15.5",
+        "Hooks": "3",
+        "Latching": "Simultaneous",
+        "Rarity": "7",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2360",
+        "Reach": "25",
+        "Velocity": "13",
+        "Hooks": "2",
+        "Latching": "Simultaneous",
+        "Rarity": "3",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2585",
+        "Reach": "18.75",
+        "Velocity": "13",
+        "Hooks": "3",
+        "Latching": "Simultaneous",
+        "Rarity": "3",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1021"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2800",
+        "Reach": "31.25",
+        "Velocity": "14",
+        "Hooks": "3",
+        "Latching": "Simultaneous",
+        "Rarity": "7",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3020",
+        "Reach": "30",
+        "Velocity": "15",
+        "Hooks": "3",
+        "Latching": "Simultaneous",
+        "Rarity": "6",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3021",
+        "Reach": "30",
+        "Velocity": "16",
+        "Hooks": "3",
+        "Latching": "Simultaneous",
+        "Rarity": "6",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1098"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3022",
+        "Reach": "30",
+        "Velocity": "15",
+        "Hooks": "3",
+        "Latching": "Simultaneous",
+        "Rarity": "6",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3023",
+        "Reach": "30",
+        "Velocity": "15",
+        "Hooks": "3",
+        "Latching": "Simultaneous",
+        "Rarity": "6",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3572",
+        "Reach": "34.375",
+        "Velocity": "18",
+        "Hooks": "4",
+        "Latching": "Simultaneous",
+        "Rarity": "10",
+        "Sources": {
+            "Crafting Recipes": [
+                "3126"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3623",
+        "Reach": "37.5",
+        "Velocity": "16",
+        "Hooks": "2",
+        "Latching": "Individual",
+        "Rarity": "10",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "475"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4257",
+        "Reach": "27.5",
+        "Velocity": "12.5",
+        "Hooks": "1",
+        "Latching": "Single",
+        "Rarity": "1",
+        "Sources": {
+            "Crafting Recipes": [
+                "1120",
+                "1386"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4759",
+        "Reach": "19",
+        "Velocity": "11.5",
+        "Hooks": "1",
+        "Latching": "Single",
+        "Rarity": "1",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "56"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4980",
+        "Reach": "30",
+        "Velocity": "16",
+        "Hooks": "1",
+        "Latching": "Single",
+        "Rarity": "5",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1167"
+            ],
+            "Other": ""
+        }
+    }
+]

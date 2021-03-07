@@ -1,0 +1,142 @@
+[
+    {
+        "Item ID": "156",
+        "Effect": [
+            "Grants immunity to knockback"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1174"
+            ],
+            "Other": "Found in Gold Chests, Dungeon"
+        }
+    },
+    {
+        "Item ID": "397",
+        "Effect": [
+            "Grants immunity to the Burning debuff inflicted by contact with Meteorite and Hellstone",
+            "Grants immunity to knockback"
+        ],
+        "Sources": {
+            "Crafting Recipes": [
+                "2234"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "938",
+        "Effect": [
+            "While health is above 25%, redirects 25% of the damage taken by nearby team members to the wearer",
+            "Grants immunity to knockback"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1613",
+        "Effect": [
+            "Provides immunity to the the following debuffs: Chilled, Weak, Broken Armor, Bleeding, Poisoned, Slow, Confused, Silenced, Cursed, Darkness",
+            "Grants immunity to the Burning debuff inflicted by contact with Meteorite and Hellstone",
+            "Grants immunity to knockback"
+        ],
+        "Sources": {
+            "Crafting Recipes": [
+                "2163"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3097",
+        "Effect": [
+            "Increases defense by 2",
+            "Grants a damaging dash attack"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1024"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3810",
+        "Effect": [
+            "Increases max number of sentries by 1",
+            "Increases minion damage by 10%"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3811",
+        "Effect": [
+            "Increases max number of sentries by 1",
+            "Increases minion damage by 10%"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3997",
+        "Effect": [
+            "While health is below 50%, reduces damage taken by 25%",
+            "While health is above 25%, redirects 25% of the damage taken by nearby team members to the wearer",
+            "Grants immunity to knockback"
+        ],
+        "Sources": {
+            "Crafting Recipes": [
+                "2200"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3998",
+        "Effect": [
+            "Increases aggro by 400",
+            "While health is above 25%, redirects 25% of the damage taken by nearby team members to the wearer",
+            "Grants immunity to knockback"
+        ],
+        "Sources": {
+            "Crafting Recipes": [
+                "2207"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

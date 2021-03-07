@@ -1,0 +1,715 @@
+[
+    {
+        "Item ID": "1774",
+        "Rarity": "3",
+        "Sell": "1 Gold Coin",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1869",
+        "Rarity": "1",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2334",
+        "Rarity": "1",
+        "Sell": "10 Silver Coins",
+        "Catch Quality": "Plentiful",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in any biome"
+        }
+    },
+    {
+        "Item ID": "2335",
+        "Rarity": "2",
+        "Sell": "50 Silver Coins",
+        "Catch Quality": "Uncommon",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in any biome"
+        }
+    },
+    {
+        "Item ID": "2336",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Catch Quality": "Very Rare /Extremely Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in any biome"
+        }
+    },
+    {
+        "Item ID": "3085",
+        "Rarity": "2",
+        "Sell": "40 Silver Coins",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "548",
+                "575"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3093",
+        "Rarity": "1",
+        "Sell": "10 Silver Coins",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3203",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in The Corruption"
+        }
+    },
+    {
+        "Item ID": "3204",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in The Crimson"
+        }
+    },
+    {
+        "Item ID": "3205",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Dungeon"
+        }
+    },
+    {
+        "Item ID": "3206",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Sky"
+        }
+    },
+    {
+        "Item ID": "3207",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in The Hallow"
+        }
+    },
+    {
+        "Item ID": "3208",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Jungle"
+        }
+    },
+    {
+        "Item ID": "3318",
+        "Rarity": "1",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3319",
+        "Rarity": "1",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3320",
+        "Rarity": "2",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3321",
+        "Rarity": "2",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3322",
+        "Rarity": "3",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3323",
+        "Rarity": "3",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3324",
+        "Rarity": "4",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3325",
+        "Rarity": "5",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3326",
+        "Rarity": "5",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3327",
+        "Rarity": "5",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3328",
+        "Rarity": "6",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3329",
+        "Rarity": "7",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3330",
+        "Rarity": "7",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3331",
+        "Rarity": "8",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3332",
+        "Rarity": "8",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3746",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3860",
+        "Rarity": "8",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3861",
+        "Rarity": "3",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3862",
+        "Rarity": "5",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3979",
+        "Rarity": "1",
+        "Sell": "10 Silver Coins",
+        "Catch Quality": "Plentiful",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in any biome"
+        }
+    },
+    {
+        "Item ID": "3980",
+        "Rarity": "2",
+        "Sell": "50 Silver Coins",
+        "Catch Quality": "Uncommon",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in any biome"
+        }
+    },
+    {
+        "Item ID": "3981",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Catch Quality": "Very Rare /Extremely Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in any biome"
+        }
+    },
+    {
+        "Item ID": "3982",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in The Corruption"
+        }
+    },
+    {
+        "Item ID": "3983",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in The Crimson"
+        }
+    },
+    {
+        "Item ID": "3984",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Dungeon"
+        }
+    },
+    {
+        "Item ID": "3985",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Sky"
+        }
+    },
+    {
+        "Item ID": "3986",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in The Hallow"
+        }
+    },
+    {
+        "Item ID": "3987",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Jungle"
+        }
+    },
+    {
+        "Item ID": "4345",
+        "Rarity": "1",
+        "Sell": "5 Silver Coins",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4405",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Snow biome"
+        }
+    },
+    {
+        "Item ID": "4406",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Snow biome"
+        }
+    },
+    {
+        "Item ID": "4407",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Desert"
+        }
+    },
+    {
+        "Item ID": "4408",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Desert"
+        }
+    },
+    {
+        "Item ID": "4410",
+        "Rarity": "1",
+        "Sell": "1 Silver Coin",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4782",
+        "Rarity": "6",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4877",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Plentiful",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Lava"
+        }
+    },
+    {
+        "Item ID": "4878",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Plentiful",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Lava"
+        }
+    },
+    {
+        "Item ID": "4879",
+        "Rarity": "2",
+        "Sell": "40 Silver Coins",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "779",
+                "820"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4957",
+        "Rarity": "6",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5002",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Ocean"
+        }
+    },
+    {
+        "Item ID": "5003",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Catch Quality": "Rare",
+        "Bag Drops": [],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Fishing in Ocean"
+        }
+    }
+]

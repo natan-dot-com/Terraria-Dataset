@@ -1,0 +1,4241 @@
+[
+    {
+        "Item ID": "1",
+        "Name": "Iron Pickaxe",
+        "Damage": "5",
+        "Knockback": "2 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "20 (Very fast)",
+        "Tool speed": "13",
+        "Rarity": "0",
+        "Sell": "4 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "40%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1221",
+                "1487"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "7",
+        "Name": "Iron Hammer",
+        "Damage": "7",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "30 (Average)",
+        "Tool speed": "20",
+        "Rarity": "0",
+        "Sell": "3 Silver 20 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "40%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1219",
+                "1485"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "10",
+        "Name": "Iron Axe",
+        "Damage": "5",
+        "Knockback": "4.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "27 (Average)",
+        "Tool speed": "19",
+        "Rarity": "0",
+        "Sell": "3 Silver 20 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "45%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1211",
+                "1477"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "45",
+        "Name": "War Axe of the Night",
+        "Damage": "20",
+        "Knockback": "6 (Average)",
+        "Critical chance": "4%",
+        "Use time": "30 (Average)",
+        "Tool speed": "15",
+        "Rarity": "1",
+        "Sell": "27 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "75%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1370",
+                "1636"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "50",
+        "Name": "Magic Mirror",
+        "Use time": "90 (Snail)",
+        "Tooltip": "Gaze in the mirror to return home",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "103",
+        "Name": "Nightmare Pickaxe",
+        "Damage": "9",
+        "Knockback": "3 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "20 (Very fast)",
+        "Tool speed": "15",
+        "Tooltip": "Able to mine Hellstone",
+        "Rarity": "1",
+        "Sell": "36 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "65%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1268",
+                "1534"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "104",
+        "Name": "The Breaker",
+        "Damage": "24",
+        "Knockback": "6 (Average)",
+        "Critical chance": "4%",
+        "Use time": "45 (Very slow)",
+        "Tool speed": "19",
+        "Rarity": "1",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "55%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1338",
+                "1604"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "122",
+        "Name": "Molten Pickaxe",
+        "Damage": "12",
+        "Knockback": "2 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "23 (Fast)",
+        "Tool speed": "18",
+        "Rarity": "3",
+        "Sell": "54 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "100%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1265",
+                "1531"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "196",
+        "Name": "Wooden Hammer",
+        "Damage": "2",
+        "Knockback": "5.5 (Average)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "37 (Very slow)",
+        "Tool speed": "25",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "25%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "839"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "204",
+        "Name": "Meteor Hamaxe",
+        "Damage": "20",
+        "Knockback": "7 (Strong)",
+        "Critical chance": "4%",
+        "Use time": "30 (Average)",
+        "Tool speed": "16",
+        "Rarity": "1",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "60%",
+        "Axe power": "100%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1252",
+                "1518"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "205",
+        "Name": "Empty Bucket",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1180",
+                "1446"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "206",
+        "Name": "Water Bucket",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "207",
+        "Name": "Lava Bucket",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "213",
+        "Name": "Staff of Regrowth",
+        "Damage": "7",
+        "Knockback": "3 (Very weak)",
+        "Placeable": "Yes",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tooltip": "Creates grass on dirt. Increases alchemy plant collection when used to gather",
+        "Rarity": "3",
+        "Sell": "4 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "192",
+                "225"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "217",
+        "Name": "Molten Hamaxe",
+        "Damage": "20",
+        "Knockback": "7 (Strong)",
+        "Critical chance": "4%",
+        "Use time": "27 (Average)",
+        "Tool speed": "14",
+        "Rarity": "3",
+        "Sell": "54 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "70%",
+        "Axe power": "150%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1263",
+                "1529"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "367",
+        "Name": "Pwnhammer",
+        "Damage": "26",
+        "Knockback": "7.5 (Very strong)",
+        "Critical chance": "4%",
+        "Use time": "27 (Average)",
+        "Tool speed": "14",
+        "Tooltip": "Strong enough to destroy Demon Altars",
+        "Rarity": "4",
+        "Sell": "78 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "80%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1062"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "383",
+        "Name": "Cobalt Chainsaw",
+        "Damage": "23",
+        "Knockback": "2.75 (Very weak)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "40",
+        "Tool speed": "7",
+        "Rarity": "4",
+        "Sell": "1 Gold 8 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "70%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1145",
+                "1411"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "384",
+        "Name": "Mythril Chainsaw",
+        "Damage": "29",
+        "Knockback": "3 (Very weak)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "40",
+        "Tool speed": "6",
+        "Rarity": "4",
+        "Sell": "1 Gold 62 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "85%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2680",
+                "2859"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "385",
+        "Name": "Cobalt Drill",
+        "Damage": "10",
+        "Knockback": "0 (No knockback)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "32",
+        "Tool speed": "7",
+        "Tooltip": "Can mine Mythril and Orichalcum",
+        "Rarity": "4",
+        "Sell": "1 Gold 8 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "110%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1146",
+                "1412"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "386",
+        "Name": "Mythril Drill",
+        "Damage": "15",
+        "Knockback": "0 (No knockback)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "32",
+        "Tool speed": "6",
+        "Tooltip": "Can mine Adamantite and Titanium",
+        "Rarity": "4",
+        "Sell": "1 Gold 62 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "150%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2681",
+                "2860"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "387",
+        "Name": "Adamantite Chainsaw",
+        "Damage": "33",
+        "Knockback": "4.5 (Average)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "40",
+        "Tool speed": "4",
+        "Rarity": "4",
+        "Sell": "2 Gold 16 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "100%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2580",
+                "2759"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "388",
+        "Name": "Adamantite Drill",
+        "Damage": "20",
+        "Knockback": "0 (No knockback)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "32",
+        "Tool speed": "4",
+        "Rarity": "4",
+        "Sell": "2 Gold 16 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "180%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2581",
+                "2760"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "509",
+        "Name": "Red Wrench",
+        "Bonus": "+20 range",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "348"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "510",
+        "Name": "Wire Cutter",
+        "Bonus": "+20 range",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Removes wire",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "352"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "579",
+        "Name": "Drax",
+        "Damage": "35",
+        "Knockback": "4.75 (Average)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "36",
+        "Tool speed": "4",
+        "Tooltip": "'Not to be confused with a picksaw'",
+        "Rarity": "4",
+        "Sell": "4 Gold 40 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "200%",
+        "Hammer power": "0%",
+        "Axe power": "110%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2627",
+                "2806"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "654",
+        "Name": "Ebonwood Hammer",
+        "Damage": "7",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "30 (Average)",
+        "Tool speed": "20",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "40%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "446"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "657",
+        "Name": "Rich Mahogany Hammer",
+        "Damage": "4",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "33 (Slow)",
+        "Tool speed": "23",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "35%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "691"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "660",
+        "Name": "Pearlwood Hammer",
+        "Damage": "9",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "29 (Average)",
+        "Tool speed": "19",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "45%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "638"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "776",
+        "Name": "Cobalt Pickaxe",
+        "Damage": "10",
+        "Knockback": "5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "13",
+        "Tooltip": "Can mine Mythril and Orichalcum",
+        "Rarity": "4",
+        "Sell": "1 Gold 8 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "110%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1152",
+                "1418"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "777",
+        "Name": "Mythril Pickaxe",
+        "Damage": "15",
+        "Knockback": "5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "10",
+        "Tooltip": "Can mine Adamantite and Titanium",
+        "Rarity": "4",
+        "Sell": "1 Gold 62 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "150%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2687",
+                "2866"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "778",
+        "Name": "Adamantite Pickaxe",
+        "Damage": "20",
+        "Knockback": "5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "8",
+        "Rarity": "4",
+        "Sell": "2 Gold 16 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "180%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2588",
+                "2767"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "779",
+        "Name": "Clentaminator",
+        "Knockback": "0.3 (Extremely weak)",
+        "Use time": "30 (Average)",
+        "Velocity": "7",
+        "Tooltip": "Creates and destroys biomes when sprayed. Uses colored solution",
+        "Rarity": "5",
+        "Sell": "40 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "448"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "787",
+        "Name": "Hammush",
+        "Damage": "26",
+        "Knockback": "7.5 (Very strong)",
+        "Critical chance": "4%",
+        "Use time": "27 (Average)",
+        "Tool speed": "14",
+        "Tooltip": "Strong enough to destroy Demon Altars",
+        "Rarity": "7",
+        "Sell": "8 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "85%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "434"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "797",
+        "Name": "Flesh Grinder",
+        "Damage": "23",
+        "Knockback": "6 (Average)",
+        "Critical chance": "4%",
+        "Use time": "40 (Very slow)",
+        "Tool speed": "19",
+        "Rarity": "1",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "55%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1184",
+                "1450"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "798",
+        "Name": "Deathbringer Pickaxe",
+        "Damage": "12",
+        "Knockback": "3.5 (Weak)",
+        "Critical chance": "4%",
+        "Use time": "22 (Fast)",
+        "Tool speed": "14",
+        "Tooltip": "Able to mine Hellstone",
+        "Rarity": "1",
+        "Sell": "36 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "70%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1171",
+                "1437"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "799",
+        "Name": "Blood Lust Cluster",
+        "Damage": "22",
+        "Knockback": "6 (Average)",
+        "Critical chance": "4%",
+        "Use time": "32 (Slow)",
+        "Tool speed": "15",
+        "Rarity": "1",
+        "Sell": "27 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "75%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1137",
+                "1403"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "832",
+        "Name": "Living Wood Wand",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Places bone",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "850",
+        "Name": "Blue Wrench",
+        "Bonus": "+20 range",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "349"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "851",
+        "Name": "Green Wrench",
+        "Bonus": "+20 range",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "350"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "882",
+        "Name": "Cactus Pickaxe",
+        "Damage": "4",
+        "Knockback": "2 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "16",
+        "Rarity": "0",
+        "Sell": "4 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "35%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "371"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "922",
+        "Name": "Shadewood Hammer",
+        "Damage": "7",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "30 (Average)",
+        "Tool speed": "20",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "40%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "736"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "932",
+        "Name": "Bone Wand",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Places bone",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "933",
+        "Name": "Leaf Wand",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Places bone",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "946",
+        "Name": "Umbrella",
+        "Damage": "10",
+        "Knockback": "5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "22 (Fast)",
+        "Tooltip": "You will fall slower while holding this",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "5",
+                "38"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "990",
+        "Name": "Pickaxe Axe",
+        "Damage": "35",
+        "Knockback": "4.75 (Average)",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "7",
+        "Tooltip": "'Not to be confused with a hamdrill'",
+        "Rarity": "4",
+        "Sell": "4 Gold 40 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "200%",
+        "Hammer power": "0%",
+        "Axe power": "110%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2707",
+                "2886"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "991",
+        "Name": "Cobalt Waraxe",
+        "Damage": "33",
+        "Knockback": "5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "35 (Slow)",
+        "Tool speed": "13",
+        "Rarity": "4",
+        "Sell": "1 Gold 8 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "70%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1155",
+                "1421"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "992",
+        "Name": "Mythril Waraxe",
+        "Damage": "39",
+        "Knockback": "6 (Average)",
+        "Critical chance": "4%",
+        "Use time": "35 (Slow)",
+        "Tool speed": "10",
+        "Rarity": "4",
+        "Sell": "1 Gold 62 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "85%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2690",
+                "2869"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "993",
+        "Name": "Adamantite Waraxe",
+        "Damage": "43",
+        "Knockback": "7 (Strong)",
+        "Critical chance": "4%",
+        "Use time": "35 (Slow)",
+        "Tool speed": "8",
+        "Rarity": "4",
+        "Sell": "2 Gold 16 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "100%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2591",
+                "2770"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1071",
+        "Name": "Paintbrush",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Used with paint to color blocks",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "140"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1072",
+        "Name": "Paint Roller",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Used with paint to color walls",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "141"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1100",
+        "Name": "Paint Scraper",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Used to remove paint. Can sometimes collect moss",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "142"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1128",
+        "Name": "Honey Bucket",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1129",
+        "Name": "Hive Wand",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Places bone",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1053"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1188",
+        "Name": "Palladium Pickaxe",
+        "Damage": "12",
+        "Knockback": "5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "12",
+        "Tooltip": " Can mine Mythril and Orichalcum.  Can mine Mythril, Orichalcum, Adamantite, and Titanium",
+        "Rarity": "4",
+        "Sell": "1 Gold 44 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "130%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1279",
+                "1545"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1189",
+        "Name": "Palladium Drill",
+        "Damage": "12",
+        "Knockback": "0 (No knockback)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "32",
+        "Tool speed": "7",
+        "Tooltip": " Can mine Mythril and Orichalcum.  Can mine Mythril, Orichalcum, Adamantite, and Titanium",
+        "Rarity": "4",
+        "Sell": "1 Gold 44 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "130%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1274",
+                "1540"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1190",
+        "Name": "Palladium Chainsaw",
+        "Damage": "26",
+        "Knockback": "2.9 (Very weak)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "40",
+        "Tool speed": "7",
+        "Rarity": "4",
+        "Sell": "1 Gold 44 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "75%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1273",
+                "1539"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1195",
+        "Name": "Orichalcum Pickaxe",
+        "Damage": "17",
+        "Knockback": "5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "9",
+        "Tooltip": "Can mine Adamantite and Titanium",
+        "Rarity": "4",
+        "Sell": "1 Gold 98 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "165%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2703",
+                "2882"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1196",
+        "Name": "Orichalcum Drill",
+        "Damage": "17",
+        "Knockback": "0 (No knockback)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "32",
+        "Tool speed": "5",
+        "Tooltip": "Can mine Adamantite and Titanium",
+        "Rarity": "4",
+        "Sell": "1 Gold 98 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "165%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2697",
+                "2876"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1197",
+        "Name": "Orichalcum Chainsaw",
+        "Damage": "31",
+        "Knockback": "3.75 (Weak)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "40",
+        "Tool speed": "5",
+        "Rarity": "4",
+        "Sell": "1 Gold 98 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "90%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2696",
+                "2875"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1202",
+        "Name": "Titanium Pickaxe",
+        "Damage": "27",
+        "Knockback": "5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "7",
+        "Rarity": "4",
+        "Sell": "2 Gold 52 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "190%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2743",
+                "2922"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1203",
+        "Name": "Titanium Drill",
+        "Damage": "27",
+        "Knockback": "0 (No knockback)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "32",
+        "Tool speed": "4",
+        "Rarity": "4",
+        "Sell": "2 Gold 52 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "190%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2737",
+                "2916"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1204",
+        "Name": "Titanium Chainsaw",
+        "Damage": "34",
+        "Knockback": "4.6 (Average)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "40",
+        "Tool speed": "4",
+        "Rarity": "4",
+        "Sell": "2 Gold 52 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "105%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2736",
+                "2915"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1222",
+        "Name": "Palladium Waraxe",
+        "Damage": "36",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "35 (Slow)",
+        "Tool speed": "12",
+        "Rarity": "4",
+        "Sell": "1 Gold 44 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "75%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1283",
+                "1549"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1223",
+        "Name": "Orichalcum Waraxe",
+        "Damage": "41",
+        "Knockback": "6.5 (Strong)",
+        "Critical chance": "4%",
+        "Use time": "35 (Slow)",
+        "Tool speed": "9",
+        "Rarity": "4",
+        "Sell": "1 Gold 98 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "90%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2706",
+                "2885"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1224",
+        "Name": "Titanium Waraxe",
+        "Damage": "44",
+        "Knockback": "7.5 (Very strong)",
+        "Critical chance": "4%",
+        "Use time": "35 (Slow)",
+        "Tool speed": "7",
+        "Rarity": "4",
+        "Sell": "2 Gold 52 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "105%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2747",
+                "2926"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1230",
+        "Name": "Chlorophyte Pickaxe",
+        "Damage": "40",
+        "Knockback": "5 (Average)",
+        "Bonus": "+1 range",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "7",
+        "Rarity": "7",
+        "Sell": "4 Gold 32 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "200%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2616",
+                "2795"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1231",
+        "Name": "Chlorophyte Drill",
+        "Damage": "35",
+        "Knockback": "1 (Extremely weak)",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "40",
+        "Tool speed": "4",
+        "Rarity": "7",
+        "Sell": "4 Gold 32 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "200%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2608",
+                "2787"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1232",
+        "Name": "Chlorophyte Chainsaw",
+        "Damage": "50",
+        "Knockback": "4.6 (Average)",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "46",
+        "Tool speed": "4",
+        "Rarity": "7",
+        "Sell": "4 Gold 32 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "115%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2606",
+                "2785"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1233",
+        "Name": "Chlorophyte Greataxe",
+        "Damage": "70",
+        "Knockback": "7 (Strong)",
+        "Bonus": "+1 range",
+        "Critical chance": "4%",
+        "Use time": "30 (Average)",
+        "Tool speed": "7",
+        "Rarity": "7",
+        "Sell": "4 Gold 32 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "115%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2609",
+                "2788"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1234",
+        "Name": "Chlorophyte Warhammer",
+        "Damage": "80",
+        "Knockback": "8 (Very strong)",
+        "Bonus": "+1 range",
+        "Critical chance": "4%",
+        "Use time": "35 (Slow)",
+        "Tool speed": "14",
+        "Rarity": "7",
+        "Sell": "4 Gold 32 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "90%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2620",
+                "2799"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1262",
+        "Name": "Chlorophyte Jackhammer",
+        "Damage": "45",
+        "Knockback": "5.2 (Average)",
+        "Bonus": "+1 range",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Velocity": "46",
+        "Tool speed": "7",
+        "Rarity": "7",
+        "Sell": "4 Gold 32 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "90%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2613",
+                "2792"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1294",
+        "Name": "Picksaw",
+        "Damage": "34",
+        "Knockback": "5.5 (Average)",
+        "Bonus": "+1 range",
+        "Critical chance": "4%",
+        "Use time": "16 (Very fast)",
+        "Tool speed": "6",
+        "Tooltip": "Capable of mining Lihzahrd Bricks",
+        "Rarity": "7",
+        "Sell": "4 Gold 32 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "210%",
+        "Hammer power": "0%",
+        "Axe power": "125%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1109",
+                "1114"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1305",
+        "Name": "The Axe",
+        "Damage": "72",
+        "Knockback": "7.25 (Very strong)",
+        "Bonus": "+1 range",
+        "Critical chance": "4%",
+        "Use time": "23 (Fast)",
+        "Tool speed": "7",
+        "Rarity": "8",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "100%",
+        "Axe power": "175%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1096"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1320",
+        "Name": "Bone Pickaxe",
+        "Damage": "8",
+        "Knockback": "3 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "19 (Very fast)",
+        "Tool speed": "11",
+        "Rarity": "1",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "55%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1326",
+        "Name": "Rod of Discord",
+        "Use time": "20 (Very fast)",
+        "Tooltip": "Teleports you to the position of the mouse.  Teleports you to the position of the cursor",
+        "Rarity": "7",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1506",
+        "Name": "Spectre Pickaxe",
+        "Damage": "32",
+        "Knockback": "5.25 (Average)",
+        "Bonus": "+3 range",
+        "Critical chance": "4%",
+        "Use time": "24 (Fast)",
+        "Tool speed": "10",
+        "Rarity": "8",
+        "Sell": "4 Gold 32 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "200%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2727",
+                "2906"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1507",
+        "Name": "Spectre Hamaxe",
+        "Damage": "60",
+        "Knockback": "7 (Strong)",
+        "Bonus": "+3 range",
+        "Critical chance": "4%",
+        "Use time": "28 (Average)",
+        "Tool speed": "8",
+        "Rarity": "8",
+        "Sell": "4 Gold 32 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "90%",
+        "Axe power": "150%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2720",
+                "2899"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1543",
+        "Name": "Spectre Paintbrush",
+        "Bonus": "+3 range",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Used with paint to color blocks",
+        "Rarity": "0",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2725",
+                "2904"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1544",
+        "Name": "Spectre Paint Roller",
+        "Bonus": "+3 range",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Used with paint to color walls",
+        "Rarity": "0",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2723",
+                "2902"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1545",
+        "Name": "Spectre Paint Scraper",
+        "Bonus": "+3 range",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Used to remove paint. Can sometimes collect moss",
+        "Rarity": "0",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2724",
+                "2903"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1786",
+        "Name": "Sickle",
+        "Damage": "9",
+        "Knockback": "2.25 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "24 (Fast)",
+        "Tooltip": "Allows the collection of hay from grass",
+        "Rarity": "0",
+        "Sell": "12 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "24"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1917",
+        "Name": "Candy Cane Pickaxe",
+        "Damage": "7",
+        "Knockback": "2.5 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "20 (Very fast)",
+        "Tool speed": "16",
+        "Tooltip": "Can mine Meteorite",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "55%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "994"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1991",
+        "Name": "Bug Net",
+        "Use time": "25 (Fast)",
+        "Tooltip": "Used to catch critters",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "4"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2176",
+        "Name": "Shroomite Digging Claw",
+        "Damage": "45",
+        "Knockback": "6 (Average)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "12 (Very fast)",
+        "Tool speed": "4",
+        "Rarity": "8",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "200%",
+        "Hammer power": "0%",
+        "Axe power": "125%",
+        "Sources": {
+            "Crafting Recipes": [
+                "2713",
+                "2892"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2289",
+        "Name": "Wood Fishing Pole",
+        "Rarity": "0",
+        "Velocity": "9",
+        "Fishing Power": "5%",
+        "Sources": {
+            "Crafting Recipes": [
+                "830"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Use time": "8 (Insanely fast)"
+    },
+    {
+        "Item ID": "2291",
+        "Name": "Reinforced Fishing Pole",
+        "Rarity": "0",
+        "Velocity": "11",
+        "Fishing Power": "15%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1303",
+                "1569"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Use time": "8 (Insanely fast)"
+    },
+    {
+        "Item ID": "2292",
+        "Name": "Fiberglass Fishing Pole",
+        "Rarity": "2",
+        "Velocity": "14",
+        "Fishing Power": "30%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "193",
+                "226"
+            ],
+            "Other": ""
+        },
+        "Use time": "8 (Insanely fast)"
+    },
+    {
+        "Item ID": "2293",
+        "Name": "Fisher of Souls",
+        "Rarity": "1",
+        "Velocity": "13",
+        "Fishing Power": "20%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1182",
+                "1448"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Use time": "8 (Insanely fast)"
+    },
+    {
+        "Item ID": "2294",
+        "Name": "Golden Fishing Rod",
+        "Rarity": "3",
+        "Velocity": "17",
+        "Fishing Power": "50%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Use time": "8 (Insanely fast)"
+    },
+    {
+        "Item ID": "2295",
+        "Name": "Mechanic's Rod",
+        "Rarity": "2",
+        "Velocity": "15",
+        "Fishing Power": "35%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "371"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Use time": "8 (Insanely fast)"
+    },
+    {
+        "Item ID": "2296",
+        "Name": "Sitting Duck's Fishing Pole",
+        "Rarity": "2",
+        "Velocity": "16",
+        "Fishing Power": "40%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Use time": "8 (Insanely fast)"
+    },
+    {
+        "Item ID": "2320",
+        "Name": "Rockfish",
+        "Damage": "24",
+        "Knockback": "6 (Average)",
+        "Critical chance": "4%",
+        "Use time": "24 (Fast)",
+        "Tool speed": "14",
+        "Rarity": "3",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "70%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2341",
+        "Name": "Reaver Shark",
+        "Damage": "16",
+        "Knockback": "3 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "22 (Fast)",
+        "Tool speed": "13",
+        "Rarity": "3",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "59%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2342",
+        "Name": "Sawtooth Shark",
+        "Damage": "13",
+        "Knockback": "2.25 (Very weak)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "48",
+        "Tool speed": "4",
+        "Rarity": "3",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "70%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2421",
+        "Name": "Fleshcatcher",
+        "Rarity": "1",
+        "Velocity": "13.5",
+        "Fishing Power": "22%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1185",
+                "1451"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Use time": "8 (Insanely fast)"
+    },
+    {
+        "Item ID": "2422",
+        "Name": "Hotline Fishing Hook",
+        "Rarity": "3",
+        "Velocity": "16.5",
+        "Fishing Power": "45%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Use time": "8 (Insanely fast)"
+    },
+    {
+        "Item ID": "2516",
+        "Name": "Palm Wood Hammer",
+        "Damage": "4",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "33 (Slow)",
+        "Tool speed": "23",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "35%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "614"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2746",
+        "Name": "Boreal Wood Hammer",
+        "Damage": "4",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "33 (Slow)",
+        "Tool speed": "23",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "35%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "350"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2772",
+        "Name": "Vortex Axe",
+        "Damage": "100",
+        "Knockback": "6 (Average)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "7",
+        "Rarity": "10",
+        "Sell": "6 Gold Coins",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "135%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2773",
+        "Name": "Vortex Chainsaw",
+        "Damage": "80",
+        "Knockback": "4 (Weak)",
+        "Bonus": "+3 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "28",
+        "Tool speed": "4",
+        "Rarity": "10",
+        "Sell": "6 Gold Coins",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "135%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2774",
+        "Name": "Vortex Drill",
+        "Damage": "50",
+        "Knockback": "0 (No knockback)",
+        "Bonus": "+2 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "32",
+        "Tool speed": "2",
+        "Rarity": "10",
+        "Sell": "7 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "225%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "3239"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2775",
+        "Name": "Vortex Hammer",
+        "Damage": "110",
+        "Knockback": "7 (Strong)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "30 (Average)",
+        "Tool speed": "7",
+        "Rarity": "10",
+        "Sell": "8 Gold Coins",
+        "Pickaxe power": "0%",
+        "Hammer power": "100%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2776",
+        "Name": "Vortex Pickaxe",
+        "Damage": "80",
+        "Knockback": "5.5 (Average)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "12 (Very fast)",
+        "Tool speed": "6",
+        "Rarity": "10",
+        "Sell": "7 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "225%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "3249"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2777",
+        "Name": "Nebula Axe",
+        "Damage": "100",
+        "Knockback": "6 (Average)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "7",
+        "Rarity": "10",
+        "Sell": "6 Gold Coins",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "135%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2778",
+        "Name": "Nebula Chainsaw",
+        "Damage": "80",
+        "Knockback": "4 (Weak)",
+        "Bonus": "+3 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "28",
+        "Tool speed": "4",
+        "Rarity": "10",
+        "Sell": "6 Gold Coins",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "135%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2779",
+        "Name": "Nebula Drill",
+        "Damage": "50",
+        "Knockback": "0 (No knockback)",
+        "Bonus": "+2 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "32",
+        "Tool speed": "2",
+        "Rarity": "10",
+        "Sell": "7 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "225%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "3142"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2780",
+        "Name": "Nebula Hammer",
+        "Damage": "110",
+        "Knockback": "7 (Strong)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "30 (Average)",
+        "Tool speed": "7",
+        "Rarity": "10",
+        "Sell": "8 Gold Coins",
+        "Pickaxe power": "0%",
+        "Hammer power": "100%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2781",
+        "Name": "Nebula Pickaxe",
+        "Damage": "80",
+        "Knockback": "5.5 (Average)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "12 (Very fast)",
+        "Tool speed": "6",
+        "Rarity": "10",
+        "Sell": "7 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "225%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "3153"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2782",
+        "Name": "Solar Flare Axe",
+        "Damage": "100",
+        "Knockback": "6 (Average)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "7",
+        "Rarity": "10",
+        "Sell": "6 Gold Coins",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "135%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2783",
+        "Name": "Solar Flare Chainsaw",
+        "Damage": "80",
+        "Knockback": "4 (Weak)",
+        "Bonus": "+3 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "28",
+        "Tool speed": "4",
+        "Rarity": "10",
+        "Sell": "6 Gold Coins",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "135%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2784",
+        "Name": "Solar Flare Drill",
+        "Damage": "50",
+        "Knockback": "0 (No knockback)",
+        "Bonus": "+2 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "32",
+        "Tool speed": "2",
+        "Rarity": "10",
+        "Sell": "7 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "225%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "3174"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2785",
+        "Name": "Solar Flare Hammer",
+        "Damage": "110",
+        "Knockback": "7 (Strong)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "30 (Average)",
+        "Tool speed": "7",
+        "Rarity": "10",
+        "Sell": "8 Gold Coins",
+        "Pickaxe power": "0%",
+        "Hammer power": "100%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2786",
+        "Name": "Solar Flare Pickaxe",
+        "Damage": "80",
+        "Knockback": "5.5 (Average)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "12 (Very fast)",
+        "Tool speed": "6",
+        "Rarity": "10",
+        "Sell": "7 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "225%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "3178"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2798",
+        "Name": "Laser Drill",
+        "Damage": "35",
+        "Knockback": "4.75 (Average)",
+        "Bonus": "+11 range",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Velocity": "36",
+        "Tool speed": "6",
+        "Rarity": "8",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "230%",
+        "Hammer power": "0%",
+        "Axe power": "150%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3031",
+        "Name": "Bottomless Water Bucket",
+        "Bonus": "+2 range",
+        "Use time": "12 (Very fast)",
+        "Tooltip": "Contains an endless amount of water. Can be poured out",
+        "Rarity": "7",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3032",
+        "Name": "Super Absorbant Sponge",
+        "Bonus": "+2 range",
+        "Use time": "12 (Very fast)",
+        "Tooltip": "Capable of soaking up an endless amount of water",
+        "Rarity": "7",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3098",
+        "Name": "Butcher's Chainsaw",
+        "Damage": "120",
+        "Knockback": "8 (Very strong)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "48",
+        "Tool speed": "4",
+        "Tooltip": "Sparks emit from struck enemies",
+        "Rarity": "8",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "150%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3124",
+        "Name": "Cell Phone",
+        "Use time": "90 (Snail)",
+        "Tooltip": "Displays everything. Allows you to return home at will",
+        "Rarity": "7",
+        "Sell": "8 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2181",
+                "2182"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3182",
+        "Name": "Magic Water Dropper",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sell": "40 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1765",
+                "3110",
+                "3488"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3183",
+        "Name": "Golden Bug Net",
+        "Use time": "18 (Very fast)",
+        "Tooltip": "Used to catch critters. Can catch lava critters too!",
+        "Rarity": "4",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3184",
+        "Name": "Magic Lava Dropper",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sell": "40 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3115",
+                "3496"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3185",
+        "Name": "Magic Honey Dropper",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sell": "40 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3117",
+                "3501"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3199",
+        "Name": "Ice Mirror",
+        "Use time": "90 (Snail)",
+        "Tooltip": "Gaze in the mirror to return home",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3360",
+        "Name": "Living Mahogany Wand",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Places bone",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3361",
+        "Name": "Rich Mahogany Leaf Wand",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Places bone",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3384",
+        "Name": "Portal Gun",
+        "Knockback": "2 (Very weak)",
+        "Use time": "20 (Very fast)",
+        "Velocity": "24",
+        "Rarity": "8",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1135"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3462",
+        "Name": "Stardust Axe",
+        "Damage": "100",
+        "Knockback": "6 (Average)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "7",
+        "Rarity": "10",
+        "Sell": "6 Gold Coins",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "135%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3463",
+        "Name": "Stardust Chainsaw",
+        "Damage": "80",
+        "Knockback": "4 (Weak)",
+        "Bonus": "+3 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "28",
+        "Tool speed": "4",
+        "Rarity": "10",
+        "Sell": "6 Gold Coins",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "135%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3464",
+        "Name": "Stardust Drill",
+        "Damage": "50",
+        "Knockback": "0 (No knockback)",
+        "Bonus": "+2 range",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "32",
+        "Tool speed": "2",
+        "Rarity": "10",
+        "Sell": "7 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "225%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "3205"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3465",
+        "Name": "Stardust Hammer",
+        "Damage": "110",
+        "Knockback": "7 (Strong)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "30 (Average)",
+        "Tool speed": "7",
+        "Rarity": "10",
+        "Sell": "8 Gold Coins",
+        "Pickaxe power": "0%",
+        "Hammer power": "100%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3466",
+        "Name": "Stardust Pickaxe",
+        "Damage": "80",
+        "Knockback": "5.5 (Average)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "12 (Very fast)",
+        "Tool speed": "6",
+        "Rarity": "10",
+        "Sell": "7 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "225%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "3215"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3481",
+        "Name": "Platinum Hammer",
+        "Damage": "10",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "27 (Average)",
+        "Tool speed": "21",
+        "Rarity": "0",
+        "Sell": "24 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "59%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1294",
+                "1560"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3482",
+        "Name": "Platinum Axe",
+        "Damage": "8",
+        "Knockback": "4.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "17",
+        "Rarity": "0",
+        "Sell": "24 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "60%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1287",
+                "1553"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3485",
+        "Name": "Platinum Pickaxe",
+        "Damage": "7",
+        "Knockback": "2 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "19 (Very fast)",
+        "Tool speed": "15",
+        "Tooltip": "Can mine Meteorite",
+        "Rarity": "0",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "59%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1296",
+                "1562"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3487",
+        "Name": "Tungsten Hammer",
+        "Damage": "9",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "28 (Average)",
+        "Tool speed": "25",
+        "Rarity": "0",
+        "Sell": "12 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "50%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1365",
+                "1631"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3488",
+        "Name": "Tungsten Axe",
+        "Damage": "7",
+        "Knockback": "4.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "26 (Average)",
+        "Tool speed": "18",
+        "Rarity": "0",
+        "Sell": "12 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "55%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1358",
+                "1624"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3491",
+        "Name": "Tungsten Pickaxe",
+        "Damage": "6",
+        "Knockback": "2 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "21 (Fast)",
+        "Tool speed": "19",
+        "Tooltip": "Can mine Meteorite",
+        "Rarity": "0",
+        "Sell": "15 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "50%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1367",
+                "1633"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3493",
+        "Name": "Lead Hammer",
+        "Damage": "8",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "29 (Average)",
+        "Tool speed": "19",
+        "Rarity": "0",
+        "Sell": "4 Silver 80 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "43%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1243",
+                "1509"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3494",
+        "Name": "Lead Axe",
+        "Damage": "6",
+        "Knockback": "4.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "28 (Average)",
+        "Tool speed": "19",
+        "Rarity": "0",
+        "Sell": "4 Silver 80 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "50%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1235",
+                "1501"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3497",
+        "Name": "Lead Pickaxe",
+        "Damage": "6",
+        "Knockback": "2 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "19 (Very fast)",
+        "Tool speed": "12",
+        "Rarity": "0",
+        "Sell": "6 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "43%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1245",
+                "1511"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3499",
+        "Name": "Tin Hammer",
+        "Damage": "6",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "31 (Slow)",
+        "Tool speed": "21",
+        "Rarity": "0",
+        "Sell": "1 Silver 20 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "38%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1349",
+                "1615"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3500",
+        "Name": "Tin Axe",
+        "Damage": "4",
+        "Knockback": "4.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "28 (Average)",
+        "Tool speed": "20",
+        "Rarity": "0",
+        "Sell": "1 Silver 20 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "40%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1343",
+                "1609"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3503",
+        "Name": "Tin Pickaxe",
+        "Damage": "5",
+        "Knockback": "2 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "21 (Fast)",
+        "Tool speed": "14",
+        "Rarity": "0",
+        "Sell": "1 Silver 50 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "35%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1351",
+                "1617"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3505",
+        "Name": "Copper Hammer",
+        "Damage": "4",
+        "Knockback": "5.5 (Average)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "33 (Slow)",
+        "Tool speed": "23",
+        "Rarity": "0",
+        "Sell": "80 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "35%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1163",
+                "1429"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3506",
+        "Name": "Copper Axe",
+        "Damage": "3",
+        "Knockback": "4.5 (Average)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "30 (Average)",
+        "Tool speed": "21",
+        "Rarity": "0",
+        "Sell": "80 Copper Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "35%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1157",
+                "1423"
+            ],
+            "NPC": [
+                "6"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3509",
+        "Name": "Copper Pickaxe",
+        "Damage": "4",
+        "Knockback": "2 (Very weak)",
+        "Bonus": "-1 range",
+        "Critical chance": "4%",
+        "Use time": "23 (Fast)",
+        "Tool speed": "15",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Pickaxe power": "35%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1165",
+                "1431"
+            ],
+            "NPC": [
+                "5"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3511",
+        "Name": "Silver Hammer",
+        "Damage": "9",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "29 (Average)",
+        "Tool speed": "19",
+        "Rarity": "0",
+        "Sell": "8 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "45%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1323",
+                "1589"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3512",
+        "Name": "Silver Axe",
+        "Damage": "6",
+        "Knockback": "4.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "26 (Average)",
+        "Tool speed": "18",
+        "Rarity": "0",
+        "Sell": "8 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "50%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1316",
+                "1582"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3515",
+        "Name": "Silver Pickaxe",
+        "Damage": "6",
+        "Knockback": "2 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "19 (Very fast)",
+        "Tool speed": "11",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "45%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1325",
+                "1591"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3517",
+        "Name": "Gold Hammer",
+        "Damage": "9",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "28 (Average)",
+        "Tool speed": "23",
+        "Rarity": "0",
+        "Sell": "16 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "55%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1198",
+                "1464"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3518",
+        "Name": "Gold Axe",
+        "Damage": "7",
+        "Knockback": "4.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "26 (Average)",
+        "Tool speed": "18",
+        "Rarity": "0",
+        "Sell": "16 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "0%",
+        "Axe power": "55%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1191",
+                "1457"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3521",
+        "Name": "Gold Pickaxe",
+        "Damage": "6",
+        "Knockback": "2 (Very weak)",
+        "Critical chance": "4%",
+        "Use time": "20 (Very fast)",
+        "Tool speed": "17",
+        "Tooltip": "Can mine Meteorite",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "55%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1200",
+                "1466"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3522",
+        "Name": "Solar Flare Hamaxe",
+        "Damage": "60",
+        "Knockback": "7 (Strong)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "28 (Average)",
+        "Tool speed": "7",
+        "Rarity": "10",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "100%",
+        "Axe power": "150%",
+        "Sources": {
+            "Crafting Recipes": [
+                "3175"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3523",
+        "Name": "Vortex Hamaxe",
+        "Damage": "60",
+        "Knockback": "7 (Strong)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "28 (Average)",
+        "Tool speed": "7",
+        "Rarity": "10",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "100%",
+        "Axe power": "150%",
+        "Sources": {
+            "Crafting Recipes": [
+                "3242"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3524",
+        "Name": "Nebula Hamaxe",
+        "Damage": "60",
+        "Knockback": "7 (Strong)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "28 (Average)",
+        "Tool speed": "7",
+        "Rarity": "10",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "100%",
+        "Axe power": "150%",
+        "Sources": {
+            "Crafting Recipes": [
+                "3145"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3525",
+        "Name": "Stardust Hamaxe",
+        "Damage": "60",
+        "Knockback": "7 (Strong)",
+        "Bonus": "+4 range",
+        "Critical chance": "4%",
+        "Use time": "28 (Average)",
+        "Tool speed": "7",
+        "Rarity": "10",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "100%",
+        "Axe power": "150%",
+        "Sources": {
+            "Crafting Recipes": [
+                "3208"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3611",
+        "Name": "The Grand Design",
+        "Use time": "10 (Very fast)",
+        "Velocity": "10",
+        "Tooltip": "Allows ultimate control over wires!. Right click while holding to edit wire settings",
+        "Rarity": "2",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2258"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3612",
+        "Name": "Yellow Wrench",
+        "Bonus": "+20 range",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "351"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3620",
+        "Name": "Actuation Rod",
+        "Bonus": "+20 range",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Activates Actuators",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1118",
+                "1384"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3625",
+        "Name": "Multicolor Wrench",
+        "Bonus": "+20 range",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Right click while holding to edit wire settings",
+        "Rarity": "1",
+        "Sell": "2 Gold 40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2230"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3782",
+        "Name": "Magic Sand Dropper",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sell": "40 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3106"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4039",
+        "Name": "Golf Club (Iron)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "189"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4049",
+        "Name": "Lawn Mower",
+        "Use time": "30 (Average)",
+        "Tooltip": "Mows Pure and Hallowed grass. Mowed grass reduces enemy spawn chance",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "183"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4057",
+        "Name": "Rain Song",
+        "Use time": "12 (Very fast)",
+        "Tooltip": "Playable Instrument. 'These licks are spicy'",
+        "Rarity": "3",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4059",
+        "Name": "Fossil Pickaxe",
+        "Damage": "8",
+        "Knockback": "4 (Weak)",
+        "Critical chance": "4%",
+        "Use time": "18 (Very fast)",
+        "Tool speed": "14",
+        "Rarity": "1",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Pickaxe power": "55%",
+        "Hammer power": "0%",
+        "Axe power": "0%",
+        "Sources": {
+            "Crafting Recipes": [
+                "1188",
+                "1454"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4092",
+        "Name": "Golf Club (Putter)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "192"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4093",
+        "Name": "Golf Club (Wedge)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "191"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4094",
+        "Name": "Golf Club (Driver)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "190"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4095",
+        "Name": "Golf Whistle",
+        "Use time": "10 (Very fast)",
+        "Tooltip": "Returns your last hit Golf Ball to its previous position. Has a one stroke penalty",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "175"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4262",
+        "Name": "Snake Charmer's Flute",
+        "Placeable": "Yes",
+        "Use time": "90 (Snail)",
+        "Tooltip": "Summons rope snakes",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "696",
+                "731"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4263",
+        "Name": "Magic Conch",
+        "Use time": "90 (Snail)",
+        "Tooltip": "If you listen closely, you can hear the ocean",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "697",
+                "732"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4317",
+        "Name": "Haemorrhaxe",
+        "Damage": "30",
+        "Knockback": "7 (Strong)",
+        "Critical chance": "4%",
+        "Use time": "27 (Average)",
+        "Tool speed": "11",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Pickaxe power": "0%",
+        "Hammer power": "80%",
+        "Axe power": "150%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4325",
+        "Name": "Chum Caster",
+        "Rarity": "2",
+        "Velocity": "15",
+        "Fishing Power": "25%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Use time": "8 (Insanely fast)"
+    },
+    {
+        "Item ID": "4346",
+        "Name": "Encumbering Stone",
+        "Tooltip": "Prevents item pickups while in the inventory. 'You are over-encumbered'",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4372",
+        "Name": "Ivy",
+        "Use time": "12 (Very fast)",
+        "Tooltip": "Playable Instrument. 'Property of Dead Man's Sweater'",
+        "Rarity": "3",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4442",
+        "Name": "Scarab Fishing Rod",
+        "Rarity": "1",
+        "Velocity": "15",
+        "Fishing Power": "30%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "691",
+                "726"
+            ],
+            "Other": ""
+        },
+        "Use time": "8 (Insanely fast)"
+    },
+    {
+        "Item ID": "4460",
+        "Name": "Sandcastle Bucket",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Places sandcastles",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "898",
+                "943"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4587",
+        "Name": "Worn Golf Club (Iron)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "163"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4588",
+        "Name": "Worn Golf Club (Putter)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "166"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4589",
+        "Name": "Worn Golf Club (Wedge)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "165"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4590",
+        "Name": "Worn Golf Club (Driver)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "164"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4591",
+        "Name": "Fancy Golf Club (Iron)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "195"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4592",
+        "Name": "Fancy Golf Club (Putter)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "198"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4593",
+        "Name": "Fancy Golf Club (Wedge)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "197"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4594",
+        "Name": "Fancy Golf Club (Driver)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "196"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4595",
+        "Name": "Premium Golf Club (Iron)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "200"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4596",
+        "Name": "Premium Golf Club (Putter)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "203"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4597",
+        "Name": "Premium Golf Club (Wedge)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "202"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4598",
+        "Name": "Premium Golf Club (Driver)",
+        "Use time": "12 (Very fast)",
+        "Velocity": "6",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "201"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4767",
+        "Name": "Guide To Critter Companionship",
+        "Tooltip": "Prevents you from hurting critters while in the inventory",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "55"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4819",
+        "Name": "Demon Conch",
+        "Use time": "90 (Snail)",
+        "Tooltip": "If you listen closely, you can hear screams. 'Watch your toes'",
+        "Rarity": "4",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4820",
+        "Name": "Bottomless Lava Bucket",
+        "Bonus": "+2 range",
+        "Use time": "12 (Very fast)",
+        "Tooltip": "Contains an endless amount of lava. Can be poured out",
+        "Rarity": "7",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4821",
+        "Name": "Lavaproof Bug Net",
+        "Use time": "21 (Fast)",
+        "Tooltip": "'For when things get too hot to handle'",
+        "Rarity": "3",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1040",
+                "2943",
+                "3021"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4872",
+        "Name": "Lava Absorbant Sponge",
+        "Bonus": "+2 range",
+        "Use time": "12 (Very fast)",
+        "Tooltip": "Capable of soaking up an endless amount of lava",
+        "Rarity": "7",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

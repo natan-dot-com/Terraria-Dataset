@@ -1,0 +1,4430 @@
+[
+    {
+        "Item ID": "8",
+        "Name": "Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "284"
+            ],
+            "NPC": [
+                "7",
+                "536"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "105",
+        "Name": "Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "377"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "106",
+        "Name": "Copper Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1161",
+                "1427"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "107",
+        "Name": "Silver Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1321",
+                "1587"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "108",
+        "Name": "Gold Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1195",
+                "1461"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "136",
+        "Name": "Chain Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "148",
+        "Name": "Water Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Holding this may attract unwanted attention",
+        "Rarity": "1",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1766",
+                "1767",
+                "3111",
+                "3112",
+                "3489",
+                "3490"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "282",
+        "Name": "Glowstick",
+        "Use time": "15 (Very fast)",
+        "Velocity": "6",
+        "Tooltip": "Works when wet",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "2 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "17",
+                "534"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "286",
+        "Name": "Sticky Glowstick",
+        "Use time": "15 (Very fast)",
+        "Velocity": "6",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "4 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "276"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "341",
+        "Name": "Lamp Post",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1227",
+                "1493"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "342",
+        "Name": "Tiki Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "807"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "344",
+        "Name": "Chinese Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "382"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "347",
+        "Name": "Skull Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "755"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "349",
+        "Name": "Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "376"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "427",
+        "Name": "Blue Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "20"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "428",
+        "Name": "Red Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "220"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "429",
+        "Name": "Green Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "126"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "430",
+        "Name": "Purple Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "213"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "431",
+        "Name": "White Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "297"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "432",
+        "Name": "Yellow Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "303"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "433",
+        "Name": "Demon Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "58"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "523",
+        "Name": "Cursed Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "56"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "710",
+        "Name": "Tin Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1347",
+                "1613"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "711",
+        "Name": "Tungsten Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1363",
+                "1629"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "712",
+        "Name": "Platinum Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1291",
+                "1557"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "713",
+        "Name": "Platinum Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "657"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "714",
+        "Name": "Platinum Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "656"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "974",
+        "Name": "Ice Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "147",
+                "148",
+                "149",
+                "150"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1245",
+        "Name": "Orange Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "191"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1333",
+        "Name": "Ichor Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "153"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1390",
+        "Name": "Brass Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1391",
+        "Name": "Caged Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1392",
+        "Name": "Carriage Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1393",
+        "Name": "Alchemy Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1394",
+        "Name": "Diabolist Lamp",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1395",
+        "Name": "Oil Rag Sconce",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1405",
+        "Name": "Blue Dungeon Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1406",
+        "Name": "Green Dungeon Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1407",
+        "Name": "Pink Dungeon Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1431",
+        "Name": "Star in a Bottle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Increases mana regeneration when placed nearby",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "268"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1808",
+        "Name": "Hanging Jack 'O Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "495"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1812",
+        "Name": "Jackelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "514"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1813",
+        "Name": "Jack 'O Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "513"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1859",
+        "Name": "Heart Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Increases life regeneration when placed nearby",
+        "Rarity": "2",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "141"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1993",
+        "Name": "Firefly in a Bottle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "89"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2005",
+        "Name": "Lightning Bug in a Bottle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "165"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2032",
+        "Name": "Cactus Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "369"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2033",
+        "Name": "Ebonwood Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "449"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2034",
+        "Name": "Flesh Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3439"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2035",
+        "Name": "Honey Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3312"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2036",
+        "Name": "Steampunk Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3458"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2037",
+        "Name": "Glass Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3292"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2038",
+        "Name": "Rich Mahogany Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "694"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2039",
+        "Name": "Pearlwood Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "641"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2040",
+        "Name": "Frozen Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3331"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2041",
+        "Name": "Lihzahrd Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3477"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2042",
+        "Name": "Skyware Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3375"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2043",
+        "Name": "Spooky Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "794"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2045",
+        "Name": "Cactus Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "363"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2046",
+        "Name": "Ebonwood Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "440"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2047",
+        "Name": "Flesh Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3431"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2048",
+        "Name": "Glass Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3284"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2049",
+        "Name": "Frozen Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3323"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2050",
+        "Name": "Rich Mahogany Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "685"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2051",
+        "Name": "Pearlwood Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "632"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2052",
+        "Name": "Lihzahrd Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3469"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2053",
+        "Name": "Skyware Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3367"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2054",
+        "Name": "Pumpkin Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "661"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2055",
+        "Name": "Cactus Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1142",
+                "1408"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2056",
+        "Name": "Ebonwood Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1176",
+                "1442"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2057",
+        "Name": "Flesh Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3433"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2058",
+        "Name": "Honey Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3305"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2059",
+        "Name": "Frozen Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3325"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2060",
+        "Name": "Rich Mahogany Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1304",
+                "1570"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2061",
+        "Name": "Pearlwood Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1285",
+                "1551"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2062",
+        "Name": "Lihzahrd Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3471"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2063",
+        "Name": "Skyware Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3369"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2064",
+        "Name": "Spooky Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1334",
+                "1600"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2065",
+        "Name": "Glass Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3286"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2082",
+        "Name": "Cactus Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "368"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2083",
+        "Name": "Ebonwood Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "448"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2084",
+        "Name": "Flesh Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3438"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2085",
+        "Name": "Glass Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3291"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2086",
+        "Name": "Frozen Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3330"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2087",
+        "Name": "Rich Mahogany Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "693"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2088",
+        "Name": "Pearlwood Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "640"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2089",
+        "Name": "Lihzahrd Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3476"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2090",
+        "Name": "Skyware Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3374"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2091",
+        "Name": "Spooky Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "793"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2092",
+        "Name": "Cactus Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "362"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2093",
+        "Name": "Ebonwood Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "439"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2094",
+        "Name": "Flesh Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3430"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2095",
+        "Name": "Honey Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3302"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2096",
+        "Name": "Steampunk Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3449"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2097",
+        "Name": "Glass Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3283"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2098",
+        "Name": "Rich Mahogany Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "684"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2099",
+        "Name": "Pearlwood Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "631"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2100",
+        "Name": "Frozen Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3322"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2101",
+        "Name": "Lihzahrd Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3468"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2102",
+        "Name": "Skyware Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3366"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2103",
+        "Name": "Spooky Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "787"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2129",
+        "Name": "Honey Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3311"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2130",
+        "Name": "Steampunk Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3457"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2131",
+        "Name": "Living Wood Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3350"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2132",
+        "Name": "Shadewood Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "738"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2133",
+        "Name": "Golden Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2134",
+        "Name": "Bone Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3272"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2141",
+        "Name": "Living Wood Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3345"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2142",
+        "Name": "Shadewood Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1312",
+                "1578"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2143",
+        "Name": "Golden Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2144",
+        "Name": "Bone Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3267"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2145",
+        "Name": "Living Wood Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3351"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2146",
+        "Name": "Shadewood Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "739"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2147",
+        "Name": "Golden Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2148",
+        "Name": "Bone Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3273"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2149",
+        "Name": "Living Wood Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3342"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2150",
+        "Name": "Shadewood Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "729"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2151",
+        "Name": "Golden Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2152",
+        "Name": "Bone Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3265"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2153",
+        "Name": "Living Wood Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3343"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2154",
+        "Name": "Shadewood Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "730"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2155",
+        "Name": "Golden Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2224",
+        "Name": "Large Dynasty Lantern",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "520"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2225",
+        "Name": "Dynasty Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "427"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2226",
+        "Name": "Dynasty Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "428"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2227",
+        "Name": "Large Dynasty Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "519"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2236",
+        "Name": "Dynasty Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "422"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2274",
+        "Name": "Ultrabright Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2522",
+        "Name": "Palm Wood Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "607"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2523",
+        "Name": "Palm Wood Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "608"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2525",
+        "Name": "Palm Wood Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1284",
+                "1550"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2530",
+        "Name": "Palm Wood Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "617"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2533",
+        "Name": "Palm Wood Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "616"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2541",
+        "Name": "Mushroom Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "571"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2542",
+        "Name": "Mushroom Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "572"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2543",
+        "Name": "Mushroom Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1266",
+                "1532"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2546",
+        "Name": "Mushroom Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "577"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2547",
+        "Name": "Mushroom Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "576"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2555",
+        "Name": "Boreal Wood Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "343"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2556",
+        "Name": "Boreal Wood Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "344"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2558",
+        "Name": "Boreal Wood Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1141",
+                "1407"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2563",
+        "Name": "Boreal Wood Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "352"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2564",
+        "Name": "Boreal Wood Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "353"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2570",
+        "Name": "Slime Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3392"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2571",
+        "Name": "Slime Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3393"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2573",
+        "Name": "Slime Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3395"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2578",
+        "Name": "Slime Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3400"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2579",
+        "Name": "Slime Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3401"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2641",
+        "Name": "Pumpkin Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "667"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2642",
+        "Name": "Obsidian Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2643",
+        "Name": "Pumpkin Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "666"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2644",
+        "Name": "Obsidian Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2645",
+        "Name": "Blue Dungeon Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2646",
+        "Name": "Green Dungeon Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2647",
+        "Name": "Pink Dungeon Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2648",
+        "Name": "Honey Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3303"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2649",
+        "Name": "Steampunk Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3450"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2650",
+        "Name": "Spooky Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "788"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2651",
+        "Name": "Obsidian Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2652",
+        "Name": "Blue Dungeon Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2653",
+        "Name": "Green Dungeon Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2654",
+        "Name": "Pink Dungeon Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2655",
+        "Name": "Steampunk Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3452"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2656",
+        "Name": "Pumpkin Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1299",
+                "1565"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2657",
+        "Name": "Obsidian Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2664",
+        "Name": "Blue Dungeon Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2665",
+        "Name": "Green Dungeon Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2666",
+        "Name": "Pink Dungeon Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2667",
+        "Name": "Obsidian Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2668",
+        "Name": "Pumpkin Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "660"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2813",
+        "Name": "Martian Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1250",
+                "1516"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2818",
+        "Name": "Martian Hover Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "548"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2819",
+        "Name": "Martian Lamppost",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "550"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2820",
+        "Name": "Martian Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "551"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2825",
+        "Name": "Martian Table Lamp",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "554"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3002",
+        "Name": "Spelunker Glowstick",
+        "Use time": "15 (Very fast)",
+        "Velocity": "6",
+        "Tooltip": "Exposes nearby treasure",
+        "Max stack": "999",
+        "Rarity": "1",
+        "Sell": "30 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "533"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3004",
+        "Name": "Bone Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "535"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3045",
+        "Name": "Rainbow Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "215"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3112",
+        "Name": "Bouncy Glowstick",
+        "Use time": "15 (Very fast)",
+        "Velocity": "6",
+        "Tooltip": "Works when wet",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "2 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "29"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3114",
+        "Name": "Pink Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "202"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3117",
+        "Name": "Peace Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Makes surrounding creatures less hostile",
+        "Rarity": "1",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "623",
+                "624"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3135",
+        "Name": "Meteorite Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "562"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3136",
+        "Name": "Marble Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "539"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3137",
+        "Name": "Granite Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "479"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3138",
+        "Name": "Meteorite Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "563"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3139",
+        "Name": "Marble Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "540"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3140",
+        "Name": "Granite Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "480"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3168",
+        "Name": "Meteorite Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "557"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3169",
+        "Name": "Marble Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "534"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3170",
+        "Name": "Granite Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "474"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3171",
+        "Name": "Meteorite Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "558"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3172",
+        "Name": "Marble Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "535"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3173",
+        "Name": "Granite Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "475"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3177",
+        "Name": "Meteorite Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1257",
+                "1523"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3178",
+        "Name": "Marble Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1249",
+                "1515"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3179",
+        "Name": "Granite Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1202",
+                "1468"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3253",
+        "Name": "Lava Lamp",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "385"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3795",
+        "Name": "Desert Spirit Lamp",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3890",
+        "Name": "Crystal Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "404"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3891",
+        "Name": "Crystal Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "409"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3892",
+        "Name": "Crystal Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "408"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3893",
+        "Name": "Crystal Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "403"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3894",
+        "Name": "Crystal Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1170",
+                "1436"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3935",
+        "Name": "Spider Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "773"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3936",
+        "Name": "Spider Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "774"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3938",
+        "Name": "Spider Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1330",
+                "1596"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3942",
+        "Name": "Spider Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "778"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3943",
+        "Name": "Spider Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "779"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3961",
+        "Name": "Lesion Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3411"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3962",
+        "Name": "Lesion Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3412"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3964",
+        "Name": "Lesion Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3414"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3969",
+        "Name": "Lesion Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3419"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3970",
+        "Name": "Lesion Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3420"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4149",
+        "Name": "Solar Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3164"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4150",
+        "Name": "Solar Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3165"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4152",
+        "Name": "Solar Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3167"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4156",
+        "Name": "Solar Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3181"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4157",
+        "Name": "Solar Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3182"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4170",
+        "Name": "Vortex Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3231"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4171",
+        "Name": "Vortex Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3232"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4173",
+        "Name": "Vortex Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3234"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4177",
+        "Name": "Vortex Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3244"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4178",
+        "Name": "Vortex Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3245"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4191",
+        "Name": "Nebula Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3134"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4192",
+        "Name": "Nebula Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3135"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4194",
+        "Name": "Nebula Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3137"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4198",
+        "Name": "Nebula Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3147"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4199",
+        "Name": "Nebula Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3148"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4212",
+        "Name": "Stardust Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3195"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4213",
+        "Name": "Stardust Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3196"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4215",
+        "Name": "Stardust Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "3199"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4219",
+        "Name": "Stardust Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "3210"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4220",
+        "Name": "Stardust Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3211"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4302",
+        "Name": "Sandstone Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "707"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4303",
+        "Name": "Sandstone Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "708"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4305",
+        "Name": "Sandstone Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1308",
+                "1574"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4308",
+        "Name": "Sandstone Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "712"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4309",
+        "Name": "Sandstone Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "713"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4383",
+        "Name": "Desert Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "60",
+                "61",
+                "62",
+                "63"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4384",
+        "Name": "Coral Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "41"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4385",
+        "Name": "Corrupt Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "43",
+                "44",
+                "45"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4386",
+        "Name": "Crimson Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "47",
+                "48",
+                "49"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4387",
+        "Name": "Hallowed Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "129",
+                "130",
+                "131"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4388",
+        "Name": "Jungle Torch",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Provides light",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "158"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4553",
+        "Name": "Plasma Lamp",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "386"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4570",
+        "Name": "Bamboo Candelabra",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "322"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4571",
+        "Name": "Bamboo Candle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "323"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4573",
+        "Name": "Bamboo Chandelier",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1128",
+                "1394"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4577",
+        "Name": "Bamboo Lamp",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Sources": {
+            "Crafting Recipes": [
+                "328"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4578",
+        "Name": "Bamboo Lantern",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "329"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4695",
+        "Name": "Soul of Light in a Bottle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "257"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4696",
+        "Name": "Soul of Night in a Bottle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "259"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4697",
+        "Name": "Soul of Flight in a Bottle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "255"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4698",
+        "Name": "Soul of Sight in a Bottle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "260"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4699",
+        "Name": "Soul of Might in a Bottle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "258"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4700",
+        "Name": "Soul of Fright in a Bottle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "256"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4776",
+        "Name": "Fairy Glowstick",
+        "Use time": "15 (Very fast)",
+        "Velocity": "6",
+        "Tooltip": "Hovers when thrown. Works when wet",
+        "Rarity": "1",
+        "Sell": "15 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "84"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4848",
+        "Name": "Lavafly in a Bottle",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "162"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

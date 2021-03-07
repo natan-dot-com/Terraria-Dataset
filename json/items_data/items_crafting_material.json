@@ -1,0 +1,2328 @@
+[
+    {
+        "Item ID": "19",
+        "Name": "Gold Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "12 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "993",
+                "1066",
+                "2969",
+                "3047"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "147",
+                "172",
+                "205",
+                "244",
+                "281",
+                "316",
+                "352",
+                "388",
+                "426",
+                "462",
+                "495",
+                "526",
+                "561",
+                "594",
+                "631",
+                "669",
+                "711",
+                "752",
+                "797",
+                "844",
+                "883",
+                "922"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "20",
+        "Name": "Copper Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "1 Silver 50 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "982",
+                "1055",
+                "2958",
+                "3036"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "15",
+                "50",
+                "82",
+                "117"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "21",
+        "Name": "Silver Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "6 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1027",
+                "1100",
+                "3003",
+                "3081"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "86",
+                "121",
+                "146",
+                "171",
+                "204",
+                "243",
+                "280",
+                "315",
+                "351",
+                "387",
+                "425",
+                "461",
+                "494",
+                "525",
+                "560",
+                "593",
+                "630",
+                "668",
+                "710",
+                "751",
+                "796",
+                "843",
+                "882",
+                "921"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "22",
+        "Name": "Iron Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1000",
+                "1073",
+                "1212",
+                "1478",
+                "2528",
+                "2976",
+                "3054"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "17",
+                "52",
+                "84",
+                "119",
+                "203",
+                "242",
+                "279",
+                "314",
+                "350",
+                "386",
+                "424",
+                "460",
+                "493",
+                "524",
+                "559",
+                "592",
+                "629",
+                "667",
+                "709",
+                "750",
+                "795",
+                "842",
+                "881",
+                "920"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "38",
+        "Name": "Lens",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "57",
+        "Name": "Demonite Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "'Pulsing with dark energy'",
+        "Max stack": "999",
+        "Rarity": "1",
+        "Sell": "30 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "988",
+                "1061",
+                "2964",
+                "3042"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "60",
+        "Name": "Vile Mushroom",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "68",
+        "Name": "Rotten Chunk",
+        "Tooltip": "'Looks tasty!'",
+        "Rarity": "0",
+        "Sell": "2 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "69",
+        "Name": "Worm Tooth",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "86",
+        "Name": "Shadow Scale",
+        "Max stack": "999",
+        "Rarity": "1",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1036"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "117",
+        "Name": "Meteorite Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "'Warm to the touch'",
+        "Max stack": "999",
+        "Rarity": "1",
+        "Sell": "14 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1005",
+                "1078",
+                "2981",
+                "3059"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "118",
+        "Name": "Hook",
+        "Tooltip": "Sometimes dropped by Skeletons and Piranha",
+        "Rarity": "0",
+        "Sell": "2 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "175",
+        "Name": "Hellstone Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "'Hot to the touch'",
+        "Max stack": "999",
+        "Rarity": "2",
+        "Sell": "40 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1039",
+                "2942",
+                "3020"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "209",
+        "Name": "Stinger",
+        "Rarity": "0",
+        "Sell": "40 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "210",
+        "Name": "Vine",
+        "Rarity": "0",
+        "Sell": "2 Silver Coins",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "225",
+        "Name": "Silk",
+        "Rarity": "0",
+        "Sell": "2 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2002"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "236",
+        "Name": "Black Lens",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "254",
+        "Name": "Black Thread",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "290"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "255",
+        "Name": "Green Thread",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1983"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "259",
+        "Name": "Leather",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "526"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "313",
+        "Name": "Daybloom",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "944"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "314",
+        "Name": "Moonglow",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "945"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "315",
+        "Name": "Blinkroot",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "946"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "316",
+        "Name": "Deathweed",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "948"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "317",
+        "Name": "Waterleaf",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "947"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "318",
+        "Name": "Fireblossom",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "949"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "319",
+        "Name": "Shark Fin",
+        "Rarity": "0",
+        "Sell": "40 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "320",
+        "Name": "Feather",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "323",
+        "Name": "Antlion Mandible",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "324",
+        "Name": "Illegal Gun Parts",
+        "Tooltip": "'Banned in most places'",
+        "Rarity": "0",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "212"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "331",
+        "Name": "Jungle Spores",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "362",
+        "Name": "Tattered Cloth",
+        "Rarity": "0",
+        "Sell": "6 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "381",
+        "Name": "Cobalt Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "3",
+        "Sell": "21 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "980",
+                "1053",
+                "2956",
+                "3034"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "54",
+                "123",
+                "248",
+                "320",
+                "392",
+                "466",
+                "530",
+                "598",
+                "673",
+                "756",
+                "848",
+                "926"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "382",
+        "Name": "Mythril Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "3",
+        "Sell": "44 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1009",
+                "1082",
+                "2985",
+                "3063"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "125",
+                "175",
+                "249",
+                "321",
+                "393",
+                "467",
+                "531",
+                "599",
+                "674",
+                "757",
+                "849",
+                "927"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "391",
+        "Name": "Adamantite Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "3",
+        "Sell": "60 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2937",
+                "3015"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "176",
+                "250",
+                "322",
+                "394",
+                "468",
+                "532",
+                "600",
+                "675",
+                "758",
+                "850",
+                "928"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "501",
+        "Name": "Pixie Dust",
+        "Rarity": "1",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "507",
+        "Name": "Bell",
+        "Use time": "12 (Very fast)",
+        "Rarity": "3",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "422"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "508",
+        "Name": "Harp",
+        "Use time": "12 (Very fast)",
+        "Rarity": "3",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "423"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "520",
+        "Name": "Soul of Light",
+        "Tooltip": "'The essence of light creatures'",
+        "Rarity": "3",
+        "Sell": "2 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "546"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "521",
+        "Name": "Soul of Night",
+        "Tooltip": "'The essence of dark creatures'",
+        "Rarity": "3",
+        "Sell": "2 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "408",
+                "482"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "522",
+        "Name": "Cursed Flame",
+        "Tooltip": "'Not even water can put the flame out'",
+        "Rarity": "3",
+        "Sell": "8 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "409"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "526",
+        "Name": "Unicorn Horn",
+        "Tooltip": "'Sharp and magical!'",
+        "Rarity": "1",
+        "Sell": "30 Silver Coins",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "527",
+        "Name": "Dark Shard",
+        "Tooltip": "'Sometimes carried by creatures in dark deserts'",
+        "Rarity": "2",
+        "Sell": "9 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "528",
+        "Name": "Light Shard",
+        "Tooltip": "'Sometimes carried by creatures in light deserts'",
+        "Rarity": "2",
+        "Sell": "9 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "531",
+        "Name": "Spell Tome",
+        "Tooltip": "Can be enchanted",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "424"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "547",
+        "Name": "Soul of Fright",
+        "Tooltip": "'The essence of pure terror'",
+        "Rarity": "5",
+        "Sell": "80 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1089"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "548",
+        "Name": "Soul of Might",
+        "Tooltip": "'The essence of the destroyer'",
+        "Rarity": "5",
+        "Sell": "80 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1084"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "549",
+        "Name": "Soul of Sight",
+        "Tooltip": "'The essence of omniscient watchers'",
+        "Rarity": "5",
+        "Sell": "80 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1079"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "575",
+        "Name": "Soul of Flight",
+        "Tooltip": "'The essence of powerful flying creatures'",
+        "Rarity": "3",
+        "Sell": "2 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "703",
+        "Name": "Tin Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "2 Silver 25 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1032",
+                "1105",
+                "3008",
+                "3086"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "16",
+                "51",
+                "83",
+                "118"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "704",
+        "Name": "Lead Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "4 Silver 50 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1002",
+                "1075",
+                "1236",
+                "1502",
+                "2978",
+                "3056"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "18",
+                "53",
+                "85",
+                "120",
+                "206",
+                "245",
+                "282",
+                "317",
+                "353",
+                "389",
+                "427",
+                "463",
+                "496",
+                "527",
+                "562",
+                "595",
+                "632",
+                "670",
+                "712",
+                "753",
+                "798",
+                "845",
+                "884",
+                "923"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "705",
+        "Name": "Tungsten Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "9 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1035",
+                "1108",
+                "3011",
+                "3089"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "87",
+                "122",
+                "148",
+                "173",
+                "207",
+                "246",
+                "283",
+                "318",
+                "354",
+                "390",
+                "428",
+                "464",
+                "497",
+                "528",
+                "563",
+                "596",
+                "633",
+                "671",
+                "713",
+                "754",
+                "799",
+                "846",
+                "885",
+                "924"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "706",
+        "Name": "Platinum Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "18 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1019",
+                "1092",
+                "2995",
+                "3073"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "149",
+                "174",
+                "208",
+                "247",
+                "284",
+                "319",
+                "355",
+                "391",
+                "429",
+                "465",
+                "498",
+                "529",
+                "564",
+                "597",
+                "634",
+                "672",
+                "714",
+                "755",
+                "800",
+                "847",
+                "886",
+                "925"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "981",
+        "Name": "Pink Thread",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "291"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1006",
+        "Name": "Chlorophyte Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Reacts to the light",
+        "Max stack": "999",
+        "Rarity": "7",
+        "Sell": "90 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2938",
+                "3016"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1115",
+        "Name": "Red Husk",
+        "Tooltip": "Used to make Red Dye",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "3 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1116",
+        "Name": "Cyan Husk",
+        "Tooltip": "Used to make Cyan Dye",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "3 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1117",
+        "Name": "Violet Husk",
+        "Tooltip": "Used to make Violet Dye",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "3 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1118",
+        "Name": "Purple Mucus",
+        "Tooltip": "Used to make Purple Dye",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "3 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1119",
+        "Name": "Black Ink",
+        "Tooltip": "Used to make Black Dye",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "3 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1184",
+        "Name": "Palladium Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "3",
+        "Sell": "27 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1014",
+                "1087",
+                "2990",
+                "3068"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "55",
+                "124",
+                "251",
+                "323",
+                "395",
+                "469",
+                "533",
+                "601",
+                "676",
+                "759",
+                "851",
+                "929"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1191",
+        "Name": "Orichalcum Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "3",
+        "Sell": "52 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1013",
+                "1086",
+                "2989",
+                "3067"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "126",
+                "177",
+                "252",
+                "324",
+                "396",
+                "470",
+                "534",
+                "602",
+                "677",
+                "760",
+                "852",
+                "930"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1198",
+        "Name": "Titanium Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "3",
+        "Sell": "68 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2941",
+                "3019"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "178",
+                "253",
+                "325",
+                "397",
+                "471",
+                "535",
+                "603",
+                "678",
+                "761",
+                "853",
+                "931"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1225",
+        "Name": "Hallowed Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "4",
+        "Sell": "40 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1080",
+                "1085",
+                "1090"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1257",
+        "Name": "Crimtane Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "1",
+        "Sell": "39 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "985",
+                "1058",
+                "2961",
+                "3039"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1328",
+        "Name": "Turtle Shell",
+        "Rarity": "7",
+        "Sell": "10 Silver Coins",
+        "Research": "3 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1329",
+        "Name": "Tissue Sample",
+        "Max stack": "999",
+        "Rarity": "1",
+        "Sell": "1 Silver 50 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1042"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1330",
+        "Name": "Vertebra",
+        "Rarity": "0",
+        "Sell": "2 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1332",
+        "Name": "Ichor",
+        "Tooltip": "'The blood of gods'",
+        "Rarity": "3",
+        "Sell": "9 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "483"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1339",
+        "Name": "Vial of Venom",
+        "Tooltip": "'Extremely toxic'",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "272"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1346",
+        "Name": "Nanites",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "484"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1347",
+        "Name": "Explosive Powder",
+        "Rarity": "0",
+        "Sell": "2 Silver 40 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "37"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1348",
+        "Name": "Gold Dust",
+        "Rarity": "0",
+        "Sell": "3 Silver 40 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "25"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1432",
+        "Name": "Empty Bullet",
+        "Tooltip": "Used to craft various types of ammo",
+        "Rarity": "0",
+        "Sell": "1 Copper Coin",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "214"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1508",
+        "Name": "Ectoplasm",
+        "Rarity": "8",
+        "Sell": "50 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1516",
+        "Name": "Giant Harpy Feather",
+        "Rarity": "5",
+        "Sell": "2 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1517",
+        "Name": "Bone Feather",
+        "Rarity": "5",
+        "Sell": "2 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1518",
+        "Name": "Fire Feather",
+        "Rarity": "5",
+        "Sell": "2 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1519",
+        "Name": "Ice Feather",
+        "Rarity": "5",
+        "Sell": "2 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1520",
+        "Name": "Broken Bat Wing",
+        "Rarity": "5",
+        "Sell": "2 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1521",
+        "Name": "Tattered Bee Wing",
+        "Rarity": "5",
+        "Sell": "2 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1552",
+        "Name": "Shroomite Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "7",
+        "Sell": "1 Gold Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3120"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1570",
+        "Name": "Broken Hero Sword",
+        "Rarity": "8",
+        "Sell": "7 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1611",
+        "Name": "Butterfly Dust",
+        "Rarity": "5",
+        "Sell": "2 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1803",
+        "Name": "Jungle Key Mold",
+        "Rarity": "8",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1804",
+        "Name": "Corruption Key Mold",
+        "Rarity": "8",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1805",
+        "Name": "Crimson Key Mold",
+        "Rarity": "8",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1806",
+        "Name": "Hallowed Key Mold",
+        "Rarity": "8",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1807",
+        "Name": "Frozen Key Mold",
+        "Rarity": "8",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1811",
+        "Name": "Black Fairy Dust",
+        "Rarity": "5",
+        "Sell": "2 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1831",
+        "Name": "Spooky Twig",
+        "Rarity": "5",
+        "Sell": "2 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2161",
+        "Name": "Frost Core",
+        "Rarity": "5",
+        "Sell": "1 Gold Coin",
+        "Research": "3 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2208",
+        "Name": "Terrarium",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1031",
+                "1104",
+                "3007",
+                "3085"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2218",
+        "Name": "Beetle Husk",
+        "Rarity": "8",
+        "Sell": "50 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1118"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2358",
+        "Name": "Shiverthorn",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "950"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2431",
+        "Name": "Bee Wax",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1058"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2607",
+        "Name": "Spider Fang",
+        "Rarity": "4",
+        "Sell": "5 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2766",
+        "Name": "Solar Tablet Fragment",
+        "Rarity": "8",
+        "Research": "10 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2887",
+        "Name": "Vicious Mushroom",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3111",
+        "Name": "Pink Gel",
+        "Tooltip": "'Bouncy and sweet!'",
+        "Rarity": "0",
+        "Sell": "3 Copper Coins",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3186",
+        "Name": "Empty Dropper",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "427"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3261",
+        "Name": "Spectre Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "7",
+        "Sell": "1 Gold Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2940",
+                "3018"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3354",
+        "Name": "Mechanical Wheel Piece",
+        "Rarity": "-12",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1077"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3355",
+        "Name": "Mechanical Wagon Piece",
+        "Rarity": "-12",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1082"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3356",
+        "Name": "Mechanical Battery Piece",
+        "Rarity": "-12",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1087"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3456",
+        "Name": "Vortex Fragment",
+        "Tooltip": "'Swirling energies emanate from this fragment'",
+        "Rarity": "9",
+        "Sell": "20 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3240"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3457",
+        "Name": "Nebula Fragment",
+        "Tooltip": "'The power of a galaxy resides within this fragment'",
+        "Rarity": "9",
+        "Sell": "20 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3143"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3458",
+        "Name": "Solar Fragment",
+        "Tooltip": "'The fury of the universe lies within this fragment'",
+        "Rarity": "9",
+        "Sell": "20 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3179"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3459",
+        "Name": "Stardust Fragment",
+        "Tooltip": "'Entrancing particles revolve around this fragment'",
+        "Rarity": "9",
+        "Sell": "20 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3206"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3467",
+        "Name": "Luminite Bar",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "'It vibrates with luminous celestial energy'",
+        "Max stack": "999",
+        "Rarity": "10",
+        "Sell": "1 Gold 20 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3124"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3563",
+        "Name": "Red Squirrel",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3783",
+        "Name": "Forbidden Fragment",
+        "Rarity": "5",
+        "Sell": "1 Gold Coin",
+        "Research": "3 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3794",
+        "Name": "Ancient Cloth",
+        "Rarity": "1",
+        "Sell": "1 Silver Coin",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4051",
+        "Name": "Smooth Sandstone",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "250",
+                "764",
+                "1029",
+                "1102",
+                "3005",
+                "3083"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4349",
+        "Name": "Green Moss",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "904"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4350",
+        "Name": "Brown Moss",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "853"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4351",
+        "Name": "Red Moss",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "948"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4352",
+        "Name": "Blue Moss",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "851"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4353",
+        "Name": "Purple Moss",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "946"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4354",
+        "Name": "Lava Moss",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4377",
+        "Name": "Krypton Moss",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4378",
+        "Name": "Xenon Moss",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4389",
+        "Name": "Argon Moss",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4412",
+        "Name": "White Pearl",
+        "Rarity": "1",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1187"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4413",
+        "Name": "Black Pearl",
+        "Rarity": "1",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1188"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4414",
+        "Name": "Pink Pearl",
+        "Rarity": "1",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1189"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5070",
+        "Name": "Flinx Fur",
+        "Tooltip": "'It's so FLUFFY!'",
+        "Rarity": "1",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

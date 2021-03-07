@@ -1,0 +1,475 @@
+[
+    {
+        "Item ID": "2290",
+        "Name": "Bass",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "3 required",
+        "Height": "Any",
+        "Biome": "Any",
+        "Catch Quality": "Plentiful",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2297",
+        "Name": "Trout",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "3 required",
+        "Height": "Sky, Surface",
+        "Biome": "Ocean",
+        "Catch Quality": "Plentiful",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2298",
+        "Name": "Salmon",
+        "Rarity": "0",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Research": "3 required",
+        "Height": "Sky, Surface",
+        "Biome": "Any",
+        "Catch Quality": "Common",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2299",
+        "Name": "Atlantic Cod",
+        "Rarity": "0",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Research": "3 required",
+        "Height": "Any",
+        "Biome": "Snow biome",
+        "Catch Quality": "Common",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2300",
+        "Name": "Tuna",
+        "Rarity": "0",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Research": "3 required",
+        "Height": "Sky, Surface",
+        "Biome": "Ocean",
+        "Catch Quality": "Common",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2301",
+        "Name": "Red Snapper",
+        "Rarity": "0",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Research": "3 required",
+        "Height": "Sky, Surface",
+        "Biome": "Ocean",
+        "Catch Quality": "Common",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2302",
+        "Name": "Neon Tetra",
+        "Tooltip": "'Its colorful scales could sell well.'",
+        "Rarity": "0",
+        "Sell": "15 Silver Coins",
+        "Research": "3 required",
+        "Height": "Any",
+        "Biome": "Jungle",
+        "Catch Quality": "Common",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2303",
+        "Name": "Armored Cavefish",
+        "Rarity": "1",
+        "Sell": "15 Silver Coins",
+        "Research": "3 required",
+        "Height": "Underground, Cavern, Underworld",
+        "Biome": "Any (except Desert)",
+        "Catch Quality": "Uncommon",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2304",
+        "Name": "Damselfish",
+        "Rarity": "1",
+        "Sell": "30 Silver Coins",
+        "Research": "3 required",
+        "Height": "Sky",
+        "Biome": "Not Snow, Corruption/Crimson, Hallow, or Jungle (or Desert)",
+        "Catch Quality": "Uncommon",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2305",
+        "Name": "Crimson Tigerfish",
+        "Rarity": "1",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Research": "3 required",
+        "Height": "Any",
+        "Biome": "Crimson",
+        "Catch Quality": "Common",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2306",
+        "Name": "Frost Minnow",
+        "Rarity": "1",
+        "Sell": "15 Silver Coins",
+        "Research": "3 required",
+        "Height": "Any",
+        "Biome": "Snow biome",
+        "Catch Quality": "Uncommon",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2307",
+        "Name": "Princess Fish",
+        "Rarity": "2",
+        "Sell": "25 Silver Coins",
+        "Research": "3 required",
+        "Height": "Any",
+        "Biome": "Hallow",
+        "Catch Quality": "Uncommon",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2308",
+        "Name": "Golden Carp",
+        "Tooltip": "Quite shiny. This will probably sell well.",
+        "Rarity": "4",
+        "Sell": "10 Gold Coins",
+        "Research": "3 required",
+        "Height": "Underground, Cavern, Underworld",
+        "Biome": "Not Desert",
+        "Catch Quality": "Extremely Rare",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2309",
+        "Name": "Specular Fish",
+        "Rarity": "1",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Research": "3 required",
+        "Height": "Underground, Cavern, Underworld",
+        "Biome": "Not Desert",
+        "Catch Quality": "Common",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2310",
+        "Name": "Prismite",
+        "Rarity": "3",
+        "Sell": "1 Gold Coin",
+        "Research": "3 required",
+        "Height": "Any",
+        "Biome": "Hallow",
+        "Catch Quality": "Rare",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2311",
+        "Name": "Variegated Lardfish",
+        "Rarity": "1",
+        "Sell": "15 Silver Coins",
+        "Research": "3 required",
+        "Height": "Underground, Cavern, Underworld",
+        "Biome": "Jungle",
+        "Catch Quality": "Uncommon",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2312",
+        "Name": "Flarefin Koi",
+        "Rarity": "2",
+        "Sell": "50 Silver Coins",
+        "Research": "3 required",
+        "Height": "Any",
+        "Biome": "Any (caught in Lava)",
+        "Catch Quality": "Very Rare",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2313",
+        "Name": "Double Cod",
+        "Rarity": "1",
+        "Sell": "15 Silver Coins",
+        "Research": "3 required",
+        "Height": "Sky, Surface",
+        "Biome": "Jungle",
+        "Catch Quality": "Uncommon",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2315",
+        "Name": "Obsidifish",
+        "Rarity": "2",
+        "Sell": "15 Silver Coins",
+        "Research": "3 required",
+        "Height": "Any",
+        "Biome": "Any (caught in Lava)",
+        "Catch Quality": "Rare",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2316",
+        "Name": "Shrimp",
+        "Rarity": "0",
+        "Sell": "15 Silver Coins",
+        "Research": "3 required",
+        "Height": "Sky, Surface",
+        "Biome": "Ocean",
+        "Catch Quality": "Uncommon",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2317",
+        "Name": "Chaos Fish",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "3 required",
+        "Height": "Underground, Cavern, Underworld",
+        "Biome": "Hallow",
+        "Catch Quality": "Very Rare",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2318",
+        "Name": "Ebonkoi",
+        "Rarity": "1",
+        "Sell": "15 Silver Coins",
+        "Research": "3 required",
+        "Height": "Any",
+        "Biome": "Corruption",
+        "Catch Quality": "Uncommon",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2319",
+        "Name": "Hemopiranha",
+        "Rarity": "1",
+        "Sell": "15 Silver Coins",
+        "Research": "3 required",
+        "Height": "Any",
+        "Biome": "Crimson",
+        "Catch Quality": "Uncommon",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2321",
+        "Name": "Stinkfish",
+        "Rarity": "1",
+        "Sell": "25 Silver Coins",
+        "Research": "3 required",
+        "Height": "Underground, Cavern, Underworld",
+        "Biome": "Not Corruption or Hallow (or Desert)",
+        "Catch Quality": "Rare",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2337",
+        "Name": "2337",
+        "Rarity": "-1",
+        "Height": "Any",
+        "Biome": "Any",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2339",
+        "Name": "2339",
+        "Rarity": "-1",
+        "Height": "Any",
+        "Biome": "Any",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4401",
+        "Name": "Flounder",
+        "Rarity": "0",
+        "Sell": "1 Silver 50 Copper Coins",
+        "Research": "3 required",
+        "Height": "Any",
+        "Biome": "Desert (Oasis)",
+        "Catch Quality": "Plentiful",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4402",
+        "Name": "Rock Lobster",
+        "Tooltip": "'But it wasn't a rock!'",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "3 required",
+        "Height": "Any",
+        "Biome": "Desert (Oasis)",
+        "Catch Quality": "Plentiful",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

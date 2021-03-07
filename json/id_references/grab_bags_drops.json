@@ -1,0 +1,8353 @@
+[
+    {
+        "Bag Drop ID": "1",
+        "Drop Result": "3200",
+        "Quantity": "1",
+        "Probability": "2.5%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "2",
+        "Drop Result": "3201",
+        "Quantity": "1",
+        "Probability": "2.44%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "3",
+        "Drop Result": "997",
+        "Quantity": "1",
+        "Probability": "1.86%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "4",
+        "Drop Result": "285",
+        "Quantity": "1",
+        "Probability": "2.22%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "5",
+        "Drop Result": "946",
+        "Quantity": "1",
+        "Probability": "2.22%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "6",
+        "Drop Result": "953",
+        "Quantity": "1",
+        "Probability": "2.22%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "7",
+        "Drop Result": "3068",
+        "Quantity": "1",
+        "Probability": "2.22%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "8",
+        "Drop Result": "3084",
+        "Quantity": "1",
+        "Probability": "2.22%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "9",
+        "Drop Result": "72",
+        "Quantity": "20-90",
+        "Probability": "9.52%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "10",
+        "Drop Result": "73",
+        "Quantity": "1-5",
+        "Probability": "4.76%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "11",
+        "Drop Result": "12",
+        "Quantity": "6-23",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "12",
+        "Drop Result": "699",
+        "Quantity": "6-23",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "13",
+        "Drop Result": "11",
+        "Quantity": "6-23",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "14",
+        "Drop Result": "700",
+        "Quantity": "6-23",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "15",
+        "Drop Result": "20",
+        "Quantity": "2-7",
+        "Probability": "10.71%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "16",
+        "Drop Result": "703",
+        "Quantity": "2-7",
+        "Probability": "10.71%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "17",
+        "Drop Result": "22",
+        "Quantity": "2-7",
+        "Probability": "10.71%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "18",
+        "Drop Result": "704",
+        "Quantity": "2-7",
+        "Probability": "10.71%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "19",
+        "Drop Result": "288",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "20",
+        "Drop Result": "290",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "21",
+        "Drop Result": "292",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "22",
+        "Drop Result": "299",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "23",
+        "Drop Result": "298",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "24",
+        "Drop Result": "304",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "25",
+        "Drop Result": "291",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "26",
+        "Drop Result": "2322",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "27",
+        "Drop Result": "2323",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "28",
+        "Drop Result": "2329",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "29",
+        "Drop Result": "28",
+        "Quantity": "5-15",
+        "Probability": "33.33%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "30",
+        "Drop Result": "110",
+        "Quantity": "5-15",
+        "Probability": "33.33%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "31",
+        "Drop Result": "2674",
+        "Quantity": "1-4",
+        "Probability": "22.22%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "32",
+        "Drop Result": "2675",
+        "Quantity": "1-4",
+        "Probability": "11.11%",
+        "Bag ID": "3"
+    },
+    {
+        "Bag Drop ID": "33",
+        "Drop Result": "2424",
+        "Quantity": "1",
+        "Probability": "3.78%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "34",
+        "Drop Result": "3200",
+        "Quantity": "1",
+        "Probability": "2.49%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "35",
+        "Drop Result": "3201",
+        "Quantity": "1",
+        "Probability": "2.24%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "36",
+        "Drop Result": "3064",
+        "Quantity": "1",
+        "Probability": "0.5%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "37",
+        "Drop Result": "285",
+        "Quantity": "1",
+        "Probability": "2.22%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "38",
+        "Drop Result": "946",
+        "Quantity": "1",
+        "Probability": "2.22%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "39",
+        "Drop Result": "953",
+        "Quantity": "1",
+        "Probability": "2.22%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "40",
+        "Drop Result": "3068",
+        "Quantity": "1",
+        "Probability": "2.22%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "41",
+        "Drop Result": "3084",
+        "Quantity": "1",
+        "Probability": "2.22%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "42",
+        "Drop Result": "72",
+        "Quantity": "20-90",
+        "Probability": "9.52%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "43",
+        "Drop Result": "73",
+        "Quantity": "1-5",
+        "Probability": "4.76%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "44",
+        "Drop Result": "12",
+        "Quantity": "6-23",
+        "Probability": "7.14%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "45",
+        "Drop Result": "699",
+        "Quantity": "6-23",
+        "Probability": "7.14%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "46",
+        "Drop Result": "11",
+        "Quantity": "6-23",
+        "Probability": "7.14%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "47",
+        "Drop Result": "700",
+        "Quantity": "6-23",
+        "Probability": "7.14%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "48",
+        "Drop Result": "364",
+        "Quantity": "6-23",
+        "Probability": "7.14%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "49",
+        "Drop Result": "1104",
+        "Quantity": "6-23",
+        "Probability": "7.14%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "50",
+        "Drop Result": "20",
+        "Quantity": "2-7",
+        "Probability": "5.36%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "51",
+        "Drop Result": "703",
+        "Quantity": "2-7",
+        "Probability": "5.36%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "52",
+        "Drop Result": "22",
+        "Quantity": "2-7",
+        "Probability": "5.36%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "53",
+        "Drop Result": "704",
+        "Quantity": "2-7",
+        "Probability": "5.36%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "54",
+        "Drop Result": "381",
+        "Quantity": "2-5",
+        "Probability": "5.36%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "55",
+        "Drop Result": "1184",
+        "Quantity": "2-5",
+        "Probability": "5.36%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "56",
+        "Drop Result": "288",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "57",
+        "Drop Result": "290",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "58",
+        "Drop Result": "292",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "59",
+        "Drop Result": "299",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "60",
+        "Drop Result": "298",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "61",
+        "Drop Result": "304",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "62",
+        "Drop Result": "291",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "63",
+        "Drop Result": "2322",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "64",
+        "Drop Result": "2323",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "65",
+        "Drop Result": "2329",
+        "Quantity": "1-3",
+        "Probability": "14.29%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "66",
+        "Drop Result": "28",
+        "Quantity": "5-15",
+        "Probability": "33.33%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "67",
+        "Drop Result": "110",
+        "Quantity": "5-15",
+        "Probability": "33.33%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "68",
+        "Drop Result": "2674",
+        "Quantity": "1-4",
+        "Probability": "22.22%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "69",
+        "Drop Result": "2675",
+        "Quantity": "1-4",
+        "Probability": "11.11%",
+        "Bag ID": "33"
+    },
+    {
+        "Bag Drop ID": "70",
+        "Drop Result": "2501",
+        "Quantity": "1",
+        "Probability": "4%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "71",
+        "Drop Result": "2587",
+        "Quantity": "1",
+        "Probability": "4.8%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "72",
+        "Drop Result": "2608",
+        "Quantity": "1",
+        "Probability": "6.08%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "73",
+        "Drop Result": "3200",
+        "Quantity": "1",
+        "Probability": "4.26%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "74",
+        "Drop Result": "3201",
+        "Quantity": "1",
+        "Probability": "4.04%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "75",
+        "Drop Result": "73",
+        "Quantity": "5-10",
+        "Probability": "25%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "76",
+        "Drop Result": "12",
+        "Quantity": "18-29",
+        "Probability": "16.67%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "77",
+        "Drop Result": "699",
+        "Quantity": "18-29",
+        "Probability": "16.67%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "78",
+        "Drop Result": "11",
+        "Quantity": "18-29",
+        "Probability": "16.67%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "79",
+        "Drop Result": "700",
+        "Quantity": "18-29",
+        "Probability": "16.67%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "80",
+        "Drop Result": "14",
+        "Quantity": "18-29",
+        "Probability": "16.67%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "81",
+        "Drop Result": "701",
+        "Quantity": "18-29",
+        "Probability": "16.67%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "82",
+        "Drop Result": "20",
+        "Quantity": "6-9",
+        "Probability": "20.83%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "83",
+        "Drop Result": "703",
+        "Quantity": "6-9",
+        "Probability": "20.83%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "84",
+        "Drop Result": "22",
+        "Quantity": "6-9",
+        "Probability": "20.83%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "85",
+        "Drop Result": "704",
+        "Quantity": "6-9",
+        "Probability": "20.83%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "86",
+        "Drop Result": "21",
+        "Quantity": "6-9",
+        "Probability": "20.83%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "87",
+        "Drop Result": "705",
+        "Quantity": "6-9",
+        "Probability": "20.83%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "88",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "89",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "90",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "91",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "92",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "93",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "94",
+        "Drop Result": "2324",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "95",
+        "Drop Result": "2327",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "96",
+        "Drop Result": "188",
+        "Quantity": "5-15",
+        "Probability": "50%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "97",
+        "Drop Result": "189",
+        "Quantity": "5-15",
+        "Probability": "50%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "98",
+        "Drop Result": "2675",
+        "Quantity": "2-4",
+        "Probability": "33.33%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "99",
+        "Drop Result": "2676",
+        "Quantity": "2-4",
+        "Probability": "16.67%",
+        "Bag ID": "4"
+    },
+    {
+        "Bag Drop ID": "100",
+        "Drop Result": "3064",
+        "Quantity": "1",
+        "Probability": "1.67%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "101",
+        "Drop Result": "2501",
+        "Quantity": "1",
+        "Probability": "3.93%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "102",
+        "Drop Result": "2587",
+        "Quantity": "1",
+        "Probability": "4.72%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "103",
+        "Drop Result": "2608",
+        "Quantity": "1",
+        "Probability": "5.98%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "104",
+        "Drop Result": "3200",
+        "Quantity": "1",
+        "Probability": "4.19%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "105",
+        "Drop Result": "3201",
+        "Quantity": "1",
+        "Probability": "3.98%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "106",
+        "Drop Result": "73",
+        "Quantity": "5-10",
+        "Probability": "25%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "107",
+        "Drop Result": "12",
+        "Quantity": "18-29",
+        "Probability": "8.33%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "108",
+        "Drop Result": "699",
+        "Quantity": "18-29",
+        "Probability": "8.33%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "109",
+        "Drop Result": "11",
+        "Quantity": "18-29",
+        "Probability": "8.33%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "110",
+        "Drop Result": "700",
+        "Quantity": "18-29",
+        "Probability": "8.33%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "111",
+        "Drop Result": "14",
+        "Quantity": "18-29",
+        "Probability": "8.33%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "112",
+        "Drop Result": "701",
+        "Quantity": "18-29",
+        "Probability": "8.33%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "113",
+        "Drop Result": "364",
+        "Quantity": "18-29",
+        "Probability": "8.33%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "114",
+        "Drop Result": "1104",
+        "Quantity": "18-29",
+        "Probability": "8.33%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "115",
+        "Drop Result": "365",
+        "Quantity": "18-29",
+        "Probability": "8.33%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "116",
+        "Drop Result": "1105",
+        "Quantity": "18-29",
+        "Probability": "8.33%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "117",
+        "Drop Result": "20",
+        "Quantity": "6-9",
+        "Probability": "6.94%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "118",
+        "Drop Result": "703",
+        "Quantity": "6-9",
+        "Probability": "6.94%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "119",
+        "Drop Result": "22",
+        "Quantity": "6-9",
+        "Probability": "6.94%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "120",
+        "Drop Result": "704",
+        "Quantity": "6-9",
+        "Probability": "6.94%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "121",
+        "Drop Result": "21",
+        "Quantity": "6-9",
+        "Probability": "6.94%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "122",
+        "Drop Result": "705",
+        "Quantity": "6-9",
+        "Probability": "6.94%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "123",
+        "Drop Result": "381",
+        "Quantity": "5-9",
+        "Probability": "13.89%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "124",
+        "Drop Result": "1184",
+        "Quantity": "5-9",
+        "Probability": "13.89%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "125",
+        "Drop Result": "382",
+        "Quantity": "5-9",
+        "Probability": "13.89%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "126",
+        "Drop Result": "1191",
+        "Quantity": "5-9",
+        "Probability": "13.89%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "127",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "128",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "129",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "130",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "131",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "132",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "133",
+        "Drop Result": "2324",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "134",
+        "Drop Result": "2327",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "135",
+        "Drop Result": "188",
+        "Quantity": "5-15",
+        "Probability": "50%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "136",
+        "Drop Result": "189",
+        "Quantity": "5-15",
+        "Probability": "50%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "137",
+        "Drop Result": "2675",
+        "Quantity": "2-4",
+        "Probability": "33.33%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "138",
+        "Drop Result": "2676",
+        "Quantity": "2-4",
+        "Probability": "16.67%",
+        "Bag ID": "34"
+    },
+    {
+        "Bag Drop ID": "139",
+        "Drop Result": "29",
+        "Quantity": "1",
+        "Probability": "6.67%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "140",
+        "Drop Result": "2491",
+        "Quantity": "1",
+        "Probability": "9.33%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "141",
+        "Drop Result": "73",
+        "Quantity": "8-20",
+        "Probability": "33.33%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "142",
+        "Drop Result": "14",
+        "Quantity": "30-44",
+        "Probability": "20%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "143",
+        "Drop Result": "701",
+        "Quantity": "30-44",
+        "Probability": "20%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "144",
+        "Drop Result": "13",
+        "Quantity": "30-44",
+        "Probability": "20%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "145",
+        "Drop Result": "702",
+        "Quantity": "30-44",
+        "Probability": "20%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "146",
+        "Drop Result": "21",
+        "Quantity": "10-14",
+        "Probability": "26.67%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "147",
+        "Drop Result": "19",
+        "Quantity": "10-14",
+        "Probability": "26.67%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "148",
+        "Drop Result": "705",
+        "Quantity": "10-14",
+        "Probability": "26.67%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "149",
+        "Drop Result": "706",
+        "Quantity": "10-14",
+        "Probability": "26.67%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "150",
+        "Drop Result": "288",
+        "Quantity": "2-5",
+        "Probability": "33.33%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "151",
+        "Drop Result": "296",
+        "Quantity": "2-5",
+        "Probability": "33.33%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "152",
+        "Drop Result": "305",
+        "Quantity": "2-5",
+        "Probability": "33.33%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "153",
+        "Drop Result": "2322",
+        "Quantity": "2-5",
+        "Probability": "33.33%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "154",
+        "Drop Result": "2323",
+        "Quantity": "2-5",
+        "Probability": "33.33%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "155",
+        "Drop Result": "188",
+        "Quantity": "5-20",
+        "Probability": "50%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "156",
+        "Drop Result": "189",
+        "Quantity": "5-20",
+        "Probability": "50%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "157",
+        "Drop Result": "2676",
+        "Quantity": "3-7",
+        "Probability": "66.67%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "158",
+        "Drop Result": "989",
+        "Quantity": "1",
+        "Probability": "2%",
+        "Bag ID": "5"
+    },
+    {
+        "Bag Drop ID": "159",
+        "Drop Result": "3064",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "160",
+        "Drop Result": "29",
+        "Quantity": "1",
+        "Probability": "6.33%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "161",
+        "Drop Result": "2491",
+        "Quantity": "1",
+        "Probability": "6.53%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "162",
+        "Drop Result": "73",
+        "Quantity": "8-20",
+        "Probability": "33.33%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "163",
+        "Drop Result": "14",
+        "Quantity": "30-44",
+        "Probability": "10%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "164",
+        "Drop Result": "701",
+        "Quantity": "30-44",
+        "Probability": "10%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "165",
+        "Drop Result": "13",
+        "Quantity": "30-44",
+        "Probability": "10%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "166",
+        "Drop Result": "702",
+        "Quantity": "30-44",
+        "Probability": "10%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "167",
+        "Drop Result": "365",
+        "Quantity": "30-44",
+        "Probability": "10%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "168",
+        "Drop Result": "1105",
+        "Quantity": "30-44",
+        "Probability": "10%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "169",
+        "Drop Result": "366",
+        "Quantity": "30-44",
+        "Probability": "10%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "170",
+        "Drop Result": "1106",
+        "Quantity": "30-44",
+        "Probability": "10%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "171",
+        "Drop Result": "21",
+        "Quantity": "10-14",
+        "Probability": "8.89%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "172",
+        "Drop Result": "19",
+        "Quantity": "10-14",
+        "Probability": "8.89%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "173",
+        "Drop Result": "705",
+        "Quantity": "10-14",
+        "Probability": "8.89%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "174",
+        "Drop Result": "706",
+        "Quantity": "10-14",
+        "Probability": "8.89%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "175",
+        "Drop Result": "382",
+        "Quantity": "10-14",
+        "Probability": "17.78%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "176",
+        "Drop Result": "391",
+        "Quantity": "10-14",
+        "Probability": "17.78%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "177",
+        "Drop Result": "1191",
+        "Quantity": "10-14",
+        "Probability": "17.78%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "178",
+        "Drop Result": "1198",
+        "Quantity": "10-14",
+        "Probability": "17.78%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "179",
+        "Drop Result": "288",
+        "Quantity": "2-5",
+        "Probability": "33.33%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "180",
+        "Drop Result": "296",
+        "Quantity": "2-5",
+        "Probability": "33.33%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "181",
+        "Drop Result": "305",
+        "Quantity": "2-5",
+        "Probability": "33.33%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "182",
+        "Drop Result": "2322",
+        "Quantity": "2-5",
+        "Probability": "33.33%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "183",
+        "Drop Result": "2323",
+        "Quantity": "2-5",
+        "Probability": "33.33%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "184",
+        "Drop Result": "188",
+        "Quantity": "5-20",
+        "Probability": "50%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "185",
+        "Drop Result": "189",
+        "Quantity": "5-20",
+        "Probability": "50%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "186",
+        "Drop Result": "2676",
+        "Quantity": "3-7",
+        "Probability": "66.67%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "187",
+        "Drop Result": "989",
+        "Quantity": "1",
+        "Probability": "2%",
+        "Bag ID": "35"
+    },
+    {
+        "Bag Drop ID": "188",
+        "Drop Result": "3017",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "189",
+        "Drop Result": "212",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "190",
+        "Drop Result": "964",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "191",
+        "Drop Result": "211",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "192",
+        "Drop Result": "213",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "193",
+        "Drop Result": "2292",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "194",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "195",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "196",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "197",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "198",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "199",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "200",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "201",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "202",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "203",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "204",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "205",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "206",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "207",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "208",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "209",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "210",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "211",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "212",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "213",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "214",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "215",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "216",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "217",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "218",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "219",
+        "Drop Result": "4564",
+        "Quantity": "20-50",
+        "Probability": "33.33%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "220",
+        "Drop Result": "753",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "13"
+    },
+    {
+        "Bag Drop ID": "221",
+        "Drop Result": "3017",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "222",
+        "Drop Result": "212",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "223",
+        "Drop Result": "964",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "224",
+        "Drop Result": "211",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "225",
+        "Drop Result": "213",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "226",
+        "Drop Result": "2292",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "227",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "228",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "229",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "230",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "231",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "232",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "233",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "234",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "235",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "236",
+        "Drop Result": "364",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "237",
+        "Drop Result": "1104",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "238",
+        "Drop Result": "365",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "239",
+        "Drop Result": "1105",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "240",
+        "Drop Result": "366",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "241",
+        "Drop Result": "1106",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "242",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "243",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "244",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "245",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "246",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "247",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "248",
+        "Drop Result": "381",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "249",
+        "Drop Result": "382",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "250",
+        "Drop Result": "391",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "251",
+        "Drop Result": "1184",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "252",
+        "Drop Result": "1191",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "253",
+        "Drop Result": "1198",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "254",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "255",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "256",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "257",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "258",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "259",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "260",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "261",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "262",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "263",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "264",
+        "Drop Result": "4564",
+        "Quantity": "20-50",
+        "Probability": "33.33%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "265",
+        "Drop Result": "753",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "41"
+    },
+    {
+        "Bag Drop ID": "266",
+        "Drop Result": "4978",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "267",
+        "Drop Result": "158",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "268",
+        "Drop Result": "65",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "269",
+        "Drop Result": "159",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "270",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "271",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "272",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "273",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "274",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "275",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "276",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "277",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "278",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "279",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "280",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "281",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "282",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "283",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "284",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "285",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "286",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "287",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "288",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "289",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "290",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "291",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "292",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "293",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "294",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "11"
+    },
+    {
+        "Bag Drop ID": "295",
+        "Drop Result": "4978",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "296",
+        "Drop Result": "158",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "297",
+        "Drop Result": "65",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "298",
+        "Drop Result": "159",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "299",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "300",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "301",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "302",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "303",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "304",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "305",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "306",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "307",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "308",
+        "Drop Result": "364",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "309",
+        "Drop Result": "1104",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "310",
+        "Drop Result": "365",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "311",
+        "Drop Result": "1105",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "312",
+        "Drop Result": "366",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "313",
+        "Drop Result": "1106",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "314",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "315",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "316",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "317",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "318",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "319",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "320",
+        "Drop Result": "381",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "321",
+        "Drop Result": "382",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "322",
+        "Drop Result": "391",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "323",
+        "Drop Result": "1184",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "324",
+        "Drop Result": "1191",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "325",
+        "Drop Result": "1198",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "326",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "327",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "328",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "329",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "330",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "331",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "332",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "333",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "334",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "335",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "39"
+    },
+    {
+        "Bag Drop ID": "336",
+        "Drop Result": "162",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "337",
+        "Drop Result": "111",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "338",
+        "Drop Result": "96",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "339",
+        "Drop Result": "115",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "340",
+        "Drop Result": "64",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "341",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "342",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "343",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "344",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "345",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "346",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "347",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "348",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "349",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "350",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "351",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "352",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "353",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "354",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "355",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "356",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "357",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "358",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "359",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "360",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "361",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "362",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "363",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "364",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "365",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "8"
+    },
+    {
+        "Bag Drop ID": "366",
+        "Drop Result": "162",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "367",
+        "Drop Result": "111",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "368",
+        "Drop Result": "96",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "369",
+        "Drop Result": "115",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "370",
+        "Drop Result": "64",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "371",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "372",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "373",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "374",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "375",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "376",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "377",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "378",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "379",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "380",
+        "Drop Result": "364",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "381",
+        "Drop Result": "1104",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "382",
+        "Drop Result": "365",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "383",
+        "Drop Result": "1105",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "384",
+        "Drop Result": "366",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "385",
+        "Drop Result": "1106",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "386",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "387",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "388",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "389",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "390",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "391",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "392",
+        "Drop Result": "381",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "393",
+        "Drop Result": "382",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "394",
+        "Drop Result": "391",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "395",
+        "Drop Result": "1184",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "396",
+        "Drop Result": "1191",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "397",
+        "Drop Result": "1198",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "398",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "399",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "400",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "401",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "402",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "403",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "404",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "405",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "406",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "407",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "408",
+        "Drop Result": "521",
+        "Quantity": "2-5",
+        "Probability": "50%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "409",
+        "Drop Result": "522",
+        "Quantity": "2-5",
+        "Probability": "50%",
+        "Bag ID": "36"
+    },
+    {
+        "Bag Drop ID": "410",
+        "Drop Result": "800",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "411",
+        "Drop Result": "802",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "412",
+        "Drop Result": "1256",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "413",
+        "Drop Result": "1290",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "414",
+        "Drop Result": "3062",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "415",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "416",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "417",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "418",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "419",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "420",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "421",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "422",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "423",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "424",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "425",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "426",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "427",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "428",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "429",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "430",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "431",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "432",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "433",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "434",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "435",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "436",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "437",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "438",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "439",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "9"
+    },
+    {
+        "Bag Drop ID": "440",
+        "Drop Result": "800",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "441",
+        "Drop Result": "802",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "442",
+        "Drop Result": "1256",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "443",
+        "Drop Result": "1290",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "444",
+        "Drop Result": "3062",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "445",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "446",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "447",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "448",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "449",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "450",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "451",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "452",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "453",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "454",
+        "Drop Result": "364",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "455",
+        "Drop Result": "1104",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "456",
+        "Drop Result": "365",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "457",
+        "Drop Result": "1105",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "458",
+        "Drop Result": "366",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "459",
+        "Drop Result": "1106",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "460",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "461",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "462",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "463",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "464",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "465",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "466",
+        "Drop Result": "381",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "467",
+        "Drop Result": "382",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "468",
+        "Drop Result": "391",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "469",
+        "Drop Result": "1184",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "470",
+        "Drop Result": "1191",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "471",
+        "Drop Result": "1198",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "472",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "473",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "474",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "475",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "476",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "477",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "478",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "479",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "480",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "481",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "482",
+        "Drop Result": "521",
+        "Quantity": "2-5",
+        "Probability": "50%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "483",
+        "Drop Result": "1332",
+        "Quantity": "2-5",
+        "Probability": "50%",
+        "Bag ID": "37"
+    },
+    {
+        "Bag Drop ID": "484",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "485",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "486",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "487",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "488",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "489",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "490",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "491",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "492",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "493",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "494",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "495",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "496",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "497",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "498",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "499",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "500",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "501",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "502",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "503",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "504",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "505",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "506",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "507",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "508",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "12"
+    },
+    {
+        "Bag Drop ID": "509",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "510",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "511",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "512",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "513",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "514",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "515",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "516",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "517",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "518",
+        "Drop Result": "364",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "519",
+        "Drop Result": "1104",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "520",
+        "Drop Result": "365",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "521",
+        "Drop Result": "1105",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "522",
+        "Drop Result": "366",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "523",
+        "Drop Result": "1106",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "524",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "525",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "526",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "527",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "528",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "529",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "530",
+        "Drop Result": "381",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "531",
+        "Drop Result": "382",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "532",
+        "Drop Result": "391",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "533",
+        "Drop Result": "1184",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "534",
+        "Drop Result": "1191",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "535",
+        "Drop Result": "1198",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "536",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "537",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "538",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "539",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "540",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "541",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "542",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "543",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "544",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "545",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "546",
+        "Drop Result": "520",
+        "Quantity": "2-5",
+        "Probability": "50%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "547",
+        "Drop Result": "502",
+        "Quantity": "4-10",
+        "Probability": "50%",
+        "Bag ID": "40"
+    },
+    {
+        "Bag Drop ID": "548",
+        "Drop Result": "3085",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "549",
+        "Drop Result": "149",
+        "Quantity": "5-15",
+        "Probability": "50%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "550",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "551",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "552",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "553",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "554",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "555",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "556",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "557",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "558",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "559",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "560",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "561",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "562",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "563",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "564",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "565",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "566",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "567",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "568",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "569",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "570",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "571",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "572",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "573",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "574",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "10"
+    },
+    {
+        "Bag Drop ID": "575",
+        "Drop Result": "3085",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "576",
+        "Drop Result": "149",
+        "Quantity": "5-15",
+        "Probability": "50%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "577",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "578",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "579",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "580",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "581",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "582",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "583",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "584",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "585",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "586",
+        "Drop Result": "364",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "587",
+        "Drop Result": "1104",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "588",
+        "Drop Result": "365",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "589",
+        "Drop Result": "1105",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "590",
+        "Drop Result": "366",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "591",
+        "Drop Result": "1106",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "592",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "593",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "594",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "595",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "596",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "597",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "598",
+        "Drop Result": "381",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "599",
+        "Drop Result": "382",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "600",
+        "Drop Result": "391",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "601",
+        "Drop Result": "1184",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "602",
+        "Drop Result": "1191",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "603",
+        "Drop Result": "1198",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "604",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "605",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "606",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "607",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "608",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "609",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "610",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "611",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "612",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "613",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "38"
+    },
+    {
+        "Bag Drop ID": "614",
+        "Drop Result": "670",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "615",
+        "Drop Result": "724",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "616",
+        "Drop Result": "950",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "617",
+        "Drop Result": "1319",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "618",
+        "Drop Result": "987",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "619",
+        "Drop Result": "1579",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "620",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "621",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "622",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "623",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "624",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "625",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "626",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "627",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "628",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "629",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "630",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "631",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "632",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "633",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "634",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "635",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "636",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "637",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "638",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "639",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "640",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "641",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "642",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "643",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "644",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "645",
+        "Drop Result": "669",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "43"
+    },
+    {
+        "Bag Drop ID": "646",
+        "Drop Result": "670",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "647",
+        "Drop Result": "724",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "648",
+        "Drop Result": "950",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "649",
+        "Drop Result": "1319",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "650",
+        "Drop Result": "987",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "651",
+        "Drop Result": "1579",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "652",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "653",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "654",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "655",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "656",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "657",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "658",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "659",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "660",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "661",
+        "Drop Result": "364",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "662",
+        "Drop Result": "1104",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "663",
+        "Drop Result": "365",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "664",
+        "Drop Result": "1105",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "665",
+        "Drop Result": "366",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "666",
+        "Drop Result": "1106",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "667",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "668",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "669",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "670",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "671",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "672",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "673",
+        "Drop Result": "381",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "674",
+        "Drop Result": "382",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "675",
+        "Drop Result": "391",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "676",
+        "Drop Result": "1184",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "677",
+        "Drop Result": "1191",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "678",
+        "Drop Result": "1198",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "679",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "680",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "681",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "682",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "683",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "684",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "685",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "686",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "687",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "688",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "689",
+        "Drop Result": "669",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "44"
+    },
+    {
+        "Bag Drop ID": "690",
+        "Drop Result": "4056",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "691",
+        "Drop Result": "4442",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "692",
+        "Drop Result": "4055",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "693",
+        "Drop Result": "4061",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "694",
+        "Drop Result": "4062",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "695",
+        "Drop Result": "4276",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "696",
+        "Drop Result": "4262",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "697",
+        "Drop Result": "4263",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "698",
+        "Drop Result": "4423",
+        "Quantity": "4-6",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "699",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "700",
+        "Drop Result": "3380",
+        "Quantity": "10-16",
+        "Probability": "50%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "701",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "702",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "703",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "704",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "705",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "706",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "707",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "708",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "709",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "710",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "711",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "712",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "713",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "714",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "715",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "716",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "717",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "718",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "719",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "720",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "721",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "722",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "723",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "724",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "45"
+    },
+    {
+        "Bag Drop ID": "725",
+        "Drop Result": "4056",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "726",
+        "Drop Result": "4442",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "727",
+        "Drop Result": "4055",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "728",
+        "Drop Result": "4061",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "729",
+        "Drop Result": "4062",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "730",
+        "Drop Result": "4276",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "731",
+        "Drop Result": "4262",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "732",
+        "Drop Result": "4263",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "733",
+        "Drop Result": "4423",
+        "Quantity": "4-6",
+        "Probability": "25%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "734",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "735",
+        "Drop Result": "3380",
+        "Quantity": "10-16",
+        "Probability": "50%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "736",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "737",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "738",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "739",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "740",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "741",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "742",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "743",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "744",
+        "Drop Result": "364",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "745",
+        "Drop Result": "1104",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "746",
+        "Drop Result": "365",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "747",
+        "Drop Result": "1105",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "748",
+        "Drop Result": "366",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "749",
+        "Drop Result": "1106",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "750",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "751",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "752",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "753",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "754",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "755",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "756",
+        "Drop Result": "381",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "757",
+        "Drop Result": "382",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "758",
+        "Drop Result": "391",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "759",
+        "Drop Result": "1184",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "760",
+        "Drop Result": "1191",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "761",
+        "Drop Result": "1198",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "762",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "763",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "764",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "765",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "766",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "767",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "768",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "769",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "770",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "771",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "46"
+    },
+    {
+        "Bag Drop ID": "772",
+        "Drop Result": "906",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "773",
+        "Drop Result": "4822",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "774",
+        "Drop Result": "4828",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "775",
+        "Drop Result": "4880",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "776",
+        "Drop Result": "4881",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "777",
+        "Drop Result": "4868",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "778",
+        "Drop Result": "4858",
+        "Quantity": "2",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "779",
+        "Drop Result": "4879",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "780",
+        "Drop Result": "4824",
+        "Quantity": "7-10",
+        "Probability": "33.33%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "781",
+        "Drop Result": "4902",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "782",
+        "Drop Result": "4903",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "783",
+        "Drop Result": "4904",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "784",
+        "Drop Result": "4905",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "785",
+        "Drop Result": "4906",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "786",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "787",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "788",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "789",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "790",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "791",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "792",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "793",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "794",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "795",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "796",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "797",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "798",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "799",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "800",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "801",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "802",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "803",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "804",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "805",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "806",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "807",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "808",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "809",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "810",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "811",
+        "Drop Result": "4737",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "812",
+        "Drop Result": "4551",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "49"
+    },
+    {
+        "Bag Drop ID": "813",
+        "Drop Result": "906",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "814",
+        "Drop Result": "4822",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "815",
+        "Drop Result": "4828",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "816",
+        "Drop Result": "4880",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "817",
+        "Drop Result": "4881",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "818",
+        "Drop Result": "4868",
+        "Quantity": "1",
+        "Probability": "19%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "819",
+        "Drop Result": "4858",
+        "Quantity": "2",
+        "Probability": "25%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "820",
+        "Drop Result": "4879",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "821",
+        "Drop Result": "4824",
+        "Quantity": "7-10",
+        "Probability": "33.33%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "822",
+        "Drop Result": "4902",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "823",
+        "Drop Result": "4903",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "824",
+        "Drop Result": "4904",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "825",
+        "Drop Result": "4905",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "826",
+        "Drop Result": "4906",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "827",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "828",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "829",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "830",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "831",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "832",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "833",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "834",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "835",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "836",
+        "Drop Result": "364",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "837",
+        "Drop Result": "1104",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "838",
+        "Drop Result": "365",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "839",
+        "Drop Result": "1105",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "840",
+        "Drop Result": "366",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "841",
+        "Drop Result": "1106",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "842",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "843",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "844",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "845",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "846",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "847",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "848",
+        "Drop Result": "381",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "849",
+        "Drop Result": "382",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "850",
+        "Drop Result": "391",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "851",
+        "Drop Result": "1184",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "852",
+        "Drop Result": "1191",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "853",
+        "Drop Result": "1198",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "854",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "855",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "856",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "857",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "858",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "859",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "860",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "861",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "862",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "863",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "864",
+        "Drop Result": "4737",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "865",
+        "Drop Result": "4551",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "50"
+    },
+    {
+        "Bag Drop ID": "866",
+        "Drop Result": "4425",
+        "Quantity": "1",
+        "Probability": "10%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "867",
+        "Drop Result": "863",
+        "Quantity": "1",
+        "Probability": "9%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "868",
+        "Drop Result": "186",
+        "Quantity": "1",
+        "Probability": "20.25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "869",
+        "Drop Result": "4404",
+        "Quantity": "1",
+        "Probability": "20.25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "870",
+        "Drop Result": "277",
+        "Quantity": "1",
+        "Probability": "20.25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "871",
+        "Drop Result": "187",
+        "Quantity": "1",
+        "Probability": "20.25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "872",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "873",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "874",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "875",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "876",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "877",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "878",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "879",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "880",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "14.29%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "881",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "882",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "883",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "884",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "885",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "886",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "887",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "888",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "889",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "890",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "891",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "892",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "893",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "894",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "895",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "896",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "897",
+        "Drop Result": "4090",
+        "Quantity": "20-50",
+        "Probability": "33.33%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "898",
+        "Drop Result": "4460",
+        "Quantity": "1",
+        "Probability": "10%",
+        "Bag ID": "53"
+    },
+    {
+        "Bag Drop ID": "899",
+        "Drop Result": "4425",
+        "Quantity": "1",
+        "Probability": "10%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "900",
+        "Drop Result": "863",
+        "Quantity": "1",
+        "Probability": "9%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "901",
+        "Drop Result": "186",
+        "Quantity": "1",
+        "Probability": "20.25%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "902",
+        "Drop Result": "4404",
+        "Quantity": "1",
+        "Probability": "20.25%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "903",
+        "Drop Result": "277",
+        "Quantity": "1",
+        "Probability": "20.25%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "904",
+        "Drop Result": "187",
+        "Quantity": "1",
+        "Probability": "20.25%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "905",
+        "Drop Result": "73",
+        "Quantity": "5-12",
+        "Probability": "25%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "906",
+        "Drop Result": "12",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "907",
+        "Drop Result": "699",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "908",
+        "Drop Result": "11",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "909",
+        "Drop Result": "700",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "910",
+        "Drop Result": "14",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "911",
+        "Drop Result": "701",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "912",
+        "Drop Result": "13",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "913",
+        "Drop Result": "702",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "914",
+        "Drop Result": "364",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "915",
+        "Drop Result": "1104",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "916",
+        "Drop Result": "365",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "917",
+        "Drop Result": "1105",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "918",
+        "Drop Result": "366",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "919",
+        "Drop Result": "1106",
+        "Quantity": "30-49",
+        "Probability": "7.14%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "920",
+        "Drop Result": "22",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "921",
+        "Drop Result": "21",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "922",
+        "Drop Result": "19",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "923",
+        "Drop Result": "704",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "924",
+        "Drop Result": "705",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "925",
+        "Drop Result": "706",
+        "Quantity": "10-20",
+        "Probability": "8.33%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "926",
+        "Drop Result": "381",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "927",
+        "Drop Result": "382",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "928",
+        "Drop Result": "391",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "929",
+        "Drop Result": "1184",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "930",
+        "Drop Result": "1191",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "931",
+        "Drop Result": "1198",
+        "Quantity": "8-20",
+        "Probability": "16.67%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "932",
+        "Drop Result": "288",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "933",
+        "Drop Result": "296",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "934",
+        "Drop Result": "304",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "935",
+        "Drop Result": "305",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "936",
+        "Drop Result": "2322",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "937",
+        "Drop Result": "2323",
+        "Quantity": "2-4",
+        "Probability": "25%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "938",
+        "Drop Result": "188",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "939",
+        "Drop Result": "189",
+        "Quantity": "5-17",
+        "Probability": "50%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "940",
+        "Drop Result": "2675",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "941",
+        "Drop Result": "2676",
+        "Quantity": "2-6",
+        "Probability": "50%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "942",
+        "Drop Result": "4090",
+        "Quantity": "20-50",
+        "Probability": "33.33%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "943",
+        "Drop Result": "4460",
+        "Quantity": "1",
+        "Probability": "10%",
+        "Bag ID": "54"
+    },
+    {
+        "Bag Drop ID": "944",
+        "Drop Result": "313",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "945",
+        "Drop Result": "314",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "946",
+        "Drop Result": "315",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "947",
+        "Drop Result": "317",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "948",
+        "Drop Result": "316",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "949",
+        "Drop Result": "318",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "950",
+        "Drop Result": "2358",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "951",
+        "Drop Result": "307",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "952",
+        "Drop Result": "308",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "953",
+        "Drop Result": "309",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "954",
+        "Drop Result": "311",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "955",
+        "Drop Result": "310",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "956",
+        "Drop Result": "312",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "957",
+        "Drop Result": "2357",
+        "Quantity": "2-40",
+        "Probability": "21.698%",
+        "Bag ID": "7"
+    },
+    {
+        "Bag Drop ID": "958",
+        "Drop Result": "2002",
+        "Quantity": "5-8",
+        "Probability": "100%",
+        "Bag ID": "42"
+    },
+    {
+        "Bag Drop ID": "959",
+        "Drop Result": "3191",
+        "Quantity": "1-2",
+        "Probability": "30%",
+        "Bag ID": "42"
+    },
+    {
+        "Bag Drop ID": "960",
+        "Drop Result": "2895",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "42"
+    },
+    {
+        "Bag Drop ID": "961",
+        "Drop Result": "1810",
+        "Quantity": "1",
+        "Probability": "0.67%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "962",
+        "Drop Result": "1800",
+        "Quantity": "1",
+        "Probability": "0.66%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "963",
+        "Drop Result": "1809",
+        "Quantity": "10-40",
+        "Probability": "24.67%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "964",
+        "Drop Result": "1846",
+        "Quantity": "1",
+        "Probability": "7.4%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "965",
+        "Drop Result": "1847",
+        "Quantity": "1",
+        "Probability": "7.4%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "966",
+        "Drop Result": "1848",
+        "Quantity": "1",
+        "Probability": "7.4%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "967",
+        "Drop Result": "1849",
+        "Quantity": "1",
+        "Probability": "7.4%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "968",
+        "Drop Result": "1850",
+        "Quantity": "1",
+        "Probability": "7.4%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "969",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "970",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "971",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "972",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "973",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "974",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "975",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "976",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "977",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "978",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "979",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "980",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "981",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "982",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "983",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "984",
+        "Drop Result": "1824",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "985",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "986",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "987",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "66.6%",
+        "Bag ID": "1"
+    },
+    {
+        "Bag Drop ID": "988",
+        "Drop Result": "602",
+        "Quantity": "1",
+        "Probability": "6.67%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "989",
+        "Drop Result": "1922",
+        "Quantity": "1",
+        "Probability": "3.33%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "990",
+        "Drop Result": "1927",
+        "Quantity": "1",
+        "Probability": "0.24%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "991",
+        "Drop Result": "1870",
+        "Quantity": "1",
+        "Probability": "0.64%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "992",
+        "Drop Result": "97",
+        "Quantity": "30-60",
+        "Probability": "0.64%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "993",
+        "Drop Result": "1909",
+        "Quantity": "1",
+        "Probability": "0.64%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "994",
+        "Drop Result": "1917",
+        "Quantity": "1",
+        "Probability": "0.63%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "995",
+        "Drop Result": "1915",
+        "Quantity": "1",
+        "Probability": "0.63%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "996",
+        "Drop Result": "1918",
+        "Quantity": "1",
+        "Probability": "0.63%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "997",
+        "Drop Result": "1921",
+        "Quantity": "1",
+        "Probability": "0.62%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "998",
+        "Drop Result": "1923",
+        "Quantity": "1",
+        "Probability": "0.31%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "999",
+        "Drop Result": "1907",
+        "Quantity": "1",
+        "Probability": "2.31%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1000",
+        "Drop Result": "1908",
+        "Quantity": "1",
+        "Probability": "9%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1001",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "1.08%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1002",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "1.08%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1003",
+        "Drop Result": "-1",
+        "Quantity": "1",
+        "Probability": "1.08%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1004",
+        "Drop Result": "1938",
+        "Quantity": "1",
+        "Probability": "1.08%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1005",
+        "Drop Result": "1939",
+        "Quantity": "1",
+        "Probability": "1.08%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1006",
+        "Drop Result": "1911",
+        "Quantity": "1",
+        "Probability": "3.6%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1007",
+        "Drop Result": "1919",
+        "Quantity": "1",
+        "Probability": "3.6%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1008",
+        "Drop Result": "1920",
+        "Quantity": "1",
+        "Probability": "3.6%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1009",
+        "Drop Result": "1912",
+        "Quantity": "1-3",
+        "Probability": "8.1%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1010",
+        "Drop Result": "1913",
+        "Quantity": "20-40",
+        "Probability": "6.3%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1011",
+        "Drop Result": "1872",
+        "Quantity": "20-49",
+        "Probability": "16.8%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1012",
+        "Drop Result": "586",
+        "Quantity": "20-49",
+        "Probability": "16.8%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1013",
+        "Drop Result": "591",
+        "Quantity": "20-49",
+        "Probability": "16.8%",
+        "Bag ID": "2"
+    },
+    {
+        "Bag Drop ID": "1014",
+        "Drop Result": "3090",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "14"
+    },
+    {
+        "Bag Drop ID": "1015",
+        "Drop Result": "2493",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "14"
+    },
+    {
+        "Bag Drop ID": "1016",
+        "Drop Result": "2430",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "14"
+    },
+    {
+        "Bag Drop ID": "1017",
+        "Drop Result": "256",
+        "Quantity": "1",
+        "Probability": "66%",
+        "Bag ID": "14"
+    },
+    {
+        "Bag Drop ID": "1018",
+        "Drop Result": "257",
+        "Quantity": "1",
+        "Probability": "66%",
+        "Bag ID": "14"
+    },
+    {
+        "Bag Drop ID": "1019",
+        "Drop Result": "258",
+        "Quantity": "1",
+        "Probability": "66%",
+        "Bag ID": "14"
+    },
+    {
+        "Bag Drop ID": "1020",
+        "Drop Result": "2610",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "14"
+    },
+    {
+        "Bag Drop ID": "1021",
+        "Drop Result": "2585",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "14"
+    },
+    {
+        "Bag Drop ID": "1022",
+        "Drop Result": "998",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "14"
+    },
+    {
+        "Bag Drop ID": "1023",
+        "Drop Result": "73",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "14"
+    },
+    {
+        "Bag Drop ID": "1024",
+        "Drop Result": "3097",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "15"
+    },
+    {
+        "Bag Drop ID": "1025",
+        "Drop Result": "2112",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "15"
+    },
+    {
+        "Bag Drop ID": "1026",
+        "Drop Result": "1299",
+        "Quantity": "1",
+        "Probability": "3.3%",
+        "Bag ID": "15"
+    },
+    {
+        "Bag Drop ID": "1027",
+        "Drop Result": "880",
+        "Quantity": "30-87",
+        "Probability": "100%",
+        "Bag ID": "15"
+    },
+    {
+        "Bag Drop ID": "1028",
+        "Drop Result": "2171",
+        "Quantity": "1-3",
+        "Probability": "100%",
+        "Bag ID": "15"
+    },
+    {
+        "Bag Drop ID": "1029",
+        "Drop Result": "56",
+        "Quantity": "30-87",
+        "Probability": "100%",
+        "Bag ID": "15"
+    },
+    {
+        "Bag Drop ID": "1030",
+        "Drop Result": "59",
+        "Quantity": "1-3",
+        "Probability": "100%",
+        "Bag ID": "15"
+    },
+    {
+        "Bag Drop ID": "1031",
+        "Drop Result": "47",
+        "Quantity": "20-49",
+        "Probability": "100%",
+        "Bag ID": "15"
+    },
+    {
+        "Bag Drop ID": "1032",
+        "Drop Result": "73",
+        "Quantity": "3",
+        "Probability": "100%",
+        "Bag ID": "15"
+    },
+    {
+        "Bag Drop ID": "1033",
+        "Drop Result": "3224",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "16"
+    },
+    {
+        "Bag Drop ID": "1034",
+        "Drop Result": "2111",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "16"
+    },
+    {
+        "Bag Drop ID": "1035",
+        "Drop Result": "56",
+        "Quantity": "30-59",
+        "Probability": "100%",
+        "Bag ID": "16"
+    },
+    {
+        "Bag Drop ID": "1036",
+        "Drop Result": "86",
+        "Quantity": "10-19",
+        "Probability": "100%",
+        "Bag ID": "16"
+    },
+    {
+        "Bag Drop ID": "1037",
+        "Drop Result": "994",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "16"
+    },
+    {
+        "Bag Drop ID": "1038",
+        "Drop Result": "73",
+        "Quantity": "3",
+        "Probability": "100%",
+        "Bag ID": "16"
+    },
+    {
+        "Bag Drop ID": "1039",
+        "Drop Result": "3223",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "17"
+    },
+    {
+        "Bag Drop ID": "1040",
+        "Drop Result": "2104",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "17"
+    },
+    {
+        "Bag Drop ID": "1041",
+        "Drop Result": "880",
+        "Quantity": "40-90",
+        "Probability": "100%",
+        "Bag ID": "17"
+    },
+    {
+        "Bag Drop ID": "1042",
+        "Drop Result": "1329",
+        "Quantity": "10-19",
+        "Probability": "100%",
+        "Bag ID": "17"
+    },
+    {
+        "Bag Drop ID": "1043",
+        "Drop Result": "3060",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "17"
+    },
+    {
+        "Bag Drop ID": "1044",
+        "Drop Result": "73",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "17"
+    },
+    {
+        "Bag Drop ID": "1045",
+        "Drop Result": "3333",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1046",
+        "Drop Result": "2108",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1047",
+        "Drop Result": "1121",
+        "Quantity": "1",
+        "Probability": "33%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1048",
+        "Drop Result": "1123",
+        "Quantity": "1",
+        "Probability": "33%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1049",
+        "Drop Result": "2888",
+        "Quantity": "1",
+        "Probability": "33%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1050",
+        "Drop Result": "1132",
+        "Quantity": "1",
+        "Probability": "33%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1051",
+        "Drop Result": "1170",
+        "Quantity": "1",
+        "Probability": "11%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1052",
+        "Drop Result": "2502",
+        "Quantity": "1",
+        "Probability": "11%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1053",
+        "Drop Result": "1129",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1054",
+        "Drop Result": "842",
+        "Quantity": "1",
+        "Probability": "33%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1055",
+        "Drop Result": "843",
+        "Quantity": "1",
+        "Probability": "33%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1056",
+        "Drop Result": "844",
+        "Quantity": "1",
+        "Probability": "33%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1057",
+        "Drop Result": "1130",
+        "Quantity": "10-29",
+        "Probability": "100%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1058",
+        "Drop Result": "2431",
+        "Quantity": "17-29",
+        "Probability": "100%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1059",
+        "Drop Result": "73",
+        "Quantity": "10",
+        "Probability": "100%",
+        "Bag ID": "18"
+    },
+    {
+        "Bag Drop ID": "1060",
+        "Drop Result": "3335",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "20"
+    },
+    {
+        "Bag Drop ID": "1061",
+        "Drop Result": "2105",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "20"
+    },
+    {
+        "Bag Drop ID": "1062",
+        "Drop Result": "367",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "20"
+    },
+    {
+        "Bag Drop ID": "1063",
+        "Drop Result": "2998",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "20"
+    },
+    {
+        "Bag Drop ID": "1064",
+        "Drop Result": "489",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "20"
+    },
+    {
+        "Bag Drop ID": "1065",
+        "Drop Result": "490",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "20"
+    },
+    {
+        "Bag Drop ID": "1066",
+        "Drop Result": "491",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "20"
+    },
+    {
+        "Bag Drop ID": "1067",
+        "Drop Result": "514",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "20"
+    },
+    {
+        "Bag Drop ID": "1068",
+        "Drop Result": "426",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "20"
+    },
+    {
+        "Bag Drop ID": "1069",
+        "Drop Result": "434",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "20"
+    },
+    {
+        "Bag Drop ID": "1070",
+        "Drop Result": "4912",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "20"
+    },
+    {
+        "Bag Drop ID": "1071",
+        "Drop Result": "73",
+        "Quantity": "8",
+        "Probability": "100%",
+        "Bag ID": "20"
+    },
+    {
+        "Bag Drop ID": "1072",
+        "Drop Result": "3245",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "19"
+    },
+    {
+        "Bag Drop ID": "1073",
+        "Drop Result": "1281",
+        "Quantity": "1",
+        "Probability": "33%",
+        "Bag ID": "19"
+    },
+    {
+        "Bag Drop ID": "1074",
+        "Drop Result": "1273",
+        "Quantity": "1",
+        "Probability": "33%",
+        "Bag ID": "19"
+    },
+    {
+        "Bag Drop ID": "1075",
+        "Drop Result": "1313",
+        "Quantity": "1",
+        "Probability": "33%",
+        "Bag ID": "19"
+    },
+    {
+        "Bag Drop ID": "1076",
+        "Drop Result": "73",
+        "Quantity": "5",
+        "Probability": "100%",
+        "Bag ID": "19"
+    },
+    {
+        "Bag Drop ID": "1077",
+        "Drop Result": "3354",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "22"
+    },
+    {
+        "Bag Drop ID": "1078",
+        "Drop Result": "2106",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "22"
+    },
+    {
+        "Bag Drop ID": "1079",
+        "Drop Result": "549",
+        "Quantity": "25-40",
+        "Probability": "100%",
+        "Bag ID": "22"
+    },
+    {
+        "Bag Drop ID": "1080",
+        "Drop Result": "1225",
+        "Quantity": "20-35",
+        "Probability": "100%",
+        "Bag ID": "22"
+    },
+    {
+        "Bag Drop ID": "1081",
+        "Drop Result": "73",
+        "Quantity": "12",
+        "Probability": "100%",
+        "Bag ID": "22"
+    },
+    {
+        "Bag Drop ID": "1082",
+        "Drop Result": "3355",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "21"
+    },
+    {
+        "Bag Drop ID": "1083",
+        "Drop Result": "2113",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "21"
+    },
+    {
+        "Bag Drop ID": "1084",
+        "Drop Result": "548",
+        "Quantity": "25-40",
+        "Probability": "100%",
+        "Bag ID": "21"
+    },
+    {
+        "Bag Drop ID": "1085",
+        "Drop Result": "1225",
+        "Quantity": "20-35",
+        "Probability": "100%",
+        "Bag ID": "21"
+    },
+    {
+        "Bag Drop ID": "1086",
+        "Drop Result": "73",
+        "Quantity": "12",
+        "Probability": "100%",
+        "Bag ID": "21"
+    },
+    {
+        "Bag Drop ID": "1087",
+        "Drop Result": "3356",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "23"
+    },
+    {
+        "Bag Drop ID": "1088",
+        "Drop Result": "2107",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "23"
+    },
+    {
+        "Bag Drop ID": "1089",
+        "Drop Result": "547",
+        "Quantity": "25-40",
+        "Probability": "100%",
+        "Bag ID": "23"
+    },
+    {
+        "Bag Drop ID": "1090",
+        "Drop Result": "1225",
+        "Quantity": "20-35",
+        "Probability": "100%",
+        "Bag ID": "23"
+    },
+    {
+        "Bag Drop ID": "1091",
+        "Drop Result": "73",
+        "Quantity": "12",
+        "Probability": "100%",
+        "Bag ID": "23"
+    },
+    {
+        "Bag Drop ID": "1092",
+        "Drop Result": "3336",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1093",
+        "Drop Result": "2109",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1094",
+        "Drop Result": "1141",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1095",
+        "Drop Result": "1182",
+        "Quantity": "1",
+        "Probability": "6.67%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1096",
+        "Drop Result": "1305",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1097",
+        "Drop Result": "1157",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1098",
+        "Drop Result": "3021",
+        "Quantity": "1",
+        "Probability": "10%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1099",
+        "Drop Result": "758",
+        "Quantity": "150-149",
+        "Probability": "14.29%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1100",
+        "Drop Result": "1255",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1101",
+        "Drop Result": "788",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1102",
+        "Drop Result": "1178",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1103",
+        "Drop Result": "3018",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1104",
+        "Drop Result": "1259",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1105",
+        "Drop Result": "1155",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1106",
+        "Drop Result": "73",
+        "Quantity": "15",
+        "Probability": "100%",
+        "Bag ID": "24"
+    },
+    {
+        "Bag Drop ID": "1107",
+        "Drop Result": "3337",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "25"
+    },
+    {
+        "Bag Drop ID": "1108",
+        "Drop Result": "2110",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "25"
+    },
+    {
+        "Bag Drop ID": "1109",
+        "Drop Result": "1294",
+        "Quantity": "1",
+        "Probability": "33.33%",
+        "Bag ID": "25"
+    },
+    {
+        "Bag Drop ID": "1110",
+        "Drop Result": "1258",
+        "Quantity": "160-99",
+        "Probability": "14.29%",
+        "Bag ID": "25"
+    },
+    {
+        "Bag Drop ID": "1111",
+        "Drop Result": "1122",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "25"
+    },
+    {
+        "Bag Drop ID": "1112",
+        "Drop Result": "899",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "25"
+    },
+    {
+        "Bag Drop ID": "1113",
+        "Drop Result": "1248",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "25"
+    },
+    {
+        "Bag Drop ID": "1114",
+        "Drop Result": "1294",
+        "Quantity": "1",
+        "Probability": "12.5%",
+        "Bag ID": "25"
+    },
+    {
+        "Bag Drop ID": "1115",
+        "Drop Result": "1295",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "25"
+    },
+    {
+        "Bag Drop ID": "1116",
+        "Drop Result": "1296",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "25"
+    },
+    {
+        "Bag Drop ID": "1117",
+        "Drop Result": "1297",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "25"
+    },
+    {
+        "Bag Drop ID": "1118",
+        "Drop Result": "2218",
+        "Quantity": "18-23",
+        "Probability": "100%",
+        "Bag ID": "25"
+    },
+    {
+        "Bag Drop ID": "1119",
+        "Drop Result": "73",
+        "Quantity": "12",
+        "Probability": "100%",
+        "Bag ID": "25"
+    },
+    {
+        "Bag Drop ID": "1120",
+        "Drop Result": "3367",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "26"
+    },
+    {
+        "Bag Drop ID": "1121",
+        "Drop Result": "2588",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "26"
+    },
+    {
+        "Bag Drop ID": "1122",
+        "Drop Result": "2609",
+        "Quantity": "1",
+        "Probability": "10%",
+        "Bag ID": "26"
+    },
+    {
+        "Bag Drop ID": "1123",
+        "Drop Result": "2611",
+        "Quantity": "1",
+        "Probability": "20%",
+        "Bag ID": "26"
+    },
+    {
+        "Bag Drop ID": "1124",
+        "Drop Result": "2624",
+        "Quantity": "1",
+        "Probability": "20%",
+        "Bag ID": "26"
+    },
+    {
+        "Bag Drop ID": "1125",
+        "Drop Result": "2622",
+        "Quantity": "1",
+        "Probability": "20%",
+        "Bag ID": "26"
+    },
+    {
+        "Bag Drop ID": "1126",
+        "Drop Result": "2621",
+        "Quantity": "1",
+        "Probability": "20%",
+        "Bag ID": "26"
+    },
+    {
+        "Bag Drop ID": "1127",
+        "Drop Result": "2623",
+        "Quantity": "1",
+        "Probability": "20%",
+        "Bag ID": "26"
+    },
+    {
+        "Bag Drop ID": "1128",
+        "Drop Result": "72",
+        "Quantity": "20",
+        "Probability": "100%",
+        "Bag ID": "26"
+    },
+    {
+        "Bag Drop ID": "1129",
+        "Drop Result": "1131",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1130",
+        "Drop Result": "3577",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1131",
+        "Drop Result": "4954",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1132",
+        "Drop Result": "3373",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1133",
+        "Drop Result": "3460",
+        "Quantity": "90-110",
+        "Probability": "100%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1134",
+        "Drop Result": "4469",
+        "Quantity": "1",
+        "Probability": "10%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1135",
+        "Drop Result": "3384",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1136",
+        "Drop Result": "3063",
+        "Quantity": "1",
+        "Probability": "11%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1137",
+        "Drop Result": "3389",
+        "Quantity": "1",
+        "Probability": "11%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1138",
+        "Drop Result": "3065",
+        "Quantity": "1",
+        "Probability": "11%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1139",
+        "Drop Result": "1553",
+        "Quantity": "1",
+        "Probability": "11%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1140",
+        "Drop Result": "3930",
+        "Quantity": "1",
+        "Probability": "11%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1141",
+        "Drop Result": "3546",
+        "Quantity": "1",
+        "Probability": "11%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1142",
+        "Drop Result": "3541",
+        "Quantity": "1",
+        "Probability": "11%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1143",
+        "Drop Result": "3570",
+        "Quantity": "1",
+        "Probability": "11%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1144",
+        "Drop Result": "3571",
+        "Quantity": "1",
+        "Probability": "11%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1145",
+        "Drop Result": "3569",
+        "Quantity": "1",
+        "Probability": "11%",
+        "Bag ID": "28"
+    },
+    {
+        "Bag Drop ID": "1146",
+        "Drop Result": "3863",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "30"
+    },
+    {
+        "Bag Drop ID": "1147",
+        "Drop Result": "3859",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "30"
+    },
+    {
+        "Bag Drop ID": "1148",
+        "Drop Result": "3827",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "30"
+    },
+    {
+        "Bag Drop ID": "1149",
+        "Drop Result": "3870",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "30"
+    },
+    {
+        "Bag Drop ID": "1150",
+        "Drop Result": "3858",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "30"
+    },
+    {
+        "Bag Drop ID": "1151",
+        "Drop Result": "3883",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "30"
+    },
+    {
+        "Bag Drop ID": "1152",
+        "Drop Result": "3817",
+        "Quantity": "30-49",
+        "Probability": "100%",
+        "Bag ID": "30"
+    },
+    {
+        "Bag Drop ID": "1153",
+        "Drop Result": "4989",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "48"
+    },
+    {
+        "Bag Drop ID": "1154",
+        "Drop Result": "4784",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "48"
+    },
+    {
+        "Bag Drop ID": "1155",
+        "Drop Result": "4823",
+        "Quantity": "1",
+        "Probability": "10%",
+        "Bag ID": "48"
+    },
+    {
+        "Bag Drop ID": "1156",
+        "Drop Result": "4715",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "48"
+    },
+    {
+        "Bag Drop ID": "1157",
+        "Drop Result": "4778",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "48"
+    },
+    {
+        "Bag Drop ID": "1158",
+        "Drop Result": "5075",
+        "Quantity": "1",
+        "Probability": "5%",
+        "Bag ID": "48"
+    },
+    {
+        "Bag Drop ID": "1159",
+        "Drop Result": "4923",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "48"
+    },
+    {
+        "Bag Drop ID": "1160",
+        "Drop Result": "4952",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "48"
+    },
+    {
+        "Bag Drop ID": "1161",
+        "Drop Result": "4953",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "48"
+    },
+    {
+        "Bag Drop ID": "1162",
+        "Drop Result": "4914",
+        "Quantity": "1",
+        "Probability": "25%",
+        "Bag ID": "48"
+    },
+    {
+        "Bag Drop ID": "1163",
+        "Drop Result": "4987",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "52"
+    },
+    {
+        "Bag Drop ID": "1164",
+        "Drop Result": "4986",
+        "Quantity": "25-74",
+        "Probability": "100%",
+        "Bag ID": "52"
+    },
+    {
+        "Bag Drop ID": "1165",
+        "Drop Result": "4959",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "52"
+    },
+    {
+        "Bag Drop ID": "1166",
+        "Drop Result": "4981",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "52"
+    },
+    {
+        "Bag Drop ID": "1167",
+        "Drop Result": "4980",
+        "Quantity": "1",
+        "Probability": "50%",
+        "Bag ID": "52"
+    },
+    {
+        "Bag Drop ID": "1168",
+        "Drop Result": "4758",
+        "Quantity": "1",
+        "Probability": "33%",
+        "Bag ID": "52"
+    },
+    {
+        "Bag Drop ID": "1169",
+        "Drop Result": "4982",
+        "Quantity": "1",
+        "Probability": "67%",
+        "Bag ID": "52"
+    },
+    {
+        "Bag Drop ID": "1170",
+        "Drop Result": "4983",
+        "Quantity": "1",
+        "Probability": "67%",
+        "Bag ID": "52"
+    },
+    {
+        "Bag Drop ID": "1171",
+        "Drop Result": "4984",
+        "Quantity": "1",
+        "Probability": "67%",
+        "Bag ID": "52"
+    },
+    {
+        "Bag Drop ID": "1172",
+        "Drop Result": "3317",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "6"
+    },
+    {
+        "Bag Drop ID": "1173",
+        "Drop Result": "155",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "6"
+    },
+    {
+        "Bag Drop ID": "1174",
+        "Drop Result": "156",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "6"
+    },
+    {
+        "Bag Drop ID": "1175",
+        "Drop Result": "157",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "6"
+    },
+    {
+        "Bag Drop ID": "1176",
+        "Drop Result": "163",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "6"
+    },
+    {
+        "Bag Drop ID": "1177",
+        "Drop Result": "113",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "6"
+    },
+    {
+        "Bag Drop ID": "1178",
+        "Drop Result": "164",
+        "Quantity": "1",
+        "Probability": "14.29%",
+        "Bag ID": "6"
+    },
+    {
+        "Bag Drop ID": "1179",
+        "Drop Result": "329",
+        "Quantity": "1",
+        "Probability": "33.33%",
+        "Bag ID": "6"
+    },
+    {
+        "Bag Drop ID": "1180",
+        "Drop Result": "274",
+        "Quantity": "1",
+        "Probability": "16.67%",
+        "Bag ID": "51"
+    },
+    {
+        "Bag Drop ID": "1181",
+        "Drop Result": "220",
+        "Quantity": "1",
+        "Probability": "16.67%",
+        "Bag ID": "51"
+    },
+    {
+        "Bag Drop ID": "1182",
+        "Drop Result": "112",
+        "Quantity": "1",
+        "Probability": "16.67%",
+        "Bag ID": "51"
+    },
+    {
+        "Bag Drop ID": "1183",
+        "Drop Result": "218",
+        "Quantity": "1",
+        "Probability": "16.67%",
+        "Bag ID": "51"
+    },
+    {
+        "Bag Drop ID": "1184",
+        "Drop Result": "3019",
+        "Quantity": "1",
+        "Probability": "16.67%",
+        "Bag ID": "51"
+    },
+    {
+        "Bag Drop ID": "1185",
+        "Drop Result": "5010",
+        "Quantity": "1",
+        "Probability": "16.67%",
+        "Bag ID": "51"
+    },
+    {
+        "Bag Drop ID": "1186",
+        "Drop Result": "4411",
+        "Quantity": "1",
+        "Probability": "100%",
+        "Bag ID": "47"
+    },
+    {
+        "Bag Drop ID": "1187",
+        "Drop Result": "4412",
+        "Quantity": "1",
+        "Probability": "15.36%",
+        "Bag ID": "47"
+    },
+    {
+        "Bag Drop ID": "1188",
+        "Drop Result": "4413",
+        "Quantity": "1",
+        "Probability": "3.84%",
+        "Bag ID": "47"
+    },
+    {
+        "Bag Drop ID": "1189",
+        "Drop Result": "4414",
+        "Quantity": "1",
+        "Probability": "0.8%",
+        "Bag ID": "47"
+    },
+    {
+        "Bag Drop ID": "1190",
+        "Drop Result": "3532",
+        "Quantity": "1-2",
+        "Probability": "2.6%",
+        "Bag ID": "29"
+    },
+    {
+        "Bag Drop ID": "1191",
+        "Drop Result": "1349",
+        "Quantity": "30-90",
+        "Probability": "11.11%",
+        "Bag ID": "29"
+    },
+    {
+        "Bag Drop ID": "1192",
+        "Drop Result": "1358",
+        "Quantity": "1",
+        "Probability": "33.33%",
+        "Bag ID": "29"
+    },
+    {
+        "Bag Drop ID": "1193",
+        "Drop Result": "72",
+        "Quantity": "10-200",
+        "Probability": "77.78%",
+        "Bag ID": "29"
+    }
+]

@@ -1,0 +1,661 @@
+[
+    {
+        "Name": "Goldfish",
+        "Item ID": "261",
+        "AI Type": "Swimming AI",
+        "Rarity": "0",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Notes": "Goldfish Banner drops after every 50th kill. Walks on land during rain.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Mouse",
+        "Item ID": "2003",
+        "Environment": "Underground / Cavern",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Notes": "Cannot be harmed by enemies.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Bird",
+        "Item ID": "2015",
+        "Environment": "Forest / Snow biome / The Hallow",
+        "AI Type": "Bird AI",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Notes": "Bird Banner drops after every 50th kill.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Blue Jay",
+        "Item ID": "2016",
+        "Environment": "Forest / Snow biome / The Hallow",
+        "AI Type": "Bird AI",
+        "Rarity": "0",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Cardinal",
+        "Item ID": "2017",
+        "Environment": "Forest / Snow biome / The Hallow",
+        "AI Type": "Bird AI",
+        "Rarity": "0",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Squirrel",
+        "Item ID": "2018",
+        "Environment": "Forest",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Bunny",
+        "Item ID": "2019",
+        "Environment": "Forest",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Notes": "Bunny Banner drops after every 50th kill.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Frog",
+        "Item ID": "2121",
+        "Environment": "Jungle",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "15 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Mallard Duck",
+        "Item ID": "2122",
+        "Environment": "Surface",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Duck",
+        "Item ID": "2123",
+        "Environment": "Surface",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Penguin",
+        "Item ID": "2205",
+        "Environment": "Snow biome",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "12 Silver 50 Copper Coins",
+        "Notes": "Penguin Banner drops after every 50th kill.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Gold Bird",
+        "Item ID": "2889",
+        "Environment": "Forest / Snow biome / The Hallow",
+        "AI Type": "Bird AI",
+        "Rarity": "3",
+        "Sell": "10 Gold Coins",
+        "Notes": "Rare creature.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Gold Bunny",
+        "Item ID": "2890",
+        "Environment": "Surface",
+        "AI Type": "Passive AI",
+        "Rarity": "3",
+        "Sell": "10 Gold Coins",
+        "Notes": "Rare creature.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Gold Frog",
+        "Item ID": "2892",
+        "Environment": "Jungle",
+        "AI Type": "Passive AI",
+        "Rarity": "3",
+        "Sell": "10 Gold Coins",
+        "Notes": "Rare creature.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Gold Mouse",
+        "Item ID": "2894",
+        "Environment": "Underground",
+        "AI Type": "Passive AI",
+        "Rarity": "3",
+        "Sell": "10 Gold Coins",
+        "Notes": "Rare creature. Cannot be harmed by enemies.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Gold Squirrel",
+        "Item ID": "3564",
+        "Environment": "Surface",
+        "AI Type": "Passive AI",
+        "Rarity": "3",
+        "Sell": "10 Gold Coins",
+        "Notes": "Rare creature.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Pink Fairy",
+        "Item ID": "4068",
+        "Environment": "Underground",
+        "AI Type": "Fairy AI",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Notes": "Can also be found in the surface near Fallen Logs. Only surface Fairies can be caught with a Bug Net. Fairies spawned underground cannot be caught or hurt, and may guide the player towards nearby treasure.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Green Fairy",
+        "Item ID": "4069",
+        "Environment": "Underground",
+        "AI Type": "Fairy AI",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Notes": "Can also be found in the surface near Fallen Logs. Only surface Fairies can be caught with a Bug Net. Fairies spawned underground cannot be caught or hurt, and may guide the player towards nearby treasure.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Blue Fairy",
+        "Item ID": "4070",
+        "Environment": "Underground",
+        "AI Type": "Fairy AI",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Notes": "Can also be found in the surface near Fallen Logs. Only surface Fairies can be caught with a Bug Net. Fairies spawned underground cannot be caught or hurt, and may guide the player towards nearby treasure.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Gold Goldfish",
+        "Item ID": "4274",
+        "AI Type": "Swimming AI",
+        "Rarity": "3",
+        "Sell": "10 Gold Coins",
+        "Notes": "Rare creature.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Seagull",
+        "Item ID": "4359",
+        "Environment": "Ocean",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Pupfish",
+        "Item ID": "4373",
+        "Environment": "Desert / Oasis",
+        "AI Type": "Swimming AI",
+        "Rarity": "0",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Grebe",
+        "Item ID": "4374",
+        "Environment": "Oasis",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "7 Silver 50 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Rat",
+        "Item ID": "4375",
+        "Environment": "Graveyard",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Owl",
+        "Item ID": "4395",
+        "Environment": "Forest+Night",
+        "AI Type": "Bird AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Notes": "Spawns at night.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Turtle",
+        "Item ID": "4464",
+        "Environment": "Forest+Day",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Jungle Turtle",
+        "Item ID": "4465",
+        "Environment": "Jungle",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Seahorse",
+        "Item ID": "4480",
+        "Environment": "Ocean",
+        "AI Type": "Seahorse AI",
+        "Rarity": "0",
+        "Sell": "15 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Gold Seahorse",
+        "Item ID": "4482",
+        "Environment": "Ocean",
+        "AI Type": "Seahorse AI",
+        "Rarity": "3",
+        "Sell": "10 Gold Coins",
+        "Notes": "Rare creature.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Amethyst Squirrel",
+        "Item ID": "4831",
+        "Environment": "Underground",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Topaz Squirrel",
+        "Item ID": "4832",
+        "Environment": "Underground",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Sapphire Squirrel",
+        "Item ID": "4833",
+        "Environment": "Underground",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Emerald Squirrel",
+        "Item ID": "4834",
+        "Environment": "Underground",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Ruby Squirrel",
+        "Item ID": "4835",
+        "Environment": "Underground",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Diamond Squirrel",
+        "Item ID": "4836",
+        "Environment": "Underground",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Amber Squirrel",
+        "Item ID": "4837",
+        "Environment": "Underground",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Amethyst Bunny",
+        "Item ID": "4838",
+        "Environment": "Cavern",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Topaz Bunny",
+        "Item ID": "4839",
+        "Environment": "Cavern",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Sapphire Bunny",
+        "Item ID": "4840",
+        "Environment": "Cavern",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Emerald Bunny",
+        "Item ID": "4841",
+        "Environment": "Cavern",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Ruby Bunny",
+        "Item ID": "4842",
+        "Environment": "Cavern",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Diamond Bunny",
+        "Item ID": "4843",
+        "Environment": "Cavern",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Name": "Amber Bunny",
+        "Item ID": "4844",
+        "Environment": "Cavern",
+        "AI Type": "Passive AI",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

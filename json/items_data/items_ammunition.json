@@ -1,0 +1,1470 @@
+[
+    {
+        "Item ID": "23",
+        "Name": "Gel",
+        "Tooltip": "'Both tasty and flammable'",
+        "Rarity": "0",
+        "Sell": "1 Copper Coin",
+        "Research": "99 required",
+        "Used In": "Flamethrower, Elf Melter",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "40",
+        "Name": "Wooden Arrow",
+        "Damage": "5",
+        "Knockback": "2 (Very weak)",
+        "Velocity": "3",
+        "Rarity": "0",
+        "Sell": "1 Copper Coin",
+        "Research": "99 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [
+                "834"
+            ],
+            "NPC": [
+                "10",
+                "538"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "41",
+        "Name": "Flaming Arrow",
+        "Damage": "7",
+        "Knockback": "2 (Very weak)",
+        "Velocity": "3.5",
+        "Rarity": "0",
+        "Sell": "2 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [
+                "91"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "47",
+        "Name": "Unholy Arrow",
+        "Damage": "12",
+        "Knockback": "3 (Very weak)",
+        "Velocity": "3.4",
+        "Rarity": "1",
+        "Sell": "8 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [
+                "1369",
+                "1635"
+            ],
+            "NPC": [
+                "209"
+            ],
+            "Drop": [],
+            "Grab Bag": [
+                "1031"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "51",
+        "Name": "Jester's Arrow",
+        "Damage": "10",
+        "Knockback": "4 (Weak)",
+        "Base Velocity": "0.5",
+        "Velocity Multiplier": "2x",
+        "Rarity": "1",
+        "Sell": "20 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [
+                "155"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "71",
+        "Name": "Copper Coin",
+        "Damage": "25",
+        "Velocity": "1",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Used In": "Coin Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "39"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "72",
+        "Name": "Silver Coin",
+        "Damage": "50",
+        "Velocity": "2",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Used In": "Coin Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "242",
+                "243"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "9",
+                "42",
+                "1128",
+                "1193"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "73",
+        "Name": "Gold Coin",
+        "Damage": "100",
+        "Velocity": "3",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Used In": "Coin Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "106",
+                "107"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "10",
+                "43",
+                "75",
+                "106",
+                "141",
+                "162",
+                "194",
+                "227",
+                "270",
+                "299",
+                "341",
+                "371",
+                "415",
+                "445",
+                "484",
+                "509",
+                "550",
+                "577",
+                "620",
+                "652",
+                "699",
+                "734",
+                "786",
+                "827",
+                "872",
+                "905",
+                "1023",
+                "1032",
+                "1038",
+                "1044",
+                "1059",
+                "1071",
+                "1076",
+                "1081",
+                "1086",
+                "1091",
+                "1106",
+                "1119"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "74",
+        "Name": "Platinum Coin",
+        "Damage": "200",
+        "Velocity": "4",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Used In": "Coin Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "203"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "75",
+        "Name": "Fallen Star",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Disappears after the sunrise",
+        "Max stack": "999",
+        "Rarity": "1",
+        "Sell": "5 Silver Coins",
+        "Research": "50 required",
+        "Used In": "Star Cannon, Super Star Shooter",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "97",
+        "Name": "Musket Ball",
+        "Damage": "7",
+        "Knockback": "2 (Very weak)",
+        "Base Velocity": "4",
+        "Velocity Multiplier": "2x",
+        "Rarity": "0",
+        "Sell": "1 Copper Coin",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "206"
+            ],
+            "Drop": [],
+            "Grab Bag": [
+                "992"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "234",
+        "Name": "Meteor Shot",
+        "Damage": "8",
+        "Knockback": "1 (Extremely weak)",
+        "Base Velocity": "3",
+        "Velocity Multiplier": "2x",
+        "Rarity": "1",
+        "Sell": "1 Copper Coin",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "1255",
+                "1521"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "265",
+        "Name": "Hellfire Arrow",
+        "Damage": "13",
+        "Knockback": "8 (Very strong)",
+        "Velocity": "6.5",
+        "Rarity": "2",
+        "Sell": "20 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [
+                "1207",
+                "1473"
+            ],
+            "NPC": [
+                "35"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "278",
+        "Name": "Silver Bullet",
+        "Damage": "9",
+        "Knockback": "3 (Very weak)",
+        "Base Velocity": "4.5",
+        "Velocity Multiplier": "2x",
+        "Rarity": "0",
+        "Sell": "3 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "1319",
+                "1585"
+            ],
+            "NPC": [
+                "207"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "283",
+        "Name": "Seed",
+        "Damage": "4",
+        "Tooltip": "For use with Blowpipe",
+        "Rarity": "0",
+        "Research": "99 required",
+        "Used In": "Blowpipe, Blowgun, Dart Pistol, Dart Rifle",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "515",
+        "Name": "Crystal Bullet",
+        "Damage": "9",
+        "Knockback": "1 (Extremely weak)",
+        "Base Velocity": "5",
+        "Velocity Multiplier": "2x",
+        "Tooltip": "Creates crystal shards on impact",
+        "Rarity": "3",
+        "Sell": "6 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "2622",
+                "2801"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "516",
+        "Name": "Holy Arrow",
+        "Damage": "13",
+        "Knockback": "2 (Very weak)",
+        "Velocity": "3.5",
+        "Tooltip": "Summons falling stars on impact",
+        "Rarity": "3",
+        "Sell": "16 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [
+                "2659",
+                "2838"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "545",
+        "Name": "Cursed Arrow",
+        "Damage": "17",
+        "Knockback": "3 (Very weak)",
+        "Velocity": "4",
+        "Rarity": "3",
+        "Sell": "8 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [
+                "2623",
+                "2802"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "546",
+        "Name": "Cursed Bullet",
+        "Damage": "12",
+        "Knockback": "4 (Weak)",
+        "Base Velocity": "5",
+        "Velocity Multiplier": "3x",
+        "Rarity": "3",
+        "Sell": "6 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "2624",
+                "2803"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "771",
+        "Name": "Rocket I",
+        "Damage": "40",
+        "Availability": "Always",
+        "Radius": "Small",
+        "Destroy Tiles": "No",
+        "Rarity": "0",
+        "Used In": "Launcher",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "478"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "772",
+        "Name": "Rocket II",
+        "Damage": "40",
+        "Availability": "Blood Moon",
+        "Radius": "Small",
+        "Destroy Tiles": "Yes",
+        "Rarity": "1",
+        "Used In": "Launcher",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "479"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "773",
+        "Name": "Rocket III",
+        "Damage": "65",
+        "Availability": "Night or Solar Eclipse",
+        "Radius": "Large",
+        "Destroy Tiles": "No",
+        "Rarity": "1",
+        "Used In": "Launcher",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "480"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "774",
+        "Name": "Rocket IV",
+        "Damage": "65",
+        "Availability": "Solar Eclipse",
+        "Radius": "Large",
+        "Destroy Tiles": "Yes",
+        "Rarity": "2",
+        "Used In": "Launcher",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "481"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "780",
+        "Name": "Green Solution",
+        "Available": "When the Steampunker is spoken to anywhere other than The Hallow",
+        "Effect": "Removes Corruption, Crimson, and Hallow. Converts Glowing Mushroom biome to Jungle",
+        "Rarity": "3",
+        "Tooltip": "Used by the Clentaminator. Spreads the Purity",
+        "Used In": "Clentaminator",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "466"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "781",
+        "Name": "Blue Solution",
+        "Available": "When the Steampunker is spoken to in The Hallow",
+        "Effect": "Spreads Hallow",
+        "Rarity": "3",
+        "Tooltip": "Used by the Clentaminator. Spreads the Hallow",
+        "Used In": "Clentaminator",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "465"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "782",
+        "Name": "Purple Solution",
+        "Available": "During a Blood Moon or Solar Eclipse, in a Corrupt world",
+        "Effect": "Spreads Corruption",
+        "Rarity": "3",
+        "Tooltip": "Used by the Clentaminator. Spreads the Corruption",
+        "Used In": "Clentaminator",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "463"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "783",
+        "Name": "Dark Blue Solution",
+        "Available": "From the Truffle, any time",
+        "Effect": "Converts Jungle to Glowing Mushroom biome",
+        "Rarity": "3",
+        "Tooltip": "Used by the Clentaminator. Spreads Glowing Mushrooms",
+        "Used In": "Clentaminator",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "432"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "784",
+        "Name": "Red Solution",
+        "Available": "During a Blood Moon or Solar Eclipse, in a Crimson world",
+        "Effect": "Spreads Crimson",
+        "Rarity": "3",
+        "Tooltip": "Used by the Clentaminator. Spreads the Crimson",
+        "Used In": "Clentaminator",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "464"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "929",
+        "Name": "Cannonball",
+        "Damage": "300",
+        "Use time": "20 (Very fast)",
+        "Tooltip": "For use with cannon",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Research": "25 required",
+        "Used In": "Cannon",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "438"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "931",
+        "Name": "Flare",
+        "Damage": "1",
+        "Knockback": "1.5 (Extremely weak)",
+        "Velocity": "6",
+        "Rarity": "0",
+        "Sell": "1 Copper Coin",
+        "Research": "99 required",
+        "Used In": "Flare Gun",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "22"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "949",
+        "Name": "Snowball",
+        "Damage": "8",
+        "Knockback": "5.75 (Average)",
+        "Use time": "19 (Very fast)",
+        "Velocity": "7",
+        "Rarity": "0",
+        "Research": "99 required",
+        "Used In": "Snowball Cannon, Snowball Launcher",
+        "Sources": {
+            "Crafting Recipes": [
+                "252"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "988",
+        "Name": "Frostburn Arrow",
+        "Damage": "9",
+        "Knockback": "2.2 (Very weak)",
+        "Velocity": "3.75",
+        "Rarity": "0",
+        "Sell": "3 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [
+                "96"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1179",
+        "Name": "Chlorophyte Bullet",
+        "Damage": "9",
+        "Knockback": "4.5 (Average)",
+        "Base Velocity": "5",
+        "Velocity Multiplier": "3x",
+        "Tooltip": "Chases after your enemy",
+        "Rarity": "7",
+        "Sell": "10 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "2605",
+                "2784"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1235",
+        "Name": "Chlorophyte Arrow",
+        "Damage": "16",
+        "Knockback": "3.5 (Weak)",
+        "Base Velocity": "4.5",
+        "Velocity Multiplier": "2x",
+        "Tooltip": "Bounces back after hitting a wall",
+        "Rarity": "7",
+        "Sell": "20 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [
+                "2604",
+                "2783"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1261",
+        "Name": "Stynger Bolt",
+        "Damage": "17",
+        "Knockback": "1 (Extremely weak)",
+        "Base Velocity": "2",
+        "Velocity Multiplier": "2x",
+        "Tooltip": "Explodes into deadly shrapnel",
+        "Rarity": "5",
+        "Sell": "15 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Stynger",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "38",
+                "215",
+                "267"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1302",
+        "Name": "High Velocity Bullet",
+        "Damage": "11",
+        "Knockback": "4 (Weak)",
+        "Base Velocity": "4",
+        "Velocity Multiplier": "8x",
+        "Rarity": "3",
+        "Sell": "8 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "500"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1310",
+        "Name": "Poison Dart",
+        "Damage": "10",
+        "Knockback": "2 (Very weak)",
+        "Velocity": "2",
+        "Tooltip": "Inflicts poison on enemies",
+        "Rarity": "2",
+        "Research": "99 required",
+        "Used In": "Blowgun, Blowpipe, Dart Pistol and Dart Rifle",
+        "Sources": {
+            "Crafting Recipes": [
+                "204"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1334",
+        "Name": "Ichor Arrow",
+        "Damage": "16",
+        "Knockback": "3 (Very weak)",
+        "Base Velocity": "4.25",
+        "Velocity Multiplier": "2x",
+        "Tooltip": "Decreases target's defense",
+        "Rarity": "3",
+        "Sell": "8 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [
+                "2661",
+                "2840"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1335",
+        "Name": "Ichor Bullet",
+        "Damage": "13",
+        "Knockback": "4 (Weak)",
+        "Base Velocity": "5.25",
+        "Velocity Multiplier": "3x",
+        "Tooltip": "Decreases target's defense",
+        "Rarity": "3",
+        "Sell": "6 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "2662",
+                "2841"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1338",
+        "Name": "Explosive Bunny",
+        "Damage": "350",
+        "Use time": "20 (Very fast)",
+        "Tooltip": "For use with bunny cannon",
+        "Rarity": "0",
+        "Sell": "7 Silver Coins",
+        "Research": "25 required",
+        "Used In": "Bunny Cannon",
+        "Sources": {
+            "Crafting Recipes": [
+                "87"
+            ],
+            "NPC": [
+                "445"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1341",
+        "Name": "Venom Arrow",
+        "Damage": "19",
+        "Knockback": "4.2 (Average)",
+        "Base Velocity": "4.3",
+        "Velocity Multiplier": "2x",
+        "Tooltip": "Inflicts target with Acid Venom",
+        "Rarity": "3",
+        "Sell": "18 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [
+                "2753",
+                "2932"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1342",
+        "Name": "Venom Bullet",
+        "Damage": "15",
+        "Knockback": "4.1 (Average)",
+        "Base Velocity": "5.3",
+        "Velocity Multiplier": "3x",
+        "Tooltip": "Inflicts target with Acid Venom",
+        "Rarity": "3",
+        "Sell": "8 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "821"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1345",
+        "Name": "Confetti",
+        "Use time": "20 (Very fast)",
+        "Rarity": "0",
+        "Sell": "40 Copper Coins",
+        "Research": "25 required",
+        "Used In": "Confetti Gun",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "379"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1349",
+        "Name": "Party Bullet",
+        "Damage": "10",
+        "Knockback": "5 (Average)",
+        "Base Velocity": "5.1",
+        "Velocity Multiplier": "3x",
+        "Tooltip": "Explodes into confetti on impact",
+        "Rarity": "3",
+        "Sell": "2 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "622"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1191"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1350",
+        "Name": "Nano Bullet",
+        "Damage": "15",
+        "Knockback": "3.6 (Weak)",
+        "Base Velocity": "4.6",
+        "Velocity Multiplier": "3x",
+        "Tooltip": "Causes confusion and bounces back after hitting a wall",
+        "Rarity": "3",
+        "Sell": "8 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "584"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1351",
+        "Name": "Exploding Bullet",
+        "Damage": "10",
+        "Knockback": "6.6 (Strong)",
+        "Base Velocity": "4.7",
+        "Velocity Multiplier": "3x",
+        "Tooltip": "Explodes on impact",
+        "Rarity": "3",
+        "Sell": "8 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "458"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1352",
+        "Name": "Golden Bullet",
+        "Damage": "10",
+        "Knockback": "3.6 (Weak)",
+        "Base Velocity": "4.6",
+        "Velocity Multiplier": "3x",
+        "Tooltip": "Enemies killed will drop more money",
+        "Rarity": "3",
+        "Sell": "8 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "472"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1614",
+        "Name": "Blue Flare",
+        "Damage": "1",
+        "Knockback": "1.5 (Extremely weak)",
+        "Velocity": "6",
+        "Rarity": "0",
+        "Sell": "1 Copper Coin",
+        "Research": "99 required",
+        "Used In": "Flare Gun",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "23"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1783",
+        "Name": "Candy Corn",
+        "Damage": "9",
+        "Knockback": "1.5 (Extremely weak)",
+        "Velocity": "4",
+        "Rarity": "0",
+        "Sell": "1 Copper Coin",
+        "Research": "99 required",
+        "Used In": "Candy Corn Rifle",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "218"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1785",
+        "Name": "Explosive Jack 'O Lantern",
+        "Damage": "60",
+        "Knockback": "3 (Very weak)",
+        "Velocity": "4",
+        "Rarity": "0",
+        "Sell": "3 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Jack 'O Lantern Launcher",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "219"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1836",
+        "Name": "Stake",
+        "Damage": "25",
+        "Knockback": "4.5 (Average)",
+        "Base Velocity": "3",
+        "Velocity Multiplier": "4x",
+        "Rarity": "0",
+        "Sell": "3 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Stake Launcher",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "216",
+                "268"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3003",
+        "Name": "Bone Arrow",
+        "Damage": "8",
+        "Knockback": "2.5 (Very weak)",
+        "Velocity": "3.5",
+        "Rarity": "0",
+        "Sell": "3 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "537"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3009",
+        "Name": "Crystal Dart",
+        "Damage": "14",
+        "Knockback": "3.5 (Weak)",
+        "Base Velocity": "1",
+        "Velocity Multiplier": "2x",
+        "Tooltip": "Bounces between enemies",
+        "Rarity": "3",
+        "Sell": "6 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Blowgun, Blowpipe, Dart Pistol and Dart Rifle",
+        "Sources": {
+            "Crafting Recipes": [
+                "51"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3010",
+        "Name": "Cursed Dart",
+        "Damage": "10",
+        "Knockback": "2.2 (Very weak)",
+        "Velocity": "3",
+        "Tooltip": "Drops cursed flames on the ground",
+        "Rarity": "3",
+        "Sell": "6 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Blowgun, Blowpipe, Dart Pistol and Dart Rifle",
+        "Sources": {
+            "Crafting Recipes": [
+                "55"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3011",
+        "Name": "Ichor Dart",
+        "Damage": "12",
+        "Knockback": "2.5 (Very weak)",
+        "Velocity": "3",
+        "Tooltip": "Bursts into multiple darts",
+        "Rarity": "3",
+        "Sell": "6 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Blowgun, Blowpipe, Dart Pistol and Dart Rifle",
+        "Sources": {
+            "Crafting Recipes": [
+                "152"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3103",
+        "Name": "Endless Quiver",
+        "Damage": "5",
+        "Knockback": "2 (Very weak)",
+        "Velocity": "3",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [
+                "3099"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3104",
+        "Name": "Endless Musket Pouch",
+        "Damage": "7",
+        "Knockback": "2 (Very weak)",
+        "Base Velocity": "4",
+        "Velocity Multiplier": "2x",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "3098"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3108",
+        "Name": "Nail",
+        "Damage": "30",
+        "Knockback": "3 (Very weak)",
+        "Velocity": "6",
+        "Rarity": "8",
+        "Sell": "20 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Nail Gun",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "28",
+                "217"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3567",
+        "Name": "Luminite Bullet",
+        "Damage": "20",
+        "Knockback": "3 (Very weak)",
+        "Base Velocity": "2",
+        "Velocity Multiplier": "6x",
+        "Tooltip": "'Line 'em up and knock 'em down...'",
+        "Rarity": "9",
+        "Sell": "2 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "3125"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3568",
+        "Name": "Luminite Arrow",
+        "Damage": "15",
+        "Knockback": "3.5 (Weak)",
+        "Base Velocity": "3",
+        "Velocity Multiplier": "2x",
+        "Tooltip": "'Shooting them down at the speed of sound!'",
+        "Rarity": "9",
+        "Sell": "2 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Bow or Repeater.",
+        "Sources": {
+            "Crafting Recipes": [
+                "3123"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4445",
+        "Name": "Cluster Rocket I",
+        "Damage": "50",
+        "Availability": "Post-Martian Madness",
+        "Radius": "Spread",
+        "Destroy Tiles": "No",
+        "Rarity": "0",
+        "Used In": "Launcher",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "485"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4446",
+        "Name": "Cluster Rocket II",
+        "Damage": "50",
+        "Availability": "Post-Martian Madness,During Blood Moon or  Solar Eclipse",
+        "Radius": "Spread",
+        "Destroy Tiles": "Yes",
+        "Rarity": "0",
+        "Used In": "Launcher",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "486"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4447",
+        "Name": "Wet Rocket",
+        "Damage": "40",
+        "Availability": "Always",
+        "Radius": "Tiny",
+        "Destroy Tiles": "No",
+        "Rarity": "0",
+        "Used In": "Launcher",
+        "Sources": {
+            "Crafting Recipes": [
+                "1764",
+                "3487"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4448",
+        "Name": "Lava Rocket",
+        "Damage": "40",
+        "Availability": "Always",
+        "Radius": "Tiny",
+        "Destroy Tiles": "No",
+        "Rarity": "0",
+        "Used In": "Launcher",
+        "Sources": {
+            "Crafting Recipes": [
+                "3494"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4449",
+        "Name": "Honey Rocket",
+        "Damage": "40",
+        "Availability": "Always",
+        "Radius": "Tiny",
+        "Destroy Tiles": "No",
+        "Rarity": "0",
+        "Used In": "Launcher",
+        "Sources": {
+            "Crafting Recipes": [
+                "3499"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4457",
+        "Name": "Mini Nuke I",
+        "Damage": "75",
+        "Availability": "Always",
+        "Radius": "Huge",
+        "Destroy Tiles": "No",
+        "Rarity": "0",
+        "Used In": "Launcher",
+        "Sources": {
+            "Crafting Recipes": [
+                "3118"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4458",
+        "Name": "Mini Nuke II",
+        "Damage": "75",
+        "Availability": "Always",
+        "Radius": "Huge",
+        "Destroy Tiles": "Yes",
+        "Rarity": "0",
+        "Used In": "Launcher",
+        "Sources": {
+            "Crafting Recipes": [
+                "3119"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4459",
+        "Name": "Dry Rocket",
+        "Damage": "40",
+        "Availability": "Always",
+        "Radius": "Tiny",
+        "Destroy Tiles": "Yes",
+        "Rarity": "0",
+        "Used In": "Launcher",
+        "Sources": {
+            "Crafting Recipes": [
+                "71",
+                "72",
+                "73"
+            ],
+            "NPC": [
+                "482"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4915",
+        "Name": "Tungsten Bullet",
+        "Damage": "9",
+        "Knockback": "4 (Weak)",
+        "Base Velocity": "4.5",
+        "Velocity Multiplier": "2x",
+        "Rarity": "0",
+        "Sell": "3 Copper Coins",
+        "Research": "99 required",
+        "Used In": "Any Gun",
+        "Sources": {
+            "Crafting Recipes": [
+                "1361",
+                "1627"
+            ],
+            "NPC": [
+                "208"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

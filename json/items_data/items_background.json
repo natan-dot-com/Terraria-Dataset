@@ -1,0 +1,3829 @@
+[
+    {
+        "Item ID": "26",
+        "Name": "Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "805"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "30",
+        "Name": "Dirt Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "419"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "93",
+        "Name": "Wood Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "833"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "130",
+        "Name": "Gray Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "485"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "132",
+        "Name": "Red Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "676"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "135",
+        "Name": "Blue Brick Wall",
+        "Placeable": "Yes",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "138",
+        "Name": "Green Brick Wall",
+        "Placeable": "Yes",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "140",
+        "Name": "Pink Brick Wall",
+        "Placeable": "Yes",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "142",
+        "Name": "Gold Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "469"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "144",
+        "Name": "Silver Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "754"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "146",
+        "Name": "Copper Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "394"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "276",
+        "Name": "Cactus",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "33",
+                "360"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "330",
+        "Name": "Obsidian Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "392",
+        "Name": "Glass Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "466"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "417",
+        "Name": "Pearlstone Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "626"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "418",
+        "Name": "Iridescent Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "509"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "419",
+        "Name": "Mudstone Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "569"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "420",
+        "Name": "Cobalt Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "388"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "421",
+        "Name": "Mythril Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "583"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "479",
+        "Name": "Planked Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1907"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "587",
+        "Name": "Candy Cane Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "379"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "592",
+        "Name": "Green Candy Cane Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "489"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "595",
+        "Name": "Snow Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "768"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "605",
+        "Name": "Adamantite Beam Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "308"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "606",
+        "Name": "Demonite Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "413"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "608",
+        "Name": "Sandstone Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "706"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "610",
+        "Name": "Ebonstone Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "434"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "615",
+        "Name": "Red Stucco Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "679"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "616",
+        "Name": "Yellow Stucco Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "846"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "617",
+        "Name": "Green Stucco Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "494"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "618",
+        "Name": "Gray Stucco Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "487"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "622",
+        "Name": "Ebonwood Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "453"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "623",
+        "Name": "Rich Mahogany Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "698"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "624",
+        "Name": "Pearlwood Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "645"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "663",
+        "Name": "Rainbow Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "674"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "720",
+        "Name": "Tin Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "809"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "721",
+        "Name": "Tungsten Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "820"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "722",
+        "Name": "Platinum Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "655"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "745",
+        "Name": "Grass Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "100"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "746",
+        "Name": "Jungle Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "104"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "747",
+        "Name": "Flower Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "103"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "750",
+        "Name": "Cactus Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "375"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "752",
+        "Name": "Cloud Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "386"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "764",
+        "Name": "Mushroom Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "580"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "768",
+        "Name": "Bone Block Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3263"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "769",
+        "Name": "Slime Block Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "757"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "770",
+        "Name": "Flesh Block Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "461"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "825",
+        "Name": "Disc Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "420"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "884",
+        "Name": "Ice Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "507"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "927",
+        "Name": "Shadewood Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "743"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1102",
+        "Name": "Lihzahrd Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "530"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1126",
+        "Name": "Hive Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "502"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1267",
+        "Name": "Purple Stained Glass",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "672"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1268",
+        "Name": "Yellow Stained Glass",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "844"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1269",
+        "Name": "Blue Stained Glass",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "336"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1270",
+        "Name": "Green Stained Glass",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "492"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1271",
+        "Name": "Red Stained Glass",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "677"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1272",
+        "Name": "Multicolored Stained Glass",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "570"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1378",
+        "Name": "Blue Slab Wall",
+        "Placeable": "Yes",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1379",
+        "Name": "Blue Tiled Wall",
+        "Placeable": "Yes",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1380",
+        "Name": "Pink Slab Wall",
+        "Placeable": "Yes",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1381",
+        "Name": "Pink Tiled Wall",
+        "Placeable": "Yes",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1382",
+        "Name": "Green Slab Wall",
+        "Placeable": "Yes",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1383",
+        "Name": "Green Tiled Wall",
+        "Placeable": "Yes",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1447",
+        "Name": "Wooden Fence",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "838"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1448",
+        "Name": "Lead Fence",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1241",
+                "1507"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1590",
+        "Name": "Palladium Column Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "602"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1592",
+        "Name": "Bubblegum Block Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "359"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1594",
+        "Name": "Titanstone Block Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "813"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1723",
+        "Name": "Living Wood Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3358"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1726",
+        "Name": "Pumpkin Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "671"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1728",
+        "Name": "Hay Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "497"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1730",
+        "Name": "Spooky Wood Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "799"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1948",
+        "Name": "Christmas Tree Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1949",
+        "Name": "Ornament Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1950",
+        "Name": "Candy Cane Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1951",
+        "Name": "Festive Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1952",
+        "Name": "Stars Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1953",
+        "Name": "Squiggles Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1954",
+        "Name": "Snowflake Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1955",
+        "Name": "Krampus Horn Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1956",
+        "Name": "Bluegreen Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1957",
+        "Name": "Grinch Finger Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2008",
+        "Name": "Fancy Gray Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2009",
+        "Name": "Ice Floe Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2010",
+        "Name": "Music Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2011",
+        "Name": "Purple Rain Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2012",
+        "Name": "Rainbow Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2013",
+        "Name": "Sparkle Stone Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2014",
+        "Name": "Starlit Heaven Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2158",
+        "Name": "Bubble Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2159",
+        "Name": "Copper Pipe Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2160",
+        "Name": "Ducky Wallpaper",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2169",
+        "Name": "Waterfall Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "825"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2170",
+        "Name": "Lavafall Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "522"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2210",
+        "Name": "Ebonwood Fence",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "444"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2211",
+        "Name": "Rich Mahogany Fence",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "689"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2212",
+        "Name": "Pearlwood Fence",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "636"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2213",
+        "Name": "Shadewood Fence",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "734"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2263",
+        "Name": "White Dynasty Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "826"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2264",
+        "Name": "Blue Dynasty Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "335"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2271",
+        "Name": "Arcane Rune Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "50 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2333",
+        "Name": "Iron Fence",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "1217",
+                "1483"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2432",
+        "Name": "Copper Plating Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "396"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2433",
+        "Name": "Stone Slab Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "804"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2434",
+        "Name": "Sail",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "442"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2505",
+        "Name": "Boreal Wood Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "357"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2506",
+        "Name": "Palm Wood Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "621"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2507",
+        "Name": "Boreal Wood Fence",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "348"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2508",
+        "Name": "Palm Wood Fence",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "612"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2677",
+        "Name": "Amber Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "7 (Insanely fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "312"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2678",
+        "Name": "Offline Amber Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "593"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2679",
+        "Name": "Amethyst Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "7 (Insanely fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "316"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2680",
+        "Name": "Offline Amethyst Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "594"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2681",
+        "Name": "Diamond Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "7 (Insanely fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "417"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2682",
+        "Name": "Offline Diamond Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "595"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2683",
+        "Name": "Emerald Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "7 (Insanely fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "457"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2684",
+        "Name": "Offline Emerald Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "596"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2685",
+        "Name": "Ruby Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "7 (Insanely fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "702"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2686",
+        "Name": "Offline Ruby Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "597"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2687",
+        "Name": "Sapphire Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "7 (Insanely fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "719"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2688",
+        "Name": "Offline Sapphire Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "598"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2689",
+        "Name": "Topaz Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "7 (Insanely fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "817"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2690",
+        "Name": "Offline Topaz Gemspark Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "599"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2691",
+        "Name": "Tin Plating Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "811"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2696",
+        "Name": "Confetti Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "392"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2698",
+        "Name": "Midnight Confetti Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "567"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2788",
+        "Name": "Honeyfall Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "504"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2789",
+        "Name": "Chlorophyte Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "384"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2790",
+        "Name": "Crimtane Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "400"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2791",
+        "Name": "Shroomite Plating Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "745"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2861",
+        "Name": "Martian Conduit Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "546"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3067",
+        "Name": "Hellstone Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "499"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3082",
+        "Name": "Marble Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "543"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3083",
+        "Name": "Smooth Marble Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "763"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3088",
+        "Name": "Granite Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "483"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3089",
+        "Name": "Smooth Granite Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "760"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3101",
+        "Name": "Meteorite Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "556"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3238",
+        "Name": "Crystal Block Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "402"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3273",
+        "Name": "Sandstone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "955"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3340",
+        "Name": "Hardened Sand Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "917"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3341",
+        "Name": "Hardened Ebonsand Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "913"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3342",
+        "Name": "Hardened Crimsand Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "911"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3343",
+        "Name": "Hardened Pearlsand Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "915"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3344",
+        "Name": "Ebonsandstone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "890"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3345",
+        "Name": "Crimsandstone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "865"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3346",
+        "Name": "Pearlsandstone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "939"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3348",
+        "Name": "Desert Fossil Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "879"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3472",
+        "Name": "Luminite Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "532"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3584",
+        "Name": "Living Leaf Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3338"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3751",
+        "Name": "Cog Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Productivity up 200%",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "390"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3752",
+        "Name": "Sandfall Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Falling sand you can safely watch",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "704"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3753",
+        "Name": "Snowfall Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "A lot cooler than a snow globe",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "770"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3760",
+        "Name": "Silly Pink Balloon Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Green: Smells like mint and gleePink: Smells like bubblegum and happinessPurple: Smells like lavender and enthusiasm",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "750"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3761",
+        "Name": "Silly Purple Balloon Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Green: Smells like mint and gleePink: Smells like bubblegum and happinessPurple: Smells like lavender and enthusiasm",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "752"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3762",
+        "Name": "Silly Green Balloon Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Green: Smells like mint and gleePink: Smells like bubblegum and happinessPurple: Smells like lavender and enthusiasm",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "748"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3952",
+        "Name": "Iron Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "512"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3954",
+        "Name": "Lead Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "525"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3956",
+        "Name": "Lesion Block Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "528"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4052",
+        "Name": "Crimstone Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "398"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4053",
+        "Name": "Smooth Sandstone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "765"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4140",
+        "Name": "Spider Nest Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "782"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4233",
+        "Name": "Solar Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "772"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4234",
+        "Name": "Vortex Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "823"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4235",
+        "Name": "Nebula Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "586"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4236",
+        "Name": "Stardust Brick Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "801"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4260",
+        "Name": "Orange Stained Glass",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "600"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4279",
+        "Name": "Gold Starry Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "471"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4280",
+        "Name": "Blue Starry Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "338"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4424",
+        "Name": "Wrought Iron Fence",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "2544"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4486",
+        "Name": "Ebonstone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "896"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4487",
+        "Name": "Mud Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "934"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4488",
+        "Name": "Pearlstone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "945"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4489",
+        "Name": "Snow Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "960"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4490",
+        "Name": "Amethyst Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "850"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4491",
+        "Name": "Topaz Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "971"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4492",
+        "Name": "Sapphire Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "957"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4493",
+        "Name": "Emerald Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "899"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4494",
+        "Name": "Ruby Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "953"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4495",
+        "Name": "Diamond Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "881"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4496",
+        "Name": "Green Mossy Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "905"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4497",
+        "Name": "Brown Mossy Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "854"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4498",
+        "Name": "Red Mossy Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "949"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4499",
+        "Name": "Blue Mossy Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "852"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4500",
+        "Name": "Purple Mossy Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "947"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4501",
+        "Name": "Rocky Dirt Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "950"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4502",
+        "Name": "Old Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "937"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4503",
+        "Name": "Spider Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "961"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4504",
+        "Name": "Corrupt Grass Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "50 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "101"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4505",
+        "Name": "Hallowed Grass Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "50 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "106"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4506",
+        "Name": "Ice Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "923"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4507",
+        "Name": "Obsidian Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "936"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4508",
+        "Name": "Crimson Grass Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "50 Copper Coins",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "102"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4509",
+        "Name": "Crimstone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "875"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4510",
+        "Name": "Cave Dirt Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "855"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4511",
+        "Name": "Rough Dirt Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "951"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4512",
+        "Name": "Craggy Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "863"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4513",
+        "Name": "Corrupt Growth Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "858"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4514",
+        "Name": "Corrupt Mass Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "859"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4515",
+        "Name": "Corrupt Pustule Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "860"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4516",
+        "Name": "Corrupt Tendril Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "861"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4517",
+        "Name": "Crimson Crust Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "867"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4518",
+        "Name": "Crimson Scab Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "868"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4519",
+        "Name": "Crimson Teeth Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "869"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4520",
+        "Name": "Crimson Blister Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "866"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4521",
+        "Name": "Layered Dirt Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "928"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4522",
+        "Name": "Crumbling Dirt Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "876"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4523",
+        "Name": "Cracked Dirt Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "862"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4524",
+        "Name": "Wavy Dirt Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "972"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4525",
+        "Name": "Hallowed Prism Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "908"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4526",
+        "Name": "Hallowed Cavern Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "906"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4527",
+        "Name": "Hallowed Shard Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "909"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4528",
+        "Name": "Hallowed Crystalline Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "907"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4529",
+        "Name": "Lichen Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "930"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4530",
+        "Name": "Leafy Jungle Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "929"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4531",
+        "Name": "Ivy Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "924"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4532",
+        "Name": "Jungle Vine Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "927"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4533",
+        "Name": "Ember Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "897"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4534",
+        "Name": "Cinder Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "856"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4535",
+        "Name": "Magma Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "931"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4536",
+        "Name": "Smouldering Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "958"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4537",
+        "Name": "Worn Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "973"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4538",
+        "Name": "Stalactite Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "962"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4539",
+        "Name": "Mottled Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "932"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4540",
+        "Name": "Fractured Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "901"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4548",
+        "Name": "Large Bamboo Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "518"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4565",
+        "Name": "Bamboo Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "332"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4647",
+        "Name": "Amber Stone Wall",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "400 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "848"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4667",
+        "Name": "Bamboo Fence",
+        "Placeable": "Yes",
+        "Use time": "14 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "327"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5067",
+        "Name": "Antlion Eggs",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "50 Copper Coins",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2514"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

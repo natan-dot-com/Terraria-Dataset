@@ -1,0 +1,5832 @@
+[
+    {
+        "Item ID": "208",
+        "Name": "Jungle Rose",
+        "Placeable": "Yes",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'It's pretty, oh so pretty'",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "237",
+        "Name": "Sunglasses",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Makes you look cool!'",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "306",
+                "2020",
+                "2028"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "239",
+        "Name": "Top Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "240",
+        "Name": "Tuxedo Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2012"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "241",
+        "Name": "Tuxedo Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2011"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "242",
+        "Name": "Summer Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "292"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "243",
+        "Name": "Bunny Hood",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "244",
+        "Name": "Plumber's Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "245",
+        "Name": "Plumber's Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "293"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "246",
+        "Name": "Plumber's Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "294"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "247",
+        "Name": "Hero's Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1984"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "248",
+        "Name": "Hero's Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1986"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "249",
+        "Name": "Hero's Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1985"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "251",
+        "Name": "Archaeologist's Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "252",
+        "Name": "Archaeologist's Jacket",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "317"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "253",
+        "Name": "Archaeologist's Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "318"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "260",
+        "Name": "Red Hat",
+        "Body slot": "Social Helmet",
+        "Tooltip": "It smells funny...",
+        "Rarity": "0",
+        "Sell": "2 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "262",
+        "Name": "Robe",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "4 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1999"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "263",
+        "Name": "Robot Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "264",
+        "Name": "Gold Crown",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1196",
+                "1462"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "269",
+        "Name": "Familiar Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "299"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "270",
+        "Name": "Familiar Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "300"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "271",
+        "Name": "Familiar Wig",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "301"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "322",
+        "Name": "Mime Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "305"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "325",
+        "Name": "The Doctor's Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "297"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "326",
+        "Name": "The Doctor's Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "298"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "503",
+        "Name": "Clown Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "2",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "302"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "504",
+        "Name": "Clown Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "303"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "505",
+        "Name": "Clown Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "304"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "588",
+        "Name": "Santa Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "496"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "589",
+        "Name": "Santa Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "497"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "590",
+        "Name": "Santa Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "498"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "666",
+        "Name": "Red's Helmet",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "667",
+        "Name": "Red's Breastplate",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "668",
+        "Name": "Red's Leggings",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "715",
+        "Name": "Platinum Crown",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1292",
+                "1558"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "754",
+        "Name": "Rune Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "5",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "755",
+        "Name": "Rune Robe",
+        "Body slot": "Social Shirt",
+        "Rarity": "5",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "839",
+        "Name": "Steampunk Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "2",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "449"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "840",
+        "Name": "Steampunk Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "2",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "450"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "841",
+        "Name": "Steampunk Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "2",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "451"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "842",
+        "Name": "Bee Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1054"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "843",
+        "Name": "Bee Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1055"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "844",
+        "Name": "Bee Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1056"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "848",
+        "Name": "Pharaoh's Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "864",
+        "Name": "Tiara",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "328"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "865",
+        "Name": "Princess Dress",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "329"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "866",
+        "Name": "Pharaoh's Robe",
+        "Body slot": "Social Shirt",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "867",
+        "Name": "Green Cap",
+        "Defense": "2",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "868",
+        "Name": "Mushroom Cap",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "430"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "869",
+        "Name": "Tam O' Shanter",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "325"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "870",
+        "Name": "Mummy Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "871",
+        "Name": "Mummy Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "872",
+        "Name": "Mummy Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "873",
+        "Name": "Cowboy Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "332"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "874",
+        "Name": "Cowboy Jacket",
+        "Body slot": "Social Shirt",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "333"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "875",
+        "Name": "Cowboy Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "334"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "876",
+        "Name": "Pirate Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "439"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "877",
+        "Name": "Pirate Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "440"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "878",
+        "Name": "Pirate Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "441"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1243",
+        "Name": "Umbrella Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1274",
+        "Name": "Skull",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1275",
+        "Name": "Balla Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "337"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1276",
+        "Name": "Gangsta Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "338"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1277",
+        "Name": "Sailor Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1278",
+        "Name": "Eye Patch",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1279",
+        "Name": "Sailor Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1280",
+        "Name": "Sailor Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1281",
+        "Name": "Skeletron Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1073"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1288",
+        "Name": "White Tuxedo Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "1",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "295"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1289",
+        "Name": "White Tuxedo Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "1",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "296"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1429",
+        "Name": "Beanie",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "323"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1514",
+        "Name": "SWAT Helmet",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1554",
+        "Name": "Cenx's Tiara",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1555",
+        "Name": "Cenx's Breastplate",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1556",
+        "Name": "Cenx's Leggings",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1557",
+        "Name": "Crowno's Mask",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1558",
+        "Name": "Crowno's Breastplate",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1559",
+        "Name": "Crowno's Leggings",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1560",
+        "Name": "Will's Helmet",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1561",
+        "Name": "Will's Breastplate",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1562",
+        "Name": "Will's Leggings",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1563",
+        "Name": "Jim's Helmet",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1564",
+        "Name": "Jim's Breastplate",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1565",
+        "Name": "Jim's Leggings",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1566",
+        "Name": "Aaron's Helmet",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1567",
+        "Name": "Aaron's Breastplate",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1568",
+        "Name": "Aaron's Leggings",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1580",
+        "Name": "D-Town's Helmet",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1581",
+        "Name": "D-Town's Breastplate",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1582",
+        "Name": "D-Town's Leggings",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1587",
+        "Name": "Cenx's Dress",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1588",
+        "Name": "Cenx's Dress Pants",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1736",
+        "Name": "Nurse Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "220"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1737",
+        "Name": "Nurse Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "221"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1738",
+        "Name": "Nurse Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "222"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1739",
+        "Name": "Wizard's Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "428"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1740",
+        "Name": "Guy Fawkes Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "324"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1741",
+        "Name": "Dye Trader Robe",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "47"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1742",
+        "Name": "Steampunk Goggles",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "469"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1743",
+        "Name": "Cyborg Helmet",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "487"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1744",
+        "Name": "Cyborg Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "488"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1745",
+        "Name": "Cyborg Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "489"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1746",
+        "Name": "Creeper Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1747",
+        "Name": "Creeper Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1748",
+        "Name": "Creeper Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1749",
+        "Name": "Cat Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1750",
+        "Name": "Cat Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1751",
+        "Name": "Cat Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1752",
+        "Name": "Ghost Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1753",
+        "Name": "Ghost Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1754",
+        "Name": "Pumpkin Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1755",
+        "Name": "Pumpkin Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1756",
+        "Name": "Pumpkin Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1757",
+        "Name": "Robot Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1758",
+        "Name": "Robot Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1759",
+        "Name": "Robot Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1760",
+        "Name": "Unicorn Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1761",
+        "Name": "Unicorn Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1762",
+        "Name": "Unicorn Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1763",
+        "Name": "Vampire Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1764",
+        "Name": "Vampire Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1765",
+        "Name": "Vampire Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1766",
+        "Name": "Witch Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1767",
+        "Name": "Leprechaun Hat",
+        "Body slot": "Social Helmet",
+        "Tooltip": "To me it look like a leprechaun to me",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1768",
+        "Name": "Leprechaun Shirt",
+        "Body slot": "Social Shirt",
+        "Tooltip": "I just wanna know where the gold at!",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1769",
+        "Name": "Leprechaun Pants",
+        "Body slot": "Social Pants",
+        "Tooltip": "I want the gold. I want the gold. I want the gold. Gimme the gold!",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1770",
+        "Name": "Pixie Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1771",
+        "Name": "Pixie Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1772",
+        "Name": "Princess Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1773",
+        "Name": "Princess Dress",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1775",
+        "Name": "Witch Dress",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1776",
+        "Name": "Witch Boots",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1777",
+        "Name": "Bride of Frankenstein Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1778",
+        "Name": "Bride of Frankenstein Dress",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1779",
+        "Name": "Karate Tortoise Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1780",
+        "Name": "Karate Tortoise Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1781",
+        "Name": "Karate Tortoise Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1788",
+        "Name": "Scarecrow Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1789",
+        "Name": "Scarecrow Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1790",
+        "Name": "Scarecrow Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1819",
+        "Name": "Reaper Hood",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1820",
+        "Name": "Reaper Robe",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1821",
+        "Name": "Fox Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1822",
+        "Name": "Fox Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1823",
+        "Name": "Fox Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1824",
+        "Name": "Cat Ears",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "984"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1838",
+        "Name": "Space Creature Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1839",
+        "Name": "Space Creature Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1840",
+        "Name": "Space Creature Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1841",
+        "Name": "Wolf Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1842",
+        "Name": "Wolf Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1843",
+        "Name": "Wolf Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1851",
+        "Name": "Treasure Hunter Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1852",
+        "Name": "Treasure Hunter Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1853",
+        "Name": "Dryad Coverings",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "108"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1854",
+        "Name": "Dryad Loincloth",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "109"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1857",
+        "Name": "Jack 'O Lantern Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1906",
+        "Name": "Giant Bow",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1907",
+        "Name": "Reindeer Antlers",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "999"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1932",
+        "Name": "Mrs. Claus Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1933",
+        "Name": "Mrs. Claus Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1934",
+        "Name": "Mrs. Claus Heels",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1935",
+        "Name": "Parka Hood",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1936",
+        "Name": "Parka Coat",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1937",
+        "Name": "Parka Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1938",
+        "Name": "Snow Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1004"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1939",
+        "Name": "Ugly Sweater",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1005"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1940",
+        "Name": "Tree Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1941",
+        "Name": "Tree Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1942",
+        "Name": "Tree Trunks",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1943",
+        "Name": "Elf Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1944",
+        "Name": "Elf Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1945",
+        "Name": "Elf Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1988",
+        "Name": "Fez",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Fezzes are cool'",
+        "Rarity": "0",
+        "Sell": "70 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2104",
+        "Name": "Brain of Cthulhu Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1040"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2105",
+        "Name": "Wall of Flesh Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1061"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2106",
+        "Name": "Twin Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1078"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2107",
+        "Name": "Skeletron Prime Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1088"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2108",
+        "Name": "Queen Bee Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1046"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2109",
+        "Name": "Plantera Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1093"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2110",
+        "Name": "Golem Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1108"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2111",
+        "Name": "Eater of Worlds Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1034"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2112",
+        "Name": "Eye of Cthulhu Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1025"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2113",
+        "Name": "Destroyer Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1083"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2222",
+        "Name": "Peddler's Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "25 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2278",
+        "Name": "Kimono",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2417",
+        "Name": "Seashell Hairpin",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2418",
+        "Name": "Mermaid Adornment",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2419",
+        "Name": "Mermaid Tail",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2493",
+        "Name": "King Slime Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1015"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2498",
+        "Name": "Fish Costume Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2499",
+        "Name": "Fish Costume Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2500",
+        "Name": "Fish Costume Finskirt",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2588",
+        "Name": "Duke Fishron Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1121"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2801",
+        "Name": "Moon Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2802",
+        "Name": "Sun Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2803",
+        "Name": "Martian Costume Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2804",
+        "Name": "Martian Costume Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2805",
+        "Name": "Martian Costume Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2806",
+        "Name": "Martian Uniform Helmet",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2807",
+        "Name": "Martian Uniform Torso",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2808",
+        "Name": "Martian Uniform Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2856",
+        "Name": "Solar Cultist Hood",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "308"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2857",
+        "Name": "Lunar Cultist Hood",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "310"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2858",
+        "Name": "Solar Cultist Robe",
+        "Body slot": "Social Shirt",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "309"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2859",
+        "Name": "Lunar Cultist Robe",
+        "Body slot": "Social Shirt",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "311"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2862",
+        "Name": "HiTek Sunglasses",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "490"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3226",
+        "Name": "Lazure's Valkyrie Circlet",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'. Become the wind, ride the lightning.",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3227",
+        "Name": "Lazure's Valkyrie Cloak",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'. Bejeweled and elegant for soaring through the thundering skies",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3242",
+        "Name": "Tax Collector's Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "29",
+                "312"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3243",
+        "Name": "Tax Collector's Suit",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "30",
+                "313"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3244",
+        "Name": "Tax Collector's Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "31",
+                "314"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3246",
+        "Name": "Clothier's Jacket",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "339"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3247",
+        "Name": "Clothier's Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "340"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3248",
+        "Name": "Dye Trader's Turban",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "48"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3263",
+        "Name": "Buccaneer Bandana",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3264",
+        "Name": "Buccaneer Tunic",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3265",
+        "Name": "Buccaneer Pantaloons",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3362",
+        "Name": "Fallen Tuxedo Shirt",
+        "Body slot": "Social Shirt",
+        "Rarity": "1",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "306"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3363",
+        "Name": "Fallen Tuxedo Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "1",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "307"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3372",
+        "Name": "Lunatic Cultist Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3373",
+        "Name": "Moon Lord Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1132"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3478",
+        "Name": "Wedding Veil",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Wuv... twue wuv...'",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3479",
+        "Name": "Wedding Dress",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Mawwiage...'",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3578",
+        "Name": "Yoraiz0r's Uniform",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3579",
+        "Name": "Yoraiz0r's Skirt",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3581",
+        "Name": "Yoraiz0r's Scowl",
+        "Tooltip": "'Great for impersonating devs!'. If you see this you should probably run away...",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3583",
+        "Name": "Yoraiz0r's Recolored Goggles",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3585",
+        "Name": "Skiphs' Mask",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3586",
+        "Name": "Skiphs' Skin",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3587",
+        "Name": "Skiphs' Bear Butt",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3589",
+        "Name": "Loki's Helmet",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'. Disorder came from order, fear came from courage, weakness came from strength",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3590",
+        "Name": "Loki's Breastplate",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'. Know thy self, know thy enemy. A thousand battles, a thousand victories",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3591",
+        "Name": "Loki's Greaves",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'. Wheels of justice grind slow but grind fine.",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3627",
+        "Name": "Engineering Helmet",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "369"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3732",
+        "Name": "Party Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "402"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3733",
+        "Name": "Silly Sunflower Petals",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "343"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3734",
+        "Name": "Silly Sunflower Tops",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "344"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3735",
+        "Name": "Silly Sunflower Bottoms",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "345"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3757",
+        "Name": "Pedguin's Hood",
+        "Body slot": "Social Helmet",
+        "Tooltip": "Become the Pedguin. 'Great for impersonating streamers!'",
+        "Rarity": "9",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3758",
+        "Name": "Pedguin's Jacket",
+        "Body slot": "Social Shirt",
+        "Tooltip": "Become the Pedguin. 'Great for impersonating streamers!'",
+        "Rarity": "9",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3759",
+        "Name": "Pedguin's Trousers",
+        "Body slot": "Social Pants",
+        "Tooltip": "Become the Pedguin. 'Great for impersonating streamers!'",
+        "Rarity": "9",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3763",
+        "Name": "0x33's Aviators",
+        "Body slot": "Social Helmet",
+        "Tooltip": "Enables your inner wingman. 'Great for impersonating streamers!'",
+        "Rarity": "9",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3770",
+        "Name": "Djinn's Curse",
+        "Body slot": "Social Pants",
+        "Tooltip": "Grants slow fall in exchange for your feet",
+        "Rarity": "4",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3773",
+        "Name": "Ancient Headdress",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1968"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3774",
+        "Name": "Ancient Garments",
+        "Body slot": "Social Shirt",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1967"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3775",
+        "Name": "Ancient Slacks",
+        "Body slot": "Social Pants",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1969"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3784",
+        "Name": "Lamia Tail",
+        "Body slot": "Social Pants",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3785",
+        "Name": "Lamia Wraps",
+        "Body slot": "Social Shirt",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3786",
+        "Name": "Lamia Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3863",
+        "Name": "Betsy Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1146"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3864",
+        "Name": "Dark Mage Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3865",
+        "Name": "Ogre Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3921",
+        "Name": "Arkhalis' Hood",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'. 'I didn't get this from the Grid'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3922",
+        "Name": "Arkhalis' Bodice",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'. 'I didn't get this from the Grid'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3923",
+        "Name": "Arkhalis' Tights",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'. 'I didn't get this from the Grid'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3925",
+        "Name": "Leinfors' Hair Protector",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'. 'To keep those luscious locks as gorgeous as ever'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3926",
+        "Name": "Leinfors' Excessive Style",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'. 'Bringing sexy back'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3927",
+        "Name": "Leinfors' Fancypants",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'. 'There might be pasta in the pockets'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3929",
+        "Name": "Leinfors' Luxury Shampoo",
+        "Tooltip": "'Great for impersonating devs!'. 'Brought to you by LeinCorp'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4128",
+        "Name": "Maid Bonnet",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1988"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4129",
+        "Name": "Maid Dress",
+        "Body slot": "Social Shirt",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1989"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4130",
+        "Name": "Maid Shoes",
+        "Body slot": "Social Pants",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1990"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4132",
+        "Name": "Pink Maid Bonnet",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1991"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4133",
+        "Name": "Pink Maid Dress",
+        "Body slot": "Social Shirt",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1992"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4134",
+        "Name": "Pink Maid Shoes",
+        "Body slot": "Social Pants",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1993"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4135",
+        "Name": "Country Club Cap",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "179"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4136",
+        "Name": "Country Club Vest",
+        "Body slot": "Social Shirt",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "181"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4137",
+        "Name": "Country Club Trousers",
+        "Body slot": "Social Pants",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "182"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4138",
+        "Name": "Country Club Visor",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "180"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4321",
+        "Name": "Master Gamer's Jacket",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'I thought I told you to clean up your room!'",
+        "Rarity": "3",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4322",
+        "Name": "Master Gamer's Pants",
+        "Body slot": "Social Pants",
+        "Tooltip": "'I thought I told you to clean up your room!'",
+        "Rarity": "3",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4323",
+        "Name": "Star Princess Crown",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4324",
+        "Name": "Star Princess Dress",
+        "Body slot": "Social Shirt",
+        "Rarity": "3",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4549",
+        "Name": "Demon Horns",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4555",
+        "Name": "Chef Hat",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'This chicken is raw!'",
+        "Rarity": "0",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4556",
+        "Name": "Chef Uniform",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4557",
+        "Name": "Chef Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4558",
+        "Name": "Star Hairpin",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4559",
+        "Name": "Heart Hairpin",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4560",
+        "Name": "Bunny Ears",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "66"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4561",
+        "Name": "Devil Horns",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4562",
+        "Name": "Fedora",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'*tips* M'lady'",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4563",
+        "Name": "Fake Unicorn Horn",
+        "Tooltip": "'It's a new day, yes it is!'",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4652",
+        "Name": "Superhero Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2005"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4653",
+        "Name": "Superhero Costume",
+        "Body slot": "Social Shirt",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2004"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4654",
+        "Name": "Superhero Tights",
+        "Body slot": "Social Pants",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2006"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4664",
+        "Name": "Pretty Pink Dress",
+        "Body slot": "Social Shirt",
+        "Rarity": "3",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4665",
+        "Name": "Pretty Pink Stockings",
+        "Body slot": "Social Pants",
+        "Rarity": "3",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4666",
+        "Name": "Pretty Pink Ribbon",
+        "Body slot": "Social Helmet",
+        "Rarity": "3",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4685",
+        "Name": "Gravedigger Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "315"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4686",
+        "Name": "Gravedigger Coat",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "316"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4704",
+        "Name": "Funeral Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "317"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4705",
+        "Name": "Funeral Coat",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "318"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4706",
+        "Name": "Funeral Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "319"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4708",
+        "Name": "Victorian Goth Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "321"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4709",
+        "Name": "Victorian Goth Dress",
+        "Body slot": "Social Shirt",
+        "Rarity": "0",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "322"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4732",
+        "Name": "Ghostar's Soul Jar",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'. 'Could this be the real Ghostar?'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4733",
+        "Name": "Ghostar's Garb",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'. 'A fine dress handmade by a dragon'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4734",
+        "Name": "Ghostar's Tights",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'. 'The journey of a thousand miles begins with one step'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4738",
+        "Name": "Dr. Man Fly Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "2",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4739",
+        "Name": "Dr. Man Fly's Lab Coat",
+        "Body slot": "Social Shirt",
+        "Rarity": "2",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4740",
+        "Name": "Butcher Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "2",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4741",
+        "Name": "Butcher's Bloodstained Apron",
+        "Body slot": "Social Shirt",
+        "Rarity": "2",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4742",
+        "Name": "Butcher's Bloodstained Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "2",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4747",
+        "Name": "Safeman's Sunny Day",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'. 'Bright idea'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4748",
+        "Name": "Safeman's Sun Dress",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'. 'Fashionable and functional'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4749",
+        "Name": "Safeman's Pink Leggings",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'. 'Almost like pants'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4751",
+        "Name": "FoodBarbarian's Horned Helm",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'. 'Safety First'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4752",
+        "Name": "FoodBarbarian's Wild Wolf Spaulders",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'. 'Max was a good boy.'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4753",
+        "Name": "FoodBarbarian's Savage Greaves",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'. 'They don't let me wear a loincloth anymore.'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4755",
+        "Name": "Grox The Great's Horned Cowl",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4756",
+        "Name": "Grox The Great's Chestplate",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4757",
+        "Name": "Grox The Great's Greaves",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Great for impersonating devs!'",
+        "Rarity": "9",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4768",
+        "Name": "Dog Ears",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "60"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4769",
+        "Name": "Dog Tail",
+        "Rarity": "1",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "61"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4770",
+        "Name": "Fox Ears",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "62"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4771",
+        "Name": "Fox Tail",
+        "Rarity": "1",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "63"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4772",
+        "Name": "Lizard Ears",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "64"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4773",
+        "Name": "Lizard Tail",
+        "Rarity": "1",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "65"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4774",
+        "Name": "Panda Ears",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4775",
+        "Name": "Bunny Tail",
+        "Tooltip": "'That's why they call me Thumper'",
+        "Rarity": "1",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "67"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4779",
+        "Name": "Mushroom Hat",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4780",
+        "Name": "Mushroom Vest",
+        "Body slot": "Social Shirt",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4781",
+        "Name": "Mushroom Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "1",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4784",
+        "Name": "Empress of Light Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1154"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4955",
+        "Name": "Rabbit Perch",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'It looks like a bunny, but it's actually a bunny'",
+        "Rarity": "5",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "82"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4959",
+        "Name": "Queen Slime Mask",
+        "Body slot": "Social Helmet",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1165"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4994",
+        "Name": "Blue Graduation Cap",
+        "Body slot": "Social Helmet",
+        "Rarity": "2",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "326"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4995",
+        "Name": "Maroon Graduation Cap",
+        "Body slot": "Social Helmet",
+        "Rarity": "2",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "330"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4996",
+        "Name": "Black Graduation Cap",
+        "Body slot": "Social Helmet",
+        "Rarity": "2",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "335"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4997",
+        "Name": "Blue Graduation Gown",
+        "Body slot": "Social Shirt",
+        "Rarity": "2",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "327"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4998",
+        "Name": "Maroon Graduation Gown",
+        "Body slot": "Social Shirt",
+        "Rarity": "2",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "331"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4999",
+        "Name": "Black Graduation Gown",
+        "Body slot": "Social Shirt",
+        "Rarity": "2",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "336"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5004",
+        "Name": "Badger's Hat",
+        "Body slot": "Social Helmet",
+        "Tooltip": "You seem to have a problem with your green screen. 'Great for impersonating streamers!'",
+        "Rarity": "9",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5007",
+        "Name": "Dead Man's Sweater",
+        "Body slot": "Social Shirt",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5045",
+        "Name": "Plaguebringer's Skull",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'That right there is 100% genuine Ahamkara, trust!'. Concept by SodaHunter",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1996"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5046",
+        "Name": "Plaguebringer's Cloak",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Who knew a blight-weaving world-ender would have such good taste in fashion?'. Concept by SodaHunter",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1995"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5047",
+        "Name": "Plaguebringer's Treads",
+        "Body slot": "Social Pants",
+        "Tooltip": "'The horrors these boots have seen, or should I say, stepped on.'. Concept by SodaHunter",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1997"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5048",
+        "Name": "Wandering Jingasa",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Your most loyal travel companion. The glowing orb is soft and welcoming.'. Concept by crowflux",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2015"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5049",
+        "Name": "Wandering Yukata",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'Incredibly old, yet unnaturally durable. Who knows how long it traveled just to find you.'. Concept by crowflux",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2016"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5050",
+        "Name": "Wandering Geta",
+        "Body slot": "Social Pants",
+        "Tooltip": "'It constantly reminds you that there is more than one path to the top of the mountain.'. Concept by crowflux",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2014"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5051",
+        "Name": "Timeless Traveler's Hood",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'May time itself with gentle hands'. 'Guide you, who travel on...'. Concept by DisRicardo",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2009"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5052",
+        "Name": "Timeless Traveler's Cloak",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'...Despite the journey's bygone end...'. Concept by DisRicardo",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2007"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5053",
+        "Name": "Timeless Traveler's Footwear",
+        "Body slot": "Social Pants",
+        "Tooltip": "'...And passing of aeons!'. Concept by DisRicardo",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2008"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5054",
+        "Name": "Floret Protector Helmet",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'When a cosmic ray penetrates a star cloud, that fantastic light...'. Concept by yikescloud",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1978"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5055",
+        "Name": "Floret Protector Shirt",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'ID.170122 - RSS ZEPHYRUS III'. Concept by yikescloud",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1980"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5056",
+        "Name": "Floret Protector Pants",
+        "Body slot": "Social Pants",
+        "Tooltip": "'I am a duck QUACK-QUACK-QUACK'. Concept by yikescloud",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1979"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5057",
+        "Name": "Capricorn Helmet",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'Embodiment of the star's majesty, shiny!'. Concept by R-MK",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1972"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5058",
+        "Name": "Capricorn Chestplate",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'As protective as glass!'. Concept by R-MK",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1971"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5059",
+        "Name": "Capricorn Hooves",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Now you can wear shoes! Maybe!'. Right click to transform. Concept by R-MK",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5060",
+        "Name": "Capricorn Tail",
+        "Body slot": "Social Pants",
+        "Tooltip": "'Sadly, does not provide the ability to swim.'. Right click to transform. Concept by R-MK",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1973"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5061",
+        "Name": "Video Visage",
+        "Body slot": "Social Helmet",
+        "Tooltip": "'You can't see me behind the screen, I'm half human and half machine...'. Concept by Dr.Zootsuit",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2013"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5062",
+        "Name": "Lazer Blazer",
+        "Body slot": "Social Shirt",
+        "Tooltip": "'How bad could business possibly be?'. Concept by Dr.Zootsuit",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1987"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5063",
+        "Name": "Pinstripe Pants",
+        "Body slot": "Social Pants",
+        "Tooltip": "'I can't decide... leather or suede?'. Concept by Dr.Zootsuit",
+        "Rarity": "2",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1994"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5071",
+        "Name": "Royal Tiara",
+        "Body slot": "Social Helmet",
+        "Rarity": "5",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "515"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5072",
+        "Name": "Royal Blouse",
+        "Body slot": "Social Shirt",
+        "Rarity": "5",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "516"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5073",
+        "Name": "Royal Dress",
+        "Body slot": "Social Pants",
+        "Rarity": "5",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "517"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5078",
+        "Name": "Prince Uniform",
+        "Body slot": "Social Shirt",
+        "Rarity": "5",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "520"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5079",
+        "Name": "Prince Pants",
+        "Body slot": "Social Pants",
+        "Rarity": "5",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "521"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5080",
+        "Name": "Prince Cape",
+        "Rarity": "5",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "522"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

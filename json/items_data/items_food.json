@@ -1,0 +1,660 @@
+[
+    {
+        "Item ID": "967",
+        "Name": "Marshmallow",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Put it on a stick and roast over a campfire. Minor improvements to all stats. 'How many can you fit in your mouth?'",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "1 minute",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "13"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1919",
+        "Name": "Sugar Cookie",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Major improvements to all stats. 'You'll bounce off the walls!'",
+        "Rarity": "3",
+        "Sell": "5 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Exquisitely Stuffed",
+        "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "4 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1007"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4010",
+        "Name": "Apple Pie Slice",
+        "Tooltip": "Medium improvements to all stats. 'Mmmm... pie.'",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4011",
+        "Name": "Apple Pie",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Major improvements to all stats. 'Nothing is as Terrarian as apple pie.'",
+        "Rarity": "4",
+        "Sell": "60 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Exquisitely Stuffed",
+        "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "16 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4012",
+        "Name": "Banana Split",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Make like a banana and split!'",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4013",
+        "Name": "BBQ Ribs",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Major improvements to all stats. 'Grilled to perfection!'",
+        "Rarity": "4",
+        "Sell": "1 Gold Coin",
+        "Research": "10 required",
+        "Buff": "Exquisitely Stuffed",
+        "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "24 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4016",
+        "Name": "Chicken Nugget",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Caution: may contain harpy.'",
+        "Rarity": "2",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "14 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4017",
+        "Name": "Chocolate Chip Cookie",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Fresh from the oven'",
+        "Rarity": "3",
+        "Sell": "60 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "20 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4018",
+        "Name": "Cream Soda",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'It's so fizzy!'",
+        "Rarity": "3",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "16 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4021",
+        "Name": "Fries",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Where's the Ketchup!?'",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4023",
+        "Name": "Grapes",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Wrath not included.'",
+        "Rarity": "3",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "16 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4025",
+        "Name": "Hotdog",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Hot diggity!'",
+        "Rarity": "3",
+        "Sell": "60 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "20 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4026",
+        "Name": "Ice Cream",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Eat it before it melts!'",
+        "Rarity": "2",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "14 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4027",
+        "Name": "Milkshake",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Major improvements to all stats. 'It brings the boys to the yard!'",
+        "Rarity": "4",
+        "Sell": "60 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Exquisitely Stuffed",
+        "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "16 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4028",
+        "Name": "Nachos",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'It's nach-yos, it's mine!'",
+        "Rarity": "3",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "16 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4029",
+        "Name": "Pizza",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Major improvements to all stats. 'With pepperoni and extra cheese.'",
+        "Rarity": "3",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Exquisitely Stuffed",
+        "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4030",
+        "Name": "Potato Chips",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'Betcha can't eat just one!'",
+        "Rarity": "1",
+        "Sell": "30 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "18 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4031",
+        "Name": "Roasted Bird",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'Serving Size: 1 child.'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2069",
+                "2070",
+                "2071",
+                "2072",
+                "2073",
+                "2131",
+                "2132",
+                "2133",
+                "2134",
+                "2135"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4032",
+        "Name": "Roasted Duck",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Better than chicken from a wall.'",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2074",
+                "2075",
+                "2076",
+                "2136",
+                "2137",
+                "2138"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4033",
+        "Name": "Sauteed Frog Legs",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'The other, other white meat.'",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2077",
+                "2139"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4035",
+        "Name": "Shrimp Po' Boy",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Po' Boy are you in for a treat!'",
+        "Rarity": "3",
+        "Sell": "50 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "18 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4036",
+        "Name": "Spaghetti",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Major improvements to all stats. 'Al dente!'",
+        "Rarity": "3",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Exquisitely Stuffed",
+        "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4037",
+        "Name": "Steak",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Major improvements to all stats. 'Well done with ketchup!'",
+        "Rarity": "4",
+        "Sell": "60 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Exquisitely Stuffed",
+        "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "16 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4293",
+        "Name": "Peach",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4294",
+        "Name": "Pineapple",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'Goes great with pizza'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4295",
+        "Name": "Plum",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4296",
+        "Name": "Rambutan",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4297",
+        "Name": "Star Fruit",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4616",
+        "Name": "Lemonade",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. '...make lemonade!'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2064",
+                "2126"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4618",
+        "Name": "Peach Sangria",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'Life's a peach'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2066",
+                "2128"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4619",
+        "Name": "Pi\u00f1a Colada",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'If you like pia coladas and getting caught in the rain'",
+        "Rarity": "2",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "20 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2067",
+                "2129"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4624",
+        "Name": "Fruit Juice",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'With 5% real fruit juice!'",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "15 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2045",
+                "2107"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5042",
+        "Name": "Coffee",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Hello darkness my old friend'",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

@@ -1,0 +1,628 @@
+[
+    {
+        "Item ID": "27",
+        "Name": "Acorn",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "2 Copper Coins",
+        "Research": "50 required",
+        "Creates": "Trees",
+        "Planted In": "Regular grass, Snow, Sand, Jungle grass",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "97"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "59",
+        "Name": "Corrupt Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Creates": "Corruption",
+        "Planted In": "Dirt",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "94"
+            ],
+            "Drop": [],
+            "Grab Bag": [
+                "1030"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "62",
+        "Name": "Grass Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "4 Copper Coins",
+        "Research": "25 required",
+        "Creates": "Grass",
+        "Planted In": "Dirt",
+        "Sources": {
+            "Crafting Recipes": [
+                "902",
+                "903"
+            ],
+            "NPC": [
+                "93"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "194",
+        "Name": "Mushroom Grass Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "25 required",
+        "Creates": "Glowing Mushrooms",
+        "Planted In": "Mud",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "107"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "195",
+        "Name": "Jungle Grass Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "30 Copper Coins",
+        "Research": "25 required",
+        "Creates": "Jungle",
+        "Planted In": "Mud",
+        "Sources": {
+            "Crafting Recipes": [
+                "925",
+                "926"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "307",
+        "Name": "Daybloom Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "16 Copper Coins",
+        "Research": "25 required",
+        "Creates": "Daybloom",
+        "Planted In": "Grass",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "951"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "308",
+        "Name": "Moonglow Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "16 Copper Coins",
+        "Research": "25 required",
+        "Creates": "Moonglow",
+        "Planted In": "Jungle grass",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "952"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "309",
+        "Name": "Blinkroot Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "16 Copper Coins",
+        "Research": "25 required",
+        "Creates": "Blinkroot",
+        "Planted In": "Dirt or Mud",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "953"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "310",
+        "Name": "Deathweed Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "16 Copper Coins",
+        "Research": "25 required",
+        "Creates": "Deathweed",
+        "Planted In": "Corrupt or Crimson grass",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "955"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "311",
+        "Name": "Waterleaf Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "16 Copper Coins",
+        "Research": "25 required",
+        "Creates": "Waterleaf",
+        "Planted In": "Sand",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "954"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "312",
+        "Name": "Fireblossom Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "16 Copper Coins",
+        "Research": "25 required",
+        "Creates": "Fireblossom",
+        "Planted In": "Ash",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "956"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "369",
+        "Name": "Hallowed Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "3",
+        "Sell": "4 Silver Coins",
+        "Research": "25 required",
+        "Creates": "Hallow",
+        "Planted In": "Dirt",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "105"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1828",
+        "Name": "Pumpkin Seed",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "50 Copper Coins",
+        "Research": "25 required",
+        "Creates": "Pumpkin",
+        "Planted In": "Grass",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "99"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2171",
+        "Name": "Crimson Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Creates": "Crimson",
+        "Planted In": "Dirt",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "95"
+            ],
+            "Drop": [],
+            "Grab Bag": [
+                "1028"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2357",
+        "Name": "Shiverthorn Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "16 Copper Coins",
+        "Research": "25 required",
+        "Creates": "Shiverthorn",
+        "Planted In": "Snow",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "957"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4041",
+        "Name": "Blue Flower Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "124"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4042",
+        "Name": "Magenta Flower Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "122"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4043",
+        "Name": "Pink Flower Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "121"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4044",
+        "Name": "Red Flower Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "120"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4045",
+        "Name": "Yellow Flower Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "119"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4046",
+        "Name": "Violet Flower Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "123"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4047",
+        "Name": "White Flower Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "118"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4048",
+        "Name": "Tall Grass Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "126"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4241",
+        "Name": "Wild Flower Seeds",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "125"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4851",
+        "Name": "Topaz Gemcorn",
+        "Rarity": "0",
+        "Sell": "3 Silver 75 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "282"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4852",
+        "Name": "Amethyst Gemcorn",
+        "Rarity": "0",
+        "Sell": "3 Silver 75 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "7"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4853",
+        "Name": "Sapphire Gemcorn",
+        "Rarity": "0",
+        "Sell": "3 Silver 75 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "231"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4854",
+        "Name": "Emerald Gemcorn",
+        "Rarity": "0",
+        "Sell": "3 Silver 75 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "82"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4855",
+        "Name": "Ruby Gemcorn",
+        "Rarity": "0",
+        "Sell": "3 Silver 75 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "226"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4856",
+        "Name": "Diamond Gemcorn",
+        "Rarity": "0",
+        "Sell": "3 Silver 75 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "65"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4857",
+        "Name": "Amber Gemcorn",
+        "Rarity": "0",
+        "Sell": "3 Silver 75 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "4"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4871",
+        "Name": "Sakura Sapling",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "80"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4907",
+        "Name": "Yellow Willow Sapling",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "25 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "81"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "Item ID": "115",
+        "Light Pet": "Shadow Orb",
+        "Brightness": "65%",
+        "Notes": "Can be controlled.",
+        "Master Mode Exclusive:": "No",
+        "Buff Image": "light_pets/Shadow_Orb_Buff.png",
+        "Light Pet Image": [
+            "light_pets/Shadow_Orb.png"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "339",
+                "369"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "425",
+        "Light Pet": "Fairy",
+        "Brightness": "80%",
+        "Master Mode Exclusive:": "No",
+        "Buff Image": "light_pets/Fairy_Bell_Buff.png",
+        "Light Pet Image": [
+            "light_pets/Fairy_1.png",
+            "light_pets/Fairy_2.png",
+            "light_pets/Fairy_3.png"
+        ],
+        "Sources": {
+            "Crafting Recipes": [
+                "2631",
+                "2810"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1183",
+        "Light Pet": "Wisp",
+        "Brightness": "120%",
+        "Notes": "Can be controlled.",
+        "Master Mode Exclusive:": "No",
+        "Buff Image": "light_pets/Wisp_in_a_Bottle_Buff.png",
+        "Light Pet Image": [
+            "light_pets/Wisp.gif"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3043",
+        "Light Pet": "Magic Lantern",
+        "Brightness": "65%",
+        "Notes": "Highlights treasure.",
+        "Master Mode Exclusive:": "No",
+        "Buff Image": "light_pets/Magic_Lantern_Buff.png",
+        "Light Pet Image": [
+            "light_pets/Magic_Lantern.png"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "549"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3062",
+        "Light Pet": "Crimson Heart",
+        "Brightness": "65%",
+        "Master Mode Exclusive:": "No",
+        "Buff Image": "light_pets/Crimson_Heart_Buff.png",
+        "Light Pet Image": [
+            "light_pets/Crimson_Heart.gif"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "414",
+                "444"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3577",
+        "Light Pet": "Suspicious Looking Eye",
+        "Brightness": "120%",
+        "Notes": "Highlights treasure and enemies.",
+        "Master Mode Exclusive:": "No",
+        "Buff Image": "light_pets/Suspicious_Looking_Tentacle_Buff.png",
+        "Light Pet Image": [
+            "light_pets/Suspicious_Looking_Eye.gif"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1130"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3856",
+        "Light Pet": "Flickerwick",
+        "Brightness": "80%",
+        "Master Mode Exclusive:": "No",
+        "Buff Image": "light_pets/Creeper_Egg_Buff.png",
+        "Light Pet Image": [
+            "light_pets/Flickerwick.gif"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4807",
+        "Light Pet": "Toy Golem",
+        "Brightness": "80%",
+        "Master Mode Exclusive:": "Yes",
+        "Buff Image": "light_pets/Guardian_Golem_Buff.png",
+        "Light Pet Image": [
+            "light_pets/Toy_Golem.gif"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4811",
+        "Light Pet": "Fairy Princess",
+        "Brightness": "120%",
+        "Master Mode Exclusive:": "Yes",
+        "Buff Image": "light_pets/Jewel_of_Light_Buff.png",
+        "Light Pet Image": [
+            "light_pets/Fairy_Princess.gif"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4812",
+        "Light Pet": "Jack 'O Lantern",
+        "Brightness": "80%",
+        "Master Mode Exclusive:": "Yes",
+        "Buff Image": "light_pets/Pumpkin_Scented_Candle_Buff.png",
+        "Light Pet Image": [
+            "light_pets/Jack_'O_Lantern.gif"
+        ],
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

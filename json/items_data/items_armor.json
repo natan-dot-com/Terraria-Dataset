@@ -1,0 +1,4773 @@
+[
+    {
+        "Item ID": "37",
+        "Name": "Goggles",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "2 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "305",
+                "2019",
+                "2027"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "76",
+        "Name": "Copper Greaves",
+        "Defense": "1",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Sell": "2 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "13",
+        "Sources": {
+            "Crafting Recipes": [
+                "1162",
+                "1428"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "77",
+        "Name": "Iron Greaves",
+        "Defense": "2",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Sell": "8 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "17",
+        "Sources": {
+            "Crafting Recipes": [
+                "1218",
+                "1484"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "78",
+        "Name": "Silver Greaves",
+        "Defense": "3",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "19",
+        "Sources": {
+            "Crafting Recipes": [
+                "1322",
+                "1588"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "79",
+        "Name": "Gold Greaves",
+        "Defense": "4",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "21",
+        "Sources": {
+            "Crafting Recipes": [
+                "1197",
+                "1463"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "80",
+        "Name": "Copper Chainmail",
+        "Defense": "2",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Sell": "2 Silver 50 Copper Coins",
+        "Research": "1 required",
+        "Set ID": "13",
+        "Sources": {
+            "Crafting Recipes": [
+                "1160",
+                "1426"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "81",
+        "Name": "Iron Chainmail",
+        "Defense": "3",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "17",
+        "Sources": {
+            "Crafting Recipes": [
+                "1215",
+                "1481"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "82",
+        "Name": "Silver Chainmail",
+        "Defense": "4",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Sell": "25 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "19",
+        "Sources": {
+            "Crafting Recipes": [
+                "1320",
+                "1586"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "83",
+        "Name": "Gold Chainmail",
+        "Defense": "5",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "21",
+        "Sources": {
+            "Crafting Recipes": [
+                "1194",
+                "1460"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "88",
+        "Name": "Mining Helmet",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Tooltip": "Provides light when worn",
+        "Rarity": "1",
+        "Sell": "80 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "1",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "1"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "89",
+        "Name": "Copper Helmet",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "1 Silver 50 Copper Coins",
+        "Research": "1 required",
+        "Set ID": "13",
+        "Sources": {
+            "Crafting Recipes": [
+                "1164",
+                "1430"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "90",
+        "Name": "Iron Helmet",
+        "Defense": "2",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "6 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "17",
+        "Sources": {
+            "Crafting Recipes": [
+                "1220",
+                "1486"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "91",
+        "Name": "Silver Helmet",
+        "Defense": "3",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "15 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "19",
+        "Sources": {
+            "Crafting Recipes": [
+                "1324",
+                "1590"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "92",
+        "Name": "Gold Helmet",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "21",
+        "Sources": {
+            "Crafting Recipes": [
+                "1199",
+                "1465"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "100",
+        "Name": "Shadow Greaves",
+        "Defense": "6",
+        "Body slot": "Pants",
+        "Tooltip": "7% increased melee speed",
+        "Rarity": "1",
+        "Sell": "45 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "31",
+        "Sources": {
+            "Crafting Recipes": [
+                "1313",
+                "1579"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "101",
+        "Name": "Shadow Scalemail",
+        "Defense": "7",
+        "Body slot": "Shirt",
+        "Tooltip": "7% increased melee speed",
+        "Rarity": "1",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "31",
+        "Sources": {
+            "Crafting Recipes": [
+                "1315",
+                "1581"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "102",
+        "Name": "Shadow Helmet",
+        "Defense": "6",
+        "Body slot": "Helmet",
+        "Tooltip": "7% increased melee speed",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "31",
+        "Sources": {
+            "Crafting Recipes": [
+                "1314",
+                "1580"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "123",
+        "Name": "Meteor Helmet",
+        "Defense": "5",
+        "Body slot": "Helmet",
+        "Tooltip": "9% increased magic damage",
+        "Rarity": "1",
+        "Sell": "90 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "27",
+        "Sources": {
+            "Crafting Recipes": [
+                "1253",
+                "1519"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "124",
+        "Name": "Meteor Suit",
+        "Defense": "6",
+        "Body slot": "Shirt",
+        "Tooltip": "9% increased magic damage",
+        "Rarity": "1",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "27",
+        "Sources": {
+            "Crafting Recipes": [
+                "1256",
+                "1522"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "125",
+        "Name": "Meteor Leggings",
+        "Defense": "5",
+        "Body slot": "Pants",
+        "Tooltip": "9% increased magic damage",
+        "Rarity": "1",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "27",
+        "Sources": {
+            "Crafting Recipes": [
+                "1254",
+                "1520"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "151",
+        "Name": "Necro Helmet",
+        "Defense": "6",
+        "Body slot": "Helmet",
+        "Tooltip": "5% increased ranged damage",
+        "Rarity": "2",
+        "Sell": "90 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "30",
+        "Sources": {
+            "Crafting Recipes": [
+                "589"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "152",
+        "Name": "Necro Breastplate",
+        "Defense": "7",
+        "Body slot": "Shirt",
+        "Tooltip": "5% increased ranged damage",
+        "Rarity": "2",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "30",
+        "Sources": {
+            "Crafting Recipes": [
+                "587"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "153",
+        "Name": "Necro Greaves",
+        "Defense": "6",
+        "Body slot": "Pants",
+        "Tooltip": "5% increased ranged damage",
+        "Rarity": "2",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "30",
+        "Sources": {
+            "Crafting Recipes": [
+                "588"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "228",
+        "Name": "Jungle Hat",
+        "Defense": "5",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases maximum mana by 40. 6% increased magic critical strike chance",
+        "Rarity": "3",
+        "Sell": "90 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "28",
+        "Sources": {
+            "Crafting Recipes": [
+                "1224",
+                "1490"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "229",
+        "Name": "Jungle Shirt",
+        "Defense": "6",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases maximum mana by 20. 6% increased magic damage",
+        "Rarity": "3",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "28",
+        "Sources": {
+            "Crafting Recipes": [
+                "1226",
+                "1492"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "230",
+        "Name": "Jungle Pants",
+        "Defense": "6",
+        "Body slot": "Pants",
+        "Tooltip": "Increases maximum mana by 20. 6% increased magic critical strike chance",
+        "Rarity": "3",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "28",
+        "Sources": {
+            "Crafting Recipes": [
+                "1225",
+                "1491"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "231",
+        "Name": "Molten Helmet",
+        "Defense": "8",
+        "Body slot": "Helmet",
+        "Tooltip": "7% increased melee critical strike chance",
+        "Rarity": "3",
+        "Sell": "90 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "34",
+        "Sources": {
+            "Crafting Recipes": [
+                "1264",
+                "1530"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "232",
+        "Name": "Molten Breastplate",
+        "Defense": "9",
+        "Body slot": "Shirt",
+        "Tooltip": "7% increased melee damage",
+        "Rarity": "3",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "34",
+        "Sources": {
+            "Crafting Recipes": [
+                "1260",
+                "1526"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "233",
+        "Name": "Molten Greaves",
+        "Defense": "8",
+        "Body slot": "Pants",
+        "Tooltip": "7% increased melee speed",
+        "Rarity": "3",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "34",
+        "Sources": {
+            "Crafting Recipes": [
+                "1262",
+                "1528"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "238",
+        "Name": "Wizard Hat",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Tooltip": "5% increased magic damage",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "256",
+        "Name": "Ninja Hood",
+        "Defense": "2",
+        "Body slot": "Helmet",
+        "Tooltip": "3% increased critical strike chance",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "16",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1017"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "257",
+        "Name": "Ninja Shirt",
+        "Defense": "4",
+        "Body slot": "Shirt",
+        "Tooltip": "3% increased critical strike chance",
+        "Rarity": "1",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "16",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1018"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "258",
+        "Name": "Ninja Pants",
+        "Defense": "3",
+        "Body slot": "Pants",
+        "Tooltip": "3% increased critical strike chance",
+        "Rarity": "1",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "16",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1019"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "268",
+        "Name": "Diving Helmet",
+        "Defense": "2",
+        "Body slot": "Helmet",
+        "Tooltip": "Greatly extends underwater breathing",
+        "Rarity": "2",
+        "Sell": "2 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "371",
+        "Name": "Cobalt Hat",
+        "Defense": "2",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases maximum mana by 40. 10% increased magic damage. 9% increased magic critical strike chance",
+        "Rarity": "4",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "37",
+        "Sources": {
+            "Crafting Recipes": [
+                "1147",
+                "1413"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "372",
+        "Name": "Cobalt Helmet",
+        "Defense": "12",
+        "Body slot": "Helmet",
+        "Tooltip": "10% increased movement speed. 15% increased melee damage",
+        "Rarity": "4",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "37",
+        "Sources": {
+            "Crafting Recipes": [
+                "1148",
+                "1414"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "373",
+        "Name": "Cobalt Mask",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Tooltip": "10% increased ranged damage. 10% increased ranged critical strike chance",
+        "Rarity": "4",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "37",
+        "Sources": {
+            "Crafting Recipes": [
+                "1150",
+                "1416"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "374",
+        "Name": "Cobalt Breastplate",
+        "Defense": "8",
+        "Body slot": "Shirt",
+        "Tooltip": "5% increased critical strike chance",
+        "Rarity": "4",
+        "Sell": "1 Gold 20 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "37",
+        "Sources": {
+            "Crafting Recipes": [
+                "1144",
+                "1410"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "375",
+        "Name": "Cobalt Leggings",
+        "Defense": "8",
+        "Body slot": "Pants",
+        "Tooltip": "10% increased movement speed and 3% increased damage",
+        "Rarity": "4",
+        "Sell": "90 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "37",
+        "Sources": {
+            "Crafting Recipes": [
+                "1149",
+                "1415"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "376",
+        "Name": "Mythril Hood",
+        "Defense": "3",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases maximum mana by 60. 15% increased magic damage",
+        "Rarity": "4",
+        "Sell": "2 Gold 25 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "39",
+        "Sources": {
+            "Crafting Recipes": [
+                "2686",
+                "2865"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "377",
+        "Name": "Mythril Helmet",
+        "Defense": "16",
+        "Body slot": "Helmet",
+        "Tooltip": "8% increased melee critical strike chance. 10% increased melee damage",
+        "Rarity": "4",
+        "Sell": "2 Gold 25 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "39",
+        "Sources": {
+            "Crafting Recipes": [
+                "2685",
+                "2864"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "378",
+        "Name": "Mythril Hat",
+        "Defense": "6",
+        "Body slot": "Helmet",
+        "Tooltip": "12% increased ranged damage. 7% increased ranged critical strike chance",
+        "Rarity": "4",
+        "Sell": "2 Gold 25 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "39",
+        "Sources": {
+            "Crafting Recipes": [
+                "2684",
+                "2863"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "379",
+        "Name": "Mythril Chainmail",
+        "Defense": "12",
+        "Body slot": "Shirt",
+        "Tooltip": "7% increased damage",
+        "Rarity": "4",
+        "Sell": "1 Gold 80 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "39",
+        "Sources": {
+            "Crafting Recipes": [
+                "2679",
+                "2858"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "380",
+        "Name": "Mythril Greaves",
+        "Defense": "9",
+        "Body slot": "Pants",
+        "Tooltip": "10% increased critical strike chance",
+        "Rarity": "4",
+        "Sell": "1 Gold 35 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "39",
+        "Sources": {
+            "Crafting Recipes": [
+                "2682",
+                "2861"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "400",
+        "Name": "Adamantite Headgear",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases maximum mana by 80. 12% increased magic damage and critical strike chance",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "41",
+        "Sources": {
+            "Crafting Recipes": [
+                "2584",
+                "2763"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "401",
+        "Name": "Adamantite Helmet",
+        "Defense": "22",
+        "Body slot": "Helmet",
+        "Tooltip": "7% increased melee critical strike chance. 14% increased melee damage",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "41",
+        "Sources": {
+            "Crafting Recipes": [
+                "2585",
+                "2764"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "402",
+        "Name": "Adamantite Mask",
+        "Defense": "8",
+        "Body slot": "Helmet",
+        "Tooltip": "14% increased ranged damage. 10% increased ranged critical strike chance",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "41",
+        "Sources": {
+            "Crafting Recipes": [
+                "2587",
+                "2766"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "403",
+        "Name": "Adamantite Breastplate",
+        "Defense": "16",
+        "Body slot": "Shirt",
+        "Tooltip": "8% increased damage",
+        "Rarity": "4",
+        "Sell": "2 Gold 40 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "41",
+        "Sources": {
+            "Crafting Recipes": [
+                "2579",
+                "2758"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "404",
+        "Name": "Adamantite Leggings",
+        "Defense": "12",
+        "Body slot": "Pants",
+        "Tooltip": "7% increased critical strike chance. 5% increased movement speed",
+        "Rarity": "4",
+        "Sell": "1 Gold 80 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "41",
+        "Sources": {
+            "Crafting Recipes": [
+                "2586",
+                "2765"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "410",
+        "Name": "Mining Shirt",
+        "Defense": "1",
+        "Body slot": "Shirt",
+        "Rarity": "1",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "1",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "411",
+        "Name": "Mining Pants",
+        "Defense": "1",
+        "Body slot": "Pants",
+        "Rarity": "1",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "1",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "551",
+        "Name": "Hallowed Plate Mail",
+        "Defense": "15",
+        "Body slot": "Shirt",
+        "Tooltip": "7% increased critical strike chance",
+        "Rarity": "5",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "50",
+        "Sources": {
+            "Crafting Recipes": [
+                "2656",
+                "2835"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "552",
+        "Name": "Hallowed Greaves",
+        "Defense": "11",
+        "Body slot": "Pants",
+        "Tooltip": "7% increased damage. 8% increased movement speed",
+        "Rarity": "5",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "50",
+        "Sources": {
+            "Crafting Recipes": [
+                "2650",
+                "2829"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "553",
+        "Name": "Hallowed Helmet",
+        "Defense": "9",
+        "Body slot": "Helmet",
+        "Tooltip": "15% increased ranged damage. 8% increased ranged critical strike chance",
+        "Rarity": "5",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "50",
+        "Sources": {
+            "Crafting Recipes": [
+                "2652",
+                "2831"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "558",
+        "Name": "Hallowed Headgear",
+        "Defense": "5",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases maximum mana by 100. 12% increased magic damage and critical strike chance",
+        "Rarity": "5",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "50",
+        "Sources": {
+            "Crafting Recipes": [
+                "2651",
+                "2830"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "559",
+        "Name": "Hallowed Mask",
+        "Defense": "24",
+        "Body slot": "Helmet",
+        "Tooltip": "10% increased melee damage and critical strike chance. 10% increased melee speed",
+        "Rarity": "5",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "50",
+        "Sources": {
+            "Crafting Recipes": [
+                "2655",
+                "2834"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "684",
+        "Name": "Frost Helmet",
+        "Defense": "10",
+        "Body slot": "Helmet",
+        "Tooltip": "16% increased melee and ranged damage",
+        "Rarity": "5",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "44",
+        "Sources": {
+            "Crafting Recipes": [
+                "2643",
+                "2644",
+                "2822",
+                "2823"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "685",
+        "Name": "Frost Breastplate",
+        "Defense": "20",
+        "Body slot": "Shirt",
+        "Tooltip": "11% increased melee and ranged critical strike chance",
+        "Rarity": "5",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "44",
+        "Sources": {
+            "Crafting Recipes": [
+                "2641",
+                "2642",
+                "2820",
+                "2821"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "686",
+        "Name": "Frost Leggings",
+        "Defense": "13",
+        "Body slot": "Pants",
+        "Tooltip": "8% increased movement speed. 10% increased melee attack speed",
+        "Rarity": "5",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "44",
+        "Sources": {
+            "Crafting Recipes": [
+                "2645",
+                "2646",
+                "2824",
+                "2825"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "687",
+        "Name": "Tin Helmet",
+        "Defense": "2",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "2 Silver 25 Copper Coins",
+        "Research": "1 required",
+        "Set ID": "14",
+        "Sources": {
+            "Crafting Recipes": [
+                "1350",
+                "1616"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "688",
+        "Name": "Tin Chainmail",
+        "Defense": "2",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Sell": "3 Silver 75 Copper Coins",
+        "Research": "1 required",
+        "Set ID": "14",
+        "Sources": {
+            "Crafting Recipes": [
+                "1346",
+                "1612"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "689",
+        "Name": "Tin Greaves",
+        "Defense": "1",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "14",
+        "Sources": {
+            "Crafting Recipes": [
+                "1348",
+                "1614"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "690",
+        "Name": "Lead Helmet",
+        "Defense": "3",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "9 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "18",
+        "Sources": {
+            "Crafting Recipes": [
+                "1244",
+                "1510"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "691",
+        "Name": "Lead Chainmail",
+        "Defense": "3",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Sell": "15 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "18",
+        "Sources": {
+            "Crafting Recipes": [
+                "1239",
+                "1505"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "692",
+        "Name": "Lead Greaves",
+        "Defense": "2",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Sell": "12 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "18",
+        "Sources": {
+            "Crafting Recipes": [
+                "1242",
+                "1508"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "693",
+        "Name": "Tungsten Helmet",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "22 Silver 50 Copper Coins",
+        "Research": "1 required",
+        "Set ID": "20",
+        "Sources": {
+            "Crafting Recipes": [
+                "1366",
+                "1632"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "694",
+        "Name": "Tungsten Chainmail",
+        "Defense": "5",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Sell": "37 Silver 50 Copper Coins",
+        "Research": "1 required",
+        "Set ID": "20",
+        "Sources": {
+            "Crafting Recipes": [
+                "1362",
+                "1628"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "695",
+        "Name": "Tungsten Greaves",
+        "Defense": "3",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "20",
+        "Sources": {
+            "Crafting Recipes": [
+                "1364",
+                "1630"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "696",
+        "Name": "Platinum Helmet",
+        "Defense": "5",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "45 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "22",
+        "Sources": {
+            "Crafting Recipes": [
+                "1295",
+                "1561"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "697",
+        "Name": "Platinum Chainmail",
+        "Defense": "6",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "22",
+        "Sources": {
+            "Crafting Recipes": [
+                "1290",
+                "1556"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "698",
+        "Name": "Platinum Greaves",
+        "Defense": "5",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "22",
+        "Sources": {
+            "Crafting Recipes": [
+                "1293",
+                "1559"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "727",
+        "Name": "Wood Helmet",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "2",
+        "Sources": {
+            "Crafting Recipes": [
+                "832"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "728",
+        "Name": "Wood Breastplate",
+        "Defense": "1",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "2",
+        "Sources": {
+            "Crafting Recipes": [
+                "829"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "729",
+        "Name": "Wood Greaves",
+        "Defense": "0",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "2",
+        "Sources": {
+            "Crafting Recipes": [
+                "831"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "730",
+        "Name": "Ebonwood Helmet",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "6",
+        "Sources": {
+            "Crafting Recipes": [
+                "447"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "731",
+        "Name": "Ebonwood Breastplate",
+        "Defense": "2",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "6",
+        "Sources": {
+            "Crafting Recipes": [
+                "438"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "732",
+        "Name": "Ebonwood Greaves",
+        "Defense": "1",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "6",
+        "Sources": {
+            "Crafting Recipes": [
+                "445"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "733",
+        "Name": "Rich Mahogany Helmet",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "3",
+        "Sources": {
+            "Crafting Recipes": [
+                "692"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "734",
+        "Name": "Rich Mahogany Breastplate",
+        "Defense": "1",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "3",
+        "Sources": {
+            "Crafting Recipes": [
+                "683"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "735",
+        "Name": "Rich Mahogany Greaves",
+        "Defense": "1",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "3",
+        "Sources": {
+            "Crafting Recipes": [
+                "690"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "736",
+        "Name": "Pearlwood Helmet",
+        "Defense": "2",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "35",
+        "Sources": {
+            "Crafting Recipes": [
+                "639"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "737",
+        "Name": "Pearlwood Breastplate",
+        "Defense": "3",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "35",
+        "Sources": {
+            "Crafting Recipes": [
+                "630"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "738",
+        "Name": "Pearlwood Greaves",
+        "Defense": "2",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "35",
+        "Sources": {
+            "Crafting Recipes": [
+                "637"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "792",
+        "Name": "Crimson Helmet",
+        "Defense": "6",
+        "Body slot": "Helmet",
+        "Tooltip": "2% increased damage",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Set ID": "33",
+        "Sources": {
+            "Crafting Recipes": [
+                "1168",
+                "1434"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "793",
+        "Name": "Crimson Scalemail",
+        "Defense": "7",
+        "Body slot": "Shirt",
+        "Tooltip": "2% increased damage",
+        "Rarity": "1",
+        "Sell": "80 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "33",
+        "Sources": {
+            "Crafting Recipes": [
+                "1169",
+                "1435"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "794",
+        "Name": "Crimson Greaves",
+        "Defense": "6",
+        "Body slot": "Pants",
+        "Tooltip": "2% increased damage",
+        "Rarity": "1",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "33",
+        "Sources": {
+            "Crafting Recipes": [
+                "1167",
+                "1433"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "803",
+        "Name": "Snow Hood",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Set ID": "9",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "804",
+        "Name": "Snow Coat",
+        "Defense": "2",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Sell": "80 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "9",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "805",
+        "Name": "Snow Pants",
+        "Defense": "1",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "9",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "879",
+        "Name": "Viking Helmet",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "894",
+        "Name": "Cactus Helmet",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "40 Copper Coins",
+        "Research": "1 required",
+        "Set ID": "12",
+        "Sources": {
+            "Crafting Recipes": [
+                "367"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "895",
+        "Name": "Cactus Breastplate",
+        "Defense": "1",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Research": "1 required",
+        "Set ID": "12",
+        "Sources": {
+            "Crafting Recipes": [
+                "361"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "896",
+        "Name": "Cactus Leggings",
+        "Defense": "1",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Sell": "50 Copper Coins",
+        "Research": "1 required",
+        "Set ID": "12",
+        "Sources": {
+            "Crafting Recipes": [
+                "370"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "924",
+        "Name": "Shadewood Helmet",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "7",
+        "Sources": {
+            "Crafting Recipes": [
+                "737"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "925",
+        "Name": "Shadewood Breastplate",
+        "Defense": "2",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "7",
+        "Sources": {
+            "Crafting Recipes": [
+                "728"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "926",
+        "Name": "Shadewood Greaves",
+        "Defense": "1",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "7",
+        "Sources": {
+            "Crafting Recipes": [
+                "735"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "954",
+        "Name": "Ancient Iron Helmet",
+        "Defense": "2",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "17",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "955",
+        "Name": "Ancient Gold Helmet",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "21",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "956",
+        "Name": "Ancient Shadow Helmet",
+        "Defense": "6",
+        "Body slot": "Helmet",
+        "Tooltip": "7% increased melee speed",
+        "Rarity": "1",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "32",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "957",
+        "Name": "Ancient Shadow Scalemail",
+        "Defense": "7",
+        "Body slot": "Shirt",
+        "Tooltip": "7% increased melee speed",
+        "Rarity": "1",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "32",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "958",
+        "Name": "Ancient Shadow Greaves",
+        "Defense": "6",
+        "Body slot": "Pants",
+        "Tooltip": "7% increased melee speed",
+        "Rarity": "1",
+        "Sell": "45 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "32",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "959",
+        "Name": "Ancient Necro Helmet",
+        "Defense": "6",
+        "Body slot": "Helmet",
+        "Tooltip": "5% increased ranged damage",
+        "Rarity": "2",
+        "Sell": "90 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "30",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "960",
+        "Name": "Ancient Cobalt Helmet",
+        "Defense": "5",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases maximum mana by 40. 6% increased magic critical strike chance",
+        "Rarity": "3",
+        "Sell": "90 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "29",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "961",
+        "Name": "Ancient Cobalt Breastplate",
+        "Defense": "6",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases maximum mana by 20. 6% increased magic damage",
+        "Rarity": "3",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "29",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "962",
+        "Name": "Ancient Cobalt Leggings",
+        "Defense": "6",
+        "Body slot": "Pants",
+        "Tooltip": "Increases maximum mana by 20. 6% increased magic critical strike chance",
+        "Rarity": "3",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "29",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "978",
+        "Name": "Pink Snow Hood",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Set ID": "10",
+        "Sources": {
+            "Crafting Recipes": [
+                "652"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "979",
+        "Name": "Pink Snow Coat",
+        "Defense": "2",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Sell": "80 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "10",
+        "Sources": {
+            "Crafting Recipes": [
+                "651"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "980",
+        "Name": "Pink Snow Pants",
+        "Defense": "1",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "10",
+        "Sources": {
+            "Crafting Recipes": [
+                "653"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1001",
+        "Name": "Chlorophyte Mask",
+        "Defense": "20",
+        "Body slot": "Helmet",
+        "Tooltip": "16% increased melee damage. 6% increased melee critical strike chance",
+        "Rarity": "7",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "52",
+        "Sources": {
+            "Crafting Recipes": [
+                "2614",
+                "2793"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1002",
+        "Name": "Chlorophyte Helmet",
+        "Defense": "13",
+        "Body slot": "Helmet",
+        "Tooltip": "16% increased ranged damage. 20% chance to not consume ammo",
+        "Rarity": "7",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "52",
+        "Sources": {
+            "Crafting Recipes": [
+                "2612",
+                "2791"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1003",
+        "Name": "Chlorophyte Headgear",
+        "Defense": "7",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases maximum mana by 80 and reduces mana usage by 17%. 16% increased magic damage",
+        "Rarity": "7",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "52",
+        "Sources": {
+            "Crafting Recipes": [
+                "2611",
+                "2790"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1004",
+        "Name": "Chlorophyte Plate Mail",
+        "Defense": "18",
+        "Body slot": "Shirt",
+        "Tooltip": "5% increased damage. 7% increased critical strike chance",
+        "Rarity": "7",
+        "Sell": "4 Gold 80 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "52",
+        "Sources": {
+            "Crafting Recipes": [
+                "2617",
+                "2796"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1005",
+        "Name": "Chlorophyte Greaves",
+        "Defense": "13",
+        "Body slot": "Pants",
+        "Tooltip": "8% increased critical strike chance. 5% increased movement speed",
+        "Rarity": "7",
+        "Sell": "3 Gold 60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "52",
+        "Sources": {
+            "Crafting Recipes": [
+                "2610",
+                "2789"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1135",
+        "Name": "Rain Hat",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "2 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "8",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1136",
+        "Name": "Rain Coat",
+        "Defense": "2",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Sell": "2 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "8",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1159",
+        "Name": "Tiki Mask",
+        "Defense": "6",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of minions by 1. Increases minion damage by 10%",
+        "Rarity": "7",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "54",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "273"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1160",
+        "Name": "Tiki Shirt",
+        "Defense": "17",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases your max number of minions by 1. Increases minion damage by 10%",
+        "Rarity": "7",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "54",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "274"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1161",
+        "Name": "Tiki Pants",
+        "Defense": "12",
+        "Body slot": "Pants",
+        "Tooltip": "Increases your max number of minions by 1. Increases minion damage by 10%",
+        "Rarity": "7",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "54",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "275"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1205",
+        "Name": "Palladium Mask",
+        "Defense": "14",
+        "Body slot": "Helmet",
+        "Tooltip": "12% increased melee damage. 12% increased melee speed",
+        "Rarity": "4",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "38",
+        "Sources": {
+            "Crafting Recipes": [
+                "1278",
+                "1544"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1206",
+        "Name": "Palladium Helmet",
+        "Defense": "5",
+        "Body slot": "Helmet",
+        "Tooltip": "9% increased ranged damage. 9% increased ranged critical strike chance",
+        "Rarity": "4",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "38",
+        "Sources": {
+            "Crafting Recipes": [
+                "1276",
+                "1542"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1207",
+        "Name": "Palladium Headgear",
+        "Defense": "3",
+        "Body slot": "Helmet",
+        "Tooltip": "9% increased magic damage and critical strike chance. Increases maximum mana by 60",
+        "Rarity": "4",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "38",
+        "Sources": {
+            "Crafting Recipes": [
+                "1275",
+                "1541"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1208",
+        "Name": "Palladium Breastplate",
+        "Defense": "10",
+        "Body slot": "Shirt",
+        "Tooltip": "3% increased damage. 2% increased critical strike chance",
+        "Rarity": "4",
+        "Sell": "1 Gold 20 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "38",
+        "Sources": {
+            "Crafting Recipes": [
+                "1272",
+                "1538"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1209",
+        "Name": "Palladium Leggings",
+        "Defense": "8",
+        "Body slot": "Pants",
+        "Tooltip": "2% increased damage. 1% increased critical strike chance",
+        "Rarity": "4",
+        "Sell": "90 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "38",
+        "Sources": {
+            "Crafting Recipes": [
+                "1277",
+                "1543"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1210",
+        "Name": "Orichalcum Mask",
+        "Defense": "19",
+        "Body slot": "Helmet",
+        "Tooltip": "11% increased melee damage and melee speed. 7% increased movement speed",
+        "Rarity": "4",
+        "Sell": "2 Gold 25 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "40",
+        "Sources": {
+            "Crafting Recipes": [
+                "2702",
+                "2881"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1211",
+        "Name": "Orichalcum Helmet",
+        "Defense": "7",
+        "Body slot": "Helmet",
+        "Tooltip": "15% increased ranged critical strike chance. 8% increased movement speed",
+        "Rarity": "4",
+        "Sell": "2 Gold 25 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "40",
+        "Sources": {
+            "Crafting Recipes": [
+                "2700",
+                "2879"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1212",
+        "Name": "Orichalcum Headgear",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Tooltip": "18% increased magic critical strike chance. Increases maximum mana by 80",
+        "Rarity": "4",
+        "Sell": "2 Gold 25 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "40",
+        "Sources": {
+            "Crafting Recipes": [
+                "2699",
+                "2878"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1213",
+        "Name": "Orichalcum Breastplate",
+        "Defense": "13",
+        "Body slot": "Shirt",
+        "Tooltip": "6% increased critical strike chance",
+        "Rarity": "4",
+        "Sell": "1 Gold 80 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "40",
+        "Sources": {
+            "Crafting Recipes": [
+                "2695",
+                "2874"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1214",
+        "Name": "Orichalcum Leggings",
+        "Defense": "10",
+        "Body slot": "Pants",
+        "Tooltip": "11% increased movement speed",
+        "Rarity": "4",
+        "Sell": "1 Gold 35 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "40",
+        "Sources": {
+            "Crafting Recipes": [
+                "2701",
+                "2880"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1215",
+        "Name": "Titanium Mask",
+        "Defense": "23",
+        "Body slot": "Helmet",
+        "Tooltip": "9% increased melee damage and critical strike chance. 9% increased melee speed",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "42",
+        "Sources": {
+            "Crafting Recipes": [
+                "2742",
+                "2921"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1216",
+        "Name": "Titanium Helmet",
+        "Defense": "8",
+        "Body slot": "Helmet",
+        "Tooltip": "16% increased ranged damage. 7% increased ranged critical strike chance",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "42",
+        "Sources": {
+            "Crafting Recipes": [
+                "2740",
+                "2919"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1217",
+        "Name": "Titanium Headgear",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Tooltip": "16% increased magic damage and 7% increased magic critical strike chance. Increases maximum mana by 100",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "42",
+        "Sources": {
+            "Crafting Recipes": [
+                "2739",
+                "2918"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1218",
+        "Name": "Titanium Breastplate",
+        "Defense": "15",
+        "Body slot": "Shirt",
+        "Tooltip": "4% increased damage. 3% increased critical strike chance",
+        "Rarity": "4",
+        "Sell": "2 Gold 40 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "42",
+        "Sources": {
+            "Crafting Recipes": [
+                "2735",
+                "2914"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1219",
+        "Name": "Titanium Leggings",
+        "Defense": "11",
+        "Body slot": "Pants",
+        "Tooltip": "3% increased damage and critical strike chance. 6% increased movement speed",
+        "Rarity": "4",
+        "Sell": "1 Gold 80 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "42",
+        "Sources": {
+            "Crafting Recipes": [
+                "2741",
+                "2920"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1282",
+        "Name": "Amethyst Robe",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases maximum mana by 20. Reduces mana usage by 5%",
+        "Rarity": "0",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1966"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1283",
+        "Name": "Topaz Robe",
+        "Defense": "1",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases maximum mana by 40. Reduces mana usage by 7%",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2010"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1284",
+        "Name": "Sapphire Robe",
+        "Defense": "1",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases maximum mana by 40. Reduces mana usage by 9%",
+        "Rarity": "1",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2001"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1285",
+        "Name": "Emerald Robe",
+        "Defense": "2",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases maximum mana by 60. Reduces mana usage by 11%",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1975"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1286",
+        "Name": "Ruby Robe",
+        "Defense": "2",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases maximum mana by 60. Reduces mana usage by 13%",
+        "Rarity": "1",
+        "Sell": "2 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2000"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1287",
+        "Name": "Diamond Robe",
+        "Defense": "3",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases maximum mana by 80. Reduces mana usage by 15%",
+        "Rarity": "2",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1974"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1316",
+        "Name": "Turtle Helmet",
+        "Defense": "21",
+        "Body slot": "Helmet",
+        "Tooltip": "6% increased melee damage. Enemies are more likely to target you",
+        "Rarity": "8",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "53",
+        "Sources": {
+            "Crafting Recipes": [
+                "2750",
+                "2929"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1317",
+        "Name": "Turtle Scale Mail",
+        "Defense": "27",
+        "Body slot": "Shirt",
+        "Tooltip": "8% increased melee damage and critical strike chance. Enemies are more likely to target you",
+        "Rarity": "8",
+        "Sell": "4 Gold 80 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "53",
+        "Sources": {
+            "Crafting Recipes": [
+                "2752",
+                "2931"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1318",
+        "Name": "Turtle Leggings",
+        "Defense": "17",
+        "Body slot": "Pants",
+        "Tooltip": "4% increased melee critical strike chance. Enemies are more likely to target you",
+        "Rarity": "8",
+        "Sell": "3 Gold 60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "53",
+        "Sources": {
+            "Crafting Recipes": [
+                "2751",
+                "2930"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1503",
+        "Name": "Spectre Hood",
+        "Defense": "6",
+        "Body slot": "Helmet",
+        "Tooltip": " .",
+        "Rarity": "8",
+        "Sell": "7 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "57",
+        "Sources": {
+            "Crafting Recipes": [
+                "2721",
+                "2900"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1504",
+        "Name": "Spectre Robe",
+        "Defense": "14",
+        "Body slot": "Shirt",
+        "Tooltip": "7% increased magic damage and critical strike chance",
+        "Rarity": "8",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "57",
+        "Sources": {
+            "Crafting Recipes": [
+                "2728",
+                "2907"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1505",
+        "Name": "Spectre Pants",
+        "Defense": "10",
+        "Body slot": "Pants",
+        "Tooltip": "8% increased magic damage. 8% increased movement speed",
+        "Rarity": "8",
+        "Sell": "4 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "57",
+        "Sources": {
+            "Crafting Recipes": [
+                "2726",
+                "2905"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1546",
+        "Name": "Shroomite Headgear",
+        "Defense": "11",
+        "Body slot": "Helmet",
+        "Tooltip": "15% increased arrow damage. 5% increased ranged critical strike chance",
+        "Rarity": "8",
+        "Sell": "7 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "56",
+        "Sources": {
+            "Crafting Recipes": [
+                "2714",
+                "2893"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1547",
+        "Name": "Shroomite Mask",
+        "Defense": "11",
+        "Body slot": "Helmet",
+        "Tooltip": "15% increased bullet damage. 5% increased ranged critical strike chance",
+        "Rarity": "8",
+        "Sell": "7 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "56",
+        "Sources": {
+            "Crafting Recipes": [
+                "2717",
+                "2896"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1548",
+        "Name": "Shroomite Helmet",
+        "Defense": "11",
+        "Body slot": "Helmet",
+        "Tooltip": "15% increased rocket damage. 5% increased ranged critical strike chance",
+        "Rarity": "8",
+        "Sell": "7 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "56",
+        "Sources": {
+            "Crafting Recipes": [
+                "2715",
+                "2894"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1549",
+        "Name": "Shroomite Breastplate",
+        "Defense": "24",
+        "Body slot": "Shirt",
+        "Tooltip": "13% increased ranged damage & critical strike chance. 20% chance to not consume ammo",
+        "Rarity": "8",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "56",
+        "Sources": {
+            "Crafting Recipes": [
+                "2712",
+                "2891"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1550",
+        "Name": "Shroomite Leggings",
+        "Defense": "16",
+        "Body slot": "Pants",
+        "Tooltip": "7% increased ranged critical strike chance. 12% increased movement speed",
+        "Rarity": "8",
+        "Sell": "4 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "56",
+        "Sources": {
+            "Crafting Recipes": [
+                "2716",
+                "2895"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1731",
+        "Name": "Pumpkin Helmet",
+        "Defense": "2",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "15",
+        "Sources": {
+            "Crafting Recipes": [
+                "665"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1732",
+        "Name": "Pumpkin Breastplate",
+        "Defense": "3",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "15",
+        "Sources": {
+            "Crafting Recipes": [
+                "659"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1733",
+        "Name": "Pumpkin Leggings",
+        "Defense": "2",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "15",
+        "Sources": {
+            "Crafting Recipes": [
+                "668"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1832",
+        "Name": "Spooky Helmet",
+        "Defense": "9",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of minions by 1. Increases minion damage by 11%",
+        "Rarity": "8",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Set ID": "58",
+        "Sources": {
+            "Crafting Recipes": [
+                "792"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1833",
+        "Name": "Spooky Breastplate",
+        "Defense": "11",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases your max number of minions by 2. Increases minion damage by 11%",
+        "Rarity": "8",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Set ID": "58",
+        "Sources": {
+            "Crafting Recipes": [
+                "786"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1834",
+        "Name": "Spooky Leggings",
+        "Defense": "10",
+        "Body slot": "Pants",
+        "Tooltip": "Increases your max number of minions by 1. Increases minion damage by 11%. 20% increased movement speed",
+        "Rarity": "8",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Set ID": "58",
+        "Sources": {
+            "Crafting Recipes": [
+                "795"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2189",
+        "Name": "Spectre Mask",
+        "Defense": "18",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases maximum mana by 60 and reduces mana usage by 13%. 10% increased magic damage and critical strike chance",
+        "Rarity": "8",
+        "Sell": "7 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "57",
+        "Sources": {
+            "Crafting Recipes": [
+                "2722",
+                "2901"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2199",
+        "Name": "Beetle Helmet",
+        "Defense": "23",
+        "Body slot": "Helmet",
+        "Tooltip": "6% increased melee damage. Enemies are more likely to target you",
+        "Rarity": "8",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "55",
+        "Sources": {
+            "Crafting Recipes": [
+                "2595",
+                "2774"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2200",
+        "Name": "Beetle Scale Mail",
+        "Defense": "20",
+        "Body slot": "Shirt",
+        "Tooltip": "8% increased melee damage and critical strike chance. 6% increased movement and melee speed",
+        "Rarity": "8",
+        "Sell": "4 Gold 80 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "55",
+        "Sources": {
+            "Crafting Recipes": [
+                "2597",
+                "2776"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2201",
+        "Name": "Beetle Shell",
+        "Defense": "32",
+        "Body slot": "Shirt",
+        "Tooltip": "5% increased melee damage and critical strike chance. Enemies are more likely to target you",
+        "Rarity": "8",
+        "Sell": "4 Gold 80 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "55",
+        "Sources": {
+            "Crafting Recipes": [
+                "2598",
+                "2777"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2202",
+        "Name": "Beetle Leggings",
+        "Defense": "18",
+        "Body slot": "Pants",
+        "Tooltip": "6% increased movement and melee speed. Enemies are more likely to target you",
+        "Rarity": "8",
+        "Sell": "3 Gold 60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "55",
+        "Sources": {
+            "Crafting Recipes": [
+                "2596",
+                "2775"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2275",
+        "Name": "Magic Hat",
+        "Defense": "2",
+        "Body slot": "Helmet",
+        "Tooltip": "6% increased magic damage and critical strike chance",
+        "Rarity": "2",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2277",
+        "Name": "Gi",
+        "Defense": "4",
+        "Body slot": "Shirt",
+        "Tooltip": "5% increased damage and critical strike chance. 10% increased melee and movement speed",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2279",
+        "Name": "Mystic Robe",
+        "Defense": "2",
+        "Body slot": "Shirt",
+        "Tooltip": "6% increased magic damage and critical strike chance. Reduces mana usage by 10%",
+        "Rarity": "1",
+        "Sell": "70 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2361",
+        "Name": "Bee Headgear",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases minion damage by 4%. Increases your max number of minions by 1",
+        "Rarity": "3",
+        "Sell": "90 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "24",
+        "Sources": {
+            "Crafting Recipes": [
+                "1132",
+                "1398"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2362",
+        "Name": "Bee Breastplate",
+        "Defense": "5",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases minion damage by 4%. Increases your max number of minions by 1",
+        "Rarity": "3",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "24",
+        "Sources": {
+            "Crafting Recipes": [
+                "1130",
+                "1396"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2363",
+        "Name": "Bee Greaves",
+        "Defense": "4",
+        "Body slot": "Pants",
+        "Tooltip": "Increases minion damage by 5%",
+        "Rarity": "3",
+        "Sell": "60 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "24",
+        "Sources": {
+            "Crafting Recipes": [
+                "1131",
+                "1397"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2367",
+        "Name": "Angler Hat",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases fishing power",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Set ID": "11",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2368",
+        "Name": "Angler Vest",
+        "Defense": "2",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases fishing power",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Set ID": "11",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2369",
+        "Name": "Angler Pants",
+        "Defense": "1",
+        "Body slot": "Pants",
+        "Tooltip": "Increases fishing power",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Set ID": "11",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2370",
+        "Name": "Spider Mask",
+        "Defense": "5",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of minions by 1. Increases minion damage by 5%",
+        "Rarity": "4",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "36",
+        "Sources": {
+            "Crafting Recipes": [
+                "1332",
+                "1598"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2371",
+        "Name": "Spider Breastplate",
+        "Defense": "8",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases your max number of minions by 1. Increases minion damage by 5%",
+        "Rarity": "4",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "36",
+        "Sources": {
+            "Crafting Recipes": [
+                "1329",
+                "1595"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2372",
+        "Name": "Spider Greaves",
+        "Defense": "7",
+        "Body slot": "Pants",
+        "Tooltip": "Increases your max number of minions by 1. Increases minion damage by 6%",
+        "Rarity": "4",
+        "Sell": "75 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "36",
+        "Sources": {
+            "Crafting Recipes": [
+                "1331",
+                "1597"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2509",
+        "Name": "Boreal Wood Helmet",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "4",
+        "Sources": {
+            "Crafting Recipes": [
+                "351"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2510",
+        "Name": "Boreal Wood Breastplate",
+        "Defense": "1",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "4",
+        "Sources": {
+            "Crafting Recipes": [
+                "342"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2511",
+        "Name": "Boreal Wood Greaves",
+        "Defense": "1",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "4",
+        "Sources": {
+            "Crafting Recipes": [
+                "349"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2512",
+        "Name": "Palm Wood Helmet",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "5",
+        "Sources": {
+            "Crafting Recipes": [
+                "615"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2513",
+        "Name": "Palm Wood Breastplate",
+        "Defense": "1",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "5",
+        "Sources": {
+            "Crafting Recipes": [
+                "606"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2514",
+        "Name": "Palm Wood Greaves",
+        "Defense": "1",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Set ID": "5",
+        "Sources": {
+            "Crafting Recipes": [
+                "613"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2757",
+        "Name": "Vortex Helmet",
+        "Defense": "14",
+        "Body slot": "Helmet",
+        "Tooltip": "16% increased ranged damage. 7% increased ranged critical strike chance",
+        "Rarity": "10",
+        "Sell": "7 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "64",
+        "Sources": {
+            "Crafting Recipes": [
+                "3243"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2758",
+        "Name": "Vortex Breastplate",
+        "Defense": "28",
+        "Body slot": "Shirt",
+        "Tooltip": "12% increased ranged damage and critical strike chance. 25% chance not to consume ammo",
+        "Rarity": "10",
+        "Sell": "14 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "64",
+        "Sources": {
+            "Crafting Recipes": [
+                "3229"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2759",
+        "Name": "Vortex Leggings",
+        "Defense": "20",
+        "Body slot": "Pants",
+        "Tooltip": "8% increased ranged damage and critical strike chance. 10% increased movement speed",
+        "Rarity": "10",
+        "Sell": "10 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "64",
+        "Sources": {
+            "Crafting Recipes": [
+                "3246"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2760",
+        "Name": "Nebula Helmet",
+        "Defense": "14",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases maximum mana by 60 and reduces mana usage by 15% . 7% increased magic damage and critical strike chance",
+        "Rarity": "10",
+        "Sell": "7 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "65",
+        "Sources": {
+            "Crafting Recipes": [
+                "3146"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2761",
+        "Name": "Nebula Breastplate",
+        "Defense": "18",
+        "Body slot": "Shirt",
+        "Tooltip": "9% increased magic damage and critical strike chance",
+        "Rarity": "10",
+        "Sell": "14 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "65",
+        "Sources": {
+            "Crafting Recipes": [
+                "3132"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2762",
+        "Name": "Nebula Leggings",
+        "Defense": "14",
+        "Body slot": "Pants",
+        "Tooltip": "10% increased magic damage. 10% increased movement speed",
+        "Rarity": "10",
+        "Sell": "10 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "65",
+        "Sources": {
+            "Crafting Recipes": [
+                "3149"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2763",
+        "Name": "Solar Flare Helmet",
+        "Defense": "24",
+        "Body slot": "Helmet",
+        "Tooltip": "26% increased melee critical strike chance. Grants minor life regeneration. Enemies are more likely to target you",
+        "Rarity": "10",
+        "Sell": "7 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "63",
+        "Sources": {
+            "Crafting Recipes": [
+                "3176"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2764",
+        "Name": "Solar Flare Breastplate",
+        "Defense": "34",
+        "Body slot": "Shirt",
+        "Tooltip": "29% increased melee damage. Grants minor life regeneration. Enemies are more likely to target you",
+        "Rarity": "10",
+        "Sell": "14 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "63",
+        "Sources": {
+            "Crafting Recipes": [
+                "3173"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2765",
+        "Name": "Solar Flare Leggings",
+        "Defense": "20",
+        "Body slot": "Pants",
+        "Tooltip": "15% increased movement and melee speed. Grants minor life regeneration. Enemies are more likely to target you",
+        "Rarity": "10",
+        "Sell": "10 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "63",
+        "Sources": {
+            "Crafting Recipes": [
+                "3177"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3109",
+        "Name": "Night Vision Helmet",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Tooltip": "Improves vision",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "491"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3187",
+        "Name": "Gladiator Helmet",
+        "Defense": "5",
+        "Body slot": "Helmet",
+        "Rarity": "0",
+        "Sell": "35 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "26",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3188",
+        "Name": "Gladiator Breastplate",
+        "Defense": "6",
+        "Body slot": "Shirt",
+        "Rarity": "0",
+        "Sell": "28 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "26",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3189",
+        "Name": "Gladiator Leggings",
+        "Defense": "5",
+        "Body slot": "Pants",
+        "Rarity": "0",
+        "Sell": "21 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "26",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3266",
+        "Name": "Obsidian Outlaw Hat",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases minion damage by 8%",
+        "Rarity": "0",
+        "Sell": "9 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "25",
+        "Sources": {
+            "Crafting Recipes": [
+                "1043",
+                "1044",
+                "2946",
+                "2947",
+                "3024",
+                "3025"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3267",
+        "Name": "Obsidian Longcoat",
+        "Defense": "6",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases your max number of minions by 1",
+        "Rarity": "0",
+        "Sell": "9 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "25",
+        "Sources": {
+            "Crafting Recipes": [
+                "1041",
+                "1042",
+                "2944",
+                "2945",
+                "3022",
+                "3023"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3268",
+        "Name": "Obsidian Pants",
+        "Defense": "5",
+        "Body slot": "Pants",
+        "Tooltip": "Increases minion damage by 8%",
+        "Rarity": "0",
+        "Sell": "9 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "25",
+        "Sources": {
+            "Crafting Recipes": [
+                "1045",
+                "1046",
+                "2948",
+                "2949",
+                "3026",
+                "3027"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3374",
+        "Name": "Fossil Helmet",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Tooltip": "4% increased ranged critical strike chance  .  20% increased throwing velocity",
+        "Rarity": "1",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "23",
+        "Sources": {
+            "Crafting Recipes": [
+                "1187",
+                "1453"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3375",
+        "Name": "Fossil Plate",
+        "Defense": "5",
+        "Body slot": "Shirt",
+        "Tooltip": "5% increased ranged damage  .  15% increased throwing critical strike chance",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "23",
+        "Sources": {
+            "Crafting Recipes": [
+                "1189",
+                "1455"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3376",
+        "Name": "Fossil Greaves",
+        "Defense": "4",
+        "Body slot": "Pants",
+        "Tooltip": "4% increased ranged critical strike chance  .  20% increased throwing damage",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "23",
+        "Sources": {
+            "Crafting Recipes": [
+                "1186",
+                "1452"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3381",
+        "Name": "Stardust Helmet",
+        "Defense": "10",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of minions by 1. Increases minion damage by 22%",
+        "Rarity": "10",
+        "Sell": "7 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "66",
+        "Sources": {
+            "Crafting Recipes": [
+                "3209"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3382",
+        "Name": "Stardust Plate",
+        "Defense": "16",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases your max number of minions by 2. Increases minion damage by 22%",
+        "Rarity": "10",
+        "Sell": "14 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "66",
+        "Sources": {
+            "Crafting Recipes": [
+                "3216"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3383",
+        "Name": "Stardust Leggings",
+        "Defense": "12",
+        "Body slot": "Pants",
+        "Tooltip": "Increases your max number of minions by 2. Increases minion damage by 22%",
+        "Rarity": "10",
+        "Sell": "10 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Set ID": "66",
+        "Sources": {
+            "Crafting Recipes": [
+                "3212"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3776",
+        "Name": "Forbidden Mask",
+        "Defense": "6",
+        "Body slot": "Helmet",
+        "Tooltip": "15% increased magic and minion damage",
+        "Rarity": "5",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "45",
+        "Sources": {
+            "Crafting Recipes": [
+                "2635",
+                "2636",
+                "2814",
+                "2815"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3777",
+        "Name": "Forbidden Robes",
+        "Defense": "12",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases maximum mana by 40. 10% increased minion damage. Increases your max number of minions by 1",
+        "Rarity": "5",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "45",
+        "Sources": {
+            "Crafting Recipes": [
+                "2637",
+                "2638",
+                "2816",
+                "2817"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3778",
+        "Name": "Forbidden Treads",
+        "Defense": "8",
+        "Body slot": "Pants",
+        "Tooltip": "Increases maximum mana by 40. 10% increased magic damage. Increases your max number of minions by 1",
+        "Rarity": "5",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "45",
+        "Sources": {
+            "Crafting Recipes": [
+                "2639",
+                "2640",
+                "2818",
+                "2819"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3797",
+        "Name": "Apprentice's Hat",
+        "Defense": "7",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of sentries by 1, 10% increased magic damage and reduces mana costs by 10%",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "49",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3798",
+        "Name": "Apprentice's Robe",
+        "Defense": "15",
+        "Body slot": "Shirt",
+        "Tooltip": "20% increased minion damage and 10% increased magic damage",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "49",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3799",
+        "Name": "Apprentice's Trousers",
+        "Defense": "10",
+        "Body slot": "Pants",
+        "Tooltip": "10% increased minion damage, 20% increased magic critical strike chance and movement speed",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "49",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3800",
+        "Name": "Squire's Great Helm",
+        "Defense": "13",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of sentries by 1 and increases your life regeneration",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "46",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3801",
+        "Name": "Squire's Plating",
+        "Defense": "27",
+        "Body slot": "Shirt",
+        "Tooltip": "15% increased minion and melee damage",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "46",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3802",
+        "Name": "Squire's Greaves",
+        "Defense": "18",
+        "Body slot": "Pants",
+        "Tooltip": "15% increased minion damage, 15% increased melee critical strike chance and movement speed",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "46",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3803",
+        "Name": "Huntress's Wig",
+        "Defense": "7",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of sentries by 1 and increases ranged critical strike chance by 10%",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "48",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3804",
+        "Name": "Huntress's Jerkin",
+        "Defense": "17",
+        "Body slot": "Shirt",
+        "Tooltip": "20% increased minion and ranged damage and 10% chance to not consume ammo",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "48",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3805",
+        "Name": "Huntress's Pants",
+        "Defense": "12",
+        "Body slot": "Pants",
+        "Tooltip": "10% increased minion damage and 20% increased movement speed",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "48",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3806",
+        "Name": "Monk's Bushy Brow Bald Cap",
+        "Defense": "8",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of sentries by 1 and increases melee attack speed by 20%",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "47",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3807",
+        "Name": "Monk's Shirt",
+        "Defense": "22",
+        "Body slot": "Shirt",
+        "Tooltip": "20% increased minion and melee damage",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "47",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3808",
+        "Name": "Monk's Pants",
+        "Defense": "16",
+        "Body slot": "Pants",
+        "Tooltip": "10% increased minion damage,. 15% increased melee critical strike chance and 20% increased movement speed",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "47",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3871",
+        "Name": "Valhalla Knight's Helm",
+        "Defense": "20",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of sentries by 2 and increases minion and melee damage by 10%",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "59",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3872",
+        "Name": "Valhalla Knight's Breastplate",
+        "Defense": "24",
+        "Body slot": "Shirt",
+        "Tooltip": "30% increased minion damage and massively increased life regeneration",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "59",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3873",
+        "Name": "Valhalla Knight's Greaves",
+        "Defense": "24",
+        "Body slot": "Pants",
+        "Tooltip": "20% increased minion damage and melee critical strike chance and movement speed",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "59",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3874",
+        "Name": "Dark Artist's Hat",
+        "Defense": "7",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of sentries by 2. 15% increased minion & magic damage",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "62",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3875",
+        "Name": "Dark Artist's Robes",
+        "Defense": "21",
+        "Body slot": "Shirt",
+        "Tooltip": "25% increased minion damage and 10% increased magic damage. Reduces mana costs by 15%",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "62",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3876",
+        "Name": "Dark Artist's Leggings",
+        "Defense": "14",
+        "Body slot": "Pants",
+        "Tooltip": "20% increased minion damage and 25% increased magic critical strike chance. 20% increased movement speed",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "62",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3877",
+        "Name": "Red Riding Hood",
+        "Defense": "8",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of sentries by 2. 10% increased minion damage and ranged critical strike chance",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "61",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3878",
+        "Name": "Red Riding Dress",
+        "Defense": "24",
+        "Body slot": "Shirt",
+        "Tooltip": "25% increased minion & ranged damage and 20% chance to not consume ammo",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "61",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3879",
+        "Name": "Red Riding Leggings",
+        "Defense": "16",
+        "Body slot": "Pants",
+        "Tooltip": "25% increased minion damage and 10% increased ranged critical strike chance. 20% increased movement speed",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "61",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3880",
+        "Name": "Shinobi Infiltrator's Helmet",
+        "Defense": "10",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of sentries by 2 and increases 20% melee & minion damage",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "60",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3881",
+        "Name": "Shinobi Infiltrator's Torso",
+        "Defense": "26",
+        "Body slot": "Shirt",
+        "Tooltip": "20% increased minion damage and melee speed. 5% increased melee critical strike chance",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "60",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3882",
+        "Name": "Shinobi Infiltrator's Pants",
+        "Defense": "18",
+        "Body slot": "Pants",
+        "Tooltip": "20% increased minion damage and melee critical strike chance. 30% increased movement speed",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "60",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4008",
+        "Name": "Ultrabright Helmet",
+        "Defense": "4",
+        "Body slot": "Helmet",
+        "Tooltip": "Improves vision and provides light when worn. 'The darkness holds no secrets for you'",
+        "Rarity": "5",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "1",
+        "Sources": {
+            "Crafting Recipes": [
+                "2261"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4256",
+        "Name": "Amber Robe",
+        "Defense": "3",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases maximum mana by 60. Reduces mana usage by 13%",
+        "Rarity": "2",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1965"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4873",
+        "Name": "Hallowed Hood",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of minions by 1. Increases minion damage by 10%",
+        "Rarity": "5",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "50",
+        "Sources": {
+            "Crafting Recipes": [
+                "2653",
+                "2832"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4896",
+        "Name": "Ancient Hallowed Mask",
+        "Defense": "24",
+        "Body slot": "Helmet",
+        "Tooltip": "10% increased melee damage and critical strike chance. 10% increased melee speed",
+        "Rarity": "5",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "51",
+        "Sources": {
+            "Crafting Recipes": [
+                "2549",
+                "2566"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4897",
+        "Name": "Ancient Hallowed Helmet",
+        "Defense": "9",
+        "Body slot": "Helmet",
+        "Tooltip": "15% increased ranged damage. 8% increased ranged critical strike chance",
+        "Rarity": "5",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "51",
+        "Sources": {
+            "Crafting Recipes": [
+                "2547",
+                "2564"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4898",
+        "Name": "Ancient Hallowed Headgear",
+        "Defense": "5",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases maximum mana by 100. 12% increased magic damage and critical strike chance",
+        "Rarity": "5",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "51",
+        "Sources": {
+            "Crafting Recipes": [
+                "2546",
+                "2563"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4899",
+        "Name": "Ancient Hallowed Hood",
+        "Defense": "1",
+        "Body slot": "Helmet",
+        "Tooltip": "Increases your max number of minions by 1. Increases minion damage by 10%",
+        "Rarity": "5",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "51",
+        "Sources": {
+            "Crafting Recipes": [
+                "2548",
+                "2565"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4900",
+        "Name": "Ancient Hallowed Plate Mail",
+        "Defense": "15",
+        "Body slot": "Shirt",
+        "Tooltip": "7% increased critical strike chance",
+        "Rarity": "5",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "51",
+        "Sources": {
+            "Crafting Recipes": [
+                "2550",
+                "2567"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4901",
+        "Name": "Ancient Hallowed Greaves",
+        "Defense": "11",
+        "Body slot": "Pants",
+        "Tooltip": "7% increased damage. 8% increased movement speed",
+        "Rarity": "5",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "51",
+        "Sources": {
+            "Crafting Recipes": [
+                "2545",
+                "2562"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4982",
+        "Name": "Crystal Assassin Hood",
+        "Defense": "12",
+        "Body slot": "Helmet",
+        "Tooltip": "5% increased critical strike chance. Reduces mana usage by 10%",
+        "Rarity": "5",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "43",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1169"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4983",
+        "Name": "Crystal Assassin Shirt",
+        "Defense": "14",
+        "Body slot": "Shirt",
+        "Tooltip": "5% increased damage. Reduces ammo usage by 10%",
+        "Rarity": "5",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "43",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1170"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4984",
+        "Name": "Crystal Assassin Pants",
+        "Defense": "10",
+        "Body slot": "Pants",
+        "Tooltip": "20% increased movement speed. 10% increased melee speed",
+        "Rarity": "5",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Set ID": "43",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1171"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5001",
+        "Name": "Moon Lord Legs",
+        "Defense": "3",
+        "Body slot": "Pants",
+        "Tooltip": "Slightly increases mobility. 'These might be Steve's'",
+        "Rarity": "2",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5068",
+        "Name": "Flinx Fur Coat",
+        "Defense": "1",
+        "Body slot": "Shirt",
+        "Tooltip": "Increases minion damage by 5%. Increases your max number of minions by 1",
+        "Rarity": "2",
+        "Sell": "2 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1976",
+                "1977"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

@@ -1,0 +1,6238 @@
+[
+    {
+        "Item ID": "15",
+        "Name": "Copper Watch",
+        "Tooltip": "Tells the time",
+        "Rarity": "0",
+        "Sell": "2 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2021",
+                "2029"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "16",
+        "Name": "Silver Watch",
+        "Tooltip": "Tells the time",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2024",
+                "2032"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "17",
+        "Name": "Gold Watch",
+        "Tooltip": "Tells the time",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2022",
+                "2030"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "18",
+        "Name": "Depth Meter",
+        "Tooltip": "Displays depth . Shows depth",
+        "Rarity": "1",
+        "Sell": "25 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "49",
+        "Name": "Band of Regeneration",
+        "Tooltip": "Slowly regenerates life",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "53",
+        "Name": "Cloud in a Bottle",
+        "Tooltip": "Allows the holder to double jump",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "54",
+        "Name": "Hermes Boots",
+        "Tooltip": "The wearer can run super fast",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "111",
+        "Name": "Band of Starpower",
+        "Tooltip": "Increases maximum mana by 20",
+        "Rarity": "1",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2270"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "337",
+                "367"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "128",
+        "Name": "Rocket Boots",
+        "Tooltip": "Allows flight",
+        "Rarity": "3",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "258"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "158",
+        "Name": "Lucky Horseshoe",
+        "Tooltip": "Negates fall damage",
+        "Rarity": "1",
+        "Sell": "54 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "267",
+                "296"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "159",
+        "Name": "Shiny Red Balloon",
+        "Tooltip": "Increases jump height",
+        "Rarity": "1",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "269",
+                "298"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "187",
+        "Name": "Flipper",
+        "Tooltip": "Grants the ability to swim",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "871",
+                "904"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "193",
+        "Name": "Obsidian Skull",
+        "Defense": "1",
+        "Tooltip": "Grants immunity to fire blocks",
+        "Rarity": "2",
+        "Sell": "54 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1012",
+                "1085",
+                "2988",
+                "3066"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "211",
+        "Name": "Feral Claws",
+        "Tooltip": "12% increased melee speed. Enables auto swing for melee weapons",
+        "Rarity": "3",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "191",
+                "224"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "212",
+        "Name": "Anklet of the Wind",
+        "Tooltip": "10% increased movement speed",
+        "Rarity": "3",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "189",
+                "222"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "216",
+        "Name": "Shackle",
+        "Defense": "1",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "223",
+        "Name": "Nature's Gift",
+        "Placeable": "Yes",
+        "Tooltip": "6% reduced mana usage",
+        "Rarity": "3",
+        "Sell": "54 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "285",
+        "Name": "Aglet",
+        "Tooltip": "5% increased movement speed",
+        "Rarity": "0",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "4",
+                "37"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "393",
+        "Name": "Compass",
+        "Tooltip": "Displays horizontal position . Shows horizontal position",
+        "Rarity": "1",
+        "Sell": "25 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "394",
+        "Name": "Diving Gear",
+        "Tooltip": "Grants the ability to swim. Greatly extends underwater breathing",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2189"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "395",
+        "Name": "GPS",
+        "Tooltip": "Shows position. Tells the time",
+        "Rarity": "3",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2202",
+                "2203"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "396",
+        "Name": "Obsidian Horseshoe",
+        "Tooltip": "Negates fall damage. Grants immunity to fire blocks",
+        "Rarity": "4",
+        "Sell": "1 Gold 20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2233"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "399",
+        "Name": "Cloud in a Balloon",
+        "Tooltip": "Allows the holder to double jump. Increases jump height",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2184"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "405",
+        "Name": "Spectre Boots",
+        "Tooltip": "Allows flight. The wearer can run super fast",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2249",
+                "2250",
+                "2251",
+                "2252"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "407",
+        "Name": "Toolbelt",
+        "Tooltip": "Increases block placement range by 1",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "262"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "485",
+        "Name": "Moon Charm",
+        "Tooltip": "Turns the holder into a werewolf at night",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "489",
+        "Name": "Sorcerer Emblem",
+        "Tooltip": "15% increased magic damage",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1064"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "490",
+        "Name": "Warrior Emblem",
+        "Tooltip": "15% increased melee damage",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1065"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "491",
+        "Name": "Ranger Emblem",
+        "Tooltip": "15% increased ranged damage",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1066"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "492",
+        "Name": "Demon Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2626",
+                "2805"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "493",
+        "Name": "Angel Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2592",
+                "2771"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "497",
+        "Name": "Neptune's Shell",
+        "Tooltip": "Transforms the holder into merfolk when entering water",
+        "Rarity": "5",
+        "Sell": "7 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "532",
+        "Name": "Star Cloak",
+        "Tooltip": "Causes stars to fall after taking damage",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "535",
+        "Name": "Philosopher's Stone",
+        "Tooltip": "Reduces the cooldown of healing potions by 25%",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "536",
+        "Name": "Titan Glove",
+        "Tooltip": "Increases melee knockback. Increases the size of melee weapons",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "554",
+        "Name": "Cross Necklace",
+        "Tooltip": "Increases length of invincibility after taking damage",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "555",
+        "Name": "Mana Flower",
+        "Tooltip": "8% reduced mana usage. Automatically use mana potions when needed",
+        "Rarity": "4",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2219"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "562",
+        "Name": "Music Box (Overworld Day)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "563",
+        "Name": "Music Box (Eerie)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "564",
+        "Name": "Music Box (Night)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "565",
+        "Name": "Music Box (Title)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2232"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "566",
+        "Name": "Music Box (Underground)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "567",
+        "Name": "Music Box (Boss 1)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "568",
+        "Name": "Music Box (Jungle)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "569",
+        "Name": "Music Box (Corruption)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "570",
+        "Name": "Music Box (Underground Corruption)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "571",
+        "Name": "Music Box (The Hallow)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "572",
+        "Name": "Music Box (Boss 2)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "573",
+        "Name": "Music Box (Underground Hallow)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "574",
+        "Name": "Music Box (Boss 3)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "576",
+        "Name": "Music Box",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "426"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "665",
+        "Name": "Red's Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "707",
+        "Name": "Tin Watch",
+        "Tooltip": "Tells the time",
+        "Rarity": "0",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2025",
+                "2033"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "708",
+        "Name": "Tungsten Watch",
+        "Tooltip": "Tells the time",
+        "Rarity": "0",
+        "Sell": "15 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2026",
+                "2034"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "709",
+        "Name": "Platinum Watch",
+        "Tooltip": "Tells the time",
+        "Rarity": "1",
+        "Sell": "30 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2023",
+                "2031"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "748",
+        "Name": "Jetpack",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "452"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "749",
+        "Name": "Butterfly Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2602",
+                "2781"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "761",
+        "Name": "Fairy Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2632",
+                "2811"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "785",
+        "Name": "Harpy Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2658",
+                "2837"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "786",
+        "Name": "Bone Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2601",
+                "2780"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "821",
+        "Name": "Flame Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2633",
+                "2812"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "822",
+        "Name": "Frozen Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2647",
+                "2826"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "823",
+        "Name": "Spectre Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2729",
+                "2908"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "854",
+        "Name": "Discount Card",
+        "Tooltip": "Shops prices lowered by 20%",
+        "Rarity": "5",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "855",
+        "Name": "Lucky Coin",
+        "Tooltip": "Hitting enemies will sometimes drop extra coins",
+        "Rarity": "5",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "857",
+        "Name": "Sandstorm in a Bottle",
+        "Tooltip": "Allows the holder to do an improved double jump",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "860",
+        "Name": "Charm of Myths",
+        "Tooltip": "Provides life regeneration and reduces the cooldown of healing potions by 25%",
+        "Rarity": "6",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2183"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "861",
+        "Name": "Moon Shell",
+        "Tooltip": "Turns the holder into a werewolf at night and a merfolk when entering water",
+        "Rarity": "6",
+        "Sell": "8 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2229"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "862",
+        "Name": "Star Veil",
+        "Tooltip": "Causes stars to fall and increases length of invincibility after taking damage",
+        "Rarity": "6",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2254"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "863",
+        "Name": "Water Walking Boots",
+        "Tooltip": "Provides the ability to walk on water & honey",
+        "Rarity": "4",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "867",
+                "900"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "885",
+        "Name": "Adhesive Bandage",
+        "Tooltip": "Immunity to Bleeding",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "886",
+        "Name": "Armor Polish",
+        "Tooltip": "Immunity to Broken Armor",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "887",
+        "Name": "Bezoar",
+        "Tooltip": "Immunity to Poison",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "888",
+        "Name": "Blindfold",
+        "Tooltip": "Immunity to Darkness",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "889",
+        "Name": "Fast Clock",
+        "Tooltip": "Immunity to Slow",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "890",
+        "Name": "Megaphone",
+        "Tooltip": "Immunity to Silence",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "891",
+        "Name": "Nazar",
+        "Tooltip": "Immunity to Curse",
+        "Rarity": "2",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "892",
+        "Name": "Vitamins",
+        "Tooltip": "Immunity to Weakness",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "893",
+        "Name": "Trifold Map",
+        "Tooltip": "Immunity to Confusion",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "897",
+        "Name": "Power Glove",
+        "Tooltip": "Increases melee knockback. 12% increased melee speed. Enables auto swing for melee weapons. Increases the size of melee weapons",
+        "Rarity": "5",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2242"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "898",
+        "Name": "Lightning Boots",
+        "Tooltip": "Allows flight, super fast running. 8% increased movement speed",
+        "Rarity": "5",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2214"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "899",
+        "Name": "Sun Stone",
+        "Tooltip": "If worn during the day, grants minor increase to damage, melee speed, critical strike chance,. life regeneration, defense, mining speed, and minion knockback",
+        "Rarity": "7",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1112"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "900",
+        "Name": "Moon Stone",
+        "Tooltip": "If worn during the night, grants minor increase to damage, melee speed, critical strike chance,. life regeneration, defense, mining speed, and minion knockback",
+        "Rarity": "5",
+        "Sell": "7 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "901",
+        "Name": "Armor Bracing",
+        "Tooltip": "Immunity to Weakness and Broken Armor",
+        "Rarity": "5",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2167"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "902",
+        "Name": "Medicated Bandage",
+        "Tooltip": "Immunity to Poison and Bleeding",
+        "Rarity": "5",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2223"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "903",
+        "Name": "The Plan",
+        "Tooltip": "Immunity to Slow and Confusion",
+        "Rarity": "5",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2259"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "904",
+        "Name": "Countercurse Mantra",
+        "Tooltip": "Immunity to Silence and Curse",
+        "Rarity": "5",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2186"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "906",
+        "Name": "Lava Charm",
+        "Tooltip": "Provides 7 seconds of immunity to lava",
+        "Rarity": "3",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "772",
+                "813"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "907",
+        "Name": "Obsidian Water Walking Boots",
+        "Tooltip": "Provides the ability to walk on water & honey. Grants immunity to fire blocks",
+        "Rarity": "4",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2236"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "908",
+        "Name": "Lava Waders",
+        "Tooltip": "Provides the ability to walk on water, honey & lava. Grants immunity to fire blocks and 7 seconds of immunity to lava. Reduces damage from touching lava",
+        "Rarity": "7",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2210",
+                "2211",
+                "2212"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "934",
+        "Name": "Flying Carpet",
+        "Tooltip": "Allows the owner to float for a few seconds",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "935",
+        "Name": "Avenger Emblem",
+        "Tooltip": "12% increased damage",
+        "Rarity": "5",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2168",
+                "2169",
+                "2170",
+                "2171"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "936",
+        "Name": "Mechanical Glove",
+        "Tooltip": "Increases melee knockback. 12% increased melee damage and speed. Enables auto swing for melee weapons. Increases the size of melee weapons",
+        "Rarity": "6",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2222"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "948",
+        "Name": "Steampunk Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "470"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "950",
+        "Name": "Ice Skates",
+        "Tooltip": "Provides extra mobility on ice. Ice will not break when you fall on it",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "616",
+                "648"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "953",
+        "Name": "Climbing Claws",
+        "Tooltip": "Allows the ability to slide down walls. Improved ability if combined with Shoe Spikes",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "6",
+                "39"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "963",
+        "Name": "Black Belt",
+        "Tooltip": "Gives a chance to dodge attacks",
+        "Rarity": "7",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "975",
+        "Name": "Shoe Spikes",
+        "Tooltip": "Allows the ability to slide down walls. Improved ability if combined with Climbing Claws",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "976",
+        "Name": "Tiger Climbing Gear",
+        "Tooltip": "Allows the ability to climb walls",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2260"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "977",
+        "Name": "Tabi",
+        "Tooltip": "Allows the ability to dash. Double tap a direction",
+        "Rarity": "7",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "982",
+        "Name": "Mana Regeneration Band",
+        "Tooltip": "Increases maximum mana by 20. Increases mana regeneration rate",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2220"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "983",
+        "Name": "Sandstorm in a Balloon",
+        "Tooltip": "Allows the holder to double jump. Increases jump height",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2246"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "984",
+        "Name": "Master Ninja Gear",
+        "Tooltip": "Allows the ability to climb walls and dash. Gives a chance to dodge attacks",
+        "Rarity": "8",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2221"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "987",
+        "Name": "Blizzard in a Bottle",
+        "Tooltip": "Allows the holder to double jump",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "618",
+                "650"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1131",
+        "Name": "Gravity Globe",
+        "Tooltip": "Allows the holder to reverse gravity. Press UP to change gravity",
+        "Rarity": "-12",
+        "Sell": "40 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1129"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1132",
+        "Name": "Honey Comb",
+        "Tooltip": "Releases bees and douses the user in honey when damaged",
+        "Rarity": "2",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1050"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1158",
+        "Name": "Pygmy Necklace",
+        "Tooltip": "Increases your max number of minions by 1",
+        "Rarity": "7",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "276"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1162",
+        "Name": "Leaf Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "271"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1163",
+        "Name": "Blizzard in a Balloon",
+        "Tooltip": "Allows the holder to double jump. Increases jump height",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2174"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1164",
+        "Name": "Bundle of Balloons",
+        "Tooltip": "Allows the holder to quadruple jump. Increases jump height",
+        "Rarity": "8",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2176"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1165",
+        "Name": "Bat Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2593",
+                "2772"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1167",
+        "Name": "Hercules Beetle",
+        "Tooltip": "Increases the damage of your minions by 15%. Increases the knockback of your minions",
+        "Rarity": "7",
+        "Sell": "8 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "277"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1247",
+        "Name": "Bee Cloak",
+        "Tooltip": "Causes stars to fall, releases bees and douses the user in honey when damaged",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2172"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1248",
+        "Name": "Eye of the Golem",
+        "Tooltip": "10% increased critical strike chance",
+        "Rarity": "7",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1113"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1249",
+        "Name": "Honey Balloon",
+        "Tooltip": "Increases jump height. Releases bees and douses the user in honey when damaged",
+        "Rarity": "2",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2208"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1250",
+        "Name": "Blue Horseshoe Balloon",
+        "Tooltip": "Allows the holder to double jump. Increases jump height and negates fall damage",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2175"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1251",
+        "Name": "White Horseshoe Balloon",
+        "Tooltip": "Allows the holder to double jump. Increases jump height and negates fall damage",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2262"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1252",
+        "Name": "Yellow Horseshoe Balloon",
+        "Tooltip": "Allows the holder to double jump. Increases jump height and negates fall damage",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2263"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1253",
+        "Name": "Frozen Turtle Shell",
+        "Tooltip": "Puts a shell around the owner when below 50% life that reduces damage by 25%",
+        "Rarity": "5",
+        "Sell": "4 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1290",
+        "Name": "Panic Necklace",
+        "Tooltip": "Increases movement speed after taking damage",
+        "Rarity": "1",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2272"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "413",
+                "443"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1300",
+        "Name": "Rifle Scope",
+        "Tooltip": "Increases view range for guns. Right click to zoom out",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1301",
+        "Name": "Destroyer Emblem",
+        "Tooltip": "10% increased damage. 8% increased critical strike chance",
+        "Rarity": "7",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2188"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1303",
+        "Name": "Jellyfish Necklace",
+        "Tooltip": "Generates a very subtle glow which becomes more vibrant underwater . Provides light under water",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1321",
+        "Name": "Magic Quiver",
+        "Tooltip": "Increases arrow damage by 10% and greatly increases arrow speed. 20% chance to not consume arrows",
+        "Rarity": "4",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1322",
+        "Name": "Magma Stone",
+        "Tooltip": "Melee attacks inflict fire damage",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1323",
+        "Name": "Obsidian Rose",
+        "Tooltip": "Reduces damage from touching lava",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1343",
+        "Name": "Fire Gauntlet",
+        "Tooltip": "Increases melee knockback and melee attacks inflict fire damage. 12% increased melee damage and speed. Enables auto swing for melee weapons. Increases the size of melee weapons",
+        "Rarity": "7",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2193"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1515",
+        "Name": "Bee Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2594",
+                "2773"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1578",
+        "Name": "Sweetheart Necklace",
+        "Tooltip": "Releases bees, douses the user in honey and increases movement speed when damaged",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2256"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1579",
+        "Name": "Flurry Boots",
+        "Tooltip": "The wearer can run super fast",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "619",
+                "651"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1583",
+        "Name": "D-Town's Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1584",
+        "Name": "Will's Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1585",
+        "Name": "Crowno's Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1586",
+        "Name": "Cenx's Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1595",
+        "Name": "Magic Cuffs",
+        "Tooltip": "Increases maximum mana by 20. Restores mana when damaged",
+        "Rarity": "2",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2215"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1596",
+        "Name": "Music Box (Snow)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1597",
+        "Name": "Music Box (Space Night)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1598",
+        "Name": "Music Box (Crimson)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1599",
+        "Name": "Music Box (Boss 4)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1600",
+        "Name": "Music Box (Alt Overworld Day)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1601",
+        "Name": "Music Box (Rain)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1602",
+        "Name": "Music Box (Ice)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1603",
+        "Name": "Music Box (Desert)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1604",
+        "Name": "Music Box (Ocean Day)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1605",
+        "Name": "Music Box (Dungeon)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1606",
+        "Name": "Music Box (Plantera)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1607",
+        "Name": "Music Box (Boss 5)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1608",
+        "Name": "Music Box (Temple)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1609",
+        "Name": "Music Box (Eclipse)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1610",
+        "Name": "Music Box (Mushrooms)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1612",
+        "Name": "Ankh Charm",
+        "Tooltip": "Grants immunity to most debuffs",
+        "Rarity": "6",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2162"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1724",
+        "Name": "Fart in a Jar",
+        "Tooltip": "Allows the holder to double jump",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2192"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1797",
+        "Name": "Tattered Fairy Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2733",
+                "2912"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1830",
+        "Name": "Spooky Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2731",
+                "2910"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1845",
+        "Name": "Necromantic Scroll",
+        "Tooltip": "Increases your max number of minions by 1. Increases minion damage by 10%",
+        "Rarity": "8",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1858",
+        "Name": "Sniper Scope",
+        "Tooltip": "Increases view range for guns (Right click to zoom out). 10% increased ranged damage and critical strike chance",
+        "Rarity": "7",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2248"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1860",
+        "Name": "Jellyfish Diving Gear",
+        "Tooltip": "Grants the ability to swim and greatly extends underwater breathing. Generates a very subtle glow which becomes more vibrant underwater",
+        "Rarity": "5",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2209"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1861",
+        "Name": "Arctic Diving Gear",
+        "Tooltip": "Grants the ability to swim and greatly extends underwater breathing. Provides extra mobility on ice. Generates a very subtle glow which becomes more vibrant underwater",
+        "Rarity": "6",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2166"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1862",
+        "Name": "Frostspark Boots",
+        "Tooltip": "Allows flight, super fast running, and extra mobility on ice. 8% increased movement speed",
+        "Rarity": "7",
+        "Sell": "7 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2199"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1863",
+        "Name": "Fart in a Balloon",
+        "Tooltip": "Allows the holder to double jump. Increases jump height",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2191"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1864",
+        "Name": "Papyrus Scarab",
+        "Tooltip": "Increases your max number of minions by 1. Increases the damage and knockback of your minions",
+        "Rarity": "8",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2238"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1865",
+        "Name": "Celestial Stone",
+        "Tooltip": "Minor increase to damage, melee speed, critical strike chance,. life regeneration, defense, mining speed, and minion knockback",
+        "Rarity": "7",
+        "Sell": "8 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2180"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1866",
+        "Name": "Hoverboard",
+        "Tooltip": "Allows flight and slow fall. Press DOWN to toggle hover. Press UP to deactivate hover",
+        "Rarity": "5",
+        "Sell": "8 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2660",
+                "2839"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1871",
+        "Name": "Festive Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1921",
+        "Name": "Hand Warmer",
+        "Tooltip": "Provides immunity to chill and freezing effects",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "997"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1923",
+        "Name": "Toolbox",
+        "Tooltip": "Increases block placement & tool range by 1",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "998"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1963",
+        "Name": "Music Box (Pumpkin Moon)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1964",
+        "Name": "Music Box (Alt Underground)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1965",
+        "Name": "Music Box (Frost Moon)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1987",
+        "Name": "Angel Halo",
+        "Rarity": "5",
+        "Sell": "8 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2214",
+        "Name": "Brick Layer",
+        "Tooltip": "Increases tile placement speed",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2215",
+        "Name": "Extendo Grip",
+        "Tooltip": "Increases block placement & tool range by 3 . Increases tile reach",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2216",
+        "Name": "Paint Sprayer",
+        "Tooltip": "Automatically paints placed objects",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2217",
+        "Name": "Portable Cement Mixer",
+        "Tooltip": "Increases wall placement speed",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2219",
+        "Name": "Celestial Magnet",
+        "Tooltip": "Increases pickup range for mana stars",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2220",
+        "Name": "Celestial Emblem",
+        "Tooltip": "Increases pickup range for mana stars. 15% increased magic damage",
+        "Rarity": "5",
+        "Sell": "3 Gold 20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2178"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2221",
+        "Name": "Celestial Cuffs",
+        "Tooltip": "Increases pickup range for mana stars. Restores mana when damaged. Increases maximum mana by 20",
+        "Rarity": "5",
+        "Sell": "3 Gold 20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2177"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2276",
+        "Name": "Diamond Ring",
+        "Rarity": "8",
+        "Sell": "40 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2280",
+        "Name": "Beetle Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "2599",
+                "2778"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2284",
+        "Name": "Crimson Cloak",
+        "Rarity": "5",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2285",
+        "Name": "Mysterious Cape",
+        "Rarity": "5",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2286",
+        "Name": "Red Cape",
+        "Rarity": "5",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2287",
+        "Name": "Winter Cape",
+        "Rarity": "5",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2373",
+        "Name": "High Test Fishing Line",
+        "Tooltip": "Fishing line will never break",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2374",
+        "Name": "Angler Earring",
+        "Tooltip": "Increases fishing power",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2375",
+        "Name": "Tackle Box",
+        "Tooltip": "Decreases chance of bait consumption",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2423",
+        "Name": "Frog Leg",
+        "Tooltip": "Increases jump speed and allows auto-jump. Increases fall resistance",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2494",
+        "Name": "Fin Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2501",
+        "Name": "Ginger Beard",
+        "Rarity": "5",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "70",
+                "101"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2609",
+        "Name": "Fishron Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1122"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2742",
+        "Name": "Music Box (Underground Crimson)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2770",
+        "Name": "Mothron Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2799",
+        "Name": "Mechanical Ruler",
+        "Tooltip": "Creates measurement lines on screen for block placement",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "367"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2998",
+        "Name": "Summoner Emblem",
+        "Tooltip": "15% increased minion damage",
+        "Rarity": "4",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1063"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3015",
+        "Name": "Putrid Scent",
+        "Tooltip": "Enemies are less likely to target you. 5% increased damage and critical strike chance",
+        "Rarity": "6",
+        "Sell": "8 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3016",
+        "Name": "Flesh Knuckles",
+        "Defense": "8",
+        "Tooltip": "Enemies are more likely to target you",
+        "Rarity": "5",
+        "Sell": "8 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3017",
+        "Name": "Flower Boots",
+        "Tooltip": "Flowers grow on the grass you walk on",
+        "Rarity": "7",
+        "Sell": "6 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "188",
+                "221"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3033",
+        "Name": "Gold Ring",
+        "Tooltip": "Increases coin pickup range",
+        "Rarity": "5",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3034",
+        "Name": "Coin Ring",
+        "Tooltip": "Increases coin pickup range. Hitting enemies will sometimes drop extra coins",
+        "Rarity": "5",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2185"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3035",
+        "Name": "Greedy Ring",
+        "Tooltip": "Increases coin pickup range and shops prices lowered by 20%. Hitting enemies will sometimes drop extra coins",
+        "Rarity": "6",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2204"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3036",
+        "Name": "Fish Finder",
+        "Tooltip": "Displays weather, moon phase, and fishing information",
+        "Rarity": "3",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2194"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3037",
+        "Name": "Weather Radio",
+        "Tooltip": "Displays the weather",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3044",
+        "Name": "Music Box (Lunar Boss)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3061",
+        "Name": "Architect Gizmo Pack",
+        "Tooltip": "Increases block & wall placement speed. Increases block placement & tool range by 3. Automatically paints placed objects",
+        "Rarity": "5",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2165"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3068",
+        "Name": "Guide to Plant Fiber Cordage",
+        "Tooltip": "Allows the collection of Vine Rope from vines",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "7",
+                "40"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3084",
+        "Name": "Radar",
+        "Tooltip": "Detects enemies around you",
+        "Rarity": "1",
+        "Sell": "50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "8",
+                "41"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3090",
+        "Name": "Royal Gel",
+        "Tooltip": "Slimes become friendly",
+        "Rarity": "-12",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1014"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3095",
+        "Name": "Tally Counter",
+        "Tooltip": "Displays how many monsters have been killed",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3096",
+        "Name": "Sextant",
+        "Tooltip": "Displays the phase of the moon",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3099",
+        "Name": "Stopwatch",
+        "Tooltip": "Displays how fast the player is moving",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3102",
+        "Name": "Metal Detector",
+        "Tooltip": "Displays the most valuable ore around you",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3110",
+        "Name": "Celestial Shell",
+        "Tooltip": "Turns the holder into a werewolf at night and a merfolk when entering water. Minor increase to damage, melee speed, critical strike chance,. life regeneration, defense, mining speed, and minion knockback",
+        "Rarity": "8",
+        "Sell": "14 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2179"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3118",
+        "Name": "Lifeform Analyzer",
+        "Tooltip": "Displays the name of rare creatures around you",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3119",
+        "Name": "DPS Meter",
+        "Tooltip": "Displays your damage per second",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3120",
+        "Name": "Fisherman's Pocket Guide",
+        "Tooltip": "Displays fishing information",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3121",
+        "Name": "Goblin Tech",
+        "Tooltip": "Displays movement speed, damage per second, and valuable ore",
+        "Rarity": "3",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2201"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3122",
+        "Name": "R.E.K. 3000",
+        "Tooltip": "Displays number of monsters, kill count, and rare creatures",
+        "Rarity": "3",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2244"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3123",
+        "Name": "PDA",
+        "Tooltip": "Displays everything",
+        "Rarity": "5",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2239"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3200",
+        "Name": "Sailfish Boots",
+        "Tooltip": "The wearer can run super fast",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1",
+                "34",
+                "73",
+                "104"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3201",
+        "Name": "Tsunami in a Bottle",
+        "Tooltip": "Allows the holder to double jump",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "2",
+                "35",
+                "74",
+                "105"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3212",
+        "Name": "Shark Tooth Necklace",
+        "Tooltip": "Increases armor penetration by 5",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3223",
+        "Name": "Brain of Confusion",
+        "Tooltip": "Has a chance to create illusions and dodge an attack. Temporarily increase critical chance after dodge. May confuse nearby enemies after being struck",
+        "Rarity": "-12",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1039"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3224",
+        "Name": "Worm Scarf",
+        "Tooltip": "Reduces damage taken by 17%",
+        "Rarity": "-12",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1033"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3225",
+        "Name": "Balloon Pufferfish",
+        "Tooltip": "Increases jump height",
+        "Rarity": "1",
+        "Sell": "2 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3228",
+        "Name": "Lazure's Barrier Platform",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3235",
+        "Name": "Music Box (Martian Madness)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3236",
+        "Name": "Music Box (Pirate Invasion)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3237",
+        "Name": "Music Box (Hell)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3241",
+        "Name": "Sharkron Balloon",
+        "Tooltip": "Increases jump height. Allows the holder to double jump",
+        "Rarity": "1",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2247"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3245",
+        "Name": "Bone Glove",
+        "Damage": "25",
+        "Knockback": "1.8 (Very weak)",
+        "Tooltip": "Shoots crossbones at enemies while you are attacking",
+        "Rarity": "-12",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1072"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3250",
+        "Name": "Green Horseshoe Balloon",
+        "Tooltip": "Allows the holder to double jump. Increases jump height and negates fall damage",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2205"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3251",
+        "Name": "Amber Horseshoe Balloon",
+        "Tooltip": "Releases bees and douses the user in honey when damaged. Increases jump height and negates fall damage",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2159"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3252",
+        "Name": "Pink Horseshoe Balloon",
+        "Tooltip": "Allows the holder to double jump. Increases jump height and negates fall damage",
+        "Rarity": "4",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2240"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3293",
+        "Name": "Red String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2372"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3294",
+        "Name": "Orange String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2354"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3295",
+        "Name": "Yellow String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2400"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3296",
+        "Name": "Lime String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2348"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3297",
+        "Name": "Green String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2339"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3298",
+        "Name": "Teal String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2386"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3299",
+        "Name": "Cyan String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2316"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3300",
+        "Name": "Sky Blue String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2379"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3301",
+        "Name": "Blue String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2292"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3302",
+        "Name": "Purple String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2365"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3303",
+        "Name": "Violet String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2392"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3304",
+        "Name": "Pink String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2360"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3305",
+        "Name": "Brown String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2310"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3306",
+        "Name": "White String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2017"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3307",
+        "Name": "Rainbow String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2367"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3308",
+        "Name": "Black String",
+        "Tooltip": "Increases yoyo range",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2284"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3309",
+        "Name": "Black Counterweight",
+        "Tooltip": "Throws a counterweight after hitting an enemy with a yoyo",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3310",
+        "Name": "Blue Counterweight",
+        "Tooltip": "Throws a counterweight after hitting an enemy with a yoyo",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "539"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3311",
+        "Name": "Green Counterweight",
+        "Tooltip": "Throws a counterweight after hitting an enemy with a yoyo",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "542"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3312",
+        "Name": "Purple Counterweight",
+        "Tooltip": "Throws a counterweight after hitting an enemy with a yoyo",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "541"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3313",
+        "Name": "Red Counterweight",
+        "Tooltip": "Throws a counterweight after hitting an enemy with a yoyo",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "540"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3314",
+        "Name": "Yellow Counterweight",
+        "Tooltip": "Throws a counterweight after hitting an enemy with a yoyo",
+        "Rarity": "2",
+        "Sell": "1 Gold Coin",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3333",
+        "Name": "Hive Pack",
+        "Tooltip": "Increases the strength of friendly bees",
+        "Rarity": "-12",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1045"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3334",
+        "Name": "Yoyo Glove",
+        "Tooltip": "Allows the use of two yoyos at once",
+        "Rarity": "4",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "547"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3336",
+        "Name": "Spore Sac",
+        "Tooltip": "Summons spores over time that will damage enemies",
+        "Rarity": "-12",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1092"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3337",
+        "Name": "Shiny Stone",
+        "Tooltip": "Greatly increases life regen when not moving",
+        "Rarity": "-12",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1107"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3366",
+        "Name": "Yoyo Bag",
+        "Tooltip": "Gives the user master yoyo skills",
+        "Rarity": "4",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2264",
+                "2265",
+                "2266",
+                "2267",
+                "2268",
+                "2269"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3370",
+        "Name": "Music Box (The Towers)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3371",
+        "Name": "Music Box (Goblin Invasion)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3468",
+        "Name": "Solar Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3189"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3469",
+        "Name": "Vortex Booster",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3228"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3470",
+        "Name": "Nebula Mantle",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3150"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3471",
+        "Name": "Stardust Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3221"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3580",
+        "Name": "Yoraiz0r's Spell",
+        "Tooltip": "'Great for impersonating devs!'. Allows flight and slow fall. Whatever this accessory does to you is not a bug!",
+        "Rarity": "9",
+        "Sell": "8 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3582",
+        "Name": "Jim's Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3588",
+        "Name": "Skiphs' Paws",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3592",
+        "Name": "Loki's Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3619",
+        "Name": "Mechanical Lens",
+        "Tooltip": "Grants improved wire vision",
+        "Rarity": "3",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "368"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3624",
+        "Name": "Presserator",
+        "Tooltip": "Automatically places actuators on placed objects",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3721",
+        "Name": "Angler Tackle Bag",
+        "Tooltip": "Fishing line will never break, decreases chance of bait consumption, increases fishing power",
+        "Rarity": "3",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2161"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3730",
+        "Name": "Bundled Party Balloons",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "341"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3731",
+        "Name": "Balloon Animal",
+        "Rarity": "1",
+        "Sell": "40 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "342"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3781",
+        "Name": "Pocket Mirror",
+        "Tooltip": "Immunity to petrification",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3796",
+        "Name": "Music Box (Sandstorm)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3809",
+        "Name": "Apprentice's Scarf",
+        "Tooltip": "Increase your max number of sentries by 1. Increases minion damage by 10%",
+        "Rarity": "5",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3811",
+        "Name": "Huntress's Buckler",
+        "Tooltip": "Increase your max number of sentries by 1. Increases minion damage by 10%",
+        "Rarity": "5",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3812",
+        "Name": "Monk's Belt",
+        "Tooltip": "Increase your max number of sentries by 1. Increases minion damage by 10%",
+        "Rarity": "5",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3869",
+        "Name": "Music Box (Old One's Army)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3883",
+        "Name": "Betsy's Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1151"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3924",
+        "Name": "Arkhalis' Lightwings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3928",
+        "Name": "Leinfors' Prehensile Cloak",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3989",
+        "Name": "Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "174"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3990",
+        "Name": "Amphibian Boots",
+        "Tooltip": "The wearer can run super fast. Increases jump speed and allows auto-jump. Increases fall resistance",
+        "Rarity": "5",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2160"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3991",
+        "Name": "Arcane Flower",
+        "Tooltip": "8% reduced mana usage. Automatically use mana potions when needed. Enemies are less likely to target you",
+        "Rarity": "5",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2164"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3992",
+        "Name": "Berserker's Glove",
+        "Defense": "8",
+        "Tooltip": "Increases melee knockback. 12% increased melee speed. Enables auto swing for melee weapons. Increases the size of melee weapons. Enemies are more likely to target you",
+        "Rarity": "5",
+        "Sell": "15 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2173"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3993",
+        "Name": "Fairy Boots",
+        "Tooltip": "Allows flight. The wearer can run super fast. Flowers grow on the grass you walk on",
+        "Rarity": "5",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2190"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3994",
+        "Name": "Frog Flipper",
+        "Tooltip": "Grants the ability to swim. Increases jump speed and allows auto-jump. Increases fall resistance",
+        "Rarity": "5",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2195"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3995",
+        "Name": "Frog Gear",
+        "Tooltip": "Grants the ability to swim. Allows the ability to climb walls. Increases jump speed and allows auto-jump. Increases fall resistance. 'It ain't easy being green'",
+        "Rarity": "5",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2196",
+                "2197"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3996",
+        "Name": "Frog Webbing",
+        "Tooltip": "Allows the ability to climb walls. Increases jump speed and allows auto-jump. Increases fall resistance",
+        "Rarity": "5",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2198"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3999",
+        "Name": "Magma Skull",
+        "Tooltip": "Melee attacks inflict fire damage. Grants immunity to fire blocks",
+        "Rarity": "5",
+        "Sell": "2 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2216"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4000",
+        "Name": "Magnet Flower",
+        "Tooltip": "8% reduced mana usage. Automatically use mana potions when needed. Increases pickup range for mana stars",
+        "Rarity": "5",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2217"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4001",
+        "Name": "Mana Cloak",
+        "Tooltip": "8% reduced mana usage. Automatically use mana potions when needed. Causes stars to fall after taking damage. Stars restore mana when collected",
+        "Rarity": "5",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2218"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4002",
+        "Name": "Molten Quiver",
+        "Tooltip": "Increases arrow damage by 10% and greatly increases arrow speed. 20% chance not to consume arrows. Lights wooden arrows ablaze. 'Quiver in fear!'",
+        "Rarity": "5",
+        "Sell": "7 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2225"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4003",
+        "Name": "Molten Skull Rose",
+        "Tooltip": "Melee attacks inflict fire damage. Grants immunity to fire blocks. Reduces damage from touching lava",
+        "Rarity": "6",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2226",
+                "2227",
+                "2228"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4004",
+        "Name": "Obsidian Skull Rose",
+        "Tooltip": "Grants immunity to fire blocks. Reduces damage from touching lava",
+        "Rarity": "5",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2235"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4005",
+        "Name": "Recon Scope",
+        "Tooltip": "Increases view range for guns (Right click to zoom out). 10% increased ranged damage and critical strike chance. Enemies are less likely to target you. 'Enemy spotted'",
+        "Rarity": "5",
+        "Sell": "15 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2245"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4006",
+        "Name": "Stalker's Quiver",
+        "Tooltip": "Increases arrow damage by 10% and greatly increases arrow speed. 20% chance not to consume arrows. Enemies are less likely to target you",
+        "Rarity": "5",
+        "Sell": "15 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2253"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4007",
+        "Name": "Stinger Necklace",
+        "Tooltip": "Increases armor penetration by 5. Releases bees and douses the user in honey when damaged",
+        "Rarity": "5",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2255"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4038",
+        "Name": "Molten Charm",
+        "Tooltip": "Grants immunity to fire blocks. Provides 7 seconds of immunity to lava",
+        "Rarity": "5",
+        "Sell": "7 Gold 50 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2224"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4055",
+        "Name": "Dunerider Boots",
+        "Tooltip": "The wearer can run super fast, and even faster on sand. 'Walk without rhythm and you won't attract the worm'",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "692",
+                "727"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4056",
+        "Name": "Ancient Chisel",
+        "Tooltip": "Increases mining speed by 25%. 'Ancient problems require ancient solutions'",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "690",
+                "725"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4077",
+        "Name": "Music Box (Ocean Night)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4078",
+        "Name": "Music Box (Slime Rain)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4079",
+        "Name": "Music Box (Space Day)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4080",
+        "Name": "Music Box (Town Day)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4081",
+        "Name": "Music Box (Town Night)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4082",
+        "Name": "Music Box (Windy Day)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4237",
+        "Name": "Music Box (Day Remix)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "581"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4242",
+        "Name": "Black Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2283"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4243",
+        "Name": "Blue Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2291"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4244",
+        "Name": "Brown Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2309"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4245",
+        "Name": "Cyan Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2314"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4246",
+        "Name": "Green Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2338"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4247",
+        "Name": "Lime Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2347"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4248",
+        "Name": "Orange Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2353"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4249",
+        "Name": "Pink Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2359"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4250",
+        "Name": "Purple Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2364"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4251",
+        "Name": "Red Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2371"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4252",
+        "Name": "Sky Blue Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2378"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4253",
+        "Name": "Teal Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2385"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4254",
+        "Name": "Violet Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2390"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4255",
+        "Name": "Yellow Golf Ball",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Tooltip": "Can be hit with a golf club",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2398"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4341",
+        "Name": "Step Stool",
+        "Tooltip": "Hold UP to reach higher",
+        "Rarity": "1",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4356",
+        "Name": "Music Box (Journey's Beginning)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2231"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4357",
+        "Name": "Music Box (Storm)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4358",
+        "Name": "Music Box (Graveyard)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4404",
+        "Name": "Inner Tube",
+        "Tooltip": "Grants the ability to float in water",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "869",
+                "902"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4409",
+        "Name": "Spectre Goggles",
+        "Tooltip": "Enables Echo Sight, showing hidden blocks",
+        "Rarity": "5",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "494"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4421",
+        "Name": "Music Box (Underground Jungle)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4606",
+        "Name": "Music Box (Jungle Night)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4730",
+        "Name": "Ghostar's Infinity Eight",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4744",
+        "Name": "Hunter Cloak",
+        "Rarity": "5",
+        "Sell": "3 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "346"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4746",
+        "Name": "Safeman's Blanket Cape",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4750",
+        "Name": "FoodBarbarian's Tattered Dragon Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4754",
+        "Name": "Grox The Great's Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4762",
+        "Name": "Critter Shampoo",
+        "Tooltip": "Applies dye to minions",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "59"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4822",
+        "Name": "Flame Waker Boots",
+        "Tooltip": "'Never get cold feet again'",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "773",
+                "814"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4823",
+        "Name": "Empress Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1155"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4874",
+        "Name": "Hellfire Treads",
+        "Tooltip": "Provides the ability to walk on water, honey & lava. Grants immunity to fire blocks and 7 seconds of immunity to lava. Reduces damage from touching lava. Leaves a trail of flames in your wake",
+        "Rarity": "7",
+        "Sell": "12 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2206"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4881",
+        "Name": "Lavaproof Fishing Hook",
+        "Tooltip": "Allows fishing in lava",
+        "Rarity": "7",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "776",
+                "817"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4954",
+        "Name": "Celestial Starboard",
+        "Tooltip": "Allows flight and slow fall. Press DOWN to toggle hover. Press UP to deactivate hover. Hold UP to boost faster!. 'The more you know'",
+        "Rarity": "-12",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1131"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4978",
+        "Name": "Fledgling Wings",
+        "Tooltip": "Allows flight and slow fall",
+        "Sell": "8 Gold Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "266",
+                "295"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4979",
+        "Name": "Music Box (Queen Slime)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4985",
+        "Name": "Music Box (Empress Of Light)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4987",
+        "Name": "Volatile Gelatin",
+        "Tooltip": "Releases volatile gelatin periodically that damages enemies",
+        "Rarity": "-12",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1163"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4989",
+        "Name": "Soaring Insignia",
+        "Tooltip": "Grants infinite wing and rocket boot flight. Increases flight and jump mobility",
+        "Rarity": "-12",
+        "Sell": "10 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1153"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4990",
+        "Name": "Music Box (Duke Fishron)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4991",
+        "Name": "Music Box (Morning Rain)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4992",
+        "Name": "Music Box (Alt Title)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2271"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5000",
+        "Name": "Terraspark Boots",
+        "Tooltip": "Allows flight, super fast running, and extra mobility on ice. 8% increased movement speed. Provides the ability to walk on water, honey & lava. Grants immunity to fire blocks and 7 seconds of immunity to lava. Reduces damage from touching lava",
+        "Rarity": "7",
+        "Sell": "15 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2257"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5006",
+        "Name": "Music Box (Underground Desert)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5010",
+        "Name": "Treasure Magnet",
+        "Tooltip": "Increases pickup range for items",
+        "Rarity": "1",
+        "Sell": "5 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1185"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5014",
+        "Name": "Otherworldly Music Box (Rain)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5015",
+        "Name": "Otherworldly Music Box (Overworld Day)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5016",
+        "Name": "Otherworldly Music Box (Night)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5017",
+        "Name": "Otherworldly Music Box (Underground)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5018",
+        "Name": "Otherworldly Music Box (Desert)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5019",
+        "Name": "Otherworldly Music Box (Ocean)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5020",
+        "Name": "Otherworldly Music Box (Mushrooms)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5021",
+        "Name": "Otherworldly Music Box (Dungeon)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5022",
+        "Name": "Otherworldly Music Box (Space)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5023",
+        "Name": "Otherworldly Music Box (Underworld)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5024",
+        "Name": "Otherworldly Music Box (Snow)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5025",
+        "Name": "Otherworldly Music Box (Corruption)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5026",
+        "Name": "Otherworldly Music Box (Underground Corruption)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5027",
+        "Name": "Otherworldly Music Box (Crimson)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5028",
+        "Name": "Otherworldly Music Box (Underground Crimson)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5029",
+        "Name": "Otherworldly Music Box (Ice)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5030",
+        "Name": "Otherworldly Music Box (Underground Hallow)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5031",
+        "Name": "Otherworldly Music Box (Eerie)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5032",
+        "Name": "Otherworldly Music Box (Boss 2)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5033",
+        "Name": "Otherworldly Music Box (Boss 1)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5034",
+        "Name": "Otherworldly Music Box (Invasion)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5035",
+        "Name": "Otherworldly Music Box (The Towers)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5036",
+        "Name": "Otherworldly Music Box (Lunar Boss)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5037",
+        "Name": "Otherworldly Music Box (Plantera)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5038",
+        "Name": "Otherworldly Music Box (Jungle)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5039",
+        "Name": "Otherworldly Music Box (Wall of Flesh)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5040",
+        "Name": "Otherworldly Music Box (Hallow)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5044",
+        "Name": "Music Box (Journey's End)",
+        "Tooltip": "Has a chance to record songs",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "530"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5064",
+        "Name": "Lavaproof Tackle Bag",
+        "Tooltip": "Fishing line will never break, decreases chance of bait consumption, increases fishing power. Allows fishing in lava",
+        "Rarity": "8",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2213"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5075",
+        "Name": "Rainbow Cursor",
+        "Tooltip": "Causes your mouse cursor to have shifting rainbow colors",
+        "Rarity": "5",
+        "Sell": "1 Gold Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1158"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5076",
+        "Name": "Royal Scepter",
+        "Rarity": "5",
+        "Sell": "20 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "518"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5077",
+        "Name": "Glass Slipper",
+        "Rarity": "5",
+        "Sell": "20 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "519"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

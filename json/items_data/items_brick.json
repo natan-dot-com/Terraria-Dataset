@@ -1,0 +1,937 @@
+[
+    {
+        "Item ID": "129",
+        "Name": "Gray Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "121",
+                "484",
+                "995",
+                "1068",
+                "2971",
+                "3049"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Gray_Brick_placed.png"
+    },
+    {
+        "Item ID": "131",
+        "Name": "Red Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "675",
+                "1022",
+                "1095",
+                "2998",
+                "3076"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Red_Brick_placed.png"
+    },
+    {
+        "Item ID": "134",
+        "Name": "Blue Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "No",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Looted from Blue Dungeons."
+        },
+        "Brick Image": "bricks/Blue_Brick_placed.png"
+    },
+    {
+        "Item ID": "137",
+        "Name": "Green Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "No",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Looted from Green Dungeons."
+        },
+        "Brick Image": "bricks/Green_Brick_placed.png"
+    },
+    {
+        "Item ID": "139",
+        "Name": "Pink Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "No",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Looted from Pink Dungeons."
+        },
+        "Brick Image": "bricks/Pink_Brick_placed.png"
+    },
+    {
+        "Item ID": "141",
+        "Name": "Gold Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "468",
+                "994",
+                "1067",
+                "2970",
+                "3048"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Gold_Brick_placed.png"
+    },
+    {
+        "Item ID": "143",
+        "Name": "Silver Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "753",
+                "1028",
+                "1101",
+                "3004",
+                "3082"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Silver_Brick_placed.png"
+    },
+    {
+        "Item ID": "145",
+        "Name": "Copper Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "393",
+                "983",
+                "1056",
+                "2959",
+                "3037"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Copper_Brick_placed.png"
+    },
+    {
+        "Item ID": "192",
+        "Name": "Obsidian Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "188",
+                "590",
+                "1011",
+                "1084",
+                "2987",
+                "3065"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Obsidian_Brick_placed.png"
+    },
+    {
+        "Item ID": "214",
+        "Name": "Hellstone Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "498",
+                "998",
+                "1071",
+                "2974",
+                "3052"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Hellstone_Brick_placed.png"
+    },
+    {
+        "Item ID": "412",
+        "Name": "Pearlstone Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "625",
+                "1016",
+                "1089",
+                "2992",
+                "3070"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Pearlstone_Brick_placed.png"
+    },
+    {
+        "Item ID": "413",
+        "Name": "Iridescent Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "508",
+                "999",
+                "1072",
+                "2975",
+                "3053"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Iridescent_Brick_placed.png"
+    },
+    {
+        "Item ID": "414",
+        "Name": "Mudstone Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "568",
+                "1007",
+                "1080",
+                "2983",
+                "3061"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Mudstone_Brick_placed.png"
+    },
+    {
+        "Item ID": "415",
+        "Name": "Cobalt Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "387",
+                "981",
+                "1054",
+                "2957",
+                "3035"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Cobalt_Brick_placed.png"
+    },
+    {
+        "Item ID": "416",
+        "Name": "Mythril Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "582",
+                "1010",
+                "1083",
+                "2986",
+                "3064"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Mythril_Brick_placed.png"
+    },
+    {
+        "Item ID": "577",
+        "Name": "Demonite Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "412",
+                "989",
+                "1062",
+                "2965",
+                "3043"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Demonite_Brick_placed.png"
+    },
+    {
+        "Item ID": "594",
+        "Name": "Snow Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "766",
+                "767"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Snow_Brick_placed.png"
+    },
+    {
+        "Item ID": "604",
+        "Name": "Adamantite Beam",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "307",
+                "974",
+                "1047",
+                "2950",
+                "3028"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Adamantite_Beam_placed.png"
+    },
+    {
+        "Item ID": "607",
+        "Name": "Sandstone Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "705",
+                "1025",
+                "1098",
+                "3001",
+                "3079"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Sandstone_Brick_placed.png"
+    },
+    {
+        "Item ID": "609",
+        "Name": "Ebonstone Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "433",
+                "990",
+                "1063",
+                "2966",
+                "3044"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Ebonstone_Brick_placed.png"
+    },
+    {
+        "Item ID": "662",
+        "Name": "Rainbow Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "673"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Rainbow_Brick_placed.png"
+    },
+    {
+        "Item ID": "717",
+        "Name": "Tin Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "808",
+                "1033",
+                "1106",
+                "3009",
+                "3087"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Tin_Brick_placed.png"
+    },
+    {
+        "Item ID": "718",
+        "Name": "Tungsten Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "819",
+                "1036",
+                "1109",
+                "3012",
+                "3090"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Tungsten_Brick_placed.png"
+    },
+    {
+        "Item ID": "719",
+        "Name": "Platinum Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "654",
+                "1020",
+                "1093",
+                "2996",
+                "3074"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Platinum_Brick_placed.png"
+    },
+    {
+        "Item ID": "883",
+        "Name": "Ice Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "505",
+                "506"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Ice_Brick_placed.png"
+    },
+    {
+        "Item ID": "1101",
+        "Name": "Lihzahrd Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "No",
+        "Sources": {
+            "Crafting Recipes": [
+                "166",
+                "529"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Looted from the Jungle Temple."
+        },
+        "Brick Image": "bricks/Lihzahrd_Brick_placed.png"
+    },
+    {
+        "Item ID": "1589",
+        "Name": "Palladium Column",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "601",
+                "1015",
+                "1088",
+                "2991",
+                "3069"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Palladium_Column_placed.png"
+    },
+    {
+        "Item ID": "1593",
+        "Name": "Titanstone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "812",
+                "1034",
+                "1107",
+                "3010",
+                "3088"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Titanstone_Block_placed.png"
+    },
+    {
+        "Item ID": "2792",
+        "Name": "Chlorophyte Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "383",
+                "978",
+                "1051",
+                "2954",
+                "3032"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Chlorophyte_Brick_placed.png"
+    },
+    {
+        "Item ID": "2793",
+        "Name": "Crimtane Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "399",
+                "986",
+                "1059",
+                "2962",
+                "3040"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Crimtane_Brick_placed.png"
+    },
+    {
+        "Item ID": "3100",
+        "Name": "Meteorite Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "178",
+                "555",
+                "1006",
+                "1079",
+                "2982",
+                "3060"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Meteorite_Brick_placed.png"
+    },
+    {
+        "Item ID": "3461",
+        "Name": "Luminite Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "531",
+                "1004",
+                "1077",
+                "2980",
+                "3058"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Luminite_Brick_placed.png"
+    },
+    {
+        "Item ID": "3951",
+        "Name": "Iron Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "511",
+                "1001",
+                "1074",
+                "2977",
+                "3055"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Iron_Brick_placed.png"
+    },
+    {
+        "Item ID": "3953",
+        "Name": "Lead Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "524",
+                "1003",
+                "1076",
+                "2979",
+                "3057"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Lead_Brick_placed.png"
+    },
+    {
+        "Item ID": "4050",
+        "Name": "Crimstone Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "397",
+                "984",
+                "1057",
+                "2960",
+                "3038"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Crimstone_Brick_placed.png"
+    },
+    {
+        "Item ID": "4229",
+        "Name": "Solar Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "No",
+        "Sources": {
+            "Crafting Recipes": [
+                "253",
+                "771",
+                "3163"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Solar_Brick_placed.png"
+    },
+    {
+        "Item ID": "4230",
+        "Name": "Vortex Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "No",
+        "Sources": {
+            "Crafting Recipes": [
+                "292",
+                "822",
+                "3230"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Vortex_Brick_placed.png"
+    },
+    {
+        "Item ID": "4231",
+        "Name": "Nebula Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "No",
+        "Sources": {
+            "Crafting Recipes": [
+                "186",
+                "585",
+                "3133"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Nebula_Brick_placed.png"
+    },
+    {
+        "Item ID": "4232",
+        "Name": "Stardust Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Destroyed by Explosives": "No",
+        "Sources": {
+            "Crafting Recipes": [
+                "269",
+                "800",
+                "3194"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Stardust_Brick_placed.png"
+    },
+    {
+        "Item ID": "4238",
+        "Name": "Cracked Blue Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "May break when stepped on",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2441"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Cracked_Blue_Brick_placed.png"
+    },
+    {
+        "Item ID": "4239",
+        "Name": "Cracked Green Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "May break when stepped on",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2442"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Cracked_Green_Brick_placed.png"
+    },
+    {
+        "Item ID": "4240",
+        "Name": "Cracked Pink Brick",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "May break when stepped on",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2443"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Cracked_Pink_Brick_placed.png"
+    },
+    {
+        "Item ID": "4547",
+        "Name": "Large Bamboo",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "517",
+                "1848"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        },
+        "Brick Image": "bricks/Large_Bamboo_placed.png"
+    }
+]

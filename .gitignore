@@ -1,0 +1,7 @@
+logs
+__pycache__
+*.swp
+*.log
+*_linkdict.json
+.vscode
+json_bkp

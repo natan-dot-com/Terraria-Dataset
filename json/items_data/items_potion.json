@@ -1,0 +1,2746 @@
+[
+    {
+        "Item ID": "5",
+        "Name": "Mushroom",
+        "Use time": "17 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Silver 50 Copper Coins",
+        "Research": "30 required",
+        "Debuff": "Potion Sickness",
+        "Debuff tooltip": "Cannot consume anymore healing items",
+        "Duration": "30 seconds 1 minute",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "28",
+        "Name": "Lesser Healing Potion",
+        "Use time": "17 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1668",
+                "1726"
+            ],
+            "NPC": [
+                "8",
+                "532"
+            ],
+            "Drop": [],
+            "Grab Bag": [
+                "29",
+                "66"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "29",
+        "Name": "Life Crystal",
+        "Placeable": "Yes",
+        "Use time": "30 (Average)",
+        "Tooltip": "Permanently increases maximum life by 20",
+        "Rarity": "2",
+        "Sell": "1 Gold 50 Silver Coins",
+        "Research": "10 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "139",
+                "160"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "109",
+        "Name": "Mana Crystal",
+        "Use time": "30 (Average)",
+        "Tooltip": "Permanently increases maximum mana by 20",
+        "Rarity": "2",
+        "Research": "10 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "171"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "110",
+        "Name": "Lesser Mana Potion",
+        "Use time": "17 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "9"
+            ],
+            "Drop": [],
+            "Grab Bag": [
+                "30",
+                "67"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "126",
+        "Name": "Bottled Water",
+        "Use time": "17 (Very fast)",
+        "Max stack": "999",
+        "Rarity": "0",
+        "Sell": "4 Copper Coins",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1760",
+                "3483"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "188",
+        "Name": "Healing Potion",
+        "Use time": "17 (Very fast)",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1661",
+                "1719"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "96",
+                "135",
+                "155",
+                "184",
+                "215",
+                "260",
+                "291",
+                "332",
+                "362",
+                "404",
+                "436",
+                "478",
+                "505",
+                "542",
+                "571",
+                "610",
+                "641",
+                "685",
+                "721",
+                "768",
+                "807",
+                "860",
+                "893",
+                "938"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "189",
+        "Name": "Mana Potion",
+        "Use time": "17 (Very fast)",
+        "Rarity": "1",
+        "Sell": "50 Copper Coins",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1674",
+                "1732"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "97",
+                "136",
+                "156",
+                "185",
+                "216",
+                "261",
+                "292",
+                "333",
+                "363",
+                "405",
+                "437",
+                "479",
+                "506",
+                "543",
+                "572",
+                "611",
+                "642",
+                "686",
+                "722",
+                "769",
+                "808",
+                "861",
+                "894",
+                "939"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "226",
+        "Name": "Lesser Restoration Potion",
+        "Use time": "17 (Very fast)",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "227",
+        "Name": "Restoration Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Reduced potion cooldown",
+        "Rarity": "1",
+        "Sell": "3 Silver Coins",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1683",
+                "1741"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "288",
+        "Name": "Obsidian Skin Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Provides immunity to lava",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Obsidian Skin",
+        "Buff tooltip": "Immune to lava",
+        "Duration": "6 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1678",
+                "1736"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "19",
+                "56",
+                "88",
+                "127",
+                "150",
+                "179",
+                "209",
+                "254",
+                "285",
+                "326",
+                "356",
+                "398",
+                "430",
+                "472",
+                "499",
+                "536",
+                "565",
+                "604",
+                "635",
+                "679",
+                "715",
+                "762",
+                "801",
+                "854",
+                "887",
+                "932"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "289",
+        "Name": "Regeneration Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Provides life regeneration",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Regeneration",
+        "Buff tooltip": "Provides life regeneration",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1682",
+                "1740"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "290",
+        "Name": "Swiftness Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "25% increased movement speed",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Swiftness",
+        "Buff tooltip": "25% increased movement speed",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1692",
+                "1750"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "20",
+                "57"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "291",
+        "Name": "Gills Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Breathe water instead of air",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Gills",
+        "Buff tooltip": "Breathe water instead of air",
+        "Duration": "4 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1657",
+                "1715"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "25",
+                "62"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "292",
+        "Name": "Ironskin Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increase defense by 8",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Ironskin",
+        "Buff tooltip": "Increase defense by 8",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1666",
+                "1667",
+                "1724",
+                "1725"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "21",
+                "58"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "293",
+        "Name": "Mana Regeneration Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increased mana regeneration",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Mana Regeneration",
+        "Buff tooltip": "Increased mana regeneration",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1675",
+                "1733"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "294",
+        "Name": "Magic Power Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "20% increased magic damage",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Magic Power",
+        "Buff tooltip": "20% increased magic damage",
+        "Duration": "4 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1673",
+                "1731"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "295",
+        "Name": "Featherfall Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Slows falling speed",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Featherfall",
+        "Buff tooltip": "Press UP or DOWN to control speed of descent",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1653",
+                "1711"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "296",
+        "Name": "Spelunker Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Shows the location of treasure and ore",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Spelunker",
+        "Buff tooltip": "Shows the location of treasure and ore",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1686",
+                "1687",
+                "1744",
+                "1745"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "89",
+                "128",
+                "151",
+                "180",
+                "210",
+                "255",
+                "286",
+                "327",
+                "357",
+                "399",
+                "431",
+                "473",
+                "500",
+                "537",
+                "566",
+                "605",
+                "636",
+                "680",
+                "716",
+                "763",
+                "802",
+                "855",
+                "888",
+                "933"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "297",
+        "Name": "Invisibility Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Grants invisibility and lowers the spawn rate of enemies . Grants invisibility",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Invisibility",
+        "Buff tooltip": "Grants invisibility",
+        "Duration": "3 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1665",
+                "1723"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "298",
+        "Name": "Shine Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Emits an aura of light",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Shine",
+        "Buff tooltip": "Emitting light",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1684",
+                "1742"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "23",
+                "60"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "299",
+        "Name": "Night Owl Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases night vision",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Night Owl",
+        "Buff tooltip": "Increased night vision",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1677",
+                "1735"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "22",
+                "59"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "300",
+        "Name": "Battle Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases enemy spawn rate",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Battle",
+        "Buff tooltip": "Increased enemy spawn rate",
+        "Duration": "7 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1646",
+                "1647",
+                "1704",
+                "1705"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "301",
+        "Name": "Thorns Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Attackers also take damage",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Thorns",
+        "Buff tooltip": "Attackers also take damage",
+        "Duration": "8 minutes   2 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1694",
+                "1752"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "302",
+        "Name": "Water Walking Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Allows the ability to walk on water",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Water Walking",
+        "Buff tooltip": "Press DOWN to enter water",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1699",
+                "1757"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "303",
+        "Name": "Archery Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "20% increased arrow speed and damage",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Archery",
+        "Buff tooltip": "20% increased arrow damage and speed",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1645",
+                "1703"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "304",
+        "Name": "Hunter Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Shows the location of enemies",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Hunter",
+        "Buff tooltip": "Shows the location of enemies",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1663",
+                "1721"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "24",
+                "61",
+                "90",
+                "129",
+                "211",
+                "256",
+                "287",
+                "328",
+                "358",
+                "400",
+                "432",
+                "474",
+                "501",
+                "538",
+                "567",
+                "606",
+                "637",
+                "681",
+                "717",
+                "764",
+                "803",
+                "856",
+                "889",
+                "934"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "305",
+        "Name": "Gravitation Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Allows the control of gravity",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Gravitation",
+        "Buff tooltip": "Press UP to reverse gravity",
+        "Duration": "3 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1658",
+                "1716"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "91",
+                "130",
+                "152",
+                "181",
+                "212",
+                "257",
+                "288",
+                "329",
+                "359",
+                "401",
+                "433",
+                "475",
+                "502",
+                "539",
+                "568",
+                "607",
+                "638",
+                "682",
+                "718",
+                "765",
+                "804",
+                "857",
+                "890",
+                "935"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "353",
+        "Name": "Ale",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to melee stats & lowered defense. 'Down the hatch!'",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "20 required",
+        "Debuff": "Tipsy",
+        "Debuff tooltip": "Increased melee abilities, lowered defense",
+        "Duration": "2 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "3255"
+            ],
+            "NPC": [
+                "225"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "357",
+        "Name": "Bowl of Soup",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Simple, yet refreshing.'",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2037",
+                "2099"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "499",
+        "Name": "Greater Healing Potion",
+        "Use time": "17 (Very fast)",
+        "Rarity": "3",
+        "Sell": "10 Silver Coins",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1659",
+                "1717"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "500",
+        "Name": "Greater Mana Potion",
+        "Use time": "17 (Very fast)",
+        "Rarity": "3",
+        "Sell": "1 Silver Coin",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "421"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "678",
+        "Name": "Red Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "'Only for those who are worthy'",
+        "Rarity": "4",
+        "Research": "10 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "969",
+        "Name": "Cooked Marshmallow",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'How can I have some more of nothing?'",
+        "Rarity": "1",
+        "Sell": "40 Copper Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1134",
+        "Name": "Bottled Honey",
+        "Use time": "17 (Very fast)",
+        "Rarity": "0",
+        "Sell": "8 Copper Coins",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3497"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1291",
+        "Name": "Life Fruit",
+        "Placeable": "Yes",
+        "Use time": "30 (Average)",
+        "Tooltip": "Permanently increases maximum life by 5",
+        "Rarity": "7",
+        "Sell": "2 Gold Coins",
+        "Research": "10 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1340",
+        "Name": "Flask of Venom",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Melee and Whip attacks inflict Venom on enemies",
+        "Rarity": "4",
+        "Sell": "5 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Weapon Imbue: Acid Venom",
+        "Buff tooltip": "Melee attacks inflict acid venom on your targets",
+        "Duration": "20 minutes ()15 minutes ( )",
+        "Sources": {
+            "Crafting Recipes": [
+                "2280"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1353",
+        "Name": "Flask of Cursed Flames",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Melee and Whip attacks inflict enemies with cursed flames",
+        "Rarity": "4",
+        "Sell": "5 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Weapon Imbue: Cursed Flames",
+        "Buff tooltip": "Melee attacks inflict enemies with cursed flames",
+        "Duration": "20 minutes ()15 minutes ( )",
+        "Sources": {
+            "Crafting Recipes": [
+                "2273"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1354",
+        "Name": "Flask of Fire",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Melee and Whip attacks set enemies on fire",
+        "Rarity": "4",
+        "Sell": "5 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Weapon Imbue: Fire",
+        "Buff tooltip": "Melee attacks set enemies on fire",
+        "Duration": "20 minutes ()15 minutes ( )",
+        "Sources": {
+            "Crafting Recipes": [
+                "2274"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1355",
+        "Name": "Flask of Gold",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Melee and Whip attacks make enemies drop more gold",
+        "Rarity": "4",
+        "Sell": "5 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Weapon Imbue: Gold",
+        "Buff tooltip": "Melee attacks make enemies drop more gold",
+        "Duration": "20 minutes ()15 minutes ( )",
+        "Sources": {
+            "Crafting Recipes": [
+                "2275"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1356",
+        "Name": "Flask of Ichor",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Melee and Whip attacks decrease enemies defense",
+        "Rarity": "4",
+        "Sell": "5 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Weapon Imbue: Ichor",
+        "Buff tooltip": "Melee attacks decrease enemies defense",
+        "Duration": "20 minutes ()15 minutes ( )",
+        "Sources": {
+            "Crafting Recipes": [
+                "2276"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1357",
+        "Name": "Flask of Nanites",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Melee and Whip attacks confuse enemies",
+        "Rarity": "4",
+        "Sell": "5 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Weapon Imbue: Nanites",
+        "Buff tooltip": "Melee attacks confuse enemies",
+        "Duration": "20 minutes ()15 minutes ( )",
+        "Sources": {
+            "Crafting Recipes": [
+                "2277"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1358",
+        "Name": "Flask of Party",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Melee and Whip attacks cause confetti to appear",
+        "Rarity": "4",
+        "Sell": "3 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Weapon Imbue: Confetti",
+        "Buff tooltip": "Melee attacks cause confetti to appear",
+        "Duration": "20 minutes ()15 minutes ( )",
+        "Sources": {
+            "Crafting Recipes": [
+                "2278"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1192"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1359",
+        "Name": "Flask of Poison",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Melee and Whip attacks poison enemies",
+        "Rarity": "4",
+        "Sell": "5 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Weapon Imbue: Poison",
+        "Buff tooltip": "Melee attacks poison enemies",
+        "Duration": "20 minutes ()15 minutes ( )",
+        "Sources": {
+            "Crafting Recipes": [
+                "2279"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1787",
+        "Name": "Pumpkin Pie",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Stuff it all up in one bite!'",
+        "Rarity": "2",
+        "Sell": "2 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1021",
+                "1094",
+                "2997",
+                "3075"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1911",
+        "Name": "Christmas Pudding",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Major improvements to all stats. 'A cozy treat by the fireplace.'",
+        "Rarity": "3",
+        "Sell": "2 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Exquisitely Stuffed",
+        "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "4 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1006"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1912",
+        "Name": "Eggnog",
+        "Use time": "17 (Very fast)",
+        "Rarity": "0",
+        "Sell": "8 Copper Coins",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1009"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1920",
+        "Name": "Gingerbread Cookie",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Major improvements to all stats. 'Not the gumdrop buttons!'",
+        "Rarity": "3",
+        "Sell": "5 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Exquisitely Stuffed",
+        "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "4 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1008"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2209",
+        "Name": "Super Mana Potion",
+        "Use time": "17 (Very fast)",
+        "Rarity": "4",
+        "Sell": "3 Silver Coins",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1691",
+                "1749"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2266",
+        "Name": "Sake",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to melee stats & lowered defense. 'Drink too much of this, and you become karate master.'",
+        "Rarity": "1",
+        "Sell": "1 Silver Coin",
+        "Research": "20 required",
+        "Debuff": "Tipsy",
+        "Debuff tooltip": "Increased melee abilities, lowered defense",
+        "Duration": "4 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2267",
+        "Name": "Pad Thai",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Spicy level 5!'",
+        "Rarity": "2",
+        "Sell": "6 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2268",
+        "Name": "Pho",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Pho sho...'",
+        "Rarity": "2",
+        "Sell": "10 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2322",
+        "Name": "Mining Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases mining speed by 25%",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Mining",
+        "Buff tooltip": "25% increased mining speed",
+        "Duration": "10 minutes 8 minutes 5 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1676",
+                "1734"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "26",
+                "63",
+                "92",
+                "131",
+                "153",
+                "182",
+                "213",
+                "258",
+                "289",
+                "330",
+                "360",
+                "402",
+                "434",
+                "476",
+                "503",
+                "540",
+                "569",
+                "608",
+                "639",
+                "683",
+                "719",
+                "766",
+                "805",
+                "858",
+                "891",
+                "936"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2323",
+        "Name": "Heartreach Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases pickup range for life hearts",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Heartreach",
+        "Buff tooltip": "Increased heart pickup range",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1662",
+                "1720"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "27",
+                "64",
+                "93",
+                "132",
+                "154",
+                "183",
+                "214",
+                "259",
+                "290",
+                "331",
+                "361",
+                "403",
+                "435",
+                "477",
+                "504",
+                "541",
+                "570",
+                "609",
+                "640",
+                "684",
+                "720",
+                "767",
+                "806",
+                "859",
+                "892",
+                "937"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2324",
+        "Name": "Calming Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Decreases enemy spawn rate",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Calm",
+        "Buff tooltip": "Decreased enemy spawn rate",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1649",
+                "1707"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "94",
+                "133"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2325",
+        "Name": "Builder Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases placement speed and range",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Builder",
+        "Buff tooltip": "Increased placement speed and range",
+        "Duration": "45 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1648",
+                "1706"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2326",
+        "Name": "Titan Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases knockback",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Titan",
+        "Buff tooltip": "Increased knockback",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1695",
+                "1753"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2327",
+        "Name": "Flipper Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Lets you move swiftly in liquids",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Flipper",
+        "Buff tooltip": "Move like normal in water",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1655",
+                "1713"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "95",
+                "134"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2328",
+        "Name": "Summoning Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases your max number of minions by 1",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Summoning",
+        "Buff tooltip": "Increased max number of minions",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1689",
+                "1747"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2329",
+        "Name": "Dangersense Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Allows you to see nearby danger sources",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Dangersense",
+        "Buff tooltip": "You can see nearby hazards",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1651",
+                "1709"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "28",
+                "65"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2344",
+        "Name": "Ammo Reservation Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "20% chance to not consume ammo",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Ammo Reservation",
+        "Buff tooltip": "20% chance to not consume ammo",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1644",
+                "1702"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2345",
+        "Name": "Lifeforce Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases max life by 20%",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Lifeforce",
+        "Buff tooltip": "20% increased max life",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1670",
+                "1728"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2346",
+        "Name": "Endurance Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Reduces damage taken by 10%",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Endurance",
+        "Buff tooltip": "10% reduced damage",
+        "Duration": "4 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1652",
+                "1710"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2347",
+        "Name": "Rage Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases critical chance by 10%",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Rage",
+        "Buff tooltip": "10% increased critical chance",
+        "Duration": "4 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1680",
+                "1738"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2348",
+        "Name": "Inferno Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Ignites nearby enemies",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Inferno",
+        "Buff tooltip": "Nearby enemies are ignited",
+        "Duration": "4 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1664",
+                "1722"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2349",
+        "Name": "Wrath Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases damage by 10%",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Wrath",
+        "Buff tooltip": "10% increased damage",
+        "Duration": "4 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1701",
+                "1759"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2350",
+        "Name": "Recall Potion",
+        "Use time": "30 (Average)",
+        "Tooltip": "Teleports you home",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1681",
+                "1739"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2351",
+        "Name": "Teleportation Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Teleports you to a random location",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1693",
+                "1751"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2352",
+        "Name": "Love Potion",
+        "Use time": "15 (Very fast)",
+        "Velocity": "9",
+        "Tooltip": "Throw this to make someone fall in love",
+        "Rarity": "0",
+        "Sell": "40 Copper Coins",
+        "Research": "20 required",
+        "Debuff": "Lovestruck",
+        "Debuff tooltip": "You are in love!",
+        "Duration": "30 seconds",
+        "Sources": {
+            "Crafting Recipes": [
+                "1671",
+                "1729"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2353",
+        "Name": "Stink Potion",
+        "Use time": "15 (Very fast)",
+        "Velocity": "9",
+        "Tooltip": "Throw this to make someone smell terrible",
+        "Rarity": "0",
+        "Sell": "40 Copper Coins",
+        "Research": "20 required",
+        "Debuff": "Stinky",
+        "Debuff tooltip": "You smell terrible",
+        "Duration": "30 seconds",
+        "Sources": {
+            "Crafting Recipes": [
+                "1688",
+                "1746"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2354",
+        "Name": "Fishing Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases fishing power",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Fishing",
+        "Buff tooltip": "Increased fishing power",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1654",
+                "1712"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2355",
+        "Name": "Sonar Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Detects hooked fish",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Sonar",
+        "Buff tooltip": "You can see what's biting your hook",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1685",
+                "1743"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2356",
+        "Name": "Crate Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases chance to get a crate",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Crate",
+        "Buff tooltip": "Greater chance of fishing up a crate",
+        "Duration": "3 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1650",
+                "1708"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2359",
+        "Name": "Warmth Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Reduces damage from cold sources",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Buff": "Warmth",
+        "Buff tooltip": "Reduced damage from cold sources",
+        "Duration": "15 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "1698",
+                "1756"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2425",
+        "Name": "Cooked Fish",
+        "Use time": "17 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "2039",
+                "2040",
+                "2041",
+                "2101",
+                "2102",
+                "2103"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2426",
+        "Name": "Cooked Shrimp",
+        "Use time": "17 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "2042",
+                "2104"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2427",
+        "Name": "Sashimi",
+        "Use time": "17 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "720",
+                "721",
+                "722",
+                "723"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2756",
+        "Name": "Gender Change Potion",
+        "Use time": "17 (Very fast)",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1656",
+                "1714"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2997",
+        "Name": "Wormhole Potion",
+        "Tooltip": "Teleports you to a party member. Click their head on the fullscreen map",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1700",
+                "1758"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3001",
+        "Name": "Strange Brew",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "'It looks and smells terrible'",
+        "Rarity": "1",
+        "Sell": "1 Silver Coin",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "531"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3195",
+        "Name": "Grub Soup",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Grub's up!'",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2063",
+                "2125"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3453",
+        "Name": "Damage Booster",
+        "Rarity": "0",
+        "Buff": "Damage Nebula",
+        "Buff tooltip": "15% increased damage",
+        "Duration": "8 seconds",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3454",
+        "Name": "Life Booster",
+        "Rarity": "0",
+        "Buff": "Life Nebula",
+        "Buff tooltip": "Increased life regeneration",
+        "Duration": "8 seconds",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3455",
+        "Name": "Mana Booster",
+        "Rarity": "0",
+        "Buff": "Mana Nebula",
+        "Buff tooltip": "Increased mana regeneration",
+        "Duration": "8 seconds",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3532",
+        "Name": "Bacon",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Major improvements to all stats. 'Bacon? Bacon.'",
+        "Rarity": "4",
+        "Sell": "1 Gold Coin",
+        "Research": "10 required",
+        "Buff": "Exquisitely Stuffed",
+        "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "24 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1190"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3544",
+        "Name": "Super Healing Potion",
+        "Use time": "17 (Very fast)",
+        "Rarity": "7",
+        "Sell": "30 Silver Coins",
+        "Research": "30 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1690",
+                "1748"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4009",
+        "Name": "Apple",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'An apple a day keeps Doctor Bones away!'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4014",
+        "Name": "Bunny Stew",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'This one's luck has run out.'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2038",
+                "2100"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4015",
+        "Name": "Burger",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Major improvements to all stats. '...but wait! It was 99 cents.'",
+        "Rarity": "3",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Exquisitely Stuffed",
+        "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "8 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4019",
+        "Name": "Escargot",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Look at that S Car Go!'",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2043",
+                "2105"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4020",
+        "Name": "Fried Egg",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Sunny side up!'",
+        "Rarity": "2",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "14 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4022",
+        "Name": "Golden Delight",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Major improvements to all stats. '(Au)some!'",
+        "Rarity": "6",
+        "Sell": "10 Gold Coins",
+        "Research": "10 required",
+        "Buff": "Exquisitely Stuffed",
+        "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "48 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2047",
+                "2048",
+                "2049",
+                "2050",
+                "2051",
+                "2052",
+                "2053",
+                "2054",
+                "2055",
+                "2056",
+                "2057",
+                "2058",
+                "2059",
+                "2109",
+                "2110",
+                "2111",
+                "2112",
+                "2113",
+                "2114",
+                "2115",
+                "2116",
+                "2117",
+                "2118",
+                "2119",
+                "2120",
+                "2121"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4024",
+        "Name": "Grilled Squirrel",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'That'll keep you out of my birdfeeders...'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2061",
+                "2062",
+                "2123",
+                "2124"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4034",
+        "Name": "Seafood Dinner",
+        "Use time": "17 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "2078",
+                "2079",
+                "2080",
+                "2081",
+                "2082",
+                "2083",
+                "2084",
+                "2085",
+                "2086",
+                "2087",
+                "2088",
+                "2089",
+                "2090",
+                "2091",
+                "2092",
+                "2093",
+                "2094",
+                "2140",
+                "2141",
+                "2142",
+                "2143",
+                "2144",
+                "2145",
+                "2146",
+                "2147",
+                "2148",
+                "2149",
+                "2150",
+                "2151",
+                "2152",
+                "2153",
+                "2154",
+                "2155",
+                "2156"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4282",
+        "Name": "Apricot",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'You'll apricate this!'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4283",
+        "Name": "Banana",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'Good source of potassium!'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4284",
+        "Name": "Blackcurrant",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4285",
+        "Name": "Blood Orange",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'A vegan option for vampires'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4286",
+        "Name": "Cherry",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4287",
+        "Name": "Coconut",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'Are you suggesting that coconuts can migrate?'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4288",
+        "Name": "Dragon Fruit",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4289",
+        "Name": "Elderberry",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'Smells like your father'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4290",
+        "Name": "Grapefruit",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4291",
+        "Name": "Lemon",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'When life gives you lemons...'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4292",
+        "Name": "Mango",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4403",
+        "Name": "Lobster Tail",
+        "Use time": "17 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "2065",
+                "2127"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4411",
+        "Name": "Shucked Oyster",
+        "Use time": "17 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1186"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4477",
+        "Name": "Lesser Luck Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases the Luck of the user",
+        "Rarity": "1",
+        "Research": "20 required",
+        "Buff": "Lucky",
+        "Buff tooltip": "You are feeling pretty lucky",
+        "Sources": {
+            "Crafting Recipes": [
+                "1669",
+                "1727"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4478",
+        "Name": "Luck Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases the Luck of the user",
+        "Rarity": "1",
+        "Research": "20 required",
+        "Buff": "Lucky",
+        "Buff tooltip": "You are feeling pretty lucky",
+        "Sources": {
+            "Crafting Recipes": [
+                "1672",
+                "1730"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4479",
+        "Name": "Greater Luck Potion",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Increases the Luck of the user",
+        "Rarity": "1",
+        "Research": "20 required",
+        "Buff": "Lucky",
+        "Buff tooltip": "You are feeling pretty lucky",
+        "Sources": {
+            "Crafting Recipes": [
+                "1660",
+                "1718"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4614",
+        "Name": "Apple Juice",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'Hungry for Apples?'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "10 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2035",
+                "2097"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4615",
+        "Name": "Grape Juice",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Major improvements to all stats. 'Sugar. Water. Purple.'",
+        "Rarity": "4",
+        "Sell": "80 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Exquisitely Stuffed",
+        "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "16 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2060",
+                "2122"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4617",
+        "Name": "Frozen Banana Daiquiri",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'Yellow and mellow'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "15 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2044",
+                "2106"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4620",
+        "Name": "Tropical Smoothie",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'Real smooth'",
+        "Rarity": "2",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "20 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2096",
+                "2158"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4621",
+        "Name": "Bloody Moscato",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'Not really blood... or is it?'",
+        "Rarity": "2",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "20 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2036",
+                "2098"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4622",
+        "Name": "Smoothie of Darkness",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'Come to the dark side, we have smoothies'",
+        "Rarity": "2",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "20 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2095",
+                "2157"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4623",
+        "Name": "Prismatic Punch",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Medium improvements to all stats. 'Feel the rainbow, taste the crystal!'",
+        "Rarity": "3",
+        "Sell": "40 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Plenty Satisfied",
+        "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "20 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2068",
+                "2130"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4625",
+        "Name": "Fruit Salad",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats",
+        "Rarity": "2",
+        "Sell": "60 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "25 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "2046",
+                "2108"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4870",
+        "Name": "Potion of Return",
+        "Use time": "30 (Average)",
+        "Tooltip": "Teleports you home and creates a portal. Use portal to return when you are done. 'Good for one round trip!'",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "20 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1679",
+                "1737"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5009",
+        "Name": "Teacup",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'A must-have for tea parties'",
+        "Rarity": "1",
+        "Sell": "4 Copper Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "5 minutes",
+        "Sources": {
+            "Crafting Recipes": [
+                "3256"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5041",
+        "Name": "Carton of Milk",
+        "Use time": "17 (Very fast)",
+        "Tooltip": "Minor improvements to all stats. 'For strong, healthy bones'",
+        "Rarity": "1",
+        "Sell": "20 Silver Coins",
+        "Research": "10 required",
+        "Buff": "Well Fed",
+        "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
+        "Duration": "15 minutes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

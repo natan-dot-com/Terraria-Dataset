@@ -1,0 +1,266 @@
+[
+    {
+        "Item ID": "43",
+        "Name": "Suspicious Looking Eye",
+        "Use time": "45 (Very slow)",
+        "Tooltip": "Summons the Eye of Cthulhu",
+        "Rarity": "1",
+        "Research": "3 required",
+        "Summons": "Eye of Cthulhu",
+        "Usable": "Only usable at night.",
+        "Sources": {
+            "Crafting Recipes": [
+                "2556",
+                "2573"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "70",
+        "Name": "Worm Food",
+        "Use time": "45 (Very slow)",
+        "Tooltip": "Summons the Eater of Worlds",
+        "Rarity": "1",
+        "Research": "3 required",
+        "Summons": "Eater of Worlds",
+        "Usable": "Must be consumed in the Corruption.",
+        "Sources": {
+            "Crafting Recipes": [
+                "2561",
+                "2578"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "267",
+        "Name": "Guide Voodoo Doll",
+        "Tooltip": "'You are a terrible person.'",
+        "Rarity": "0",
+        "Sell": "2 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "544",
+        "Name": "Mechanical Eye",
+        "Use time": "45 (Very slow)",
+        "Tooltip": "Summons The Twins",
+        "Rarity": "3",
+        "Research": "3 required",
+        "Summons": "The Twins",
+        "Usable": "Only usable at night.",
+        "Sources": {
+            "Crafting Recipes": [
+                "2673",
+                "2852"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "556",
+        "Name": "Mechanical Worm",
+        "Use time": "45 (Very slow)",
+        "Tooltip": "Summons The Destroyer",
+        "Rarity": "3",
+        "Research": "3 required",
+        "Summons": "The Destroyer",
+        "Usable": "Only usable at night.",
+        "Sources": {
+            "Crafting Recipes": [
+                "2675",
+                "2676",
+                "2854",
+                "2855"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "557",
+        "Name": "Mechanical Skull",
+        "Use time": "45 (Very slow)",
+        "Tooltip": "Summons Skeletron Prime",
+        "Rarity": "3",
+        "Research": "3 required",
+        "Summons": "Skeletron Prime",
+        "Usable": "Only usable at night.",
+        "Sources": {
+            "Crafting Recipes": [
+                "2674",
+                "2853"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "560",
+        "Name": "Slime Crown",
+        "Use time": "45 (Very slow)",
+        "Tooltip": "Summons King Slime",
+        "Rarity": "1",
+        "Research": "3 required",
+        "Summons": "King Slime",
+        "Usable": "Can be consumed any time.",
+        "Sources": {
+            "Crafting Recipes": [
+                "2554",
+                "2555",
+                "2571",
+                "2572"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1133",
+        "Name": "Abeemination",
+        "Use time": "45 (Very slow)",
+        "Tooltip": "Summons the Queen Bee",
+        "Rarity": "1",
+        "Research": "3 required",
+        "Summons": "Queen Bee",
+        "Usable": "Must be consumed in the Jungle or Underground Jungle.",
+        "Sources": {
+            "Crafting Recipes": [
+                "1"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1293",
+        "Name": "Lihzahrd Power Cell",
+        "Tooltip": "Used at the Lihzahrd Altar",
+        "Rarity": "0",
+        "Sell": "1 Gold Coin",
+        "Research": "3 required",
+        "Summons": "Golem",
+        "Usable": "Must be consumed on a Lihzahrd Altar. Can only be used in Hardmode worlds where Plantera has been defeated.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1307",
+        "Name": "Clothier Voodoo Doll",
+        "Tooltip": "'You are a terrible person'",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1331",
+        "Name": "Bloody Spine",
+        "Use time": "45 (Very slow)",
+        "Tooltip": "Summons the Brain of Cthulhu",
+        "Rarity": "1",
+        "Research": "3 required",
+        "Summons": "Brain of Cthulhu",
+        "Usable": "Must be consumed in the Crimson.",
+        "Sources": {
+            "Crafting Recipes": [
+                "2551",
+                "2568"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3601",
+        "Name": "Celestial Sigil",
+        "Use time": "45 (Very slow)",
+        "Tooltip": "Summons the Impending Doom",
+        "Rarity": "10",
+        "Research": "3 required",
+        "Summons": "Moon Lord",
+        "Usable": "Can only be used in Hardmode worlds where Golem has been defeated. There is a delay of 60 seconds between the item use and the boss summon. Can not be used if any of the Celestial Pillars are activated or if the cultists are on screen.",
+        "Sources": {
+            "Crafting Recipes": [
+                "3121"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4961",
+        "Name": "Prismatic Lacewing",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "'Its wings are so delicate, you must be careful not to damage it...'",
+        "Rarity": "3",
+        "Sell": "5 Gold Coins",
+        "Research": "3 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4988",
+        "Name": "Gelatin Crystal",
+        "Placeable": "Yes",
+        "Use time": "45 (Very slow)",
+        "Tooltip": "Summons Queen Slime",
+        "Rarity": "6",
+        "Sell": "1 Gold Coin",
+        "Research": "3 required",
+        "Summons": "Queen Slime",
+        "Usable": "Only usable in The Hallow.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

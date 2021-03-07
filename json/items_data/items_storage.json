@@ -1,0 +1,1707 @@
+[
+    {
+        "Item ID": "48",
+        "Name": "Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "380"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Surface"
+        }
+    },
+    {
+        "Item ID": "87",
+        "Name": "Piggy Bank",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Can be used to store your items. Stored items can only be accessed by you",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "2"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "306",
+        "Name": "Gold Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Underground (unlocked), Dungeon (locked)"
+        }
+    },
+    {
+        "Item ID": "328",
+        "Name": "Shadow Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Underworld"
+        }
+    },
+    {
+        "Item ID": "334",
+        "Name": "Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1815"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "343",
+        "Name": "Barrel",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1782"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "346",
+        "Name": "Safe",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Can be used to store your items. Stored items can only be accessed by you",
+        "Rarity": "0",
+        "Sell": "4 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "20"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "348",
+        "Name": "Trash Can",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1357",
+                "1623"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "625",
+        "Name": "Ebonwood Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "442"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "626",
+        "Name": "Rich Mahogany Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "687"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Underground Jungle"
+        }
+    },
+    {
+        "Item ID": "627",
+        "Name": "Pearlwood Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "634"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "647",
+        "Name": "Ebonwood Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1828"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "648",
+        "Name": "Rich Mahogany Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1921"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "649",
+        "Name": "Pearlwood Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1900"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "680",
+        "Name": "Ivy Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Jungle Shrines, Living Mahogany Trees"
+        }
+    },
+    {
+        "Item ID": "681",
+        "Name": "Frozen Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3326"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Snow biomes"
+        }
+    },
+    {
+        "Item ID": "831",
+        "Name": "Living Wood Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3346"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Living Trees"
+        }
+    },
+    {
+        "Item ID": "838",
+        "Name": "Skyware Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "10 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3370"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Floating Islands"
+        }
+    },
+    {
+        "Item ID": "914",
+        "Name": "Shadewood Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "732"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "918",
+        "Name": "Shadewood Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1938"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "952",
+        "Name": "Web Covered Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Spider Caves"
+        }
+    },
+    {
+        "Item ID": "1142",
+        "Name": "Lihzahrd Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3472"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Jungle Temple"
+        }
+    },
+    {
+        "Item ID": "1298",
+        "Name": "Water Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Oceans, and, rarely, other water bodies"
+        }
+    },
+    {
+        "Item ID": "1528",
+        "Name": "Jungle Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Dungeon"
+        }
+    },
+    {
+        "Item ID": "1529",
+        "Name": "Corruption Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Dungeon"
+        }
+    },
+    {
+        "Item ID": "1530",
+        "Name": "Crimson Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Dungeon"
+        }
+    },
+    {
+        "Item ID": "1531",
+        "Name": "Hallowed Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Dungeon"
+        }
+    },
+    {
+        "Item ID": "1532",
+        "Name": "Ice Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Dungeon"
+        }
+    },
+    {
+        "Item ID": "2230",
+        "Name": "Dynasty Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "424"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2249",
+        "Name": "Honey Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3306"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2250",
+        "Name": "Steampunk Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3453"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2386",
+        "Name": "Blue Dungeon Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in a Blue Dungeon."
+        }
+    },
+    {
+        "Item ID": "2387",
+        "Name": "Green Dungeon Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in a Green Dungeon."
+        }
+    },
+    {
+        "Item ID": "2388",
+        "Name": "Pink Dungeon Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in a Pink Dungeon."
+        }
+    },
+    {
+        "Item ID": "2389",
+        "Name": "Golden Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2390",
+        "Name": "Obsidian Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Ruined houses, does not break from lava."
+        }
+    },
+    {
+        "Item ID": "2391",
+        "Name": "Bone Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3271"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2392",
+        "Name": "Cactus Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1801"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2393",
+        "Name": "Spooky Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1956"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2394",
+        "Name": "Skyware Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3373"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2395",
+        "Name": "Honey Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3310"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2396",
+        "Name": "Lihzahrd Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3475"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2526",
+        "Name": "Palm Wood Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "610"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2529",
+        "Name": "Palm Wood Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1892"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2544",
+        "Name": "Mushroom Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "574"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Glowing Mushroom biomes"
+        }
+    },
+    {
+        "Item ID": "2545",
+        "Name": "Mushroom Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1882"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2559",
+        "Name": "Boreal Wood Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "346"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2562",
+        "Name": "Boreal Wood Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1793"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2574",
+        "Name": "Slime Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3396"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2577",
+        "Name": "Slime Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3399"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2612",
+        "Name": "Green Dungeon Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "490"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2613",
+        "Name": "Pink Dungeon Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "649"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2614",
+        "Name": "Blue Dungeon Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "333"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2615",
+        "Name": "Bone Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3268"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2616",
+        "Name": "Cactus Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "365"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2617",
+        "Name": "Flesh Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3434"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2618",
+        "Name": "Obsidian Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "591"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2619",
+        "Name": "Pumpkin Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "663"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2620",
+        "Name": "Spooky Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "790"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2637",
+        "Name": "Pumpkin Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1912"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2638",
+        "Name": "Steampunk Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3456"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2639",
+        "Name": "Glass Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3290"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2640",
+        "Name": "Flesh Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3437"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2748",
+        "Name": "Glass Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3287"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2814",
+        "Name": "Martian Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "544"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2816",
+        "Name": "Martian Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1863"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3125",
+        "Name": "Granite Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "477"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Granite Caves"
+        }
+    },
+    {
+        "Item ID": "3132",
+        "Name": "Meteorite Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1873"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3133",
+        "Name": "Marble Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1856"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3134",
+        "Name": "Granite Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1839"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3180",
+        "Name": "Meteorite Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "560"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3181",
+        "Name": "Marble Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "537"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Marble Caves"
+        }
+    },
+    {
+        "Item ID": "3213",
+        "Name": "Money Trough",
+        "Use time": "28 (Average)",
+        "Velocity": "4",
+        "Tooltip": "Summons a flying piggy bank to store your items",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3813",
+        "Name": "Defender's Forge",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Can be used to store your items. Stored items can only be accessed by you",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "231"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3884",
+        "Name": "Crystal Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "406"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3885",
+        "Name": "Golden Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Pirate Invasion"
+        }
+    },
+    {
+        "Item ID": "3911",
+        "Name": "Crystal Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1810"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3912",
+        "Name": "Dynasty Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1820"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3913",
+        "Name": "Frozen Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3329"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3914",
+        "Name": "Living Wood Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3349"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3934",
+        "Name": "Spider Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1948"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3939",
+        "Name": "Spider Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "776"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3965",
+        "Name": "Lesion Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3415"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3968",
+        "Name": "Lesion Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3418"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4076",
+        "Name": "Void Vault",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Can be used to store your items. Stored items can only be accessed by you. Will contain items picked up by a void bag",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2559",
+                "2560",
+                "2576",
+                "2577"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4131",
+        "Name": "Void Bag",
+        "Use time": "28 (Average)",
+        "Velocity": "4",
+        "Tooltip": "Summons the void vault. If carried, it may pick up items when your inventory is full. 'This pocket dimension is out of this world!'",
+        "Rarity": "3",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2557",
+                "2558",
+                "2574",
+                "2575"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4148",
+        "Name": "Solar Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3171"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4153",
+        "Name": "Solar Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3168"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4169",
+        "Name": "Vortex Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3238"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4174",
+        "Name": "Vortex Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3235"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4190",
+        "Name": "Nebula Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3141"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4195",
+        "Name": "Nebula Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3138"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4211",
+        "Name": "Stardust Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "3204"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4216",
+        "Name": "Stardust Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3200"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4265",
+        "Name": "Golf Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "193"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4267",
+        "Name": "Sandstone Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "710"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Underground Desert"
+        }
+    },
+    {
+        "Item ID": "4301",
+        "Name": "Sandstone Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1930"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4569",
+        "Name": "Bamboo Dresser",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "60 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [
+                "1775"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4574",
+        "Name": "Bamboo Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "325"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4712",
+        "Name": "Desert Chest",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "5 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Dungeon"
+        }
+    }
+]

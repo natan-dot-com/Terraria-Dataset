@@ -1,0 +1,98 @@
+[
+    {
+        "Rarity ID": "-13",
+        "Rarity Tier": "Fiery Red",
+        "Image Path": "rarity/Fiery_Red.gif",
+        "Rarity Description": "This special tier contains Master Mode-exclusive items dropped by bosses in Master Mode."
+    },
+    {
+        "Rarity ID": "-12",
+        "Rarity Tier": "Rainbow",
+        "Image Path": "rarity/Rainbow.gif",
+        "Rarity Description": "This special tier contains Expert mode-exclusive items obtained by opening Treasure Bags dropped by Expert Mode and Master Mode bosses, as well as the Treasure Bags themselves. All Expert-exclusive items from Treasure Bags have this rarity, with the exception of 0x33's Aviators and developer items.In the game code, these items contain other tier numbers, despite displaying the animated Rainbow rarity color in-game."
+    },
+    {
+        "Rarity ID": "-11",
+        "Rarity Tier": "Amber",
+        "Image Path": "rarity/Amber.png",
+        "Rarity Description": "This special tier contains only quest items to be turned over to quest-giving NPCs (currently the Dye Trader and Angler) for rewards. Quest items have no other use, though the Strange Plants can be sold for 20 each, and can be used as decoration."
+    },
+    {
+        "Rarity ID": "-1",
+        "Rarity Tier": "Gray",
+        "Image Path": "rarity/Gray.png",
+        "Rarity Description": "The lowest tier. Only junk fishing items have this as a base rarity: Tin Can, Old Shoe, and Seaweed. This tier mainly accommodates White or Blue-tier equipment with poor modifiers, such as a Shameful Iron Broadsword."
+    },
+    {
+        "Rarity ID": "0",
+        "Rarity Tier": "White",
+        "Image Path": "rarity/White.png",
+        "Rarity Description": "Items without a rarity value specified in Terraria's game code default to this tier. It is by far the rarity containing the most items, many of which could be considered the most common items in the game.  Coins, Hearts and Mana Stars are in this tier.  It includes most furniture; building materials (blocks and walls); early tools, weapons, and armor (made from wood or low-tier ores); common crafting materials like Gel and herbs; paints; and most vanity items.  Items from this tier will be destroyed in lava, with a few exceptions."
+    },
+    {
+        "Rarity ID": "1",
+        "Rarity Tier": "Blue",
+        "Image Path": "rarity/Blue.png",
+        "Rarity Description": "Weapons and armor crafted from early ores, along with early dropped/looted items like the Shackle and Lucky Horseshoe. Also includes banners, trophies, masks, fish,and pre-Hardmode dyes. Items in this tier and above will not be destroyed in lava."
+    },
+    {
+        "Rarity ID": "2",
+        "Rarity Tier": "Green",
+        "Image Path": "rarity/Green.png",
+        "Rarity Description": "Midway pre-Hardmode items. These are mostly looted, dropped, or purchased (non-craftable) items, with the exception of Necro armor, Sandgun, Spinal Tap, Sunglasses, Obsidian Skull, Star Cannon, Diamond Staff, and Tinkerer's Workshop combinations."
+    },
+    {
+        "Rarity ID": "3",
+        "Rarity Tier": "Orange",
+        "Image Path": "rarity/Orange.png",
+        "Rarity Description": "Late-stage pre-Hardmode items: Weapons and armor made of Hellstone, Jungle and Underground Jungle items, Underworld items. Several Hardmode ores, crafting materials, and consumables (Greater Healing Potion and some ammunition items) also fall into this category."
+    },
+    {
+        "Rarity ID": "4",
+        "Rarity Tier": "Light Red",
+        "Image Path": "rarity/Light_Red.png",
+        "Rarity Description": "Early Hardmode items, including those crafted from the six Hardmode ores spawned from destroying Altars, and item drops from early and/or common Hardmode enemies. Also includes flasks, and some items that are rare, but still obtainable very early on, such as the Golden Bug Net and Slime Staff. Also includes some late pre-Hardmode items such as Mana Flower, and most of the items crafted with the Shiny Red Balloon."
+    },
+    {
+        "Rarity ID": "5",
+        "Rarity Tier": "Pink",
+        "Image Path": "rarity/Pink.png",
+        "Rarity Description": "Mid-Hardmode (pre-Plantera) items, including those acquired after defeating mechanical bosses, e.g. Flamethrower, Optic Staff, and Hallowed armor. Also includes the more expensive Hardmode NPC purchases like the Clentaminator, and the rarer Hardmode drops, including the special mid-tier wing ingredients (Tattered Bee Wing, Fire Feather, etc). Also includes certain pre-Hardmode vanity items such as the Winter Cape."
+    },
+    {
+        "Rarity ID": "6",
+        "Rarity Tier": "Light Purple",
+        "Image Path": "rarity/Light_Purple.png",
+        "Rarity Description": "A smaller tier consisting of the rarest pre-Plantera items, mostly purchased or dropped, like the Death Sickle and Coin Gun. Also some higher-tier Tinkerer's Workshop combinations, like the Ankh Charm, and the Ammo Box (obtainable pre-Hardmode)."
+    },
+    {
+        "Rarity ID": "7",
+        "Rarity Tier": "Lime",
+        "Image Path": "rarity/Lime.png",
+        "Rarity Description": "Items acquired around Plantera and Golem, and the Hardmode Underground Jungle. Chlorophyte tools and weapons, Ankh Shield, Temple Key, some Frost Moon drops, and the Candy Cane Hook. Also some powerful yet pre-Hardmode Tinkerer's Workshop combinations, like the Cell Phone, Frostspark Boots, Lava Waders, and Terraspark Boots."
+    },
+    {
+        "Rarity ID": "8",
+        "Rarity Tier": "Yellow",
+        "Image Path": "rarity/Yellow.png",
+        "Rarity Description": "Items acquired or crafted from loot obtained in the post-Plantera Dungeon: Spectre/Ectoplasm items, Biome Chest items like Vampire Knives; Certain Mimic drops with high modifiers such as the Unreal Daedalus Stormbow; Shroomite items; Drops from the late-game events: Martian Madness, Pumpkin Moon, Frost Moon, Betsy; and Duke Fishron drops. Also Beetle armor, Terra Blade, Portal Gun, and all mounts (except for the Minecart)."
+    },
+    {
+        "Rarity ID": "9",
+        "Rarity Tier": "Cyan",
+        "Image Path": "rarity/Cyan.png",
+        "Rarity Description": "This smaller tier contains early items acquired from the Lunar Events, primarily Lunar Fragments and Monoliths, and some Moon Lord drops. Also contains the developer items that can be obtained rarely from Treasure Bags in Expert Mode, and streamer items. For \u00a0Old-gen console and 3DS, only reforged weapons and accessories with a base rarity of Lime or Yellow."
+    },
+    {
+        "Rarity ID": "10",
+        "Rarity Tier": "Red",
+        "Image Path": "rarity/Red.png",
+        "Rarity Description": "Items crafted at the Ancient Manipulator from Lunar Fragments and/or Luminite. Also some direct Moon Lord drops, Yellow items with high-level modifiers, and the Ancient Manipulator crafting station itself."
+    },
+    {
+        "Rarity ID": "11",
+        "Rarity Tier": "Purple",
+        "Image Path": "rarity/Purple.png",
+        "Rarity Description": "This tier consists of Cyan and Red items that have high-level modifiers. No items currently have this as a base rarity."
+    }
+]

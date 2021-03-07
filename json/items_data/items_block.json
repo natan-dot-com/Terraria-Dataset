@@ -1,0 +1,2448 @@
+[
+    {
+        "Item ID": "2",
+        "Name": "Dirt Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "418",
+                "882",
+                "883",
+                "884",
+                "885",
+                "886",
+                "887",
+                "888"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3",
+        "Name": "Stone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "802",
+                "963",
+                "964",
+                "965",
+                "966",
+                "967",
+                "968"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "9",
+        "Name": "Wood",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "298",
+                "827",
+                "828",
+                "3360",
+                "3361",
+                "3362"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "61",
+        "Name": "Ebonstone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "891",
+                "892",
+                "893",
+                "894",
+                "895"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "133",
+        "Name": "Clay Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "147",
+        "Name": "Spike",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "150",
+        "Name": "Cobweb",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "50 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "857"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "169",
+        "Name": "Sand Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "170",
+        "Name": "Glass",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "99",
+                "465",
+                "991",
+                "1064",
+                "2967",
+                "3045"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "172",
+        "Name": "Ash Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "176",
+        "Name": "Mud Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "933",
+                "1762",
+                "3485"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "183",
+        "Name": "Glowing Mushroom",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "101",
+                "467"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "370",
+        "Name": "Ebonsand Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "408",
+        "Name": "Pearlsand Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "409",
+        "Name": "Pearlstone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "940",
+                "941",
+                "942",
+                "943",
+                "944"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "424",
+        "Name": "Silt Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "200 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "511",
+        "Name": "Active Stone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Silver Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "512",
+        "Name": "Inactive Stone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "2 Silver Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "154"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "539",
+        "Name": "Dart Trap",
+        "Damage": "20",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "540",
+        "Name": "Boulder",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2439"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "586",
+        "Name": "Candy Cane Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "378"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1012"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "591",
+        "Name": "Green Candy Cane Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "488"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1013"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "593",
+        "Name": "Snow Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "959"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "611",
+        "Name": "Red Stucco",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "678",
+                "1023",
+                "1096",
+                "2999",
+                "3077"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "612",
+        "Name": "Yellow Stucco",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "845",
+                "1038",
+                "1111",
+                "3014",
+                "3092"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "613",
+        "Name": "Green Stucco",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "493",
+                "997",
+                "1070",
+                "2973",
+                "3051"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "614",
+        "Name": "Gray Stucco",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "486",
+                "996",
+                "1069",
+                "2972",
+                "3050"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "619",
+        "Name": "Ebonwood",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "78",
+                "435",
+                "436"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "620",
+        "Name": "Rich Mahogany",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "221",
+                "680",
+                "681"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "621",
+        "Name": "Pearlwood",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "196",
+                "627",
+                "628"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "664",
+        "Name": "Ice Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "146",
+                "922"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "751",
+        "Name": "Cloud",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Prevents fall damage",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "385"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "762",
+        "Name": "Slime Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "245",
+                "756",
+                "3390"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "763",
+        "Name": "Flesh Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "93",
+                "460",
+                "3258"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "765",
+        "Name": "Rain Cloud",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Prevents fall damage",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1769",
+                "3384",
+                "3492"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "766",
+        "Name": "Bone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "767",
+        "Name": "Frozen Slime Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3386"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "775",
+        "Name": "Asphalt Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Increases running speed",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3257"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "824",
+        "Name": "Sunplate Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "280",
+                "806",
+                "3382"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "833",
+        "Name": "Purple Ice Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "834",
+        "Name": "Pink Ice Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "835",
+        "Name": "Red Ice Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "836",
+        "Name": "Crimstone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "870",
+                "871",
+                "872",
+                "873",
+                "874"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "911",
+        "Name": "Shadewood",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "237",
+                "725",
+                "726"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1103",
+        "Name": "Slush Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "200 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1124",
+        "Name": "Hive",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "501"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1125",
+        "Name": "Honey Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "144"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1127",
+        "Name": "Crispy Honey Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "987",
+                "1060",
+                "2963",
+                "3041"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1146",
+        "Name": "Super Dart Trap",
+        "Damage": "80",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1147",
+        "Name": "Flame Trap",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1148",
+        "Name": "Spiky Ball Trap",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1149",
+        "Name": "Spear Trap",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Silver Coins",
+        "Research": "5 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1150",
+        "Name": "Wooden Spike",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1246",
+        "Name": "Crimsand Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1344",
+        "Name": "Cog",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver 40 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "38",
+                "389"
+            ],
+            "NPC": [
+                "467"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1591",
+        "Name": "Bubblegum Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "358",
+                "977",
+                "1050",
+                "2953",
+                "3031"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1725",
+        "Name": "Pumpkin",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "25 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "208",
+                "658"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1727",
+        "Name": "Hay",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "496"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1729",
+        "Name": "Spooky Wood",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "264",
+                "798"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1872",
+        "Name": "Pine Tree Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1011"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1970",
+        "Name": "Amethyst Gemspark Block",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "313",
+                "314",
+                "315"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1971",
+        "Name": "Topaz Gemspark Block",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "814",
+                "815",
+                "816"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1972",
+        "Name": "Sapphire Gemspark Block",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "716",
+                "717",
+                "718"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1973",
+        "Name": "Emerald Gemspark Block",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "454",
+                "455",
+                "456"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1974",
+        "Name": "Ruby Gemspark Block",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "699",
+                "700",
+                "701"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1975",
+        "Name": "Diamond Gemspark Block",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "414",
+                "415",
+                "416"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1976",
+        "Name": "Amber Gemspark Block",
+        "Placeable": "Yes",
+        "Use time": "10 (Very fast)",
+        "Rarity": "0",
+        "Sources": {
+            "Crafting Recipes": [
+                "309",
+                "310",
+                "311"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2119",
+        "Name": "Stone Slab",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "803",
+                "2456"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2120",
+        "Name": "Sandstone Slab",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2447"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2173",
+        "Name": "Copper Plating",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "395",
+                "2440"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2260",
+        "Name": "Dynasty Wood",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "75",
+                "431",
+                "432"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2261",
+        "Name": "Red Dynasty Shingles",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2262",
+        "Name": "Blue Dynasty Shingles",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2435",
+        "Name": "Coralstone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "10 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1761",
+                "3484"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2503",
+        "Name": "Boreal Wood",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "24",
+                "339",
+                "340"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2504",
+        "Name": "Palm Wood",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "193",
+                "603",
+                "604"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2692",
+        "Name": "Tin Plating",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "810",
+                "2458"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2693",
+        "Name": "Waterfall Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "824",
+                "1768",
+                "3113",
+                "3491"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2694",
+        "Name": "Lavafall Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "521",
+                "3114",
+                "3495"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2695",
+        "Name": "Confetti Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "391",
+                "3097"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2697",
+        "Name": "Midnight Confetti Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "566",
+                "3107"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2787",
+        "Name": "Honeyfall Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "503",
+                "3116",
+                "3500"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2794",
+        "Name": "Shroomite Plating",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "744",
+                "1026",
+                "1099",
+                "3002",
+                "3080"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2860",
+        "Name": "Martian Conduit Plating",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "175",
+                "545"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3066",
+        "Name": "Smooth Marble Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "249",
+                "761",
+                "762"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3081",
+        "Name": "Marble Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "533"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3086",
+        "Name": "Granite Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "473"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3087",
+        "Name": "Smooth Granite Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "248",
+                "758",
+                "759"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3113",
+        "Name": "Pink Slime Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Very bouncy",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3387"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3234",
+        "Name": "Crystal Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "50",
+                "401",
+                "2939",
+                "3017"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3271",
+        "Name": "Sandstone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "954"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3272",
+        "Name": "Hardened Sand Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "916"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3274",
+        "Name": "Hardened Ebonsand Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "912"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3275",
+        "Name": "Hardened Crimsand Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "910"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3276",
+        "Name": "Ebonsandstone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "889"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3277",
+        "Name": "Crimsandstone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "864"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3338",
+        "Name": "Hardened Pearlsand Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "914"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3339",
+        "Name": "Pearlsandstone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "938"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3347",
+        "Name": "Desert Fossil",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "200 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "878"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3380",
+        "Name": "Sturdy Fossil",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "700",
+                "735"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3573",
+        "Name": "Solar Fragment Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3180"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3574",
+        "Name": "Vortex Fragment Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3241"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3575",
+        "Name": "Nebula Fragment Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3144"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3576",
+        "Name": "Stardust Fragment Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3207"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3621",
+        "Name": "Red Team Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Sell": "20 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3633",
+        "Name": "Green Team Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Sell": "20 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3634",
+        "Name": "Blue Team Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Sell": "20 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3635",
+        "Name": "Yellow Team Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Sell": "20 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3636",
+        "Name": "Pink Team Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Sell": "20 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3637",
+        "Name": "White Team Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "1",
+        "Sell": "20 Copper Coins",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3736",
+        "Name": "Silly Pink Balloon",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Green: Smells like mint and gleePink: Smells like bubblegum and happinessPurple: Smells like lavender and enthusiasm",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "749"
+            ],
+            "NPC": [
+                "411"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3737",
+        "Name": "Silly Purple Balloon",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Green: Smells like mint and gleePink: Smells like bubblegum and happinessPurple: Smells like lavender and enthusiasm",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "751"
+            ],
+            "NPC": [
+                "409"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3738",
+        "Name": "Silly Green Balloon",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Green: Smells like mint and gleePink: Smells like bubblegum and happinessPurple: Smells like lavender and enthusiasm",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "747"
+            ],
+            "NPC": [
+                "410"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3754",
+        "Name": "Sandfall Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Falling sand you can safely watch",
+        "Rarity": "0",
+        "Sell": "1 Copper Coin",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "703",
+                "3108"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3755",
+        "Name": "Snowfall Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "A lot cooler than a snow globe",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "769",
+                "3109"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3756",
+        "Name": "Snow Cloud",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Prevents fall damage . It gets pretty cold up there",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "3385"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3955",
+        "Name": "Lesion Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "163",
+                "527",
+                "3259"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4040",
+        "Name": "Golf Cup",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Aim to sink your golf ball in the cup. Lets everyone know how well you did",
+        "Rarity": "2",
+        "Sell": "20 Silver Coins",
+        "Research": "1 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "176"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4090",
+        "Name": "Shell Pile",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2449",
+                "2450",
+                "2451",
+                "2452",
+                "2453",
+                "2454"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "897",
+                "942"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4091",
+        "Name": "Anti-Portal Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Portals cannot be created on the surface of these blocks",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4139",
+        "Name": "Spider Nest Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "261",
+                "780",
+                "781"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4277",
+        "Name": "Gold Starry Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "470",
+                "3100"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4278",
+        "Name": "Blue Starry Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "337",
+                "3096"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4391",
+        "Name": "Thin Ice",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Breaks when fallen on. 'Watch your step'",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2540"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4392",
+        "Name": "Echo Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Only visible with Echo Sight",
+        "Rarity": "1",
+        "Sell": "2 Silver Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "493"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4422",
+        "Name": "Grate",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Allows only liquids through. Can be toggled open or closed. 'They'rrrre great!'",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "1204",
+                "1470"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4564",
+        "Name": "Bamboo",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "20 Copper Coins",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "9",
+                "320",
+                "321",
+                "1770"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "219",
+                "264"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4640",
+        "Name": "Amethyst Stone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "849",
+                "2513"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4641",
+        "Name": "Topaz Stone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "970",
+                "2541"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4642",
+        "Name": "Sapphire Stone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "956",
+                "2534"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4643",
+        "Name": "Emerald Stone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "898",
+                "2523"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4644",
+        "Name": "Ruby Stone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "952",
+                "2533"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4645",
+        "Name": "Diamond Stone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "880",
+                "2520"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4646",
+        "Name": "Amber Stone Block",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Rarity": "0",
+        "Sell": "1 Silver Coin",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "847",
+                "2512"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4962",
+        "Name": "Stone Accent Slab",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "A Stone Slab variant that merges differently with nearby blocks. Favored by advanced builders",
+        "Rarity": "0",
+        "Research": "100 required",
+        "Sources": {
+            "Crafting Recipes": [
+                "2539"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

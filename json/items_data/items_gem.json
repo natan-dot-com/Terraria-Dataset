@@ -1,0 +1,44 @@
+[
+    {
+        "Item ID": "177",
+        "Rarity": "1",
+        "In Stone": "gems/Sapphire_In_Stone.png",
+        "Placed": "gems/Sapphire_Placed.png"
+    },
+    {
+        "Item ID": "178",
+        "Rarity": "1",
+        "In Stone": "gems/Ruby_In_Stone.png",
+        "Placed": "gems/Ruby_Placed.png"
+    },
+    {
+        "Item ID": "179",
+        "Rarity": "1",
+        "In Stone": "gems/Emerald_In_Stone.png",
+        "Placed": "gems/Emerald_Placed.png"
+    },
+    {
+        "Item ID": "180",
+        "Rarity": "1",
+        "In Stone": "gems/Topaz_In_Stone.png",
+        "Placed": "gems/Topaz_Placed.png"
+    },
+    {
+        "Item ID": "181",
+        "Rarity": "1",
+        "In Stone": "gems/Amethyst_In_Stone.png",
+        "Placed": "gems/Amethyst_Placed.png"
+    },
+    {
+        "Item ID": "182",
+        "Rarity": "1",
+        "In Stone": "gems/Diamond_In_Stone.png",
+        "Placed": "gems/Diamond_Placed.png"
+    },
+    {
+        "Item ID": "999",
+        "Rarity": "1",
+        "In Stone": "gems/Amber_In_Stone.png",
+        "Placed": "gems/Amber_Placed.png"
+    }
+]

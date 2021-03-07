@@ -1,0 +1,603 @@
+[
+    {
+        "Item ID": "1992",
+        "Rarity": "1",
+        "Bait Power": "20%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Surface"
+        }
+    },
+    {
+        "Item ID": "1994",
+        "Rarity": "0",
+        "Bait Power": "5%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Forest"
+        }
+    },
+    {
+        "Item ID": "1995",
+        "Rarity": "2",
+        "Bait Power": "35%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Forest"
+        }
+    },
+    {
+        "Item ID": "1996",
+        "Rarity": "2",
+        "Bait Power": "30%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Forest"
+        }
+    },
+    {
+        "Item ID": "1997",
+        "Rarity": "1",
+        "Bait Power": "20%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Forest"
+        }
+    },
+    {
+        "Item ID": "1998",
+        "Rarity": "0",
+        "Bait Power": "10%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Forest"
+        }
+    },
+    {
+        "Item ID": "1999",
+        "Rarity": "3",
+        "Bait Power": "50%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Forest"
+        }
+    },
+    {
+        "Item ID": "2000",
+        "Rarity": "1",
+        "Bait Power": "15%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Forest"
+        }
+    },
+    {
+        "Item ID": "2001",
+        "Rarity": "1",
+        "Bait Power": "25%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Forest"
+        }
+    },
+    {
+        "Item ID": "2002",
+        "Rarity": "1",
+        "Bait Power": "25%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "958"
+            ],
+            "Other": "Found in Surface"
+        }
+    },
+    {
+        "Item ID": "2004",
+        "Rarity": "2",
+        "Bait Power": "35%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in The Hallow"
+        }
+    },
+    {
+        "Item ID": "2006",
+        "Rarity": "0",
+        "Bait Power": "10%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Cavern"
+        }
+    },
+    {
+        "Item ID": "2007",
+        "Rarity": "1",
+        "Bait Power": "15%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Glowing Mushroom biome"
+        }
+    },
+    {
+        "Item ID": "2156",
+        "Rarity": "1",
+        "Bait Power": "15%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Desert"
+        }
+    },
+    {
+        "Item ID": "2157",
+        "Rarity": "0",
+        "Bait Power": "10%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Desert"
+        }
+    },
+    {
+        "Item ID": "2436",
+        "Rarity": "1",
+        "Bait Power": "20%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2437",
+        "Rarity": "1",
+        "Bait Power": "20%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2438",
+        "Rarity": "1",
+        "Bait Power": "20%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2673",
+        "Rarity": "3",
+        "Bait Power": "666%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Glowing Mushroom biome"
+        }
+    },
+    {
+        "Item ID": "2674",
+        "Rarity": "1",
+        "Bait Power": "15%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "31",
+                "68"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2675",
+        "Rarity": "2",
+        "Bait Power": "30%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "32",
+                "69",
+                "98",
+                "137",
+                "217",
+                "262",
+                "293",
+                "334",
+                "364",
+                "406",
+                "438",
+                "480",
+                "507",
+                "544",
+                "573",
+                "612",
+                "643",
+                "687",
+                "723",
+                "770",
+                "809",
+                "862",
+                "895",
+                "940"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2676",
+        "Rarity": "3",
+        "Bait Power": "50%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "99",
+                "138",
+                "157",
+                "186",
+                "218",
+                "263",
+                "294",
+                "335",
+                "365",
+                "407",
+                "439",
+                "481",
+                "508",
+                "545",
+                "574",
+                "613",
+                "644",
+                "688",
+                "724",
+                "771",
+                "810",
+                "863",
+                "896",
+                "941"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2740",
+        "Rarity": "0",
+        "Bait Power": "10%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Forest"
+        }
+    },
+    {
+        "Item ID": "2891",
+        "Rarity": "3",
+        "Bait Power": "50%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Forest"
+        }
+    },
+    {
+        "Item ID": "2893",
+        "Rarity": "3",
+        "Bait Power": "50%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Surface"
+        }
+    },
+    {
+        "Item ID": "2895",
+        "Rarity": "3",
+        "Bait Power": "50%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "960"
+            ],
+            "Other": "Found in Surface"
+        }
+    },
+    {
+        "Item ID": "3191",
+        "Rarity": "2",
+        "Bait Power": "35%",
+        "Sources": {
+            "Crafting Recipes": [
+                "85"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "959"
+            ],
+            "Other": "Found in Meteor Shower"
+        }
+    },
+    {
+        "Item ID": "3192",
+        "Rarity": "1",
+        "Bait Power": "15%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Jungle"
+        }
+    },
+    {
+        "Item ID": "3193",
+        "Rarity": "1",
+        "Bait Power": "25%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Jungle"
+        }
+    },
+    {
+        "Item ID": "3194",
+        "Rarity": "2",
+        "Bait Power": "40%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Jungle"
+        }
+    },
+    {
+        "Item ID": "4334",
+        "Rarity": "1",
+        "Bait Power": "20%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Surface"
+        }
+    },
+    {
+        "Item ID": "4335",
+        "Rarity": "1",
+        "Bait Power": "20%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Surface"
+        }
+    },
+    {
+        "Item ID": "4336",
+        "Rarity": "1",
+        "Bait Power": "20%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Surface"
+        }
+    },
+    {
+        "Item ID": "4337",
+        "Rarity": "1",
+        "Bait Power": "20%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Surface"
+        }
+    },
+    {
+        "Item ID": "4338",
+        "Rarity": "1",
+        "Bait Power": "20%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Surface"
+        }
+    },
+    {
+        "Item ID": "4339",
+        "Rarity": "1",
+        "Bait Power": "20%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Surface"
+        }
+    },
+    {
+        "Item ID": "4340",
+        "Rarity": "3",
+        "Bait Power": "50%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4361",
+        "Rarity": "1",
+        "Bait Power": "17%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Windy Day"
+        }
+    },
+    {
+        "Item ID": "4362",
+        "Rarity": "3",
+        "Bait Power": "50%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Windy Day"
+        }
+    },
+    {
+        "Item ID": "4363",
+        "Rarity": "1",
+        "Bait Power": "22%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Graveyard"
+        }
+    },
+    {
+        "Item ID": "4418",
+        "Rarity": "1",
+        "Bait Power": "17%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Surface"
+        }
+    },
+    {
+        "Item ID": "4419",
+        "Rarity": "3",
+        "Bait Power": "50%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Surface"
+        }
+    },
+    {
+        "Item ID": "4845",
+        "Rarity": "1",
+        "Bait Power": "15%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in Forest"
+        }
+    },
+    {
+        "Item ID": "4847",
+        "Rarity": "1",
+        "Bait Power": "25%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in The Underworld"
+        }
+    },
+    {
+        "Item ID": "4849",
+        "Rarity": "2",
+        "Bait Power": "35%",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Found in The Underworld"
+        }
+    }
+]

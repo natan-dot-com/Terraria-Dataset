@@ -1,0 +1,184 @@
+[
+    {
+        "Item ID": "327",
+        "Used In": "Locked Gold Chest",
+        "Is Consumed": "Yes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Dungeon"
+        }
+    },
+    {
+        "Item ID": "329",
+        "Used In": "Locked Shadow Chest",
+        "Is Consumed": "No",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1179"
+            ],
+            "Other": "Gold Chest"
+        }
+    },
+    {
+        "Item ID": "1141",
+        "Used In": "Lihzahrd Door",
+        "Is Consumed": "Yes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1094"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1533",
+        "Used In": "Jungle Chest",
+        "Is Consumed": "Yes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [
+                {
+                    "Drop ID": "",
+                    "NPC": "Hardmode drop in Jungle, Underground Jungle.",
+                    "Probability": "0.04%",
+                    "Quantity": "1"
+                }
+            ],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1534",
+        "Used In": "Corruption Chest",
+        "Is Consumed": "Yes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [
+                {
+                    "Drop ID": "",
+                    "NPC": "Hardmode drop in Corruption, Underground Corruption.",
+                    "Probability": "0.04%",
+                    "Quantity": "1"
+                }
+            ],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1535",
+        "Used In": "Crimson Chest",
+        "Is Consumed": "Yes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [
+                {
+                    "Drop ID": "",
+                    "NPC": "Hardmode drop in Crimson, Underground Crimson.",
+                    "Probability": "0.04%",
+                    "Quantity": "1"
+                }
+            ],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1536",
+        "Used In": "Hallowed Chest",
+        "Is Consumed": "Yes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [
+                {
+                    "Drop ID": "",
+                    "NPC": "Hardmode drop in Hallow, Underground Hallow.",
+                    "Probability": "0.04%",
+                    "Quantity": "1"
+                }
+            ],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1537",
+        "Used In": "Ice Chest",
+        "Is Consumed": "Yes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [
+                {
+                    "Drop ID": "",
+                    "NPC": "Hardmode drop in Snow, Ice biomes.",
+                    "Probability": "0.04%",
+                    "Quantity": "1"
+                }
+            ],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3091",
+        "Used In": "Corrupt Mimic",
+        "Is Consumed": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "516"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3092",
+        "Used In": "Hallowed Mimic",
+        "Is Consumed": "Yes",
+        "Sources": {
+            "Crafting Recipes": [
+                "515"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4714",
+        "Used In": "Desert Chest",
+        "Is Consumed": "Yes",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [
+                {
+                    "Drop ID": "",
+                    "NPC": "Hardmode drop in Oasis, Desert, Underground Desert.",
+                    "Probability": "0.04%",
+                    "Quantity": "1"
+                }
+            ],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

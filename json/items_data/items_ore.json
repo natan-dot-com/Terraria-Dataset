@@ -1,0 +1,583 @@
+[
+    {
+        "Item ID": "11",
+        "Ore Tier": "2",
+        "Rarity": "0",
+        "Minimum Pickaxe Power": "Copper Pickaxe",
+        "In Stone": "ores/Iron_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "13",
+                "46",
+                "78",
+                "109",
+                "197",
+                "230",
+                "273",
+                "302",
+                "344",
+                "374",
+                "418",
+                "448",
+                "487",
+                "512",
+                "553",
+                "580",
+                "623",
+                "655",
+                "703",
+                "738",
+                "789",
+                "830",
+                "875",
+                "908"
+            ],
+            "Other": "Surface, Underground, Cavern"
+        }
+    },
+    {
+        "Item ID": "12",
+        "Ore Tier": "1",
+        "Rarity": "0",
+        "Minimum Pickaxe Power": "Copper Pickaxe",
+        "In Stone": "ores/Copper_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "11",
+                "44",
+                "76",
+                "107",
+                "195",
+                "228",
+                "271",
+                "300",
+                "342",
+                "372",
+                "416",
+                "446",
+                "485",
+                "510",
+                "551",
+                "578",
+                "621",
+                "653",
+                "701",
+                "736",
+                "787",
+                "828",
+                "873",
+                "906"
+            ],
+            "Other": "Surface, Underground, Cavern"
+        }
+    },
+    {
+        "Item ID": "13",
+        "Ore Tier": "4",
+        "Rarity": "0",
+        "Minimum Pickaxe Power": "Copper Pickaxe",
+        "In Stone": "ores/Gold_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "144",
+                "165",
+                "201",
+                "234",
+                "277",
+                "306",
+                "348",
+                "378",
+                "422",
+                "452",
+                "491",
+                "516",
+                "557",
+                "584",
+                "627",
+                "659",
+                "707",
+                "742",
+                "793",
+                "834",
+                "879",
+                "912"
+            ],
+            "Other": "Underground, Cavern, Floating Islands, Surface (very rarely)"
+        }
+    },
+    {
+        "Item ID": "14",
+        "Ore Tier": "3",
+        "Rarity": "0",
+        "Minimum Pickaxe Power": "Copper Pickaxe",
+        "In Stone": "ores/Silver_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "80",
+                "111",
+                "142",
+                "163",
+                "199",
+                "232",
+                "275",
+                "304",
+                "346",
+                "376",
+                "420",
+                "450",
+                "489",
+                "514",
+                "555",
+                "582",
+                "625",
+                "657",
+                "705",
+                "740",
+                "791",
+                "832",
+                "877",
+                "910"
+            ],
+            "Other": "Underground, Cavern, Floating Islands, Surface (rarely)"
+        }
+    },
+    {
+        "Item ID": "56",
+        "Ore Tier": "6",
+        "Rarity": "1",
+        "Minimum Pickaxe Power": "Gold Pickaxe",
+        "In Stone": "ores/Demonite_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1029",
+                "1035"
+            ],
+            "Other": "Underground, Cavern"
+        }
+    },
+    {
+        "Item ID": "116",
+        "Ore Tier": "5",
+        "Rarity": "0",
+        "Minimum Pickaxe Power": "Tungsten Pickaxe",
+        "In Stone": "ores/Meteorite_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Meteorite biome"
+        }
+    },
+    {
+        "Item ID": "173",
+        "Ore Tier": "7",
+        "Rarity": "0",
+        "Minimum Pickaxe Power": "Nightmare Pickaxe",
+        "In Stone": "ores/Obsidian_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [
+                "935"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Contact between water & lava"
+        }
+    },
+    {
+        "Item ID": "174",
+        "Ore Tier": "8",
+        "Rarity": "2",
+        "Minimum Pickaxe Power": "Nightmare Pickaxe",
+        "In Stone": "ores/Hellstone_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [
+                "918",
+                "919",
+                "920",
+                "921"
+            ],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Underworld"
+        }
+    },
+    {
+        "Item ID": "364",
+        "Ore Tier": "9",
+        "Rarity": "3",
+        "Minimum Pickaxe Power": "Molten Pickaxe",
+        "In Stone": "ores/Cobalt_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "48",
+                "113",
+                "236",
+                "308",
+                "380",
+                "454",
+                "518",
+                "586",
+                "661",
+                "744",
+                "836",
+                "914"
+            ],
+            "Other": "Underground, Cavern"
+        }
+    },
+    {
+        "Item ID": "365",
+        "Ore Tier": "10",
+        "Rarity": "3",
+        "Minimum Pickaxe Power": "Cobalt Pickaxe",
+        "In Stone": "ores/Mythril_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "115",
+                "167",
+                "238",
+                "310",
+                "382",
+                "456",
+                "520",
+                "588",
+                "663",
+                "746",
+                "838",
+                "916"
+            ],
+            "Other": "Cavern"
+        }
+    },
+    {
+        "Item ID": "366",
+        "Ore Tier": "11",
+        "Rarity": "3",
+        "Minimum Pickaxe Power": "Mythril Pickaxe",
+        "In Stone": "ores/Adamantite_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "169",
+                "240",
+                "312",
+                "384",
+                "458",
+                "522",
+                "590",
+                "665",
+                "748",
+                "840",
+                "918"
+            ],
+            "Other": "Cavern (roughly at lava depth)"
+        }
+    },
+    {
+        "Item ID": "699",
+        "Ore Tier": "1",
+        "Rarity": "0",
+        "Minimum Pickaxe Power": "Copper Pickaxe",
+        "In Stone": "ores/Tin_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "12",
+                "45",
+                "77",
+                "108",
+                "196",
+                "229",
+                "272",
+                "301",
+                "343",
+                "373",
+                "417",
+                "447",
+                "486",
+                "511",
+                "552",
+                "579",
+                "622",
+                "654",
+                "702",
+                "737",
+                "788",
+                "829",
+                "874",
+                "907"
+            ],
+            "Other": "Surface, Underground, Cavern"
+        }
+    },
+    {
+        "Item ID": "700",
+        "Ore Tier": "2",
+        "Rarity": "0",
+        "Minimum Pickaxe Power": "Copper Pickaxe",
+        "In Stone": "ores/Lead_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "14",
+                "47",
+                "79",
+                "110",
+                "198",
+                "231",
+                "274",
+                "303",
+                "345",
+                "375",
+                "419",
+                "449",
+                "488",
+                "513",
+                "554",
+                "581",
+                "624",
+                "656",
+                "704",
+                "739",
+                "790",
+                "831",
+                "876",
+                "909"
+            ],
+            "Other": "Surface, Underground, Cavern"
+        }
+    },
+    {
+        "Item ID": "701",
+        "Ore Tier": "3",
+        "Rarity": "0",
+        "Minimum Pickaxe Power": "Copper Pickaxe",
+        "In Stone": "ores/Tungsten_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "81",
+                "112",
+                "143",
+                "164",
+                "200",
+                "233",
+                "276",
+                "305",
+                "347",
+                "377",
+                "421",
+                "451",
+                "490",
+                "515",
+                "556",
+                "583",
+                "626",
+                "658",
+                "706",
+                "741",
+                "792",
+                "833",
+                "878",
+                "911"
+            ],
+            "Other": "Underground, Cavern, Floating Islands, Surface (rarely)"
+        }
+    },
+    {
+        "Item ID": "702",
+        "Ore Tier": "4",
+        "Rarity": "0",
+        "Minimum Pickaxe Power": "Copper Pickaxe",
+        "In Stone": "ores/Platinum_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "145",
+                "166",
+                "202",
+                "235",
+                "278",
+                "307",
+                "349",
+                "379",
+                "423",
+                "453",
+                "492",
+                "517",
+                "558",
+                "585",
+                "628",
+                "660",
+                "708",
+                "743",
+                "794",
+                "835",
+                "880",
+                "913"
+            ],
+            "Other": "Underground, Cavern, Floating Islands, Surface (very rarely)"
+        }
+    },
+    {
+        "Item ID": "880",
+        "Ore Tier": "6",
+        "Rarity": "1",
+        "Minimum Pickaxe Power": "Gold Pickaxe",
+        "In Stone": "ores/Crimtane_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1027",
+                "1041"
+            ],
+            "Other": "Underground, Cavern"
+        }
+    },
+    {
+        "Item ID": "947",
+        "Ore Tier": "12",
+        "Rarity": "7",
+        "Minimum Pickaxe Power": "Pickaxe Axe",
+        "In Stone": "ores/Chlorophyte_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": "Underground Jungle"
+        }
+    },
+    {
+        "Item ID": "1104",
+        "Ore Tier": "9",
+        "Rarity": "3",
+        "Minimum Pickaxe Power": "Molten Pickaxe",
+        "In Stone": "ores/Palladium_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "49",
+                "114",
+                "237",
+                "309",
+                "381",
+                "455",
+                "519",
+                "587",
+                "662",
+                "745",
+                "837",
+                "915"
+            ],
+            "Other": "Underground, Cavern"
+        }
+    },
+    {
+        "Item ID": "1105",
+        "Ore Tier": "10",
+        "Rarity": "3",
+        "Minimum Pickaxe Power": "Cobalt Pickaxe",
+        "In Stone": "ores/Orichalcum_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "116",
+                "168",
+                "239",
+                "311",
+                "383",
+                "457",
+                "521",
+                "589",
+                "664",
+                "747",
+                "839",
+                "917"
+            ],
+            "Other": "Cavern"
+        }
+    },
+    {
+        "Item ID": "1106",
+        "Ore Tier": "11",
+        "Rarity": "3",
+        "Minimum Pickaxe Power": "Mythril Pickaxe",
+        "In Stone": "ores/Titanium_Ore_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "170",
+                "241",
+                "313",
+                "385",
+                "459",
+                "523",
+                "591",
+                "666",
+                "749",
+                "841",
+                "919"
+            ],
+            "Other": "Cavern (roughly at lava depth)"
+        }
+    },
+    {
+        "Item ID": "3460",
+        "Ore Tier": "13",
+        "Rarity": "10",
+        "Minimum Pickaxe Power": "Copper Pickaxe",
+        "In Stone": "ores/Luminite_In_Stone.png",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "1133"
+            ],
+            "Other": ""
+        }
+    }
+]

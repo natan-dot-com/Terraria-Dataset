@@ -1,0 +1,187 @@
+[
+    {
+        "Item ID": "4875",
+        "Name": "Jungle Pylon",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Teleport to another pylon when 2 villagers are nearby. You can only place one per type and in the matching biome",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Usable": "When in the Jungle biome.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4876",
+        "Name": "Forest Pylon",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Teleport to another pylon when 2 villagers are nearby. You can only place one per type and in the matching biome",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Usable": "When not in any other biome and above the surface.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "19",
+                "43",
+                "54",
+                "76",
+                "139",
+                "162",
+                "205",
+                "224",
+                "230",
+                "257",
+                "264",
+                "289",
+                "347",
+                "377",
+                "392",
+                "429",
+                "436",
+                "446",
+                "477",
+                "495"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4916",
+        "Name": "Hallow Pylon",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Teleport to another pylon when 2 villagers are nearby. You can only place one per type and in the matching biome",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Usable": "When in the Hallow biome.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4917",
+        "Name": "Cavern Pylon",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Teleport to another pylon when 2 villagers are nearby. You can only place one per type and in the matching biome",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Usable": "When below the surface (including The Underworld).",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4918",
+        "Name": "Ocean Pylon",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Teleport to another pylon when 2 villagers are nearby. You can only place one per type and in the matching biome",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Usable": "When in the Ocean biome.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4919",
+        "Name": "Desert Pylon",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Teleport to another pylon when 2 villagers are nearby. You can only place one per type and in the matching biome",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Usable": "When in the Desert biome.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4920",
+        "Name": "Snow Pylon",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Teleport to another pylon when 2 villagers are nearby. You can only place one per type and in the matching biome",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Usable": "When in the Snow biome.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4921",
+        "Name": "Mushroom Pylon",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Teleport to another pylon when 2 villagers are nearby. You can only place one per type and in the matching biome",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Usable": "When in the Glowing Mushroom biome.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4951",
+        "Name": "Universal Pylon",
+        "Placeable": "Yes",
+        "Use time": "15 (Very fast)",
+        "Tooltip": "Teleport to another pylon when 2 villagers are nearby. You can only place one per type and in the matching biome",
+        "Rarity": "1",
+        "Sell": "2 Gold Coins",
+        "Research": "1 required",
+        "Usable": "Anywhere.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "75"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]

@@ -1,0 +1,3845 @@
+[
+    {
+        "Sell ID": "1",
+        "NPC ID": "-1",
+        "Selling Item": "88",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "2",
+        "NPC ID": "-1",
+        "Selling Item": "87",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "3",
+        "NPC ID": "-1",
+        "Selling Item": "35",
+        "Item Cost": "50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "4",
+        "NPC ID": "-1",
+        "Selling Item": "1991",
+        "Item Cost": "25 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "5",
+        "NPC ID": "-1",
+        "Selling Item": "3509",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "6",
+        "NPC ID": "-1",
+        "Selling Item": "3506",
+        "Item Cost": "4 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "7",
+        "NPC ID": "-1",
+        "Selling Item": "8",
+        "Item Cost": "50 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "8",
+        "NPC ID": "-1",
+        "Selling Item": "28",
+        "Item Cost": "3 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "9",
+        "NPC ID": "-1",
+        "Selling Item": "110",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "10",
+        "NPC ID": "-1",
+        "Selling Item": "40",
+        "Item Cost": "5 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "11",
+        "NPC ID": "-1",
+        "Selling Item": "42",
+        "Item Cost": "15 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "12",
+        "NPC ID": "-1",
+        "Selling Item": "965",
+        "Item Cost": "10 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "13",
+        "NPC ID": "-1",
+        "Selling Item": "967",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "When spoken to in a Snow biome "
+    },
+    {
+        "Sell ID": "14",
+        "NPC ID": "-1",
+        "Selling Item": "33",
+        "Item Cost": "3 Silver Coins",
+        "Sell Condition": "When spoken to in a Jungle "
+    },
+    {
+        "Sell ID": "15",
+        "NPC ID": "-1",
+        "Selling Item": "4074",
+        "Item Cost": "20 Silver Coins",
+        "Sell Condition": "During a Windy Day "
+    },
+    {
+        "Sell ID": "16",
+        "NPC ID": "-1",
+        "Selling Item": "279",
+        "Item Cost": "50 Copper Coins",
+        "Sell Condition": "During a Blood Moon "
+    },
+    {
+        "Sell ID": "17",
+        "NPC ID": "-1",
+        "Selling Item": "282",
+        "Item Cost": "10 Copper Coins",
+        "Sell Condition": "During night "
+    },
+    {
+        "Sell ID": "18",
+        "NPC ID": "-1",
+        "Selling Item": "3198",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "In Hardmode "
+    },
+    {
+        "Sell ID": "19",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "20",
+        "NPC ID": "-1",
+        "Selling Item": "346",
+        "Item Cost": "20 Gold Coins",
+        "Sell Condition": "When Skeletron has been defeated "
+    },
+    {
+        "Sell ID": "21",
+        "NPC ID": "-1",
+        "Selling Item": "488",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "When the Wall of Flesh has been defeated "
+    },
+    {
+        "Sell ID": "22",
+        "NPC ID": "-1",
+        "Selling Item": "931",
+        "Item Cost": "7 Copper Coins",
+        "Sell Condition": "When the player carries a Flare Gun in their inventory "
+    },
+    {
+        "Sell ID": "23",
+        "NPC ID": "-1",
+        "Selling Item": "1614",
+        "Item Cost": "7 Copper Coins",
+        "Sell Condition": "When the player carries a Flare Gun in their inventory "
+    },
+    {
+        "Sell ID": "24",
+        "NPC ID": "-1",
+        "Selling Item": "1786",
+        "Item Cost": "60 Silver Coins",
+        "Sell Condition": "Always available."
+    },
+    {
+        "Sell ID": "25",
+        "NPC ID": "-1",
+        "Selling Item": "1348",
+        "Item Cost": "17 Silver Coins",
+        "Sell Condition": "When the Wall of Flesh has been defeated "
+    },
+    {
+        "Sell ID": "26",
+        "NPC ID": "-1",
+        "Selling Item": "4063",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When either the Eater of Worlds, Brain of Cthulhu, Skeletron, or Wall of Flesh have been defeated "
+    },
+    {
+        "Sell ID": "27",
+        "NPC ID": "-1",
+        "Selling Item": "4673",
+        "Item Cost": "50 Silver Coins",
+        "Sell Condition": "When either the Eater of Worlds, Brain of Cthulhu, Skeletron, or Wall of Flesh have been defeated "
+    },
+    {
+        "Sell ID": "28",
+        "NPC ID": "-1",
+        "Selling Item": "3108",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "When the player possesses a Nail Gun "
+    },
+    {
+        "Sell ID": "29",
+        "NPC ID": "-1",
+        "Selling Item": "3242",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "30",
+        "NPC ID": "-1",
+        "Selling Item": "3243",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "31",
+        "NPC ID": "-1",
+        "Selling Item": "3244",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "32",
+        "NPC ID": "-1",
+        "Selling Item": "168",
+        "Item Cost": "75 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "33",
+        "NPC ID": "-1",
+        "Selling Item": "166",
+        "Item Cost": "3 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "34",
+        "NPC ID": "-1",
+        "Selling Item": "167",
+        "Item Cost": "20 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "35",
+        "NPC ID": "-1",
+        "Selling Item": "265",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "In Hardmode "
+    },
+    {
+        "Sell ID": "36",
+        "NPC ID": "-1",
+        "Selling Item": "937",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "After defeating Plantera and a Pirate Invasion."
+    },
+    {
+        "Sell ID": "37",
+        "NPC ID": "-1",
+        "Selling Item": "1347",
+        "Item Cost": "12 Silver Coins",
+        "Sell Condition": "In Hardmode "
+    },
+    {
+        "Sell ID": "38",
+        "NPC ID": "-1",
+        "Selling Item": "1261",
+        "Item Cost": "10 Copper Coins",
+        "Sell Condition": "Once Golem has been defeated "
+    },
+    {
+        "Sell ID": "39",
+        "NPC ID": "-1",
+        "Selling Item": "4827",
+        "Item Cost": "25 Silver Coins",
+        "Sell Condition": "When the player has a Dry Bomb in their inventory "
+    },
+    {
+        "Sell ID": "40",
+        "NPC ID": "-1",
+        "Selling Item": "4824",
+        "Item Cost": "25 Silver Coins",
+        "Sell Condition": "When the player has a Wet Bomb in their inventory "
+    },
+    {
+        "Sell ID": "41",
+        "NPC ID": "-1",
+        "Selling Item": "4825",
+        "Item Cost": "25 Silver Coins",
+        "Sell Condition": "When the player has a Lava Bomb in their inventory "
+    },
+    {
+        "Sell ID": "42",
+        "NPC ID": "-1",
+        "Selling Item": "4826",
+        "Item Cost": "25 Silver Coins",
+        "Sell Condition": "When the player has a Honey Bomb in their inventory "
+    },
+    {
+        "Sell ID": "43",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "44",
+        "NPC ID": "-1",
+        "Selling Item": "1120",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "45",
+        "NPC ID": "-1",
+        "Selling Item": "1037",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "46",
+        "NPC ID": "-1",
+        "Selling Item": "1969",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "On a multiplayer server "
+    },
+    {
+        "Sell ID": "47",
+        "NPC ID": "-1",
+        "Selling Item": "1741",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "48",
+        "NPC ID": "-1",
+        "Selling Item": "3248",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "49",
+        "NPC ID": "-1",
+        "Selling Item": "2871",
+        "Item Cost": "3 Gold 75 Silver Coins",
+        "Sell Condition": "During full moon "
+    },
+    {
+        "Sell ID": "50",
+        "NPC ID": "-1",
+        "Selling Item": "2872",
+        "Item Cost": "3 Gold 75 Silver Coins",
+        "Sell Condition": "During full moon "
+    },
+    {
+        "Sell ID": "51",
+        "NPC ID": "-1",
+        "Selling Item": "2874",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "52",
+        "NPC ID": "-1",
+        "Selling Item": "4662",
+        "Item Cost": "7 Gold 50 Silver Coins",
+        "Sell Condition": "While in a Graveyard "
+    },
+    {
+        "Sell ID": "53",
+        "NPC ID": "-1",
+        "Selling Item": "4663",
+        "Item Cost": "7 Gold 50 Silver Coins",
+        "Sell Condition": "During a Blood Moon "
+    },
+    {
+        "Sell ID": "54",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "55",
+        "NPC ID": "-1",
+        "Selling Item": "4767",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "56",
+        "NPC ID": "-1",
+        "Selling Item": "4759",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "57",
+        "NPC ID": "-1",
+        "Selling Item": "4672",
+        "Item Cost": "15 Gold Coins",
+        "Sell Condition": "Always available."
+    },
+    {
+        "Sell ID": "58",
+        "NPC ID": "-1",
+        "Selling Item": "4716",
+        "Item Cost": "20 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 25% (131 entries) "
+    },
+    {
+        "Sell ID": "59",
+        "NPC ID": "-1",
+        "Selling Item": "4762",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 30% (157 entries) "
+    },
+    {
+        "Sell ID": "60",
+        "NPC ID": "-1",
+        "Selling Item": "4768",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During the following moon phase: Full Moon, Waning Gibbous"
+    },
+    {
+        "Sell ID": "61",
+        "NPC ID": "-1",
+        "Selling Item": "4769",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During the following moon phase: Full Moon, Waning Gibbous"
+    },
+    {
+        "Sell ID": "62",
+        "NPC ID": "-1",
+        "Selling Item": "4770",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During the following moon phase: Third Quarter, Waning Crescent"
+    },
+    {
+        "Sell ID": "63",
+        "NPC ID": "-1",
+        "Selling Item": "4771",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During the following moon phase: Third Quarter, Waning Crescent"
+    },
+    {
+        "Sell ID": "64",
+        "NPC ID": "-1",
+        "Selling Item": "4772",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During the following moon phase: New Moon, Waxing Crescent"
+    },
+    {
+        "Sell ID": "65",
+        "NPC ID": "-1",
+        "Selling Item": "4773",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During the following moon phase: New Moon, Waxing Crescent"
+    },
+    {
+        "Sell ID": "66",
+        "NPC ID": "-1",
+        "Selling Item": "4560",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During the following moon phase: First Quarter, Waxing Gibbous"
+    },
+    {
+        "Sell ID": "67",
+        "NPC ID": "-1",
+        "Selling Item": "4775",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During the following moon phase: First Quarter, Waxing Gibbous"
+    },
+    {
+        "Sell ID": "68",
+        "NPC ID": "-1",
+        "Selling Item": "4736",
+        "Item Cost": "30 Gold Coins",
+        "Sell Condition": "In Hardmode during a Blood Moon "
+    },
+    {
+        "Sell ID": "69",
+        "NPC ID": "-1",
+        "Selling Item": "4701",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "After defeating Plantera "
+    },
+    {
+        "Sell ID": "70",
+        "NPC ID": "-1",
+        "Selling Item": "4829",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "The Town Cat has not already been spawned "
+    },
+    {
+        "Sell ID": "71",
+        "NPC ID": "-1",
+        "Selling Item": "4830",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 25% (131 entries), and the Town Dog has not already been spawned "
+    },
+    {
+        "Sell ID": "72",
+        "NPC ID": "-1",
+        "Selling Item": "4910",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 45% (235 entries), and Town Bunny has not already been spawned "
+    },
+    {
+        "Sell ID": "73",
+        "NPC ID": "-1",
+        "Selling Item": "4676",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 10% (53 entries) "
+    },
+    {
+        "Sell ID": "74",
+        "NPC ID": "-1",
+        "Selling Item": "4677",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "After beating the Solar Pillar "
+    },
+    {
+        "Sell ID": "75",
+        "NPC ID": "-1",
+        "Selling Item": "4951",
+        "Item Cost": "1 Platinum Coin",
+        "Sell Condition": "When the Bestiary has been filled completely (522 entries) "
+    },
+    {
+        "Sell ID": "76",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "77",
+        "NPC ID": "-1",
+        "Selling Item": "4785",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 30% (157 entries) "
+    },
+    {
+        "Sell ID": "78",
+        "NPC ID": "-1",
+        "Selling Item": "4786",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 30% (157 entries) "
+    },
+    {
+        "Sell ID": "79",
+        "NPC ID": "-1",
+        "Selling Item": "4787",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 30% (157 entries) "
+    },
+    {
+        "Sell ID": "80",
+        "NPC ID": "-1",
+        "Selling Item": "4871",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "When the Bestiary has been filled to at least 30% (157 entries) "
+    },
+    {
+        "Sell ID": "81",
+        "NPC ID": "-1",
+        "Selling Item": "4907",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "When the Bestiary has been filled to at least 30% (157 entries) "
+    },
+    {
+        "Sell ID": "82",
+        "NPC ID": "-1",
+        "Selling Item": "4955",
+        "Item Cost": "15 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 40% (209 entries) "
+    },
+    {
+        "Sell ID": "83",
+        "NPC ID": "-1",
+        "Selling Item": "4788",
+        "Item Cost": "6 Gold Coins",
+        "Sell Condition": "In Hardmode "
+    },
+    {
+        "Sell ID": "84",
+        "NPC ID": "-1",
+        "Selling Item": "4776",
+        "Item Cost": "75 Copper Coins",
+        "Sell Condition": "Once the player fills out all three Fairies in the Bestiary "
+    },
+    {
+        "Sell ID": "85",
+        "NPC ID": "-1",
+        "Selling Item": "4766",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 50% (261 entries) "
+    },
+    {
+        "Sell ID": "86",
+        "NPC ID": "-1",
+        "Selling Item": "4765",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 50% (261 entries) "
+    },
+    {
+        "Sell ID": "87",
+        "NPC ID": "-1",
+        "Selling Item": "4777",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 50% (261 entries) "
+    },
+    {
+        "Sell ID": "88",
+        "NPC ID": "-1",
+        "Selling Item": "4763",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 60% (314 entries) "
+    },
+    {
+        "Sell ID": "89",
+        "NPC ID": "-1",
+        "Selling Item": "4735",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "When the Bestiary has been filled to at least 70% (366 entries) "
+    },
+    {
+        "Sell ID": "90",
+        "NPC ID": "-1",
+        "Selling Item": "66",
+        "Item Cost": "75 Copper Coins",
+        "Sell Condition": "While not a Blood Moon "
+    },
+    {
+        "Sell ID": "91",
+        "NPC ID": "-1",
+        "Selling Item": "67",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "During a Blood Moon in a Corrupt world "
+    },
+    {
+        "Sell ID": "92",
+        "NPC ID": "-1",
+        "Selling Item": "2886",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "During a Blood Moon in a Crimson world "
+    },
+    {
+        "Sell ID": "93",
+        "NPC ID": "-1",
+        "Selling Item": "62",
+        "Item Cost": "20 Copper Coins",
+        "Sell Condition": "While not a Blood Moon "
+    },
+    {
+        "Sell ID": "94",
+        "NPC ID": "-1",
+        "Selling Item": "59",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "During a Blood Moon in a Corrupt world,"
+    },
+    {
+        "Sell ID": "95",
+        "NPC ID": "-1",
+        "Selling Item": "2171",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "During a Blood Moon in a Crimson world,"
+    },
+    {
+        "Sell ID": "96",
+        "NPC ID": "-1",
+        "Selling Item": "63",
+        "Item Cost": "50 Silver Coins",
+        "Sell Condition": "While not a Blood Moon "
+    },
+    {
+        "Sell ID": "97",
+        "NPC ID": "-1",
+        "Selling Item": "27",
+        "Item Cost": "10 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "98",
+        "NPC ID": "-1",
+        "Selling Item": "114",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "99",
+        "NPC ID": "-1",
+        "Selling Item": "1828",
+        "Item Cost": "2 Silver 50 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "100",
+        "NPC ID": "-1",
+        "Selling Item": "745",
+        "Item Cost": "10 Copper Coins",
+        "Sell Condition": "While not a Blood Moon "
+    },
+    {
+        "Sell ID": "101",
+        "NPC ID": "-1",
+        "Selling Item": "4504",
+        "Item Cost": "2 Silver 50 Copper Coins",
+        "Sell Condition": "During a Blood Moon in a Corrupt world "
+    },
+    {
+        "Sell ID": "102",
+        "NPC ID": "-1",
+        "Selling Item": "4508",
+        "Item Cost": "2 Silver 50 Copper Coins",
+        "Sell Condition": "During a Blood Moon in a Crimson world "
+    },
+    {
+        "Sell ID": "103",
+        "NPC ID": "-1",
+        "Selling Item": "747",
+        "Item Cost": "10 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "104",
+        "NPC ID": "-1",
+        "Selling Item": "746",
+        "Item Cost": "10 Copper Coins",
+        "Sell Condition": "In Hardmode "
+    },
+    {
+        "Sell ID": "105",
+        "NPC ID": "-1",
+        "Selling Item": "369",
+        "Item Cost": "20 Silver Coins",
+        "Sell Condition": "In Hardmode "
+    },
+    {
+        "Sell ID": "106",
+        "NPC ID": "-1",
+        "Selling Item": "4505",
+        "Item Cost": "2 Silver 50 Copper Coins",
+        "Sell Condition": "In Hardmode "
+    },
+    {
+        "Sell ID": "107",
+        "NPC ID": "-1",
+        "Selling Item": "194",
+        "Item Cost": "1 Silver 50 Copper Coins",
+        "Sell Condition": "While in a Glowing Mushroom biome "
+    },
+    {
+        "Sell ID": "108",
+        "NPC ID": "-1",
+        "Selling Item": "1853",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "109",
+        "NPC ID": "-1",
+        "Selling Item": "1854",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "110",
+        "NPC ID": "-1",
+        "Selling Item": "3215",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "After King Slime is defeated "
+    },
+    {
+        "Sell ID": "111",
+        "NPC ID": "-1",
+        "Selling Item": "3216",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "After Queen Bee is defeated "
+    },
+    {
+        "Sell ID": "112",
+        "NPC ID": "-1",
+        "Selling Item": "3219",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "After Eye of Cthulhu is defeated "
+    },
+    {
+        "Sell ID": "113",
+        "NPC ID": "-1",
+        "Selling Item": "3217",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "After Eater of Worlds/Brain of Cthulhu is defeated in a Corrupt world "
+    },
+    {
+        "Sell ID": "114",
+        "NPC ID": "-1",
+        "Selling Item": "3217",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "After Eater of Worlds/Brain of Cthulhu is defeated in a Crimson world "
+    },
+    {
+        "Sell ID": "115",
+        "NPC ID": "-1",
+        "Selling Item": "3220",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "After Skeletron is defeated "
+    },
+    {
+        "Sell ID": "116",
+        "NPC ID": "-1",
+        "Selling Item": "3221",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "After Skeletron is defeated "
+    },
+    {
+        "Sell ID": "117",
+        "NPC ID": "-1",
+        "Selling Item": "3222",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "After Wall of Flesh is defeated "
+    },
+    {
+        "Sell ID": "118",
+        "NPC ID": "-1",
+        "Selling Item": "4047",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "119",
+        "NPC ID": "-1",
+        "Selling Item": "4045",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "120",
+        "NPC ID": "-1",
+        "Selling Item": "4044",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "121",
+        "NPC ID": "-1",
+        "Selling Item": "4043",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "122",
+        "NPC ID": "-1",
+        "Selling Item": "4042",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "123",
+        "NPC ID": "-1",
+        "Selling Item": "4046",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "124",
+        "NPC ID": "-1",
+        "Selling Item": "4041",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "125",
+        "NPC ID": "-1",
+        "Selling Item": "4241",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "126",
+        "NPC ID": "-1",
+        "Selling Item": "4048",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "127",
+        "NPC ID": "-1",
+        "Selling Item": "4430",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Hardmode, Moon phases 1 and 2 Full Moon, Waning Gibbous"
+    },
+    {
+        "Sell ID": "128",
+        "NPC ID": "-1",
+        "Selling Item": "4431",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Hardmode, Moon phases 1 and 2 Full Moon, Waning Gibbous"
+    },
+    {
+        "Sell ID": "129",
+        "NPC ID": "-1",
+        "Selling Item": "4432",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Hardmode, Moon phases 1 and 2 Full Moon, Waning Gibbous"
+    },
+    {
+        "Sell ID": "130",
+        "NPC ID": "-1",
+        "Selling Item": "4433",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Hardmode, Moon phases 3 and 4 Third Quarter, Waning Crescent"
+    },
+    {
+        "Sell ID": "131",
+        "NPC ID": "-1",
+        "Selling Item": "4434",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Hardmode, Moon phases 3 and 4 Third Quarter, Waning Crescent"
+    },
+    {
+        "Sell ID": "132",
+        "NPC ID": "-1",
+        "Selling Item": "4435",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Hardmode, Moon phases 3 and 4 Third Quarter, Waning Crescent"
+    },
+    {
+        "Sell ID": "133",
+        "NPC ID": "-1",
+        "Selling Item": "4436",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Hardmode, Moon phases 5 and 6 New Moon, Waxing Crescent"
+    },
+    {
+        "Sell ID": "134",
+        "NPC ID": "-1",
+        "Selling Item": "4437",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Hardmode, Moon phases 5 and 6 New Moon, Waxing Crescent"
+    },
+    {
+        "Sell ID": "135",
+        "NPC ID": "-1",
+        "Selling Item": "4438",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Hardmode, Moon phases 5 and 6 New Moon, Waxing Crescent"
+    },
+    {
+        "Sell ID": "136",
+        "NPC ID": "-1",
+        "Selling Item": "4439",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Hardmode, Moon phases 7 and 8 First Quarter, Waxing Gibbous"
+    },
+    {
+        "Sell ID": "137",
+        "NPC ID": "-1",
+        "Selling Item": "4440",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Hardmode, Moon phases 7 and 8 First Quarter, Waxing Gibbous"
+    },
+    {
+        "Sell ID": "138",
+        "NPC ID": "-1",
+        "Selling Item": "4441",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Hardmode, Moon phases 7 and 8 First Quarter, Waxing Gibbous"
+    },
+    {
+        "Sell ID": "139",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "140",
+        "NPC ID": "-1",
+        "Selling Item": "1071",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "141",
+        "NPC ID": "-1",
+        "Selling Item": "1072",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "142",
+        "NPC ID": "-1",
+        "Selling Item": "1100",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "143",
+        "NPC ID": "-1",
+        "Selling Item": "1073",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "144",
+        "NPC ID": "-1",
+        "Selling Item": "1074",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "145",
+        "NPC ID": "-1",
+        "Selling Item": "1075",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "146",
+        "NPC ID": "-1",
+        "Selling Item": "1076",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "147",
+        "NPC ID": "-1",
+        "Selling Item": "1077",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "148",
+        "NPC ID": "-1",
+        "Selling Item": "1078",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "149",
+        "NPC ID": "-1",
+        "Selling Item": "1079",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "150",
+        "NPC ID": "-1",
+        "Selling Item": "1080",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "151",
+        "NPC ID": "-1",
+        "Selling Item": "1081",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "152",
+        "NPC ID": "-1",
+        "Selling Item": "1082",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "153",
+        "NPC ID": "-1",
+        "Selling Item": "1083",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "154",
+        "NPC ID": "-1",
+        "Selling Item": "1084",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "155",
+        "NPC ID": "-1",
+        "Selling Item": "1097",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "156",
+        "NPC ID": "-1",
+        "Selling Item": "1099",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "157",
+        "NPC ID": "-1",
+        "Selling Item": "1098",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "158",
+        "NPC ID": "-1",
+        "Selling Item": "1966",
+        "Item Cost": "25 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "159",
+        "NPC ID": "-1",
+        "Selling Item": "1967",
+        "Item Cost": "50 Copper Coins",
+        "Sell Condition": "In Hardmode "
+    },
+    {
+        "Sell ID": "160",
+        "NPC ID": "-1",
+        "Selling Item": "1968",
+        "Item Cost": "75 Copper Coins",
+        "Sell Condition": "In Hardmode "
+    },
+    {
+        "Sell ID": "161",
+        "NPC ID": "-1",
+        "Selling Item": "4668",
+        "Item Cost": "2 Silver Coins",
+        "Sell Condition": "While in Graveyard "
+    },
+    {
+        "Sell ID": "162",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "163",
+        "NPC ID": "-1",
+        "Selling Item": "4587",
+        "Item Cost": "10 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "164",
+        "NPC ID": "-1",
+        "Selling Item": "4590",
+        "Item Cost": "10 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "165",
+        "NPC ID": "-1",
+        "Selling Item": "4589",
+        "Item Cost": "10 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "166",
+        "NPC ID": "-1",
+        "Selling Item": "4588",
+        "Item Cost": "10 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "167",
+        "NPC ID": "-1",
+        "Selling Item": "4083",
+        "Item Cost": "20 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "168",
+        "NPC ID": "-1",
+        "Selling Item": "4084",
+        "Item Cost": "20 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "169",
+        "NPC ID": "-1",
+        "Selling Item": "4085",
+        "Item Cost": "20 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "170",
+        "NPC ID": "-1",
+        "Selling Item": "4086",
+        "Item Cost": "20 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "171",
+        "NPC ID": "-1",
+        "Selling Item": "4087",
+        "Item Cost": "20 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "172",
+        "NPC ID": "-1",
+        "Selling Item": "4088",
+        "Item Cost": "20 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "173",
+        "NPC ID": "-1",
+        "Selling Item": "4089",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "174",
+        "NPC ID": "-1",
+        "Selling Item": "3989",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "175",
+        "NPC ID": "-1",
+        "Selling Item": "4095",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "176",
+        "NPC ID": "-1",
+        "Selling Item": "4040",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "177",
+        "NPC ID": "-1",
+        "Selling Item": "4319",
+        "Item Cost": "20 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "178",
+        "NPC ID": "-1",
+        "Selling Item": "4320",
+        "Item Cost": "20 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "179",
+        "NPC ID": "-1",
+        "Selling Item": "4135",
+        "Item Cost": "2 Gold 50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "180",
+        "NPC ID": "-1",
+        "Selling Item": "4138",
+        "Item Cost": "2 Gold 50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "181",
+        "NPC ID": "-1",
+        "Selling Item": "4136",
+        "Item Cost": "2 Gold 50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "182",
+        "NPC ID": "-1",
+        "Selling Item": "4137",
+        "Item Cost": "2 Gold 50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "183",
+        "NPC ID": "-1",
+        "Selling Item": "4049",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "184",
+        "NPC ID": "-1",
+        "Selling Item": "4264",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "Golf score over 2000, after Skeletron is defeated "
+    },
+    {
+        "Sell ID": "185",
+        "NPC ID": "-1",
+        "Selling Item": "4658",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Golf score over 2000, during the following moon phases: Full Moon, Waning Gibbous"
+    },
+    {
+        "Sell ID": "186",
+        "NPC ID": "-1",
+        "Selling Item": "4659",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Golf score over 2000, during the following moon phases: Third Quarter, Waning Crescent"
+    },
+    {
+        "Sell ID": "187",
+        "NPC ID": "-1",
+        "Selling Item": "4660",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Golf score over 2000, during the following moon phases: New Moon, Waxing Crescent"
+    },
+    {
+        "Sell ID": "188",
+        "NPC ID": "-1",
+        "Selling Item": "4661",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Golf score over 2000, during the following moon phases: First Quarter, Waxing Gibbous"
+    },
+    {
+        "Sell ID": "189",
+        "NPC ID": "-1",
+        "Selling Item": "4039",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Golf score over 500 "
+    },
+    {
+        "Sell ID": "190",
+        "NPC ID": "-1",
+        "Selling Item": "4094",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Golf score over 500 "
+    },
+    {
+        "Sell ID": "191",
+        "NPC ID": "-1",
+        "Selling Item": "4093",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Golf score over 500 "
+    },
+    {
+        "Sell ID": "192",
+        "NPC ID": "-1",
+        "Selling Item": "4092",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Golf score over 500 "
+    },
+    {
+        "Sell ID": "193",
+        "NPC ID": "-1",
+        "Selling Item": "4265",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Golf score over 500 "
+    },
+    {
+        "Sell ID": "194",
+        "NPC ID": "-1",
+        "Selling Item": "4599",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Golf score over 500 "
+    },
+    {
+        "Sell ID": "195",
+        "NPC ID": "-1",
+        "Selling Item": "4591",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Golf score over 1000 "
+    },
+    {
+        "Sell ID": "196",
+        "NPC ID": "-1",
+        "Selling Item": "4594",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Golf score over 1000 "
+    },
+    {
+        "Sell ID": "197",
+        "NPC ID": "-1",
+        "Selling Item": "4593",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Golf score over 1000 "
+    },
+    {
+        "Sell ID": "198",
+        "NPC ID": "-1",
+        "Selling Item": "4592",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Golf score over 1000 "
+    },
+    {
+        "Sell ID": "199",
+        "NPC ID": "-1",
+        "Selling Item": "4600",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Golf score over 1000 "
+    },
+    {
+        "Sell ID": "200",
+        "NPC ID": "-1",
+        "Selling Item": "4595",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "Golf score over 2000 "
+    },
+    {
+        "Sell ID": "201",
+        "NPC ID": "-1",
+        "Selling Item": "4598",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "Golf score over 2000 "
+    },
+    {
+        "Sell ID": "202",
+        "NPC ID": "-1",
+        "Selling Item": "4597",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "Golf score over 2000 "
+    },
+    {
+        "Sell ID": "203",
+        "NPC ID": "-1",
+        "Selling Item": "4596",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "Golf score over 2000 "
+    },
+    {
+        "Sell ID": "204",
+        "NPC ID": "-1",
+        "Selling Item": "4601",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Golf score over 2000 "
+    },
+    {
+        "Sell ID": "205",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "206",
+        "NPC ID": "-1",
+        "Selling Item": "97",
+        "Item Cost": "7 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "207",
+        "NPC ID": "-1",
+        "Selling Item": "278",
+        "Item Cost": "15 Copper Coins",
+        "Sell Condition": "During a Blood Moon, in a world with silver ore and \u2009\u2009 tungsten ore."
+    },
+    {
+        "Sell ID": "208",
+        "NPC ID": "-1",
+        "Selling Item": "4915",
+        "Item Cost": "18 Copper Coins",
+        "Sell Condition": "During a Blood Moon, in a world with tungsten ore."
+    },
+    {
+        "Sell ID": "209",
+        "NPC ID": "-1",
+        "Selling Item": "47",
+        "Item Cost": "40 Copper Coins",
+        "Sell Condition": "During the night after defeating the Eater of Worlds or Brain of Cthulhu."
+    },
+    {
+        "Sell ID": "210",
+        "NPC ID": "-1",
+        "Selling Item": "95",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "211",
+        "NPC ID": "-1",
+        "Selling Item": "98",
+        "Item Cost": "35 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "212",
+        "NPC ID": "-1",
+        "Selling Item": "324",
+        "Item Cost": "20 Gold Coins",
+        "Sell Condition": "Only at night "
+    },
+    {
+        "Sell ID": "213",
+        "NPC ID": "-1",
+        "Selling Item": "534",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "In Hardmode "
+    },
+    {
+        "Sell ID": "214",
+        "NPC ID": "-1",
+        "Selling Item": "1432",
+        "Item Cost": "5 Copper Coins",
+        "Sell Condition": "In Hardmode "
+    },
+    {
+        "Sell ID": "215",
+        "NPC ID": "-1",
+        "Selling Item": "1261",
+        "Item Cost": "75 Copper Coins",
+        "Sell Condition": "When the player possesses a Stynger "
+    },
+    {
+        "Sell ID": "216",
+        "NPC ID": "-1",
+        "Selling Item": "1836",
+        "Item Cost": "15 Copper Coins",
+        "Sell Condition": "When the player possesses a Stake Launcher "
+    },
+    {
+        "Sell ID": "217",
+        "NPC ID": "-1",
+        "Selling Item": "3108",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "When the player possesses a Nail Gun "
+    },
+    {
+        "Sell ID": "218",
+        "NPC ID": "-1",
+        "Selling Item": "1783",
+        "Item Cost": "5 Copper Coins",
+        "Sell Condition": "When the player possesses a Candy Corn Rifle "
+    },
+    {
+        "Sell ID": "219",
+        "NPC ID": "-1",
+        "Selling Item": "1785",
+        "Item Cost": "15 Copper Coins",
+        "Sell Condition": "When the player possesses a Jack 'O Lantern Launcher "
+    },
+    {
+        "Sell ID": "220",
+        "NPC ID": "-1",
+        "Selling Item": "1736",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "221",
+        "NPC ID": "-1",
+        "Selling Item": "1737",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "222",
+        "NPC ID": "-1",
+        "Selling Item": "1738",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "223",
+        "NPC ID": "-1",
+        "Selling Item": "4703",
+        "Item Cost": "35 Gold Coins",
+        "Sell Condition": "In Graveyard Biome after defeating Skeletron "
+    },
+    {
+        "Sell ID": "224",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "225",
+        "NPC ID": "-1",
+        "Selling Item": "353",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "226",
+        "NPC ID": "-1",
+        "Selling Item": "3828",
+        "Item Cost": "25 Silver Coins",
+        "Sell Condition": "Before defeating any mechanical boss "
+    },
+    {
+        "Sell ID": "227",
+        "NPC ID": "-1",
+        "Selling Item": "3828",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "After at least one mechanical boss has been defeated and before defeating Golem "
+    },
+    {
+        "Sell ID": "228",
+        "NPC ID": "-1",
+        "Selling Item": "3828",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "After defeating Golem "
+    },
+    {
+        "Sell ID": "229",
+        "NPC ID": "-1",
+        "Selling Item": "3816",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "230",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome, is happy enough, and before defeating Golem "
+    },
+    {
+        "Sell ID": "231",
+        "NPC ID": "-1",
+        "Selling Item": "3813",
+        "Item Cost": "75 Defender Medals",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "232",
+        "NPC ID": "-1",
+        "Selling Item": "3818",
+        "Item Cost": "5 Defender Medals",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "233",
+        "NPC ID": "-1",
+        "Selling Item": "3819",
+        "Item Cost": "25 Defender Medals",
+        "Sell Condition": "After at least one mechanical boss has been defeated "
+    },
+    {
+        "Sell ID": "234",
+        "NPC ID": "-1",
+        "Selling Item": "3820",
+        "Item Cost": "100 Defender Medals",
+        "Sell Condition": "After defeating Golem "
+    },
+    {
+        "Sell ID": "235",
+        "NPC ID": "-1",
+        "Selling Item": "3824",
+        "Item Cost": "5 Defender Medals",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "236",
+        "NPC ID": "-1",
+        "Selling Item": "3825",
+        "Item Cost": "25 Defender Medals",
+        "Sell Condition": "After at least one mechanical boss has been defeated "
+    },
+    {
+        "Sell ID": "237",
+        "NPC ID": "-1",
+        "Selling Item": "3826",
+        "Item Cost": "100 Defender Medals",
+        "Sell Condition": "After defeating Golem "
+    },
+    {
+        "Sell ID": "238",
+        "NPC ID": "-1",
+        "Selling Item": "3832",
+        "Item Cost": "5 Defender Medals",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "239",
+        "NPC ID": "-1",
+        "Selling Item": "3833",
+        "Item Cost": "25 Defender Medals",
+        "Sell Condition": "After at least one mechanical boss has been defeated "
+    },
+    {
+        "Sell ID": "240",
+        "NPC ID": "-1",
+        "Selling Item": "3834",
+        "Item Cost": "100 Defender Medals",
+        "Sell Condition": "After defeating Golem "
+    },
+    {
+        "Sell ID": "241",
+        "NPC ID": "-1",
+        "Selling Item": "3829",
+        "Item Cost": "5 Defender Medals",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "242",
+        "NPC ID": "-1",
+        "Selling Item": "3830",
+        "Item Cost": "25 Defender Medals",
+        "Sell Condition": "After at least one mechanical boss has been defeated "
+    },
+    {
+        "Sell ID": "243",
+        "NPC ID": "-1",
+        "Selling Item": "3831",
+        "Item Cost": "100 Defender Medals",
+        "Sell Condition": "After defeating Golem "
+    },
+    {
+        "Sell ID": "244",
+        "NPC ID": "-1",
+        "Selling Item": "1990",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "245",
+        "NPC ID": "-1",
+        "Selling Item": "1979",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "246",
+        "NPC ID": "-1",
+        "Selling Item": "1977",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "If the player has at least 400 maximum life "
+    },
+    {
+        "Sell ID": "247",
+        "NPC ID": "-1",
+        "Selling Item": "1978",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "If the player has at least 200 maximum mana "
+    },
+    {
+        "Sell ID": "248",
+        "NPC ID": "-1",
+        "Selling Item": "1980",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "If the player has at least 1 in their inventory "
+    },
+    {
+        "Sell ID": "249",
+        "NPC ID": "-1",
+        "Selling Item": "1981",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "During the night and following day of moon phases 2, 4, 6, and 8: Waning Gibbous, Waning Crescent, Waxing Crescent, Waxing Gibbous"
+    },
+    {
+        "Sell ID": "250",
+        "NPC ID": "-1",
+        "Selling Item": "1982",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "If the player is on a team in multiplayer "
+    },
+    {
+        "Sell ID": "251",
+        "NPC ID": "-1",
+        "Selling Item": "1984",
+        "Item Cost": "7 Gold 50 Silver Coins",
+        "Sell Condition": "If there is a Party Girl in the world "
+    },
+    {
+        "Sell ID": "252",
+        "NPC ID": "-1",
+        "Selling Item": "1983",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "If the world is in Hardmode "
+    },
+    {
+        "Sell ID": "253",
+        "NPC ID": "-1",
+        "Selling Item": "1986",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "If the world is in Hardmode and any mechanical boss has been defeated "
+    },
+    {
+        "Sell ID": "254",
+        "NPC ID": "-1",
+        "Selling Item": "1985",
+        "Item Cost": "15 Gold Coins",
+        "Sell Condition": "If the world is in Hardmode and all three Mechanical bosses have been defeated "
+    },
+    {
+        "Sell ID": "255",
+        "NPC ID": "-1",
+        "Selling Item": "2863",
+        "Item Cost": "30 Gold Coins",
+        "Sell Condition": "After Martian Madness "
+    },
+    {
+        "Sell ID": "256",
+        "NPC ID": "-1",
+        "Selling Item": "3259",
+        "Item Cost": "30 Gold Coins",
+        "Sell Condition": "After Martian Madness "
+    },
+    {
+        "Sell ID": "257",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "258",
+        "NPC ID": "-1",
+        "Selling Item": "128",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "259",
+        "NPC ID": "-1",
+        "Selling Item": "486",
+        "Item Cost": "10 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "260",
+        "NPC ID": "-1",
+        "Selling Item": "398",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "261",
+        "NPC ID": "-1",
+        "Selling Item": "84",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "262",
+        "NPC ID": "-1",
+        "Selling Item": "407",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "263",
+        "NPC ID": "-1",
+        "Selling Item": "161",
+        "Item Cost": "80 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "264",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "265",
+        "NPC ID": "-1",
+        "Selling Item": "1430",
+        "Item Cost": "7 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "266",
+        "NPC ID": "-1",
+        "Selling Item": "986",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "267",
+        "NPC ID": "-1",
+        "Selling Item": "1261",
+        "Item Cost": "75 Copper Coins",
+        "Sell Condition": "When player has a Stynger "
+    },
+    {
+        "Sell ID": "268",
+        "NPC ID": "-1",
+        "Selling Item": "1836",
+        "Item Cost": "15 Copper Coins",
+        "Sell Condition": "When player has a Stake Launcher "
+    },
+    {
+        "Sell ID": "269",
+        "NPC ID": "-1",
+        "Selling Item": "1791",
+        "Item Cost": "1 Gold 50 Silver Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "270",
+        "NPC ID": "-1",
+        "Selling Item": "1171",
+        "Item Cost": "2 Platinum Coins",
+        "Sell Condition": "When spoken to in a Hardmode Jungle biome "
+    },
+    {
+        "Sell ID": "271",
+        "NPC ID": "-1",
+        "Selling Item": "1162",
+        "Item Cost": "75 Gold Coins",
+        "Sell Condition": "When spoken to in a Hardmode Jungle biome, during night only "
+    },
+    {
+        "Sell ID": "272",
+        "NPC ID": "-1",
+        "Selling Item": "1339",
+        "Item Cost": "15 Silver Coins",
+        "Sell Condition": "After defeating Plantera "
+    },
+    {
+        "Sell ID": "273",
+        "NPC ID": "-1",
+        "Selling Item": "1159",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "After defeating Plantera."
+    },
+    {
+        "Sell ID": "274",
+        "NPC ID": "-1",
+        "Selling Item": "1160",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "After defeating Plantera."
+    },
+    {
+        "Sell ID": "275",
+        "NPC ID": "-1",
+        "Selling Item": "1161",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "After defeating Plantera."
+    },
+    {
+        "Sell ID": "276",
+        "NPC ID": "-1",
+        "Selling Item": "1158",
+        "Item Cost": "20 Gold Coins",
+        "Sell Condition": "During night only."
+    },
+    {
+        "Sell ID": "277",
+        "NPC ID": "-1",
+        "Selling Item": "1167",
+        "Item Cost": "40 Gold Coins",
+        "Sell Condition": "After Plantera has been defeated, and spoken to in Jungle biome."
+    },
+    {
+        "Sell ID": "278",
+        "NPC ID": "-1",
+        "Selling Item": "909",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "Always available."
+    },
+    {
+        "Sell ID": "279",
+        "NPC ID": "-1",
+        "Selling Item": "910",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "Always available."
+    },
+    {
+        "Sell ID": "280",
+        "NPC ID": "-1",
+        "Selling Item": "940",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "Always available."
+    },
+    {
+        "Sell ID": "281",
+        "NPC ID": "-1",
+        "Selling Item": "941",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "Always available."
+    },
+    {
+        "Sell ID": "282",
+        "NPC ID": "-1",
+        "Selling Item": "942",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "Always available."
+    },
+    {
+        "Sell ID": "283",
+        "NPC ID": "-1",
+        "Selling Item": "943",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "Always available."
+    },
+    {
+        "Sell ID": "284",
+        "NPC ID": "-1",
+        "Selling Item": "944",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "Always available."
+    },
+    {
+        "Sell ID": "285",
+        "NPC ID": "-1",
+        "Selling Item": "945",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "Always available."
+    },
+    {
+        "Sell ID": "286",
+        "NPC ID": "-1",
+        "Selling Item": "4922",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "287",
+        "NPC ID": "-1",
+        "Selling Item": "4417",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "288",
+        "NPC ID": "-1",
+        "Selling Item": "2999",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "If Wizard is present "
+    },
+    {
+        "Sell ID": "289",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "290",
+        "NPC ID": "-1",
+        "Selling Item": "254",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "291",
+        "NPC ID": "-1",
+        "Selling Item": "981",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "292",
+        "NPC ID": "-1",
+        "Selling Item": "242",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "During the day "
+    },
+    {
+        "Sell ID": "293",
+        "NPC ID": "-1",
+        "Selling Item": "245",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "During a full moon Full Moon"
+    },
+    {
+        "Sell ID": "294",
+        "NPC ID": "-1",
+        "Selling Item": "246",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "During a full moon Full Moon"
+    },
+    {
+        "Sell ID": "295",
+        "NPC ID": "-1",
+        "Selling Item": "1288",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "During the night of a full moon Full Moon"
+    },
+    {
+        "Sell ID": "296",
+        "NPC ID": "-1",
+        "Selling Item": "1289",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "During the night of a full moon Full Moon"
+    },
+    {
+        "Sell ID": "297",
+        "NPC ID": "-1",
+        "Selling Item": "325",
+        "Item Cost": "20 Gold Coins",
+        "Sell Condition": "During a Waning Gibbous Waning Gibbous"
+    },
+    {
+        "Sell ID": "298",
+        "NPC ID": "-1",
+        "Selling Item": "326",
+        "Item Cost": "20 Gold Coins",
+        "Sell Condition": "During a Waning Gibbous Waning Gibbous"
+    },
+    {
+        "Sell ID": "299",
+        "NPC ID": "-1",
+        "Selling Item": "269",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "300",
+        "NPC ID": "-1",
+        "Selling Item": "270",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "301",
+        "NPC ID": "-1",
+        "Selling Item": "271",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "302",
+        "NPC ID": "-1",
+        "Selling Item": "503",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "If the Clown has been defeated "
+    },
+    {
+        "Sell ID": "303",
+        "NPC ID": "-1",
+        "Selling Item": "504",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "If the Clown has been defeated "
+    },
+    {
+        "Sell ID": "304",
+        "NPC ID": "-1",
+        "Selling Item": "505",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "If the Clown has been defeated "
+    },
+    {
+        "Sell ID": "305",
+        "NPC ID": "-1",
+        "Selling Item": "322",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "During a Blood Moon "
+    },
+    {
+        "Sell ID": "306",
+        "NPC ID": "-1",
+        "Selling Item": "3362",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "During a Blood Moon "
+    },
+    {
+        "Sell ID": "307",
+        "NPC ID": "-1",
+        "Selling Item": "3363",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "During a Blood Moon "
+    },
+    {
+        "Sell ID": "308",
+        "NPC ID": "-1",
+        "Selling Item": "2856",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "During the day, if the Lunatic Cultist has been defeated "
+    },
+    {
+        "Sell ID": "309",
+        "NPC ID": "-1",
+        "Selling Item": "2858",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "During the day, if the Lunatic Cultist has been defeated "
+    },
+    {
+        "Sell ID": "310",
+        "NPC ID": "-1",
+        "Selling Item": "2857",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "During the night, if the Lunatic Cultist has been defeated "
+    },
+    {
+        "Sell ID": "311",
+        "NPC ID": "-1",
+        "Selling Item": "2859",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "During the night, if the Lunatic Cultist has been defeated "
+    },
+    {
+        "Sell ID": "312",
+        "NPC ID": "-1",
+        "Selling Item": "3242",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "If the Tax Collector is present "
+    },
+    {
+        "Sell ID": "313",
+        "NPC ID": "-1",
+        "Selling Item": "3243",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "If the Tax Collector is present "
+    },
+    {
+        "Sell ID": "314",
+        "NPC ID": "-1",
+        "Selling Item": "3244",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "If the Tax Collector is present "
+    },
+    {
+        "Sell ID": "315",
+        "NPC ID": "-1",
+        "Selling Item": "4685",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "If spoken to in a Graveyard "
+    },
+    {
+        "Sell ID": "316",
+        "NPC ID": "-1",
+        "Selling Item": "4686",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "If spoken to in a Graveyard "
+    },
+    {
+        "Sell ID": "317",
+        "NPC ID": "-1",
+        "Selling Item": "4704",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "If spoken to in a Graveyard "
+    },
+    {
+        "Sell ID": "318",
+        "NPC ID": "-1",
+        "Selling Item": "4705",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "If spoken to in a Graveyard "
+    },
+    {
+        "Sell ID": "319",
+        "NPC ID": "-1",
+        "Selling Item": "4706",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "If spoken to in a Graveyard "
+    },
+    {
+        "Sell ID": "320",
+        "NPC ID": "-1",
+        "Selling Item": "4707",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "If spoken to in a Graveyard "
+    },
+    {
+        "Sell ID": "321",
+        "NPC ID": "-1",
+        "Selling Item": "4708",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "If spoken to in a Graveyard "
+    },
+    {
+        "Sell ID": "322",
+        "NPC ID": "-1",
+        "Selling Item": "4709",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "If spoken to in a Graveyard "
+    },
+    {
+        "Sell ID": "323",
+        "NPC ID": "-1",
+        "Selling Item": "1429",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "If spoken to in a Snow biome "
+    },
+    {
+        "Sell ID": "324",
+        "NPC ID": "-1",
+        "Selling Item": "1740",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "325",
+        "NPC ID": "-1",
+        "Selling Item": "869",
+        "Item Cost": "2 Gold 50 Silver Coins",
+        "Sell Condition": "In Hardmode, during a third-quarter moon Third Quarter"
+    },
+    {
+        "Sell ID": "326",
+        "NPC ID": "-1",
+        "Selling Item": "4994",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "In Hardmode, during a waning crescent Waning Crescent"
+    },
+    {
+        "Sell ID": "327",
+        "NPC ID": "-1",
+        "Selling Item": "4997",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "In Hardmode, during a waning crescent Waning Crescent"
+    },
+    {
+        "Sell ID": "328",
+        "NPC ID": "-1",
+        "Selling Item": "864",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "In Hardmode, during a new moon New Moon"
+    },
+    {
+        "Sell ID": "329",
+        "NPC ID": "-1",
+        "Selling Item": "865",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "In Hardmode, during a new moon New Moon"
+    },
+    {
+        "Sell ID": "330",
+        "NPC ID": "-1",
+        "Selling Item": "4995",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "In Hardmode, during a waxing crescent Waxing Crescent"
+    },
+    {
+        "Sell ID": "331",
+        "NPC ID": "-1",
+        "Selling Item": "4998",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "In Hardmode, during a waxing crescent Waxing Crescent"
+    },
+    {
+        "Sell ID": "332",
+        "NPC ID": "-1",
+        "Selling Item": "873",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "In Hardmode, during a first-quarter moon First Quarter"
+    },
+    {
+        "Sell ID": "333",
+        "NPC ID": "-1",
+        "Selling Item": "874",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "In Hardmode, during a first-quarter moon First Quarter"
+    },
+    {
+        "Sell ID": "334",
+        "NPC ID": "-1",
+        "Selling Item": "875",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "In Hardmode, during a first-quarter moon First Quarter"
+    },
+    {
+        "Sell ID": "335",
+        "NPC ID": "-1",
+        "Selling Item": "4996",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "In Hardmode, during a waxing gibbous Waxing Gibbous"
+    },
+    {
+        "Sell ID": "336",
+        "NPC ID": "-1",
+        "Selling Item": "4999",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "In Hardmode, during a waxing gibbous Waxing Gibbous"
+    },
+    {
+        "Sell ID": "337",
+        "NPC ID": "-1",
+        "Selling Item": "1275",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "If the Frost Legion has been defeated "
+    },
+    {
+        "Sell ID": "338",
+        "NPC ID": "-1",
+        "Selling Item": "1276",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "If the Frost Legion has been defeated "
+    },
+    {
+        "Sell ID": "339",
+        "NPC ID": "-1",
+        "Selling Item": "3246",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "340",
+        "NPC ID": "-1",
+        "Selling Item": "3247",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "341",
+        "NPC ID": "-1",
+        "Selling Item": "3730",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "During a Party "
+    },
+    {
+        "Sell ID": "342",
+        "NPC ID": "-1",
+        "Selling Item": "3731",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "During a Party "
+    },
+    {
+        "Sell ID": "343",
+        "NPC ID": "-1",
+        "Selling Item": "3733",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During a Party "
+    },
+    {
+        "Sell ID": "344",
+        "NPC ID": "-1",
+        "Selling Item": "3734",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During a Party "
+    },
+    {
+        "Sell ID": "345",
+        "NPC ID": "-1",
+        "Selling Item": "3735",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During a Party "
+    },
+    {
+        "Sell ID": "346",
+        "NPC ID": "-1",
+        "Selling Item": "4744",
+        "Item Cost": "15 Gold Coins",
+        "Sell Condition": "When the player has an accumulate golf score of 2000 or more "
+    },
+    {
+        "Sell ID": "347",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "348",
+        "NPC ID": "-1",
+        "Selling Item": "509",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "349",
+        "NPC ID": "-1",
+        "Selling Item": "850",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "350",
+        "NPC ID": "-1",
+        "Selling Item": "851",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "351",
+        "NPC ID": "-1",
+        "Selling Item": "3612",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "352",
+        "NPC ID": "-1",
+        "Selling Item": "510",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "353",
+        "NPC ID": "-1",
+        "Selling Item": "530",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "354",
+        "NPC ID": "-1",
+        "Selling Item": "513",
+        "Item Cost": "30 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "355",
+        "NPC ID": "-1",
+        "Selling Item": "538",
+        "Item Cost": "20 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "356",
+        "NPC ID": "-1",
+        "Selling Item": "529",
+        "Item Cost": "50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "357",
+        "NPC ID": "-1",
+        "Selling Item": "541",
+        "Item Cost": "50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "358",
+        "NPC ID": "-1",
+        "Selling Item": "542",
+        "Item Cost": "50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "359",
+        "NPC ID": "-1",
+        "Selling Item": "543",
+        "Item Cost": "50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "360",
+        "NPC ID": "-1",
+        "Selling Item": "852",
+        "Item Cost": "50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "361",
+        "NPC ID": "-1",
+        "Selling Item": "853",
+        "Item Cost": "50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "362",
+        "NPC ID": "-1",
+        "Selling Item": "4261",
+        "Item Cost": "50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "363",
+        "NPC ID": "-1",
+        "Selling Item": "3707",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "364",
+        "NPC ID": "-1",
+        "Selling Item": "2739",
+        "Item Cost": "50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "365",
+        "NPC ID": "-1",
+        "Selling Item": "849",
+        "Item Cost": "10 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "366",
+        "NPC ID": "-1",
+        "Selling Item": "3616",
+        "Item Cost": "2 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "367",
+        "NPC ID": "-1",
+        "Selling Item": "2799",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "368",
+        "NPC ID": "-1",
+        "Selling Item": "3619",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "369",
+        "NPC ID": "-1",
+        "Selling Item": "3627",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "370",
+        "NPC ID": "-1",
+        "Selling Item": "3629",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "371",
+        "NPC ID": "-1",
+        "Selling Item": "2295",
+        "Item Cost": "20 Gold Coins",
+        "Sell Condition": "During Moon Phases 2, 4, 6, and 8, when the Angler is present "
+    },
+    {
+        "Sell ID": "372",
+        "NPC ID": "-1",
+        "Selling Item": "583",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "373",
+        "NPC ID": "-1",
+        "Selling Item": "584",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "374",
+        "NPC ID": "-1",
+        "Selling Item": "585",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "375",
+        "NPC ID": "-1",
+        "Selling Item": "4484",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "376",
+        "NPC ID": "-1",
+        "Selling Item": "4485",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "377",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "378",
+        "NPC ID": "-1",
+        "Selling Item": "1000",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "379",
+        "NPC ID": "-1",
+        "Selling Item": "1345",
+        "Item Cost": "2 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "380",
+        "NPC ID": "-1",
+        "Selling Item": "1168",
+        "Item Cost": "20 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "381",
+        "NPC ID": "-1",
+        "Selling Item": "1449",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "Daytime "
+    },
+    {
+        "Sell ID": "382",
+        "NPC ID": "-1",
+        "Selling Item": "4552",
+        "Item Cost": "4 Gold Coins",
+        "Sell Condition": "Nighttime "
+    },
+    {
+        "Sell ID": "383",
+        "NPC ID": "-1",
+        "Selling Item": "1450",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "384",
+        "NPC ID": "-1",
+        "Selling Item": "859",
+        "Item Cost": "20 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "385",
+        "NPC ID": "-1",
+        "Selling Item": "3253",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "386",
+        "NPC ID": "-1",
+        "Selling Item": "4553",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "387",
+        "NPC ID": "-1",
+        "Selling Item": "2700",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "388",
+        "NPC ID": "-1",
+        "Selling Item": "2738",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "389",
+        "NPC ID": "-1",
+        "Selling Item": "4470",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "390",
+        "NPC ID": "-1",
+        "Selling Item": "4681",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "391",
+        "NPC ID": "-1",
+        "Selling Item": "4791",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "392",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "393",
+        "NPC ID": "-1",
+        "Selling Item": "970",
+        "Item Cost": "15 Silver Coins",
+        "Sell Condition": "After Hardmode is initiated "
+    },
+    {
+        "Sell ID": "394",
+        "NPC ID": "-1",
+        "Selling Item": "971",
+        "Item Cost": "15 Silver Coins",
+        "Sell Condition": "After Hardmode is initiated "
+    },
+    {
+        "Sell ID": "395",
+        "NPC ID": "-1",
+        "Selling Item": "972",
+        "Item Cost": "15 Silver Coins",
+        "Sell Condition": "After Hardmode is initiated "
+    },
+    {
+        "Sell ID": "396",
+        "NPC ID": "-1",
+        "Selling Item": "973",
+        "Item Cost": "15 Silver Coins",
+        "Sell Condition": "After Hardmode is initiated "
+    },
+    {
+        "Sell ID": "397",
+        "NPC ID": "-1",
+        "Selling Item": "3548",
+        "Item Cost": "2 Silver 50 Copper Coins",
+        "Sell Condition": "If the player has Happy Grenades in inventory "
+    },
+    {
+        "Sell ID": "398",
+        "NPC ID": "-1",
+        "Selling Item": "3369",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "When Pirate is present "
+    },
+    {
+        "Sell ID": "399",
+        "NPC ID": "-1",
+        "Selling Item": "3214",
+        "Item Cost": "2 Silver Coins",
+        "Sell Condition": "After Hardmode is initiated "
+    },
+    {
+        "Sell ID": "400",
+        "NPC ID": "-1",
+        "Selling Item": "2868",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "After Hardmode is initiated "
+    },
+    {
+        "Sell ID": "401",
+        "NPC ID": "-1",
+        "Selling Item": "3747",
+        "Item Cost": "20 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "402",
+        "NPC ID": "-1",
+        "Selling Item": "3732",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "403",
+        "NPC ID": "-1",
+        "Selling Item": "3742",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "404",
+        "NPC ID": "-1",
+        "Selling Item": "3749",
+        "Item Cost": "20 Silver Coins",
+        "Sell Condition": "While a party is active "
+    },
+    {
+        "Sell ID": "405",
+        "NPC ID": "-1",
+        "Selling Item": "3746",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "While a party is active "
+    },
+    {
+        "Sell ID": "406",
+        "NPC ID": "-1",
+        "Selling Item": "3739",
+        "Item Cost": "50 Copper Coins",
+        "Sell Condition": "While a party is active "
+    },
+    {
+        "Sell ID": "407",
+        "NPC ID": "-1",
+        "Selling Item": "3740",
+        "Item Cost": "50 Copper Coins",
+        "Sell Condition": "While a party is active "
+    },
+    {
+        "Sell ID": "408",
+        "NPC ID": "-1",
+        "Selling Item": "3741",
+        "Item Cost": "50 Copper Coins",
+        "Sell Condition": "While a party is active "
+    },
+    {
+        "Sell ID": "409",
+        "NPC ID": "-1",
+        "Selling Item": "3737",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "While a party is active "
+    },
+    {
+        "Sell ID": "410",
+        "NPC ID": "-1",
+        "Selling Item": "3738",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "While a party is active "
+    },
+    {
+        "Sell ID": "411",
+        "NPC ID": "-1",
+        "Selling Item": "3736",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "While a party is active "
+    },
+    {
+        "Sell ID": "412",
+        "NPC ID": "-1",
+        "Selling Item": "3745",
+        "Item Cost": "10 Silver Coins",
+        "Sell Condition": "While a party is active "
+    },
+    {
+        "Sell ID": "413",
+        "NPC ID": "-1",
+        "Selling Item": "3744",
+        "Item Cost": "10 Silver Coins",
+        "Sell Condition": "While a party is active "
+    },
+    {
+        "Sell ID": "414",
+        "NPC ID": "-1",
+        "Selling Item": "3743",
+        "Item Cost": "10 Silver Coins",
+        "Sell Condition": "While a party is active "
+    },
+    {
+        "Sell ID": "415",
+        "NPC ID": "-1",
+        "Selling Item": "3546",
+        "Item Cost": "80 Gold Coins",
+        "Sell Condition": "After Golem has been defeated "
+    },
+    {
+        "Sell ID": "416",
+        "NPC ID": "-1",
+        "Selling Item": "4682",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "While in a Graveyard "
+    },
+    {
+        "Sell ID": "417",
+        "NPC ID": "-1",
+        "Selling Item": "4702",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "During a Lantern Night "
+    },
+    {
+        "Sell ID": "418",
+        "NPC ID": "-1",
+        "Selling Item": "4743",
+        "Item Cost": "20 Copper Coins",
+        "Sell Condition": "When the player has accumulated a golf score of at least 500 "
+    },
+    {
+        "Sell ID": "419",
+        "NPC ID": "-1",
+        "Selling Item": "487",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "420",
+        "NPC ID": "-1",
+        "Selling Item": "496",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "421",
+        "NPC ID": "-1",
+        "Selling Item": "500",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "422",
+        "NPC ID": "-1",
+        "Selling Item": "507",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "423",
+        "NPC ID": "-1",
+        "Selling Item": "508",
+        "Item Cost": "1 Gold Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "424",
+        "NPC ID": "-1",
+        "Selling Item": "531",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "425",
+        "NPC ID": "-1",
+        "Selling Item": "149",
+        "Item Cost": "15 Silver Coins",
+        "Sell Condition": "On Desktop version "
+    },
+    {
+        "Sell ID": "426",
+        "NPC ID": "-1",
+        "Selling Item": "576",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "427",
+        "NPC ID": "-1",
+        "Selling Item": "3186",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "428",
+        "NPC ID": "-1",
+        "Selling Item": "1739",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "429",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "430",
+        "NPC ID": "-1",
+        "Selling Item": "868",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "431",
+        "NPC ID": "-1",
+        "Selling Item": "1181",
+        "Item Cost": "45 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "432",
+        "NPC ID": "-1",
+        "Selling Item": "783",
+        "Item Cost": "25 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "433",
+        "NPC ID": "-1",
+        "Selling Item": "756",
+        "Item Cost": "70 Gold Coins",
+        "Sell Condition": "After at least one mechanical boss has been defeated "
+    },
+    {
+        "Sell ID": "434",
+        "NPC ID": "-1",
+        "Selling Item": "787",
+        "Item Cost": "40 Gold Coins",
+        "Sell Condition": "After at least one mechanical boss has been defeated "
+    },
+    {
+        "Sell ID": "435",
+        "NPC ID": "-1",
+        "Selling Item": "1551",
+        "Item Cost": "1 Platinum Coin",
+        "Sell Condition": "After Plantera has been defeated "
+    },
+    {
+        "Sell ID": "436",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "437",
+        "NPC ID": "-1",
+        "Selling Item": "928",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "438",
+        "NPC ID": "-1",
+        "Selling Item": "929",
+        "Item Cost": "15 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "439",
+        "NPC ID": "-1",
+        "Selling Item": "876",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "440",
+        "NPC ID": "-1",
+        "Selling Item": "877",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "441",
+        "NPC ID": "-1",
+        "Selling Item": "878",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "442",
+        "NPC ID": "-1",
+        "Selling Item": "2434",
+        "Item Cost": "50 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "443",
+        "NPC ID": "-1",
+        "Selling Item": "1180",
+        "Item Cost": "3 Platinum 75 Gold Coins",
+        "Sell Condition": "When spoken to in an Ocean biome "
+    },
+    {
+        "Sell ID": "444",
+        "NPC ID": "-1",
+        "Selling Item": "1337",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "When Party Girl is present, world is in Hardmode and one mechanical boss is defeated "
+    },
+    {
+        "Sell ID": "445",
+        "NPC ID": "-1",
+        "Selling Item": "1338",
+        "Item Cost": "35 Silver Coins",
+        "Sell Condition": "When Party Girl is present, world is in Hardmode and one mechanical boss is defeated "
+    },
+    {
+        "Sell ID": "446",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "447",
+        "NPC ID": "-1",
+        "Selling Item": "1263",
+        "Item Cost": "2 Gold 50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "448",
+        "NPC ID": "-1",
+        "Selling Item": "779",
+        "Item Cost": "2 Platinum Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "449",
+        "NPC ID": "-1",
+        "Selling Item": "839",
+        "Item Cost": "1 Gold 50 Silver Coins",
+        "Sell Condition": "During the moon phases 1-4: Full Moon, Waning Gibbous, Third Quarter, Waning Crescent"
+    },
+    {
+        "Sell ID": "450",
+        "NPC ID": "-1",
+        "Selling Item": "840",
+        "Item Cost": "1 Gold 50 Silver Coins",
+        "Sell Condition": "During the moon phases 1-4: Full Moon, Waning Gibbous, Third Quarter, Waning Crescent"
+    },
+    {
+        "Sell ID": "451",
+        "NPC ID": "-1",
+        "Selling Item": "841",
+        "Item Cost": "1 Gold 50 Silver Coins",
+        "Sell Condition": "During the moon phases 1-4: Full Moon, Waning Gibbous, Third Quarter, Waning Crescent"
+    },
+    {
+        "Sell ID": "452",
+        "NPC ID": "-1",
+        "Selling Item": "748",
+        "Item Cost": "40 Gold Coins",
+        "Sell Condition": "During the moon phases 5-8: New Moon, Waxing Crescent, First Quarter, Waxing Gibbous"
+    },
+    {
+        "Sell ID": "453",
+        "NPC ID": "-1",
+        "Selling Item": "998",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Only during daytime "
+    },
+    {
+        "Sell ID": "454",
+        "NPC ID": "-1",
+        "Selling Item": "995",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available"
+    },
+    {
+        "Sell ID": "455",
+        "NPC ID": "-1",
+        "Selling Item": "2193",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Only in Crimson worlds "
+    },
+    {
+        "Sell ID": "456",
+        "NPC ID": "-1",
+        "Selling Item": "4142",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Only in Corruption worlds "
+    },
+    {
+        "Sell ID": "457",
+        "NPC ID": "-1",
+        "Selling Item": "2198",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in an ice biome "
+    },
+    {
+        "Sell ID": "458",
+        "NPC ID": "-1",
+        "Selling Item": "2197",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in space "
+    },
+    {
+        "Sell ID": "459",
+        "NPC ID": "-1",
+        "Selling Item": "2204",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in the jungle "
+    },
+    {
+        "Sell ID": "460",
+        "NPC ID": "-1",
+        "Selling Item": "2192",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a graveyard "
+    },
+    {
+        "Sell ID": "461",
+        "NPC ID": "-1",
+        "Selling Item": "2196",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "If the player has a Living Wood Wand in their inventory "
+    },
+    {
+        "Sell ID": "462",
+        "NPC ID": "-1",
+        "Selling Item": "2203",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "If Eye of Cthulhu, Eater of Worlds/Brain of Cthulhu and Skeletron have been defeated "
+    },
+    {
+        "Sell ID": "463",
+        "NPC ID": "-1",
+        "Selling Item": "782",
+        "Item Cost": "25 Silver Coins",
+        "Sell Condition": "Blood Moon or Solar Eclipse In Corruption worlds "
+    },
+    {
+        "Sell ID": "464",
+        "NPC ID": "-1",
+        "Selling Item": "784",
+        "Item Cost": "25 Silver Coins",
+        "Sell Condition": "Blood Moon or Solar Eclipse In Crimson worlds "
+    },
+    {
+        "Sell ID": "465",
+        "NPC ID": "-1",
+        "Selling Item": "781",
+        "Item Cost": "25 Silver Coins",
+        "Sell Condition": "When spoken to in a Hallow or Underground Hallow. (When there is no Blood Moon or Solar Eclipse.) "
+    },
+    {
+        "Sell ID": "466",
+        "NPC ID": "-1",
+        "Selling Item": "780",
+        "Item Cost": "25 Silver Coins",
+        "Sell Condition": "When spoken to in any other biome. (When there is no Blood Moon or Solar Eclipse.) "
+    },
+    {
+        "Sell ID": "467",
+        "NPC ID": "-1",
+        "Selling Item": "1344",
+        "Item Cost": "7 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "468",
+        "NPC ID": "-1",
+        "Selling Item": "4472",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": " "
+    },
+    {
+        "Sell ID": "469",
+        "NPC ID": "-1",
+        "Selling Item": "1742",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "470",
+        "NPC ID": "-1",
+        "Selling Item": "948",
+        "Item Cost": "3 Platinum Coins",
+        "Sell Condition": "After defeating Golem "
+    },
+    {
+        "Sell ID": "471",
+        "NPC ID": "-1",
+        "Selling Item": "3603",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "472",
+        "NPC ID": "-1",
+        "Selling Item": "3602",
+        "Item Cost": "10 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "473",
+        "NPC ID": "-1",
+        "Selling Item": "3618",
+        "Item Cost": "10 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "474",
+        "NPC ID": "-1",
+        "Selling Item": "3663",
+        "Item Cost": "2 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "475",
+        "NPC ID": "-1",
+        "Selling Item": "3623",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "476",
+        "NPC ID": "-1",
+        "Selling Item": "3609",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "477",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "478",
+        "NPC ID": "-1",
+        "Selling Item": "771",
+        "Item Cost": "50 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "479",
+        "NPC ID": "-1",
+        "Selling Item": "772",
+        "Item Cost": "2 Silver 50 Copper Coins",
+        "Sell Condition": "During a Blood Moon "
+    },
+    {
+        "Sell ID": "480",
+        "NPC ID": "-1",
+        "Selling Item": "773",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "At night or during a Solar Eclipse "
+    },
+    {
+        "Sell ID": "481",
+        "NPC ID": "-1",
+        "Selling Item": "774",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "During a Solar Eclipse "
+    },
+    {
+        "Sell ID": "482",
+        "NPC ID": "-1",
+        "Selling Item": "4459",
+        "Item Cost": "50 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "483",
+        "NPC ID": "-1",
+        "Selling Item": "760",
+        "Item Cost": "35 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "484",
+        "NPC ID": "-1",
+        "Selling Item": "1346",
+        "Item Cost": "15 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "485",
+        "NPC ID": "-1",
+        "Selling Item": "4445",
+        "Item Cost": "7 Silver 50 Copper Coins",
+        "Sell Condition": "Always available after defeating the Martian Madness event "
+    },
+    {
+        "Sell ID": "486",
+        "NPC ID": "-1",
+        "Selling Item": "4446",
+        "Item Cost": "15 Silver Coins",
+        "Sell Condition": "After defeating the Martian Madness event, during a Blood Moon or Solar Eclipse "
+    },
+    {
+        "Sell ID": "487",
+        "NPC ID": "-1",
+        "Selling Item": "1743",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "488",
+        "NPC ID": "-1",
+        "Selling Item": "1744",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "489",
+        "NPC ID": "-1",
+        "Selling Item": "1745",
+        "Item Cost": "3 Gold Coins",
+        "Sell Condition": "During Halloween "
+    },
+    {
+        "Sell ID": "490",
+        "NPC ID": "-1",
+        "Selling Item": "2862",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available after defeating the Martian Madness event "
+    },
+    {
+        "Sell ID": "491",
+        "NPC ID": "-1",
+        "Selling Item": "3109",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "Always available after defeating the Martian Madness event "
+    },
+    {
+        "Sell ID": "492",
+        "NPC ID": "-1",
+        "Selling Item": "3664",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When the player has a Portal Gun or Portal Gun Station in the inventory "
+    },
+    {
+        "Sell ID": "493",
+        "NPC ID": "-1",
+        "Selling Item": "4392",
+        "Item Cost": "10 Silver Coins",
+        "Sell Condition": "When spoken to in a Graveyard "
+    },
+    {
+        "Sell ID": "494",
+        "NPC ID": "-1",
+        "Selling Item": "4409",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When spoken to in a Graveyard "
+    },
+    {
+        "Sell ID": "495",
+        "NPC ID": "-1",
+        "Selling Item": "4876",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When in a specific biome and is happy enough "
+    },
+    {
+        "Sell ID": "496",
+        "NPC ID": "-1",
+        "Selling Item": "588",
+        "Item Cost": "15 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "497",
+        "NPC ID": "-1",
+        "Selling Item": "589",
+        "Item Cost": "15 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "498",
+        "NPC ID": "-1",
+        "Selling Item": "590",
+        "Item Cost": "15 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "499",
+        "NPC ID": "-1",
+        "Selling Item": "1873",
+        "Item Cost": "25 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "500",
+        "NPC ID": "-1",
+        "Selling Item": "597",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "501",
+        "NPC ID": "-1",
+        "Selling Item": "598",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "502",
+        "NPC ID": "-1",
+        "Selling Item": "596",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "503",
+        "NPC ID": "-1",
+        "Selling Item": "1874",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "504",
+        "NPC ID": "-1",
+        "Selling Item": "1875",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "505",
+        "NPC ID": "-1",
+        "Selling Item": "1876",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "506",
+        "NPC ID": "-1",
+        "Selling Item": "1877",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "507",
+        "NPC ID": "-1",
+        "Selling Item": "1878",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "508",
+        "NPC ID": "-1",
+        "Selling Item": "1879",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "509",
+        "NPC ID": "-1",
+        "Selling Item": "1880",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "510",
+        "NPC ID": "-1",
+        "Selling Item": "1881",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "511",
+        "NPC ID": "-1",
+        "Selling Item": "1882",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "512",
+        "NPC ID": "-1",
+        "Selling Item": "1883",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "513",
+        "NPC ID": "-1",
+        "Selling Item": "1884",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "514",
+        "NPC ID": "-1",
+        "Selling Item": "1885",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "515",
+        "NPC ID": "-1",
+        "Selling Item": "5071",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "516",
+        "NPC ID": "-1",
+        "Selling Item": "5072",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "517",
+        "NPC ID": "-1",
+        "Selling Item": "5073",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "518",
+        "NPC ID": "-1",
+        "Selling Item": "5076",
+        "Item Cost": "1 Platinum Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "519",
+        "NPC ID": "-1",
+        "Selling Item": "5077",
+        "Item Cost": "1 Platinum Coin",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "520",
+        "NPC ID": "-1",
+        "Selling Item": "5078",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "521",
+        "NPC ID": "-1",
+        "Selling Item": "5079",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "522",
+        "NPC ID": "-1",
+        "Selling Item": "5080",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "523",
+        "NPC ID": "-1",
+        "Selling Item": "5081",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "524",
+        "NPC ID": "-1",
+        "Selling Item": "5082",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "525",
+        "NPC ID": "-1",
+        "Selling Item": "5083",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "526",
+        "NPC ID": "-1",
+        "Selling Item": "5084",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "527",
+        "NPC ID": "-1",
+        "Selling Item": "5085",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "528",
+        "NPC ID": "-1",
+        "Selling Item": "5086",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "529",
+        "NPC ID": "-1",
+        "Selling Item": "5087",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "530",
+        "NPC ID": "-1",
+        "Selling Item": "5044",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "When Moon Lord has been defeated and the world is in Hardmode "
+    },
+    {
+        "Sell ID": "531",
+        "NPC ID": "-1",
+        "Selling Item": "3001",
+        "Item Cost": "5 Silver Coins",
+        "Sell Condition": "During the following moon phases: Full Moon, Third Quarter, New Moon, First Quarter"
+    },
+    {
+        "Sell ID": "532",
+        "NPC ID": "-1",
+        "Selling Item": "28",
+        "Item Cost": "3 Silver Coins",
+        "Sell Condition": "During the following moon phases: Waning Gibbous, Waning Crescent, Waxing Crescent, Waxing Gibbous"
+    },
+    {
+        "Sell ID": "533",
+        "NPC ID": "-1",
+        "Selling Item": "3002",
+        "Item Cost": "1 Silver 50 Copper Coins",
+        "Sell Condition": "At night, or all day during the following moon phases: Full Moon"
+    },
+    {
+        "Sell ID": "534",
+        "NPC ID": "-1",
+        "Selling Item": "282",
+        "Item Cost": "10 Copper Coins",
+        "Sell Condition": "At daytime, during the following moon phases: Waning Gibbous, Third Quarter, Waning Crescent, New Moon, Waxing Crescent, First Quarter, Waxing Gibbous"
+    },
+    {
+        "Sell ID": "535",
+        "NPC ID": "-1",
+        "Selling Item": "3004",
+        "Item Cost": "1 Silver Coin",
+        "Sell Condition": "During the first half of every in game minute (every real life second) "
+    },
+    {
+        "Sell ID": "536",
+        "NPC ID": "-1",
+        "Selling Item": "8",
+        "Item Cost": "50 Copper Coins",
+        "Sell Condition": "During the second half of every in game minute (every real life second) "
+    },
+    {
+        "Sell ID": "537",
+        "NPC ID": "-1",
+        "Selling Item": "3003",
+        "Item Cost": "15 Copper Coins",
+        "Sell Condition": "During the following moon phases: Full Moon, Waning Gibbous, New Moon, Waxing Crescent"
+    },
+    {
+        "Sell ID": "538",
+        "NPC ID": "-1",
+        "Selling Item": "40",
+        "Item Cost": "5 Copper Coins",
+        "Sell Condition": "During the following moon phases: Third Quarter, Waning Crescent, First Quarter, Waxing Gibbous"
+    },
+    {
+        "Sell ID": "539",
+        "NPC ID": "-1",
+        "Selling Item": "3310",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "During the following moon phases: Full Moon, New Moon"
+    },
+    {
+        "Sell ID": "540",
+        "NPC ID": "-1",
+        "Selling Item": "3313",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "During the following moon phases: Waning Gibbous, Waxing Crescent"
+    },
+    {
+        "Sell ID": "541",
+        "NPC ID": "-1",
+        "Selling Item": "3312",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "During the following moon phases: Third Quarter, First Quarter"
+    },
+    {
+        "Sell ID": "542",
+        "NPC ID": "-1",
+        "Selling Item": "3311",
+        "Item Cost": "5 Gold Coins",
+        "Sell Condition": "During the following moon phases: Waning Crescent, Waxing Gibbous"
+    },
+    {
+        "Sell ID": "543",
+        "NPC ID": "-1",
+        "Selling Item": "166",
+        "Item Cost": "3 Silver Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "544",
+        "NPC ID": "-1",
+        "Selling Item": "965",
+        "Item Cost": "10 Copper Coins",
+        "Sell Condition": "Always available "
+    },
+    {
+        "Sell ID": "545",
+        "NPC ID": "-1",
+        "Selling Item": "3316",
+        "Item Cost": "20 Gold Coins",
+        "Sell Condition": "In Hardmode, during the following moon phases: Full Moon, Waning Gibbous, Third Quarter, Waning Crescent"
+    },
+    {
+        "Sell ID": "546",
+        "NPC ID": "-1",
+        "Selling Item": "3315",
+        "Item Cost": "20 Gold Coins",
+        "Sell Condition": "In Hardmode, during the following moon phases: New Moon, Waxing Crescent, First Quarter, Waxing Gibbous"
+    },
+    {
+        "Sell ID": "547",
+        "NPC ID": "-1",
+        "Selling Item": "3334",
+        "Item Cost": "50 Gold Coins",
+        "Sell Condition": "In Hardmode "
+    },
+    {
+        "Sell ID": "548",
+        "NPC ID": "-1",
+        "Selling Item": "3258",
+        "Item Cost": "25 Gold Coins",
+        "Sell Condition": "In Hardmode, during Blood Moon "
+    },
+    {
+        "Sell ID": "549",
+        "NPC ID": "-1",
+        "Selling Item": "3043",
+        "Item Cost": "10 Gold Coins",
+        "Sell Condition": "At night, during a full moon: Full Moon"
+    }
+]

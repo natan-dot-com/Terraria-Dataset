@@ -1,0 +1,1415 @@
+[
+    {
+        "Item ID": "1372",
+        "Placed": "paintings/Blood_Moon_Rising_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "Blood Moon. Also possibly a parody of Blue Moon Rising by Simon R. Green.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1373",
+        "Placed": "paintings/The_Hanged_Man_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "A figure hanging on a tree.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1374",
+        "Placed": "paintings/Glory_of_the_Fire_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "Two Ruined Houses surrounded by lava.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1375",
+        "Placed": "paintings/Bone_Warp_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "Various Bones.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1419",
+        "Placed": "paintings/Skellington_J_Skellingsworth_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "A skull. A reference to Jack Skellington from the movie The Nightmare Before Christmas.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1420",
+        "Placed": "paintings/The_Cursed_Man_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "The Old Man.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1421",
+        "Placed": "paintings/The_Eye_Sees_the_End_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "Player battling the Eye of Cthulhu.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1422",
+        "Placed": "paintings/Something_Evil_is_Watching_You_Placed.png",
+        "Tooltip": "'R. Moosdijk'",
+        "Description": "Eye of Cthulhu watching a player wearing full silver armor",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1423",
+        "Placed": "paintings/The_Twins_Have_Awoken_Placed.png",
+        "Tooltip": "'R. Moosdijk'",
+        "Description": "Player battling The Twins.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1424",
+        "Placed": "paintings/The_Screamer_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Parody of The Scream featuring a Face Monster.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1425",
+        "Placed": "paintings/Goblins_Playing_Poker_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "Parody of Dogs Playing Poker featuring Goblins.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1426",
+        "Placed": "paintings/Dryadisque_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "Parody of Grande Odalisque featuring the Dryad.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1427",
+        "Placed": "paintings/Sunflowers_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "Based on Sunflowers by Vincent van Gogh.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1428",
+        "Placed": "paintings/Terrarian_Gothic_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "Parody of American Gothic  featuring the Goblin Tinkerer and the Mechanic.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1433",
+        "Placed": "paintings/Impact_Placed.png",
+        "Tooltip": "'K. Wright'",
+        "Description": "The Hallow and the Crimson colliding.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1434",
+        "Placed": "paintings/Powered_by_Birds_Placed.png",
+        "Tooltip": "'C. J. Ness'",
+        "Description": "Bird on a stationary bicycle powering a Tesla coil.  Nod to Bird Engines.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1435",
+        "Placed": "paintings/The_Destroyer_Placed.png",
+        "Tooltip": "'R. Moosdijk'",
+        "Description": "Player battling The Destroyer.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1436",
+        "Placed": "paintings/The_Persistency_of_Eyes_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Parody of The Persistence of Memory featuring eyes.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1437",
+        "Placed": "paintings/Unicorn_Crossing_the_Hallows_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Parody of Napoleon Crossing the Alps  featuring the Party Girl on a Unicorn in the Hallow.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1438",
+        "Placed": "paintings/Great_Wave_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Reference to The Great Wave off Kanagawa.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1439",
+        "Placed": "paintings/Starry_Night_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Based on The Starry Night.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1440",
+        "Placed": "paintings/Guide_Picasso_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Guide painted in Picasso style.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1441",
+        "Placed": "paintings/The_Guardian's_Gaze_Placed.png",
+        "Tooltip": "'A. G. Kolf'",
+        "Description": "A Picture of Skeletron.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1442",
+        "Placed": "paintings/Father_of_Someone_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Based on The Son of Man. The man appears to be the merchant.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1443",
+        "Placed": "paintings/Nurse_Lisa_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "Parody of Mona Lisa featuring the Nurse.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1474",
+        "Placed": "paintings/Waldo_Placed.png",
+        "Tooltip": "-",
+        "Description": "Waldo from Where's Waldo?.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1475",
+        "Placed": "paintings/Darkness_Placed.png",
+        "Tooltip": "-",
+        "Description": "The back of a Yu-Gi-Oh! card.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1476",
+        "Placed": "paintings/Dark_Soul_Reaper_Placed.png",
+        "Tooltip": "'J. T. Kjexrud'",
+        "Description": "Reaper portrait.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1477",
+        "Placed": "paintings/Land_Placed.png",
+        "Tooltip": "'J. T. Kjexrud'",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1478",
+        "Placed": "paintings/Trapped_Ghost_Placed.png",
+        "Tooltip": "'J. T. Kjexrud'",
+        "Description": "An unhappy ghost trapped in limbo.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1479",
+        "Placed": "paintings/Demon's_Eye_Placed.png",
+        "Tooltip": "'J. T. Kjexrud'",
+        "Description": "A demon's eye.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1480",
+        "Placed": "paintings/Finding_Gold_Placed.png",
+        "Tooltip": "'J. T. Kjexrud'",
+        "Description": "A Pickaxe and a nugget of Gold.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1481",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "A Green Slime.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1482",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "A Sunflower.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1483",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "A Crystal Heart.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1484",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Forest trees.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1485",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Floating Island landscape.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1486",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Jungle landscape.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1487",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Snow Biome landscape.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1488",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Corruption landscape.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1489",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Hallow landscape.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1490",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Forest landscape.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1491",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Desert landscape with Pyramid.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1492",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Crimson landscape.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1493",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Frontal view of the Eye of Cthulhu.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1494",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "A Wyvern.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1495",
+        "Placed": "paintings/American_Explosive_Placed.png",
+        "Tooltip": "'A. G. Kolf'",
+        "Description": "Portrait of the Demolitionist.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1496",
+        "Placed": "paintings/Discover_Placed.png",
+        "Tooltip": "'J. T. Kjexrud'",
+        "Description": "A player wearing Gold Armor spots a Floating Island.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1497",
+        "Placed": "paintings/Hand_Earth_Placed.png",
+        "Tooltip": "'J. T. Kjexrud'",
+        "Description": "A hand reaching out from the ground.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1498",
+        "Placed": "paintings/Old_Miner_Placed.png",
+        "Tooltip": "'J. T. Kjexrud'",
+        "Description": "Person leaning on a Pickaxe.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1499",
+        "Placed": "paintings/Skelehead_Placed.png",
+        "Tooltip": "'J. T. Kjexrud'",
+        "Description": "Bone Serpent head.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1500",
+        "Placed": "paintings/Facing_the_Cerebral_Mastermind_Placed.png",
+        "Tooltip": "'A. G. Kolf'",
+        "Description": "Player facing the Brain of Cthulhu.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1501",
+        "Placed": "paintings/Lake_of_Fire_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "Lava pool under Forest land.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1502",
+        "Placed": "paintings/Trio_Super_Heroes_Placed.png",
+        "Tooltip": "'C. Burczyk'",
+        "Description": "Based on the Guide, Merchant, and Nurse designs and color.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1538",
+        "Placed": "paintings/Imp_Face_Placed.png",
+        "Tooltip": "'J. T. Kjexrud'",
+        "Description": "A Fire Imp's face.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1539",
+        "Placed": "paintings/Ominous_Presence_Placed.png",
+        "Tooltip": "'A. Craig'",
+        "Description": "A Reaper flying over an Underworld landscape.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1540",
+        "Placed": "paintings/Shining_Moon_Placed.png",
+        "Tooltip": "'A. Craig'",
+        "Description": "Crescent moon and stars.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1541",
+        "Placed": "paintings/Living_Gore_Placed.png",
+        "Tooltip": "'A. Craig'",
+        "Description": "A piece of the Wall of Flesh.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1542",
+        "Placed": "paintings/Flowing_Magma_Placed.png",
+        "Tooltip": "'A. Craig'",
+        "Description": "Underworld landscape.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1573",
+        "Placed": "paintings/The_Creation_of_the_Guide_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "Parody of The Creation of Adam featuring the Guide.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1574",
+        "Placed": "paintings/The_Merchant_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "Parody of Leonardo da Vinci self-portrait  featuring the Merchant.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1575",
+        "Placed": "paintings/Crowno_Devours_His_Lunch_Placed.png",
+        "Tooltip": "'W. Garner'",
+        "Description": "Parody of Saturn Devouring His Son. Crowno is one of Terraria's spriters.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1576",
+        "Placed": "paintings/Rare_Enchantment_Placed.png",
+        "Tooltip": "'D. Phelps'",
+        "Description": "Tim.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1577",
+        "Placed": "paintings/Glorious_Night_Placed.png",
+        "Tooltip": "'M. J. Duncan'",
+        "Description": "Moon and stars.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1846",
+        "Placed": "paintings/Jacking_Skeletron_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Skeletron hovering over the Spiral Hill from The Nightmare Before Christmas.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "964"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1847",
+        "Placed": "paintings/Bitter_Harvest_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "Green Slime wearing a witch hat among Pumpkins.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "965"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1848",
+        "Placed": "paintings/Blood_Moon_Countess_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "A vampire lady with red eyes and a cloak.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "966"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1849",
+        "Placed": "paintings/Hallow's_Eve_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "Portrait of the Mechanic's face.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "967"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "1850",
+        "Placed": "paintings/Morbid_Curiosity_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "A winged skeleton examines an eyeball. Possibly a tribute to the famous scene in Hamlet, where Hamlet holds Yorick's skull.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [
+                "968"
+            ],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2497",
+        "Placed": "paintings/Pillagin_Me_Pixels_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "Pirate ship from Pixel Piracy.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2865",
+        "Placed": "paintings/Castle_Marsberg_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "Parody of the Wolfenstein 3D title screen featuring the player wearing Meteor armor and wielding a Space Gun, with a Martian in the back. The name of the painting itself might be a reference to another Wolfenstein game - Return to Castle Wolfenstein.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2866",
+        "Placed": "paintings/Martia_Lisa_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "Parody of Mona Lisa featuring a Martian.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2867",
+        "Placed": "paintings/The_Truth_Is_Up_There_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "Martian Saucer abducting a Bunny. The name is a parody of The X-Files tagline, The Truth is Out There. It is also a slightly different and pixelated version of the achievement, 'Tin-Foil Hatter'.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "2995",
+        "Placed": "paintings/Sparky_Placed.png",
+        "Tooltip": "'V. Costa Moura''In loving memory'",
+        "Description": "Sparky Doo, Redigit and Cenx's deceased pet dog",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3055",
+        "Placed": "paintings/Acorns_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "A Red Bulb hanging from a tree. A reference to A Charlie Brown Christmas.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3056",
+        "Placed": "paintings/Cold_Snap_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "Portrait of the Ice Queen attacking.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3057",
+        "Placed": "paintings/Cursed_Saint_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "Portrait of Skeletron dressed as Santa Claus.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3058",
+        "Placed": "paintings/Snowfellas_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "Parody of the Goodfellas poster featuring Snowmen.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3059",
+        "Placed": "paintings/The_Season_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "Snowy landscape with a Present, Christmas Tree and a Candy Cane.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "3596",
+        "Placed": "paintings/Not_a_Kid,_nor_a_Squid_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Moon Lord. The name is a reference to the Splatoon commercial.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4626",
+        "Placed": "paintings/Andrew_Sphinx_Placed.png",
+        "Tooltip": "'U. One' (Restored)",
+        "Description": "A play on Terraria lead developer Andrew Spinks' name, featuring a Sphinx wearing Andrew's signature green cap.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4627",
+        "Placed": "paintings/Watchful_Antlion_Placed.png",
+        "Tooltip": "'J. Witzig' (Restored)",
+        "Description": "An Antlion.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4628",
+        "Placed": "paintings/Burning_Spirit_Placed.png",
+        "Tooltip": "'A. Dale'",
+        "Description": "A Desert Spirit in darkness.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4629",
+        "Placed": "paintings/Jaws_of_Death_Placed.png",
+        "Tooltip": "'C. Schneider'",
+        "Description": "An Antlion seen from above.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4630",
+        "Placed": "paintings/The_Sands_of_Slime_Placed.png",
+        "Tooltip": "'C. Rohde'",
+        "Description": "A Sand Slime coming out of an hourglass. The name is a reference to the classic expression, sands of time, correlating the passage of time with sand draining in an hourglass.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4631",
+        "Placed": "paintings/Snakes,_I_Hate_Snakes_Placed.png",
+        "Tooltip": "'X. Calder'",
+        "Description": "A Lamia. The name is a reference to the catchphrase spoken often by the titular character from the classic Indiana Jones film franchise.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4632",
+        "Placed": "paintings/Life_Above_the_Sand_Placed.png",
+        "Tooltip": "'A. Dale'",
+        "Description": "Desert canyons.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4633",
+        "Placed": "paintings/Oasis_Placed.png",
+        "Tooltip": "'J. Sterling'",
+        "Description": "Oasis landscape.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4634",
+        "Placed": "paintings/Prehistory_Preserved_Placed.png",
+        "Tooltip": "'Unearthed by C. Schneider'",
+        "Description": "A stone tablet featuring fossils of two ammonites and what appears to be a pterosaur, without the wings.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4635",
+        "Placed": "paintings/Ancient_Tablet_Placed.png",
+        "Tooltip": "'Unearthed by C. Schneider'",
+        "Description": "A tablet with ancient Egyptian hieroglyphics-style etchings.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4636",
+        "Placed": "paintings/Uluru_Placed.png",
+        "Tooltip": "'S. Poirier'",
+        "Description": "Uluru, also known as Ayers Rock, a landmark in the Australian outback.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4637",
+        "Placed": "paintings/Visiting_the_Pyramids_Placed.png",
+        "Tooltip": "'J. Parker III'",
+        "Description": "A tourist photo-style depiction of the Traveling Merchant posing with a Pyramid, and the Sun wearing Sunglasses.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4638",
+        "Placed": "paintings/Bandage_Boy_Placed.png",
+        "Tooltip": "'C. Schneider'",
+        "Description": "A Mummy coming out of a sarcophagus.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4639",
+        "Placed": "paintings/Divine_Eye_Placed.png",
+        "Tooltip": "'C. Schneider'",
+        "Description": "An interpretation of the Eye of Providence, or Eye of God, a version of which appears on the US $1 bill.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4658",
+        "Placed": "paintings/The_Rolling_Greens_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Golf course landscape.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "185"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4659",
+        "Placed": "paintings/Study_of_a_Ball_at_Rest_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "A Golf Ball on a Golf Tee.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "186"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4660",
+        "Placed": "paintings/Fore!_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "A golfer swinging.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "187"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4661",
+        "Placed": "paintings/The_Duplicity_of_Reflections_Placed.png",
+        "Tooltip": "'Ceci n'est pas un club de golf.''V. Costa Moura'",
+        "Description": "Parody of The Treachery of Images, a well-known 1929 painting of a pipe with a caption that states This is not a pipe in French. This tooltip states This is not a golf club in French.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "188"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4723",
+        "Placed": "paintings/Nevermore_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Reference to The Raven, a poem by Edgar Allen Poe, which prominently features the phrase nevermore.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4724",
+        "Placed": "paintings/Reborn_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "A hand rising from the ground.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4725",
+        "Placed": "paintings/Graveyard_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Graveyard landscape.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4726",
+        "Placed": "paintings/Ghost_Manifestation_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Based on the iconic movie poster from Poltergeist, a classic 1982 horror film.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4727",
+        "Placed": "paintings/Wicked_Undead_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "Based on the movie poster from Evil Dead II, a classic 1987 horror film.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4728",
+        "Placed": "paintings/Bloody_Goblet_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "A goblet filled with blood, which appears to be spilling outside the painting's frame.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "4729",
+        "Placed": "paintings/Still_Life_Placed.png",
+        "Tooltip": "'V. Costa Moura'",
+        "Description": "A typical still-life painting of a bowl of fruit beside a skull.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5085",
+        "Placed": "paintings/Princess_64_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "A castle in a field. It is a reference to Peach's Castle as it appears in Super Mario 64. It may also be a reference to several other games in the Mario franchise.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "527"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5086",
+        "Placed": "paintings/Painting_of_a_Lass_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "A painting of the Princess.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "528"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    },
+    {
+        "Item ID": "5087",
+        "Placed": "paintings/Dark_Side_of_the_Hallow_Placed.png",
+        "Tooltip": "'J. Hayes'",
+        "Description": "A rainbow shining from a unicorn's horn. References a popular diagram of white light splitting into a rainbow after passing through a prism, while the name references the Pink Floyd album The Dark Side of the Moon.",
+        "Sources": {
+            "Crafting Recipes": [],
+            "NPC": [
+                "529"
+            ],
+            "Drop": [],
+            "Grab Bag": [],
+            "Other": ""
+        }
+    }
+]
