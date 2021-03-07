@@ -4,7 +4,7 @@
 
 In this repository you can find data JSON files from the game Terraria. Everything scrapped from [Terraria Gamepedia
 Wiki](https://terraria.gamepedia.com/) (Cheers!). Mainly this entire project was built in to get it integrated to a
-Discord Wiki Bot. As all this data can be useful for some others API, my intention is to get them available if anyone
+Discord Wiki Bot, but as all this data can be useful for some others API my intention is to get them available if anyone
 else wants to use it.
 
 All the codes written during the entire scrap can be found inside 'data\_scrapping\_algorithms' directory. It's also
