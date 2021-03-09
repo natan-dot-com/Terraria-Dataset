@@ -7,7 +7,7 @@ Wiki](https://terraria.gamepedia.com/) (Cheers!). Mainly this entire project was
 Discord Wiki Bot, although as all this data can be useful for some others API, my intention is to get them available if anyone
 else wants to use it.
 
-All the codes written during the entire scrap can be found inside 'data\_scrapping\_algorithms' directory. It's also
+All the codes written during the entire scrap can be found inside 'algorithms' directory. It's also
 convenient to point that all of this work were made with pourpose of learning Python and understanding how do web scrapping 
 works, so I could say I'm kinda happy with the results.
 
