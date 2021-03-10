@@ -18,8 +18,8 @@ from ..package.json_manager import *
 nameFile = input("Name File: ")
 NAME_FILE = "items_" + nameFile.lower()
 
-itemList = LoadJSONFile(GLOBAL_JSON_PATH + MAIN_NAME_FILE + JSON_EXT)
-compareList = LoadJSONFile(GLOBAL_JSON_PATH + NAME_FILE + JSON_EXT)
+itemList = LoadJSONFile(GLOBAL_JSON_PATH + DIR_ID_REFERENCES + MAIN_NAME_FILE + JSON_EXT)
+compareList = LoadJSONFile(GLOBAL_JSON_PATH + DIR_ITEMS_DATA + NAME_FILE + JSON_EXT)
 
 found = 0
 for itemInstance in itemList:

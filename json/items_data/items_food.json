@@ -12,9 +12,7 @@
         "Duration": "1 minute",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [
-                "13"
-            ],
+            "NPC": [],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -35,9 +33,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "1007"
-            ],
+            "Grab Bag": [],
             "Other": ""
         }
     },
@@ -332,18 +328,7 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [
-                "2069",
-                "2070",
-                "2071",
-                "2072",
-                "2073",
-                "2131",
-                "2132",
-                "2133",
-                "2134",
-                "2135"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -362,14 +347,7 @@
         "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [
-                "2074",
-                "2075",
-                "2076",
-                "2136",
-                "2137",
-                "2138"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -388,10 +366,7 @@
         "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [
-                "2077",
-                "2139"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -562,10 +537,7 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [
-                "2064",
-                "2126"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -584,10 +556,7 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [
-                "2066",
-                "2128"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -606,10 +575,7 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "20 minutes",
         "Sources": {
-            "Crafting Recipes": [
-                "2067",
-                "2129"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -628,10 +594,7 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "15 minutes",
         "Sources": {
-            "Crafting Recipes": [
-                "2045",
-                "2107"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],

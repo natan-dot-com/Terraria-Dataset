@@ -6,9 +6,7 @@
         "Tooltip": "Summons a Goblin Army.",
         "Notes": "Must be consumed during the day, once at least one Shadow Orb/Crimson Heart has been destroyed and the player has at least 200 maximum health.",
         "Sources": {
-            "Crafting Recipes": [
-                "1981"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -25,9 +23,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "988"
-            ],
+            "Grab Bag": [],
             "Other": ""
         }
     },
@@ -52,10 +48,7 @@
         "Tooltip": "Summons the Pumpkin Moon.",
         "Notes": "Only usable at night.",
         "Sources": {
-            "Crafting Recipes": [
-                "2708",
-                "2887"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -69,10 +62,7 @@
         "Tooltip": "Summons the Frost Moon.",
         "Notes": "Only usable at night.",
         "Sources": {
-            "Crafting Recipes": [
-                "2691",
-                "2870"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -86,10 +76,7 @@
         "Tooltip": "Summons the Eclipse.",
         "Notes": "Can only be used in a Hardmode world during the day.",
         "Sources": {
-            "Crafting Recipes": [
-                "2719",
-                "2898"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -103,11 +90,7 @@
         "Tooltip": "Place in the Eternia Crystal. Stand to summon Etheria's portals.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [
-                "226",
-                "227",
-                "228"
-            ],
+            "NPC": [],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""

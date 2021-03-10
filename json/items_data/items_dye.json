@@ -3,9 +3,7 @@
         "Name": "Red Dye",
         "Item ID": "1007",
         "Sources": {
-            "Crafting Recipes": [
-                "2370"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -16,9 +14,7 @@
         "Name": "Orange Dye",
         "Item ID": "1008",
         "Sources": {
-            "Crafting Recipes": [
-                "2352"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -29,9 +25,7 @@
         "Name": "Yellow Dye",
         "Item ID": "1009",
         "Sources": {
-            "Crafting Recipes": [
-                "2397"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -42,9 +36,7 @@
         "Name": "Lime Dye",
         "Item ID": "1010",
         "Sources": {
-            "Crafting Recipes": [
-                "2346"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -55,9 +47,7 @@
         "Name": "Green Dye",
         "Item ID": "1011",
         "Sources": {
-            "Crafting Recipes": [
-                "2334"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -68,9 +58,7 @@
         "Name": "Teal Dye",
         "Item ID": "1012",
         "Sources": {
-            "Crafting Recipes": [
-                "2384"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -81,9 +69,7 @@
         "Name": "Cyan Dye",
         "Item ID": "1013",
         "Sources": {
-            "Crafting Recipes": [
-                "2313"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -94,9 +80,7 @@
         "Name": "Sky Blue Dye",
         "Item ID": "1014",
         "Sources": {
-            "Crafting Recipes": [
-                "2377"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -107,9 +91,7 @@
         "Name": "Blue Dye",
         "Item ID": "1015",
         "Sources": {
-            "Crafting Recipes": [
-                "2287"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -120,9 +102,7 @@
         "Name": "Purple Dye",
         "Item ID": "1016",
         "Sources": {
-            "Crafting Recipes": [
-                "2363"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -133,9 +113,7 @@
         "Name": "Violet Dye",
         "Item ID": "1017",
         "Sources": {
-            "Crafting Recipes": [
-                "2389"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -146,9 +124,7 @@
         "Name": "Pink Dye",
         "Item ID": "1018",
         "Sources": {
-            "Crafting Recipes": [
-                "2357"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -159,9 +135,7 @@
         "Name": "Red and Black Dye",
         "Item ID": "1019",
         "Sources": {
-            "Crafting Recipes": [
-                "2368"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -172,9 +146,7 @@
         "Name": "Orange and Black Dye",
         "Item ID": "1020",
         "Sources": {
-            "Crafting Recipes": [
-                "2350"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -185,9 +157,7 @@
         "Name": "Yellow and Black Dye",
         "Item ID": "1021",
         "Sources": {
-            "Crafting Recipes": [
-                "2395"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -198,9 +168,7 @@
         "Name": "Lime and Black Dye",
         "Item ID": "1022",
         "Sources": {
-            "Crafting Recipes": [
-                "2344"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -211,9 +179,7 @@
         "Name": "Green and Black Dye",
         "Item ID": "1023",
         "Sources": {
-            "Crafting Recipes": [
-                "2332"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -224,9 +190,7 @@
         "Name": "Teal and Black Dye",
         "Item ID": "1024",
         "Sources": {
-            "Crafting Recipes": [
-                "2382"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -237,9 +201,7 @@
         "Name": "Cyan and Black Dye",
         "Item ID": "1025",
         "Sources": {
-            "Crafting Recipes": [
-                "2311"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -250,9 +212,7 @@
         "Name": "Sky Blue and Black Dye",
         "Item ID": "1026",
         "Sources": {
-            "Crafting Recipes": [
-                "2375"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -263,9 +223,7 @@
         "Name": "Blue and Black Dye",
         "Item ID": "1027",
         "Sources": {
-            "Crafting Recipes": [
-                "2285"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -276,9 +234,7 @@
         "Name": "Purple and Black Dye",
         "Item ID": "1028",
         "Sources": {
-            "Crafting Recipes": [
-                "2361"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -289,9 +245,7 @@
         "Name": "Violet and Black Dye",
         "Item ID": "1029",
         "Sources": {
-            "Crafting Recipes": [
-                "2387"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -302,9 +256,7 @@
         "Name": "Pink and Black Dye",
         "Item ID": "1030",
         "Sources": {
-            "Crafting Recipes": [
-                "2355"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -315,9 +267,7 @@
         "Name": "Flame Dye",
         "Item ID": "1031",
         "Sources": {
-            "Crafting Recipes": [
-                "2331"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -328,9 +278,7 @@
         "Name": "Flame and Black Dye",
         "Item ID": "1032",
         "Sources": {
-            "Crafting Recipes": [
-                "2329"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -341,9 +289,7 @@
         "Name": "Green Flame Dye",
         "Item ID": "1033",
         "Sources": {
-            "Crafting Recipes": [
-                "2337"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -354,9 +300,7 @@
         "Name": "Green Flame and Black Dye",
         "Item ID": "1034",
         "Sources": {
-            "Crafting Recipes": [
-                "2335"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -367,9 +311,7 @@
         "Name": "Blue Flame Dye",
         "Item ID": "1035",
         "Sources": {
-            "Crafting Recipes": [
-                "2290"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -380,9 +322,7 @@
         "Name": "Blue Flame and Black Dye",
         "Item ID": "1036",
         "Sources": {
-            "Crafting Recipes": [
-                "2288"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -404,9 +344,7 @@
         "Name": "Bright Red Dye",
         "Item ID": "1038",
         "Sources": {
-            "Crafting Recipes": [
-                "2301"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -417,9 +355,7 @@
         "Name": "Bright Orange Dye",
         "Item ID": "1039",
         "Sources": {
-            "Crafting Recipes": [
-                "2298"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -430,9 +366,7 @@
         "Name": "Bright Yellow Dye",
         "Item ID": "1040",
         "Sources": {
-            "Crafting Recipes": [
-                "2306"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -443,9 +377,7 @@
         "Name": "Bright Lime Dye",
         "Item ID": "1041",
         "Sources": {
-            "Crafting Recipes": [
-                "2297"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -456,9 +388,7 @@
         "Name": "Bright Green Dye",
         "Item ID": "1042",
         "Sources": {
-            "Crafting Recipes": [
-                "2296"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -469,9 +399,7 @@
         "Name": "Bright Teal Dye",
         "Item ID": "1043",
         "Sources": {
-            "Crafting Recipes": [
-                "2304"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -482,9 +410,7 @@
         "Name": "Bright Cyan Dye",
         "Item ID": "1044",
         "Sources": {
-            "Crafting Recipes": [
-                "2295"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -495,9 +421,7 @@
         "Name": "Bright Sky Blue Dye",
         "Item ID": "1045",
         "Sources": {
-            "Crafting Recipes": [
-                "2303"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -508,9 +432,7 @@
         "Name": "Bright Blue Dye",
         "Item ID": "1046",
         "Sources": {
-            "Crafting Recipes": [
-                "2293"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -521,9 +443,7 @@
         "Name": "Bright Purple Dye",
         "Item ID": "1047",
         "Sources": {
-            "Crafting Recipes": [
-                "2300"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -534,9 +454,7 @@
         "Name": "Bright Violet Dye",
         "Item ID": "1048",
         "Sources": {
-            "Crafting Recipes": [
-                "2305"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -547,9 +465,7 @@
         "Name": "Bright Pink Dye",
         "Item ID": "1049",
         "Sources": {
-            "Crafting Recipes": [
-                "2299"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -560,9 +476,7 @@
         "Name": "Black Dye",
         "Item ID": "1050",
         "Sources": {
-            "Crafting Recipes": [
-                "2282"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -573,9 +487,7 @@
         "Name": "Red and Silver Dye",
         "Item ID": "1051",
         "Sources": {
-            "Crafting Recipes": [
-                "2369"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -586,9 +498,7 @@
         "Name": "Orange and Silver Dye",
         "Item ID": "1052",
         "Sources": {
-            "Crafting Recipes": [
-                "2351"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -599,9 +509,7 @@
         "Name": "Yellow and Silver Dye",
         "Item ID": "1053",
         "Sources": {
-            "Crafting Recipes": [
-                "2396"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -612,9 +520,7 @@
         "Name": "Lime and Silver Dye",
         "Item ID": "1054",
         "Sources": {
-            "Crafting Recipes": [
-                "2345"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -625,9 +531,7 @@
         "Name": "Green and Silver Dye",
         "Item ID": "1055",
         "Sources": {
-            "Crafting Recipes": [
-                "2333"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -638,9 +542,7 @@
         "Name": "Teal and Silver Dye",
         "Item ID": "1056",
         "Sources": {
-            "Crafting Recipes": [
-                "2383"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -651,9 +553,7 @@
         "Name": "Cyan and Silver Dye",
         "Item ID": "1057",
         "Sources": {
-            "Crafting Recipes": [
-                "2312"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -664,9 +564,7 @@
         "Name": "Sky Blue and Silver Dye",
         "Item ID": "1058",
         "Sources": {
-            "Crafting Recipes": [
-                "2376"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -677,9 +575,7 @@
         "Name": "Blue and Silver Dye",
         "Item ID": "1059",
         "Sources": {
-            "Crafting Recipes": [
-                "2286"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -690,9 +586,7 @@
         "Name": "Purple and Silver Dye",
         "Item ID": "1060",
         "Sources": {
-            "Crafting Recipes": [
-                "2362"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -703,9 +597,7 @@
         "Name": "Violet and Silver Dye",
         "Item ID": "1061",
         "Sources": {
-            "Crafting Recipes": [
-                "2388"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -716,9 +608,7 @@
         "Name": "Pink and Silver Dye",
         "Item ID": "1062",
         "Sources": {
-            "Crafting Recipes": [
-                "2356"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -729,9 +619,7 @@
         "Name": "Intense Flame Dye",
         "Item ID": "1063",
         "Sources": {
-            "Crafting Recipes": [
-                "2341"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -742,9 +630,7 @@
         "Name": "Intense Green Flame Dye",
         "Item ID": "1064",
         "Sources": {
-            "Crafting Recipes": [
-                "2342"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -755,9 +641,7 @@
         "Name": "Intense Blue Flame Dye",
         "Item ID": "1065",
         "Sources": {
-            "Crafting Recipes": [
-                "2340"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -768,9 +652,7 @@
         "Name": "Rainbow Dye",
         "Item ID": "1066",
         "Sources": {
-            "Crafting Recipes": [
-                "2366"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -781,9 +663,7 @@
         "Name": "Intense Rainbow Dye",
         "Item ID": "1067",
         "Sources": {
-            "Crafting Recipes": [
-                "2343"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -794,9 +674,7 @@
         "Name": "Yellow Gradient Dye",
         "Item ID": "1068",
         "Sources": {
-            "Crafting Recipes": [
-                "2399"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -807,9 +685,7 @@
         "Name": "Cyan Gradient Dye",
         "Item ID": "1069",
         "Sources": {
-            "Crafting Recipes": [
-                "2315"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -820,9 +696,7 @@
         "Name": "Violet Gradient Dye",
         "Item ID": "1070",
         "Sources": {
-            "Crafting Recipes": [
-                "2391"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1053,9 +927,7 @@
         "Name": "Brown and Black Dye",
         "Item ID": "2875",
         "Sources": {
-            "Crafting Recipes": [
-                "2307"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1066,9 +938,7 @@
         "Name": "Bright Brown Dye",
         "Item ID": "2876",
         "Sources": {
-            "Crafting Recipes": [
-                "2294"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1079,9 +949,7 @@
         "Name": "Brown and Silver Dye",
         "Item ID": "2877",
         "Sources": {
-            "Crafting Recipes": [
-                "2308"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1279,9 +1147,7 @@
         "Name": "Solar Dye",
         "Item ID": "3526",
         "Sources": {
-            "Crafting Recipes": [
-                "2380"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1292,9 +1158,7 @@
         "Name": "Nebula Dye",
         "Item ID": "3527",
         "Sources": {
-            "Crafting Recipes": [
-                "2349"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1305,9 +1169,7 @@
         "Name": "Vortex Dye",
         "Item ID": "3528",
         "Sources": {
-            "Crafting Recipes": [
-                "2394"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1318,9 +1180,7 @@
         "Name": "Stardust Dye",
         "Item ID": "3529",
         "Sources": {
-            "Crafting Recipes": [
-                "2381"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1331,9 +1191,7 @@
         "Name": "Void Dye",
         "Item ID": "3530",
         "Sources": {
-            "Crafting Recipes": [
-                "2393"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1366,9 +1224,7 @@
         "Name": "Shifting Pearlsands Dye",
         "Item ID": "3535",
         "Sources": {
-            "Crafting Recipes": [
-                "2373"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1379,9 +1235,7 @@
         "Name": "Flame and Silver Dye",
         "Item ID": "3550",
         "Sources": {
-            "Crafting Recipes": [
-                "2330"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1392,9 +1246,7 @@
         "Name": "Green Flame and Silver Dye",
         "Item ID": "3551",
         "Sources": {
-            "Crafting Recipes": [
-                "2336"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1405,9 +1257,7 @@
         "Name": "Blue Flame and Silver Dye",
         "Item ID": "3552",
         "Sources": {
-            "Crafting Recipes": [
-                "2289"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1462,9 +1312,7 @@
         "Name": "Black and White Dye",
         "Item ID": "3557",
         "Sources": {
-            "Crafting Recipes": [
-                "2281"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1475,9 +1323,7 @@
         "Name": "Bright Silver Dye",
         "Item ID": "3558",
         "Sources": {
-            "Crafting Recipes": [
-                "2302"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1488,9 +1334,7 @@
         "Name": "Silver and Black Dye",
         "Item ID": "3559",
         "Sources": {
-            "Crafting Recipes": [
-                "2374"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1523,9 +1367,7 @@
         "Name": "Pink Gel Dye",
         "Item ID": "3562",
         "Sources": {
-            "Crafting Recipes": [
-                "2358"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],

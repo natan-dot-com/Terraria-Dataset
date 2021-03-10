@@ -115,9 +115,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "958"
-            ],
+            "Grab Bag": [],
             "Other": "Found in Surface"
         }
     },
@@ -237,10 +235,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "31",
-                "68"
-            ],
+            "Grab Bag": [],
             "Other": ""
         }
     },
@@ -252,32 +247,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "32",
-                "69",
-                "98",
-                "137",
-                "217",
-                "262",
-                "293",
-                "334",
-                "364",
-                "406",
-                "438",
-                "480",
-                "507",
-                "544",
-                "573",
-                "612",
-                "643",
-                "687",
-                "723",
-                "770",
-                "809",
-                "862",
-                "895",
-                "940"
-            ],
+            "Grab Bag": [],
             "Other": ""
         }
     },
@@ -289,32 +259,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "99",
-                "138",
-                "157",
-                "186",
-                "218",
-                "263",
-                "294",
-                "335",
-                "365",
-                "407",
-                "439",
-                "481",
-                "508",
-                "545",
-                "574",
-                "613",
-                "644",
-                "688",
-                "724",
-                "771",
-                "810",
-                "863",
-                "896",
-                "941"
-            ],
+            "Grab Bag": [],
             "Other": ""
         }
     },
@@ -362,9 +307,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "960"
-            ],
+            "Grab Bag": [],
             "Other": "Found in Surface"
         }
     },
@@ -373,14 +316,10 @@
         "Rarity": "2",
         "Bait Power": "35%",
         "Sources": {
-            "Crafting Recipes": [
-                "85"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "959"
-            ],
+            "Grab Bag": [],
             "Other": "Found in Meteor Shower"
         }
     },

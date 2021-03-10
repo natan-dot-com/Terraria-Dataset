@@ -9,32 +9,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "13",
-                "46",
-                "78",
-                "109",
-                "197",
-                "230",
-                "273",
-                "302",
-                "344",
-                "374",
-                "418",
-                "448",
-                "487",
-                "512",
-                "553",
-                "580",
-                "623",
-                "655",
-                "703",
-                "738",
-                "789",
-                "830",
-                "875",
-                "908"
-            ],
+            "Grab Bag": [],
             "Other": "Surface, Underground, Cavern"
         }
     },
@@ -48,32 +23,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "11",
-                "44",
-                "76",
-                "107",
-                "195",
-                "228",
-                "271",
-                "300",
-                "342",
-                "372",
-                "416",
-                "446",
-                "485",
-                "510",
-                "551",
-                "578",
-                "621",
-                "653",
-                "701",
-                "736",
-                "787",
-                "828",
-                "873",
-                "906"
-            ],
+            "Grab Bag": [],
             "Other": "Surface, Underground, Cavern"
         }
     },
@@ -87,30 +37,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "144",
-                "165",
-                "201",
-                "234",
-                "277",
-                "306",
-                "348",
-                "378",
-                "422",
-                "452",
-                "491",
-                "516",
-                "557",
-                "584",
-                "627",
-                "659",
-                "707",
-                "742",
-                "793",
-                "834",
-                "879",
-                "912"
-            ],
+            "Grab Bag": [],
             "Other": "Underground, Cavern, Floating Islands, Surface (very rarely)"
         }
     },
@@ -124,32 +51,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "80",
-                "111",
-                "142",
-                "163",
-                "199",
-                "232",
-                "275",
-                "304",
-                "346",
-                "376",
-                "420",
-                "450",
-                "489",
-                "514",
-                "555",
-                "582",
-                "625",
-                "657",
-                "705",
-                "740",
-                "791",
-                "832",
-                "877",
-                "910"
-            ],
+            "Grab Bag": [],
             "Other": "Underground, Cavern, Floating Islands, Surface (rarely)"
         }
     },
@@ -163,10 +65,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "1029",
-                "1035"
-            ],
+            "Grab Bag": [],
             "Other": "Underground, Cavern"
         }
     },
@@ -191,9 +90,7 @@
         "Minimum Pickaxe Power": "Nightmare Pickaxe",
         "In Stone": "ores/Obsidian_In_Stone.png",
         "Sources": {
-            "Crafting Recipes": [
-                "935"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -207,12 +104,7 @@
         "Minimum Pickaxe Power": "Nightmare Pickaxe",
         "In Stone": "ores/Hellstone_In_Stone.png",
         "Sources": {
-            "Crafting Recipes": [
-                "918",
-                "919",
-                "920",
-                "921"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -229,20 +121,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "48",
-                "113",
-                "236",
-                "308",
-                "380",
-                "454",
-                "518",
-                "586",
-                "661",
-                "744",
-                "836",
-                "914"
-            ],
+            "Grab Bag": [],
             "Other": "Underground, Cavern"
         }
     },
@@ -256,20 +135,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "115",
-                "167",
-                "238",
-                "310",
-                "382",
-                "456",
-                "520",
-                "588",
-                "663",
-                "746",
-                "838",
-                "916"
-            ],
+            "Grab Bag": [],
             "Other": "Cavern"
         }
     },
@@ -283,19 +149,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "169",
-                "240",
-                "312",
-                "384",
-                "458",
-                "522",
-                "590",
-                "665",
-                "748",
-                "840",
-                "918"
-            ],
+            "Grab Bag": [],
             "Other": "Cavern (roughly at lava depth)"
         }
     },
@@ -309,32 +163,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "12",
-                "45",
-                "77",
-                "108",
-                "196",
-                "229",
-                "272",
-                "301",
-                "343",
-                "373",
-                "417",
-                "447",
-                "486",
-                "511",
-                "552",
-                "579",
-                "622",
-                "654",
-                "702",
-                "737",
-                "788",
-                "829",
-                "874",
-                "907"
-            ],
+            "Grab Bag": [],
             "Other": "Surface, Underground, Cavern"
         }
     },
@@ -348,32 +177,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "14",
-                "47",
-                "79",
-                "110",
-                "198",
-                "231",
-                "274",
-                "303",
-                "345",
-                "375",
-                "419",
-                "449",
-                "488",
-                "513",
-                "554",
-                "581",
-                "624",
-                "656",
-                "704",
-                "739",
-                "790",
-                "831",
-                "876",
-                "909"
-            ],
+            "Grab Bag": [],
             "Other": "Surface, Underground, Cavern"
         }
     },
@@ -387,32 +191,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "81",
-                "112",
-                "143",
-                "164",
-                "200",
-                "233",
-                "276",
-                "305",
-                "347",
-                "377",
-                "421",
-                "451",
-                "490",
-                "515",
-                "556",
-                "583",
-                "626",
-                "658",
-                "706",
-                "741",
-                "792",
-                "833",
-                "878",
-                "911"
-            ],
+            "Grab Bag": [],
             "Other": "Underground, Cavern, Floating Islands, Surface (rarely)"
         }
     },
@@ -426,30 +205,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "145",
-                "166",
-                "202",
-                "235",
-                "278",
-                "307",
-                "349",
-                "379",
-                "423",
-                "453",
-                "492",
-                "517",
-                "558",
-                "585",
-                "628",
-                "660",
-                "708",
-                "743",
-                "794",
-                "835",
-                "880",
-                "913"
-            ],
+            "Grab Bag": [],
             "Other": "Underground, Cavern, Floating Islands, Surface (very rarely)"
         }
     },
@@ -463,10 +219,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "1027",
-                "1041"
-            ],
+            "Grab Bag": [],
             "Other": "Underground, Cavern"
         }
     },
@@ -494,20 +247,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "49",
-                "114",
-                "237",
-                "309",
-                "381",
-                "455",
-                "519",
-                "587",
-                "662",
-                "745",
-                "837",
-                "915"
-            ],
+            "Grab Bag": [],
             "Other": "Underground, Cavern"
         }
     },
@@ -521,20 +261,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "116",
-                "168",
-                "239",
-                "311",
-                "383",
-                "457",
-                "521",
-                "589",
-                "664",
-                "747",
-                "839",
-                "917"
-            ],
+            "Grab Bag": [],
             "Other": "Cavern"
         }
     },
@@ -548,19 +275,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "170",
-                "241",
-                "313",
-                "385",
-                "459",
-                "523",
-                "591",
-                "666",
-                "749",
-                "841",
-                "919"
-            ],
+            "Grab Bag": [],
             "Other": "Cavern (roughly at lava depth)"
         }
     },
@@ -574,9 +289,7 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [
-                "1133"
-            ],
+            "Grab Bag": [],
             "Other": ""
         }
     }

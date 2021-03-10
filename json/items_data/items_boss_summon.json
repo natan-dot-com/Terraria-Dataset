@@ -9,10 +9,7 @@
         "Summons": "Eye of Cthulhu",
         "Usable": "Only usable at night.",
         "Sources": {
-            "Crafting Recipes": [
-                "2556",
-                "2573"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -29,10 +26,7 @@
         "Summons": "Eater of Worlds",
         "Usable": "Must be consumed in the Corruption.",
         "Sources": {
-            "Crafting Recipes": [
-                "2561",
-                "2578"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -64,10 +58,7 @@
         "Summons": "The Twins",
         "Usable": "Only usable at night.",
         "Sources": {
-            "Crafting Recipes": [
-                "2673",
-                "2852"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -84,12 +75,7 @@
         "Summons": "The Destroyer",
         "Usable": "Only usable at night.",
         "Sources": {
-            "Crafting Recipes": [
-                "2675",
-                "2676",
-                "2854",
-                "2855"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -106,10 +92,7 @@
         "Summons": "Skeletron Prime",
         "Usable": "Only usable at night.",
         "Sources": {
-            "Crafting Recipes": [
-                "2674",
-                "2853"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -126,12 +109,7 @@
         "Summons": "King Slime",
         "Usable": "Can be consumed any time.",
         "Sources": {
-            "Crafting Recipes": [
-                "2554",
-                "2555",
-                "2571",
-                "2572"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -148,9 +126,7 @@
         "Summons": "Queen Bee",
         "Usable": "Must be consumed in the Jungle or Underground Jungle.",
         "Sources": {
-            "Crafting Recipes": [
-                "1"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -199,10 +175,7 @@
         "Summons": "Brain of Cthulhu",
         "Usable": "Must be consumed in the Crimson.",
         "Sources": {
-            "Crafting Recipes": [
-                "2551",
-                "2568"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -219,9 +192,7 @@
         "Summons": "Moon Lord",
         "Usable": "Can only be used in Hardmode worlds where Golem has been defeated. There is a delay of 60 seconds between the item use and the boss summon. Can not be used if any of the Celestial Pillars are activated or if the cultists are on screen.",
         "Sources": {
-            "Crafting Recipes": [
-                "3121"
-            ],
+            "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
