@@ -16,14 +16,14 @@ from ...package.scraping_tools import *
 from ...package.json_manager import *
 from ...package.multithreading_starter import *
 
-POTION_PATH = GLOBAL_JSON_PATH + DYE_NAME_FILE + JSON_EXT
+DYE_PATH = GLOBAL_JSON_PATH + DIR_ITEMS_DATA + DYE_NAME_FILE + JSON_EXT
 URL = "https://terraria.gamepedia.com/"
 
-itemList = LoadJSONFile(GLOBAL_JSON_PATH + MAIN_NAME_FILE + JSON_EXT)
+itemList = LoadJSONFile(GLOBAL_JSON_PATH + DIR_ID_REFERENCES + MAIN_NAME_FILE + JSON_EXT)
 dyeList = []
 
 @start_threads_decorator(size=len(itemList), threads_number=8)
-def potionScraping(init, fin, threadID):
+def dyeScraping(init, fin, threadID):
     for itemInstance in itemList[init:fin]:
         if itemInstance[SCRAPING_TYPE] == "Dye":
             print("Thread {}: Processing {} with ID {}".format(threadID, itemInstance[SCRAPING_NAME], itemInstance[SCRAPING_ID]))
@@ -33,4 +33,4 @@ def potionScraping(init, fin, threadID):
             dyeDict[SCRAPING_SOURCE] = SOURCE_SOURCES_DICT
             dyeList.append(dyeDict)
         
-SaveJSONFile(POTION_PATH, sortListOfDictsByKey(dyeList, SCRAPING_ITEM_ID))
+SaveJSONFile(DYE_PATH, sortListOfDictsByKey(dyeList, SCRAPING_ITEM_ID))
