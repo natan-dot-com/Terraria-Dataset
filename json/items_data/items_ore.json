@@ -90,7 +90,9 @@
         "Minimum Pickaxe Power": "Nightmare Pickaxe",
         "In Stone": "ores/Obsidian_In_Stone.png",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "935"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -104,7 +106,12 @@
         "Minimum Pickaxe Power": "Nightmare Pickaxe",
         "In Stone": "ores/Hellstone_In_Stone.png",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "918",
+                "919",
+                "920",
+                "921"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],

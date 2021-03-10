@@ -25,7 +25,11 @@
         "Sell": "20 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "306",
+                "2020",
+                "2028"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -55,7 +59,9 @@
         "Sell": "10 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2012"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -70,7 +76,9 @@
         "Sell": "10 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2011"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -160,7 +168,9 @@
         "Sell": "20 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1984"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -175,7 +185,9 @@
         "Sell": "10 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1986"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -190,7 +202,9 @@
         "Sell": "10 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1985"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -220,7 +234,9 @@
         "Sell": "10 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "317"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -235,7 +251,9 @@
         "Sell": "10 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "318"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -266,7 +284,9 @@
         "Sell": "4 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1999"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -296,7 +316,10 @@
         "Sell": "20 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1196",
+                "1462"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -539,7 +562,10 @@
         "Sell": "30 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1292",
+                "1558"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -3719,7 +3745,9 @@
         "Sell": "50 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1968"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -3734,7 +3762,9 @@
         "Sell": "50 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1967"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -3749,7 +3779,9 @@
         "Sell": "50 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1969"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -3965,7 +3997,9 @@
         "Sell": "50 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1988"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -3980,7 +4014,9 @@
         "Sell": "50 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1989"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -3995,7 +4031,9 @@
         "Sell": "50 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1990"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -4010,7 +4048,9 @@
         "Sell": "50 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1991"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -4025,7 +4065,9 @@
         "Sell": "50 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1992"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -4040,7 +4082,9 @@
         "Sell": "50 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1993"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -4329,7 +4373,9 @@
         "Sell": "50 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2005"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -4344,7 +4390,9 @@
         "Sell": "50 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2004"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -4359,7 +4407,9 @@
         "Sell": "50 Silver Coins",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2006"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5118,7 +5168,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1996"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5134,7 +5186,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1995"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5150,7 +5204,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1997"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5166,7 +5222,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2015"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5182,7 +5240,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2016"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5198,7 +5258,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2014"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5214,7 +5276,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2009"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5230,7 +5294,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2007"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5246,7 +5312,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2008"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5262,7 +5330,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1978"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5278,7 +5348,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1980"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5294,7 +5366,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1979"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5310,7 +5384,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1972"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5326,7 +5402,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1971"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5358,7 +5436,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1973"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5374,7 +5454,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2013"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5390,7 +5472,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1987"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -5406,7 +5490,9 @@
         "Sell": "1 Silver Coin",
         "Research": "1 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1994"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],

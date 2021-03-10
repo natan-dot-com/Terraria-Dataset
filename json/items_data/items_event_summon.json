@@ -6,7 +6,9 @@
         "Tooltip": "Summons a Goblin Army.",
         "Notes": "Must be consumed during the day, once at least one Shadow Orb/Crimson Heart has been destroyed and the player has at least 200 maximum health.",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1981"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -48,7 +50,10 @@
         "Tooltip": "Summons the Pumpkin Moon.",
         "Notes": "Only usable at night.",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2709",
+                "2888"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -62,7 +67,10 @@
         "Tooltip": "Summons the Frost Moon.",
         "Notes": "Only usable at night.",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2692",
+                "2871"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -76,7 +84,10 @@
         "Tooltip": "Summons the Eclipse.",
         "Notes": "Can only be used in a Hardmode world during the day.",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2720",
+                "2899"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],

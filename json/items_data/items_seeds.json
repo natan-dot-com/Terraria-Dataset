@@ -49,7 +49,10 @@
         "Creates": "Grass",
         "Planted In": "Dirt",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "902",
+                "903"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -87,7 +90,10 @@
         "Creates": "Jungle",
         "Planted In": "Mud",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "925",
+                "926"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -434,7 +440,9 @@
         "Rarity": "0",
         "Sell": "3 Silver 75 Copper Coins",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "282"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -447,7 +455,9 @@
         "Rarity": "0",
         "Sell": "3 Silver 75 Copper Coins",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "7"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -460,7 +470,9 @@
         "Rarity": "0",
         "Sell": "3 Silver 75 Copper Coins",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "231"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -473,7 +485,9 @@
         "Rarity": "0",
         "Sell": "3 Silver 75 Copper Coins",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "82"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -486,7 +500,9 @@
         "Rarity": "0",
         "Sell": "3 Silver 75 Copper Coins",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "226"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -499,7 +515,9 @@
         "Rarity": "0",
         "Sell": "3 Silver 75 Copper Coins",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "65"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -512,7 +530,9 @@
         "Rarity": "0",
         "Sell": "3 Silver 75 Copper Coins",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "4"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],

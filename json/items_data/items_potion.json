@@ -25,7 +25,10 @@
         "Sell": "60 Copper Coins",
         "Research": "30 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1668",
+                "1726"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -57,7 +60,9 @@
         "Rarity": "2",
         "Research": "10 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "171"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -88,7 +93,10 @@
         "Sell": "4 Copper Coins",
         "Research": "30 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1760",
+                "3484"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -103,7 +111,10 @@
         "Sell": "2 Silver Coins",
         "Research": "30 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1661",
+                "1719"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -118,7 +129,10 @@
         "Sell": "50 Copper Coins",
         "Research": "30 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1674",
+                "1732"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -149,7 +163,10 @@
         "Sell": "3 Silver Coins",
         "Research": "30 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1683",
+                "1741"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -168,7 +185,10 @@
         "Buff tooltip": "Immune to lava",
         "Duration": "6 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1678",
+                "1736"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -187,7 +207,10 @@
         "Buff tooltip": "Provides life regeneration",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1682",
+                "1740"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -206,7 +229,10 @@
         "Buff tooltip": "25% increased movement speed",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1692",
+                "1750"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -225,7 +251,10 @@
         "Buff tooltip": "Breathe water instead of air",
         "Duration": "4 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1657",
+                "1715"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -244,7 +273,12 @@
         "Buff tooltip": "Increase defense by 8",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1666",
+                "1667",
+                "1724",
+                "1725"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -263,7 +297,10 @@
         "Buff tooltip": "Increased mana regeneration",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1675",
+                "1733"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -282,7 +319,10 @@
         "Buff tooltip": "20% increased magic damage",
         "Duration": "4 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1673",
+                "1731"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -301,7 +341,10 @@
         "Buff tooltip": "Press UP or DOWN to control speed of descent",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1653",
+                "1711"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -320,7 +363,12 @@
         "Buff tooltip": "Shows the location of treasure and ore",
         "Duration": "5 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1686",
+                "1687",
+                "1744",
+                "1745"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -339,7 +387,10 @@
         "Buff tooltip": "Grants invisibility",
         "Duration": "3 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1665",
+                "1723"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -358,7 +409,10 @@
         "Buff tooltip": "Emitting light",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1684",
+                "1742"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -377,7 +431,10 @@
         "Buff tooltip": "Increased night vision",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1677",
+                "1735"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -396,7 +453,12 @@
         "Buff tooltip": "Increased enemy spawn rate",
         "Duration": "7 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1646",
+                "1647",
+                "1704",
+                "1705"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -415,7 +477,10 @@
         "Buff tooltip": "Attackers also take damage",
         "Duration": "8 minutes   2 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1694",
+                "1752"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -434,7 +499,10 @@
         "Buff tooltip": "Press DOWN to enter water",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1699",
+                "1757"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -453,7 +521,10 @@
         "Buff tooltip": "20% increased arrow damage and speed",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1645",
+                "1703"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -472,7 +543,10 @@
         "Buff tooltip": "Shows the location of enemies",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1663",
+                "1721"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -491,7 +565,10 @@
         "Buff tooltip": "Press UP to reverse gravity",
         "Duration": "3 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1658",
+                "1716"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -510,7 +587,9 @@
         "Debuff tooltip": "Increased melee abilities, lowered defense",
         "Duration": "2 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "3256"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -529,7 +608,10 @@
         "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2037",
+                "2099"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -544,7 +626,10 @@
         "Sell": "10 Silver Coins",
         "Research": "30 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1659",
+                "1717"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -608,7 +693,9 @@
         "Sell": "8 Copper Coins",
         "Research": "30 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "3498"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -644,7 +731,9 @@
         "Buff tooltip": "Melee attacks inflict acid venom on your targets",
         "Duration": "20 minutes ()15 minutes ( )",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2280"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -663,7 +752,9 @@
         "Buff tooltip": "Melee attacks inflict enemies with cursed flames",
         "Duration": "20 minutes ()15 minutes ( )",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2273"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -682,7 +773,9 @@
         "Buff tooltip": "Melee attacks set enemies on fire",
         "Duration": "20 minutes ()15 minutes ( )",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2274"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -701,7 +794,9 @@
         "Buff tooltip": "Melee attacks make enemies drop more gold",
         "Duration": "20 minutes ()15 minutes ( )",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2275"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -720,7 +815,9 @@
         "Buff tooltip": "Melee attacks decrease enemies defense",
         "Duration": "20 minutes ()15 minutes ( )",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2276"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -739,7 +836,9 @@
         "Buff tooltip": "Melee attacks confuse enemies",
         "Duration": "20 minutes ()15 minutes ( )",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2277"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -758,7 +857,9 @@
         "Buff tooltip": "Melee attacks cause confetti to appear",
         "Duration": "20 minutes ()15 minutes ( )",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2278"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -777,7 +878,9 @@
         "Buff tooltip": "Melee attacks poison enemies",
         "Duration": "20 minutes ()15 minutes ( )",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2279"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -796,7 +899,12 @@
         "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1021",
+                "1094",
+                "2998",
+                "3076"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -864,7 +972,10 @@
         "Sell": "3 Silver Coins",
         "Research": "30 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1691",
+                "1749"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -940,7 +1051,10 @@
         "Buff tooltip": "25% increased mining speed",
         "Duration": "10 minutes 8 minutes 5 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1676",
+                "1734"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -959,7 +1073,10 @@
         "Buff tooltip": "Increased heart pickup range",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1662",
+                "1720"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -978,7 +1095,10 @@
         "Buff tooltip": "Decreased enemy spawn rate",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1649",
+                "1707"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -997,7 +1117,10 @@
         "Buff tooltip": "Increased placement speed and range",
         "Duration": "45 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1648",
+                "1706"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1016,7 +1139,10 @@
         "Buff tooltip": "Increased knockback",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1695",
+                "1753"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1035,7 +1161,10 @@
         "Buff tooltip": "Move like normal in water",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1655",
+                "1713"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1054,7 +1183,10 @@
         "Buff tooltip": "Increased max number of minions",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1689",
+                "1747"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1073,7 +1205,10 @@
         "Buff tooltip": "You can see nearby hazards",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1651",
+                "1709"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1092,7 +1227,10 @@
         "Buff tooltip": "20% chance to not consume ammo",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1644",
+                "1702"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1111,7 +1249,10 @@
         "Buff tooltip": "20% increased max life",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1670",
+                "1728"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1130,7 +1271,10 @@
         "Buff tooltip": "10% reduced damage",
         "Duration": "4 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1652",
+                "1710"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1149,7 +1293,10 @@
         "Buff tooltip": "10% increased critical chance",
         "Duration": "4 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1680",
+                "1738"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1168,7 +1315,10 @@
         "Buff tooltip": "Nearby enemies are ignited",
         "Duration": "4 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1664",
+                "1722"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1187,7 +1337,10 @@
         "Buff tooltip": "10% increased damage",
         "Duration": "4 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1701",
+                "1759"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1203,7 +1356,10 @@
         "Sell": "2 Silver Coins",
         "Research": "20 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1681",
+                "1739"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1219,7 +1375,10 @@
         "Sell": "2 Silver Coins",
         "Research": "20 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1693",
+                "1751"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1239,7 +1398,10 @@
         "Debuff tooltip": "You are in love!",
         "Duration": "30 seconds",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1671",
+                "1729"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1259,7 +1421,10 @@
         "Debuff tooltip": "You smell terrible",
         "Duration": "30 seconds",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1688",
+                "1746"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1278,7 +1443,10 @@
         "Buff tooltip": "Increased fishing power",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1654",
+                "1712"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1297,7 +1465,10 @@
         "Buff tooltip": "You can see what's biting your hook",
         "Duration": "8 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1685",
+                "1743"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1316,7 +1487,10 @@
         "Buff tooltip": "Greater chance of fishing up a crate",
         "Duration": "3 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1650",
+                "1708"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1335,7 +1509,10 @@
         "Buff tooltip": "Reduced damage from cold sources",
         "Duration": "15 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1698",
+                "1756"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1348,7 +1525,14 @@
         "Use time": "17 (Very fast)",
         "Rarity": "0",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2039",
+                "2040",
+                "2041",
+                "2101",
+                "2102",
+                "2103"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1361,7 +1545,10 @@
         "Use time": "17 (Very fast)",
         "Rarity": "0",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2042",
+                "2104"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1374,7 +1561,12 @@
         "Use time": "17 (Very fast)",
         "Rarity": "0",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "720",
+                "721",
+                "722",
+                "723"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1389,7 +1581,10 @@
         "Sell": "2 Silver Coins",
         "Research": "20 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1656",
+                "1714"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1404,7 +1599,10 @@
         "Sell": "2 Silver Coins",
         "Research": "20 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1700",
+                "1758"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1439,7 +1637,10 @@
         "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2063",
+                "2125"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1518,7 +1719,10 @@
         "Sell": "30 Silver Coins",
         "Research": "30 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1690",
+                "1748"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1556,7 +1760,10 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2038",
+                "2100"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1594,7 +1801,10 @@
         "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2043",
+                "2105"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1632,7 +1842,34 @@
         "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "48 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2047",
+                "2048",
+                "2049",
+                "2050",
+                "2051",
+                "2052",
+                "2053",
+                "2054",
+                "2055",
+                "2056",
+                "2057",
+                "2058",
+                "2059",
+                "2109",
+                "2110",
+                "2111",
+                "2112",
+                "2113",
+                "2114",
+                "2115",
+                "2116",
+                "2117",
+                "2118",
+                "2119",
+                "2120",
+                "2121"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1651,7 +1888,12 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2061",
+                "2062",
+                "2123",
+                "2124"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1664,7 +1906,42 @@
         "Use time": "17 (Very fast)",
         "Rarity": "0",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2078",
+                "2079",
+                "2080",
+                "2081",
+                "2082",
+                "2083",
+                "2084",
+                "2085",
+                "2086",
+                "2087",
+                "2088",
+                "2089",
+                "2090",
+                "2091",
+                "2092",
+                "2093",
+                "2094",
+                "2140",
+                "2141",
+                "2142",
+                "2143",
+                "2144",
+                "2145",
+                "2146",
+                "2147",
+                "2148",
+                "2149",
+                "2150",
+                "2151",
+                "2152",
+                "2153",
+                "2154",
+                "2155",
+                "2156"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1886,7 +2163,10 @@
         "Use time": "17 (Very fast)",
         "Rarity": "0",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2065",
+                "2127"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1916,7 +2196,10 @@
         "Buff": "Lucky",
         "Buff tooltip": "You are feeling pretty lucky",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1669",
+                "1727"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1933,7 +2216,10 @@
         "Buff": "Lucky",
         "Buff tooltip": "You are feeling pretty lucky",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1672",
+                "1730"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1950,7 +2236,10 @@
         "Buff": "Lucky",
         "Buff tooltip": "You are feeling pretty lucky",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1660",
+                "1718"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1969,7 +2258,10 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "10 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2035",
+                "2097"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -1988,7 +2280,10 @@
         "Buff tooltip": "Major improvements to all stats (Normal Mode). Major improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "16 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2060",
+                "2122"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -2007,7 +2302,10 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "15 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2044",
+                "2106"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -2026,7 +2324,10 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "20 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2096",
+                "2158"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -2045,7 +2346,10 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "20 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2036",
+                "2098"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -2064,7 +2368,10 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "20 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2095",
+                "2157"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -2083,7 +2390,10 @@
         "Buff tooltip": "Medium improvements to all stats (Normal Mode). Medium improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "20 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2068",
+                "2130"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -2102,7 +2412,10 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "25 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2046",
+                "2108"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -2118,7 +2431,10 @@
         "Sell": "2 Silver Coins",
         "Research": "20 required",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "1679",
+                "1737"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -2137,7 +2453,9 @@
         "Buff tooltip": "Minor improvements to all stats (Normal Mode). Minor improvements to all stats and increased life regeneration (Expert Mode).",
         "Duration": "5 minutes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "3257"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],

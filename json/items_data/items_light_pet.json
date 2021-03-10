@@ -29,7 +29,10 @@
             "light_pets/Fairy_3.png"
         ],
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "2632",
+                "2811"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],

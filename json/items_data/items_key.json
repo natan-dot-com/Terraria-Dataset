@@ -100,7 +100,9 @@
         "Used In": "Corrupt Mimic",
         "Is Consumed": "Yes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "516"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],
@@ -112,7 +114,9 @@
         "Used In": "Hallowed Mimic",
         "Is Consumed": "Yes",
         "Sources": {
-            "Crafting Recipes": [],
+            "Crafting Recipes": [
+                "515"
+            ],
             "NPC": [],
             "Drop": [],
             "Grab Bag": [],

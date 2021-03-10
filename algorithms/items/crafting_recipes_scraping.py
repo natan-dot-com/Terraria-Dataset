@@ -174,13 +174,16 @@ def getCraftingRecipes(stationTuple, craftDictList, itemList, itemHash, recipesC
 
             recipeDict[RECIPE_RESULT] =  itemHash.search(recipeResult, SCRAPING_ID)
             if recipeDict[RECIPE_RESULT] == NOT_FOUND:
-                print("\tError detected. Please check the log file for more details.")
+                if recipeResult in nameSubstitutes.keys():
+                    recipeDict[RECIPE_RESULT] =  itemHash.search(nameSubstitutes[recipeResult], SCRAPING_ID)
+                else:
+                    print("\tError detected. Please check the log file for more details.")
 
-                logFile.write("RECIPE WARNING: Item '" + recipeResult + \
-                    "' was not found in database. Maybe this item was already removed from/replaced in Terraria.\n")
+                    logFile.write("RECIPE WARNING: Item '" + recipeResult + \
+                        "' was not found in database. Maybe this item was already removed from/replaced in Terraria.\n")
 
-                logFile.write("\tACTION: Recipe dictionary from '" + recipeResult + "' was removed from the list.\n\n")
-                continue
+                    logFile.write("\tACTION: Recipe dictionary from '" + recipeResult + "' was removed from the list.\n\n")
+                    continue
 
             recipeDict[RECIPE_CRAFT_ID] = str(recipesCounter)
             recipeDict[RECIPE_RESULT_QUANTITY] = recipeQty

@@ -310,9 +310,10 @@ nameSubstitutes = {
     "Any Pressure Plate": "Brown Pressure Plate",
     "Any Bird": "Bird",
     "Any Butterfly": "Julia Butterfly",
-    "Any Bug": "Buggy",
+    "Any Jungle Bug": "Buggy",
     "Any Duck": "Duck",
     "Any Firefly": "Firefly",
+    "Any Dragonfly": "Blue Dragonfly",
     "Any Scorpion": "Scorpion",
     "Any Snail": "Snail",
     "Any Sand": "Sand Block",
@@ -324,6 +325,7 @@ nameSubstitutes = {
     "Any Turtle": "Turtle",
     "Any Pylon": "Forest Pylon",
     "Princess Dress (Clothier)": "Princess Dress",
+    "Bee Hive (item)": "Bee Hive",
     "Conveyor Belt": "Conveyor Belt (Clockwise)",
     "Logic Gates": "Logic Gate (AND)"
 }
