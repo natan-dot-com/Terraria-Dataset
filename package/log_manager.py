@@ -3,7 +3,7 @@ from io import IOBase
 import os
 
 # Log file informations
-LOG_PATH = "data_scrapping_algorithms/logs/"
+LOG_PATH = "algorithms/logs/"
 LOG_EXT = ".log"
 
 LOG_FILE_FAILED = -1

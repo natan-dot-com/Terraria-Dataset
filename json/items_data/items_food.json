@@ -35,7 +35,9 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "1007"
+            ],
             "Other": ""
         }
     },
