@@ -12,7 +12,9 @@
         "Duration": "1 minute",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "13"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""

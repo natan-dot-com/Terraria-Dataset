@@ -101,7 +101,11 @@
         "Tooltip": "Place in the Eternia Crystal. Stand to summon Etheria's portals.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "207",
+                "208",
+                "209"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""

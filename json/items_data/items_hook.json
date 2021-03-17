@@ -11,7 +11,9 @@
                 "1203",
                 "1469"
             ],
-            "NPC": [],
+            "NPC": [
+                "242"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -379,7 +381,9 @@
         "Rarity": "10",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "456"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -412,7 +416,9 @@
         "Rarity": "1",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "56"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""

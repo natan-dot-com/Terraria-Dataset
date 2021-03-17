@@ -29,7 +29,10 @@
             "Crafting Recipes": [
                 "834"
             ],
-            "NPC": [],
+            "NPC": [
+                "10",
+                "519"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -245,7 +248,9 @@
                 "1207",
                 "1473"
             ],
-            "NPC": [],
+            "NPC": [
+                "35"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -388,7 +393,9 @@
         "Used In": "Launcher",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "459"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -405,7 +412,9 @@
         "Used In": "Launcher",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "460"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -422,7 +431,9 @@
         "Used In": "Launcher",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "461"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -439,7 +450,9 @@
         "Used In": "Launcher",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "462"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -455,7 +468,9 @@
         "Used In": "Clentaminator",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "447"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -471,7 +486,9 @@
         "Used In": "Clentaminator",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "446"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -487,7 +504,9 @@
         "Used In": "Clentaminator",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "444"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -503,7 +522,9 @@
         "Used In": "Clentaminator",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "413"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -519,7 +540,9 @@
         "Used In": "Clentaminator",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "445"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -537,7 +560,9 @@
         "Used In": "Cannon",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "419"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -555,7 +580,9 @@
         "Used In": "Flare Gun",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "22"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -661,7 +688,10 @@
         "Used In": "Stynger",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "38",
+                "248"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -768,7 +798,9 @@
             "Crafting Recipes": [
                 "87"
             ],
-            "NPC": [],
+            "NPC": [
+                "426"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -829,7 +861,9 @@
         "Used In": "Confetti Gun",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "360"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -935,7 +969,9 @@
         "Used In": "Flare Gun",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "23"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -990,7 +1026,9 @@
         "Used In": "Stake Launcher",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "249"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -1008,7 +1046,9 @@
         "Used In": "Any Bow or Repeater.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "518"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -1131,7 +1171,9 @@
         "Used In": "Nail Gun",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "28"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -1192,7 +1234,9 @@
         "Used In": "Launcher",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "466"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -1209,7 +1253,9 @@
         "Used In": "Launcher",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "467"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -1326,7 +1372,9 @@
                 "72",
                 "73"
             ],
-            "NPC": [],
+            "NPC": [
+                "463"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""

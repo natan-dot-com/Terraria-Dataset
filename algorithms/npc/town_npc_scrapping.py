@@ -29,7 +29,7 @@ tableHeadLabels = ["NPC", "Description", "Spawn requirement"]
 tableHeadLabels2 = ["Item", "Cost", "Availability"]
 
 def initializeHashTables(itemList):
-    npcList = LoadJSONFile(GLOBAL_JSON_PATH + DIR_NPC_DATA + NPC_NAME_FILE + JSON_EXT)
+    npcList = LoadJSONFile(GLOBAL_JSON_PATH + DIR_ID_REFERENCES + NPC_NAME_FILE + JSON_EXT)
     npcHash = hashTable(NPC_HASH_SIZE, SCRAPING_NAME)
     for npcInstance in npcList:
         npcHash.add(npcInstance[SCRAPING_NAME], npcInstance)

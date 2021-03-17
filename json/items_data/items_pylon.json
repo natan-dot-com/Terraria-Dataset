@@ -29,7 +29,27 @@
         "Usable": "When not in any other biome and above the surface.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "19",
+                "43",
+                "54",
+                "76",
+                "139",
+                "162",
+                "205",
+                "211",
+                "238",
+                "245",
+                "270",
+                "328",
+                "358",
+                "373",
+                "410",
+                "417",
+                "427",
+                "458",
+                "476"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -155,7 +175,9 @@
         "Usable": "Anywhere.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "75"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""

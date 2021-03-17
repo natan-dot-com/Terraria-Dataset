@@ -20,7 +20,7 @@ import requests
 
 # Execution commands
 GET_NPC_PAGE_LINK = True
-GET_NPC_IMAGES = True
+GET_NPC_IMAGES = False 
 
 # Constant values
 ENEMIES_DIV_SKIP = [15, 16, 17, 18, 19, 20, 21]
