@@ -33,8 +33,8 @@
         ],
         "Sources": {
             "Crafting Recipes": [
-                "2631",
-                "2810"
+                "2632",
+                "2811"
             ],
             "NPC": [],
             "Drop": [],
@@ -73,7 +73,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "549"
+                "530"
             ],
             "Drop": [],
             "Grab Bag": [],

@@ -34,7 +34,7 @@
             "Crafting Recipes": [],
             "NPC": [
                 "12",
-                "544"
+                "525"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -740,7 +740,7 @@
         "Sources": {
             "Crafting Recipes": [
                 "1763",
-                "3486"
+                "3487"
             ],
             "NPC": [
                 "40"
@@ -766,7 +766,7 @@
         "Research": "99 required",
         "Sources": {
             "Crafting Recipes": [
-                "3493"
+                "3494"
             ],
             "NPC": [
                 "41"
@@ -789,7 +789,7 @@
         "Research": "99 required",
         "Sources": {
             "Crafting Recipes": [
-                "3498"
+                "3499"
             ],
             "NPC": [
                 "42"
