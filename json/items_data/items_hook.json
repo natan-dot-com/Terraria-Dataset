@@ -12,7 +12,7 @@
                 "1469"
             ],
             "NPC": [
-                "242"
+                "261"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -186,7 +186,9 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "1074"
+            ],
             "Other": ""
         }
     },
@@ -201,7 +203,9 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "962"
+            ],
             "Other": ""
         }
     },
@@ -231,7 +235,9 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "995"
+            ],
             "Other": ""
         }
     },
@@ -276,7 +282,9 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "1021"
+            ],
             "Other": ""
         }
     },
@@ -321,7 +329,9 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "1098"
+            ],
             "Other": ""
         }
     },
@@ -364,7 +374,7 @@
         "Rarity": "10",
         "Sources": {
             "Crafting Recipes": [
-                "3127"
+                "3126"
             ],
             "NPC": [],
             "Drop": [],
@@ -382,7 +392,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "456"
+                "475"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -435,7 +445,9 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "1167"
+            ],
             "Other": ""
         }
     }

@@ -13,7 +13,7 @@
             ],
             "NPC": [
                 "7",
-                "517"
+                "536"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -117,10 +117,10 @@
             "Crafting Recipes": [
                 "1766",
                 "1767",
+                "3111",
                 "3112",
-                "3113",
-                "3490",
-                "3491"
+                "3489",
+                "3490"
             ],
             "NPC": [],
             "Drop": [],
@@ -142,7 +142,7 @@
             "Crafting Recipes": [],
             "NPC": [
                 "17",
-                "515"
+                "534"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -856,7 +856,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3440"
+                "3439"
             ],
             "NPC": [],
             "Drop": [],
@@ -874,7 +874,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3313"
+                "3312"
             ],
             "NPC": [],
             "Drop": [],
@@ -892,7 +892,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3459"
+                "3458"
             ],
             "NPC": [],
             "Drop": [],
@@ -910,7 +910,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3293"
+                "3292"
             ],
             "NPC": [],
             "Drop": [],
@@ -964,7 +964,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3332"
+                "3331"
             ],
             "NPC": [],
             "Drop": [],
@@ -982,7 +982,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3478"
+                "3477"
             ],
             "NPC": [],
             "Drop": [],
@@ -1000,7 +1000,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3376"
+                "3375"
             ],
             "NPC": [],
             "Drop": [],
@@ -1069,7 +1069,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3432"
+                "3431"
             ],
             "NPC": [],
             "Drop": [],
@@ -1086,7 +1086,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3285"
+                "3284"
             ],
             "NPC": [],
             "Drop": [],
@@ -1103,7 +1103,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3324"
+                "3323"
             ],
             "NPC": [],
             "Drop": [],
@@ -1154,7 +1154,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3470"
+                "3469"
             ],
             "NPC": [],
             "Drop": [],
@@ -1171,7 +1171,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3368"
+                "3367"
             ],
             "NPC": [],
             "Drop": [],
@@ -1238,7 +1238,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3434"
+                "3433"
             ],
             "NPC": [],
             "Drop": [],
@@ -1254,7 +1254,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3306"
+                "3305"
             ],
             "NPC": [],
             "Drop": [],
@@ -1270,7 +1270,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3326"
+                "3325"
             ],
             "NPC": [],
             "Drop": [],
@@ -1320,7 +1320,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3472"
+                "3471"
             ],
             "NPC": [],
             "Drop": [],
@@ -1336,7 +1336,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3370"
+                "3369"
             ],
             "NPC": [],
             "Drop": [],
@@ -1369,7 +1369,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3287"
+                "3286"
             ],
             "NPC": [],
             "Drop": [],
@@ -1420,7 +1420,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3439"
+                "3438"
             ],
             "NPC": [],
             "Drop": [],
@@ -1437,7 +1437,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3292"
+                "3291"
             ],
             "NPC": [],
             "Drop": [],
@@ -1454,7 +1454,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3331"
+                "3330"
             ],
             "NPC": [],
             "Drop": [],
@@ -1505,7 +1505,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3477"
+                "3476"
             ],
             "NPC": [],
             "Drop": [],
@@ -1522,7 +1522,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3375"
+                "3374"
             ],
             "NPC": [],
             "Drop": [],
@@ -1590,7 +1590,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3431"
+                "3430"
             ],
             "NPC": [],
             "Drop": [],
@@ -1607,7 +1607,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3303"
+                "3302"
             ],
             "NPC": [],
             "Drop": [],
@@ -1624,7 +1624,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3450"
+                "3449"
             ],
             "NPC": [],
             "Drop": [],
@@ -1641,7 +1641,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3284"
+                "3283"
             ],
             "NPC": [],
             "Drop": [],
@@ -1692,7 +1692,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3323"
+                "3322"
             ],
             "NPC": [],
             "Drop": [],
@@ -1709,7 +1709,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3469"
+                "3468"
             ],
             "NPC": [],
             "Drop": [],
@@ -1726,7 +1726,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3367"
+                "3366"
             ],
             "NPC": [],
             "Drop": [],
@@ -1760,7 +1760,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3312"
+                "3311"
             ],
             "NPC": [],
             "Drop": [],
@@ -1777,7 +1777,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3458"
+                "3457"
             ],
             "NPC": [],
             "Drop": [],
@@ -1794,7 +1794,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3351"
+                "3350"
             ],
             "NPC": [],
             "Drop": [],
@@ -1843,7 +1843,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3273"
+                "3272"
             ],
             "NPC": [],
             "Drop": [],
@@ -1859,7 +1859,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3346"
+                "3345"
             ],
             "NPC": [],
             "Drop": [],
@@ -1906,7 +1906,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3268"
+                "3267"
             ],
             "NPC": [],
             "Drop": [],
@@ -1924,7 +1924,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3352"
+                "3351"
             ],
             "NPC": [],
             "Drop": [],
@@ -1976,7 +1976,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3274"
+                "3273"
             ],
             "NPC": [],
             "Drop": [],
@@ -1993,7 +1993,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3343"
+                "3342"
             ],
             "NPC": [],
             "Drop": [],
@@ -2042,7 +2042,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3266"
+                "3265"
             ],
             "NPC": [],
             "Drop": [],
@@ -2059,7 +2059,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3344"
+                "3343"
             ],
             "NPC": [],
             "Drop": [],
@@ -2467,7 +2467,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3393"
+                "3392"
             ],
             "NPC": [],
             "Drop": [],
@@ -2484,7 +2484,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3394"
+                "3393"
             ],
             "NPC": [],
             "Drop": [],
@@ -2500,7 +2500,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3396"
+                "3395"
             ],
             "NPC": [],
             "Drop": [],
@@ -2517,7 +2517,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3401"
+                "3400"
             ],
             "NPC": [],
             "Drop": [],
@@ -2535,7 +2535,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3402"
+                "3401"
             ],
             "NPC": [],
             "Drop": [],
@@ -2663,7 +2663,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3304"
+                "3303"
             ],
             "NPC": [],
             "Drop": [],
@@ -2680,7 +2680,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3451"
+                "3450"
             ],
             "NPC": [],
             "Drop": [],
@@ -2770,7 +2770,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3453"
+                "3452"
             ],
             "NPC": [],
             "Drop": [],
@@ -2985,7 +2985,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "514"
+                "533"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -3003,7 +3003,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "516"
+                "535"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -3355,7 +3355,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "366"
+                "385"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -3559,7 +3559,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3412"
+                "3411"
             ],
             "NPC": [],
             "Drop": [],
@@ -3576,7 +3576,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3413"
+                "3412"
             ],
             "NPC": [],
             "Drop": [],
@@ -3592,7 +3592,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3415"
+                "3414"
             ],
             "NPC": [],
             "Drop": [],
@@ -3609,7 +3609,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3420"
+                "3419"
             ],
             "NPC": [],
             "Drop": [],
@@ -3627,7 +3627,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3421"
+                "3420"
             ],
             "NPC": [],
             "Drop": [],
@@ -3644,7 +3644,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3165"
+                "3164"
             ],
             "NPC": [],
             "Drop": [],
@@ -3661,7 +3661,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3166"
+                "3165"
             ],
             "NPC": [],
             "Drop": [],
@@ -3677,7 +3677,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3168"
+                "3167"
             ],
             "NPC": [],
             "Drop": [],
@@ -3694,7 +3694,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3182"
+                "3181"
             ],
             "NPC": [],
             "Drop": [],
@@ -3712,7 +3712,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3183"
+                "3182"
             ],
             "NPC": [],
             "Drop": [],
@@ -3729,7 +3729,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3232"
+                "3231"
             ],
             "NPC": [],
             "Drop": [],
@@ -3746,7 +3746,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3233"
+                "3232"
             ],
             "NPC": [],
             "Drop": [],
@@ -3762,7 +3762,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3235"
+                "3234"
             ],
             "NPC": [],
             "Drop": [],
@@ -3779,7 +3779,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3245"
+                "3244"
             ],
             "NPC": [],
             "Drop": [],
@@ -3797,7 +3797,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3246"
+                "3245"
             ],
             "NPC": [],
             "Drop": [],
@@ -3814,7 +3814,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3135"
+                "3134"
             ],
             "NPC": [],
             "Drop": [],
@@ -3831,7 +3831,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3136"
+                "3135"
             ],
             "NPC": [],
             "Drop": [],
@@ -3847,7 +3847,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3138"
+                "3137"
             ],
             "NPC": [],
             "Drop": [],
@@ -3864,7 +3864,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3148"
+                "3147"
             ],
             "NPC": [],
             "Drop": [],
@@ -3882,7 +3882,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3149"
+                "3148"
             ],
             "NPC": [],
             "Drop": [],
@@ -3899,7 +3899,7 @@
         "Sell": "3 Silver Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3196"
+                "3195"
             ],
             "NPC": [],
             "Drop": [],
@@ -3916,7 +3916,7 @@
         "Sell": "2 Gold Coins",
         "Sources": {
             "Crafting Recipes": [
-                "3197"
+                "3196"
             ],
             "NPC": [],
             "Drop": [],
@@ -3932,7 +3932,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "3200"
+                "3199"
             ],
             "NPC": [],
             "Drop": [],
@@ -3949,7 +3949,7 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [
-                "3211"
+                "3210"
             ],
             "NPC": [],
             "Drop": [],
@@ -3967,7 +3967,7 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [
-                "3212"
+                "3211"
             ],
             "NPC": [],
             "Drop": [],
@@ -4189,7 +4189,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "367"
+                "386"
             ],
             "Drop": [],
             "Grab Bag": [],

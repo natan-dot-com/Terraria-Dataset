@@ -19,7 +19,9 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "1179"
+            ],
             "Other": "Gold Chest"
         }
     },
@@ -31,7 +33,9 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "1094"
+            ],
             "Other": ""
         }
     },
@@ -42,7 +46,14 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
-            "Drop": [],
+            "Drop": [
+                {
+                    "Drop ID": "",
+                    "NPC": "Hardmode drop in Jungle, Underground Jungle.",
+                    "Probability": "0.04%",
+                    "Quantity": "1"
+                }
+            ],
             "Grab Bag": [],
             "Other": ""
         }
@@ -54,7 +65,14 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
-            "Drop": [],
+            "Drop": [
+                {
+                    "Drop ID": "",
+                    "NPC": "Hardmode drop in Corruption, Underground Corruption.",
+                    "Probability": "0.04%",
+                    "Quantity": "1"
+                }
+            ],
             "Grab Bag": [],
             "Other": ""
         }
@@ -66,7 +84,14 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
-            "Drop": [],
+            "Drop": [
+                {
+                    "Drop ID": "",
+                    "NPC": "Hardmode drop in Crimson, Underground Crimson.",
+                    "Probability": "0.04%",
+                    "Quantity": "1"
+                }
+            ],
             "Grab Bag": [],
             "Other": ""
         }
@@ -78,7 +103,14 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
-            "Drop": [],
+            "Drop": [
+                {
+                    "Drop ID": "",
+                    "NPC": "Hardmode drop in Hallow, Underground Hallow.",
+                    "Probability": "0.04%",
+                    "Quantity": "1"
+                }
+            ],
             "Grab Bag": [],
             "Other": ""
         }
@@ -90,7 +122,14 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
-            "Drop": [],
+            "Drop": [
+                {
+                    "Drop ID": "",
+                    "NPC": "Hardmode drop in Snow, Ice biomes.",
+                    "Probability": "0.04%",
+                    "Quantity": "1"
+                }
+            ],
             "Grab Bag": [],
             "Other": ""
         }
@@ -130,7 +169,14 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
-            "Drop": [],
+            "Drop": [
+                {
+                    "Drop ID": "",
+                    "NPC": "Hardmode drop in Oasis, Desert, Underground Desert.",
+                    "Probability": "0.04%",
+                    "Quantity": "1"
+                }
+            ],
             "Grab Bag": [],
             "Other": ""
         }

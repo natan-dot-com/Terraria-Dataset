@@ -75,7 +75,10 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "548",
+                "575"
+            ],
             "Other": ""
         }
     },
@@ -662,7 +665,10 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "779",
+                "820"
+            ],
             "Other": ""
         }
     },

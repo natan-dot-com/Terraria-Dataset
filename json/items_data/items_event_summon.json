@@ -25,7 +25,9 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "988"
+            ],
             "Other": ""
         }
     },
@@ -51,8 +53,8 @@
         "Notes": "Only usable at night.",
         "Sources": {
             "Crafting Recipes": [
-                "2709",
-                "2888"
+                "2708",
+                "2887"
             ],
             "NPC": [],
             "Drop": [],
@@ -68,8 +70,8 @@
         "Notes": "Only usable at night.",
         "Sources": {
             "Crafting Recipes": [
-                "2692",
-                "2871"
+                "2691",
+                "2870"
             ],
             "NPC": [],
             "Drop": [],
@@ -85,8 +87,8 @@
         "Notes": "Can only be used in a Hardmode world during the day.",
         "Sources": {
             "Crafting Recipes": [
-                "2720",
-                "2899"
+                "2719",
+                "2898"
             ],
             "NPC": [],
             "Drop": [],
@@ -102,9 +104,9 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "207",
-                "208",
-                "209"
+                "226",
+                "227",
+                "228"
             ],
             "Drop": [],
             "Grab Bag": [],

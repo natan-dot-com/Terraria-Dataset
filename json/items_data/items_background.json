@@ -743,7 +743,7 @@
         "Research": "400 required",
         "Sources": {
             "Crafting Recipes": [
-                "3264"
+                "3263"
             ],
             "NPC": [],
             "Drop": [],
@@ -1149,7 +1149,7 @@
         "Research": "400 required",
         "Sources": {
             "Crafting Recipes": [
-                "3359"
+                "3358"
             ],
             "NPC": [],
             "Drop": [],
@@ -1718,7 +1718,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "423"
+                "442"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2449,7 +2449,7 @@
         "Research": "400 required",
         "Sources": {
             "Crafting Recipes": [
-                "3339"
+                "3338"
             ],
             "NPC": [],
             "Drop": [],
@@ -2795,7 +2795,7 @@
         "Rarity": "0",
         "Sources": {
             "Crafting Recipes": [
-                "2545"
+                "2544"
             ],
             "NPC": [],
             "Drop": [],
