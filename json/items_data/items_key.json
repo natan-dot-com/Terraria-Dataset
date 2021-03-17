@@ -19,7 +19,9 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "1179"
+            ],
             "Other": "Gold Chest"
         }
     },
@@ -31,7 +33,9 @@
             "Crafting Recipes": [],
             "NPC": [],
             "Drop": [],
-            "Grab Bag": [],
+            "Grab Bag": [
+                "1094"
+            ],
             "Other": ""
         }
     },
