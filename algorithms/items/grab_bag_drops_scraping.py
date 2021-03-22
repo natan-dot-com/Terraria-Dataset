@@ -155,7 +155,7 @@ def scrapDropInformation(itemHash: hashTable, urlSuffix: str, logFile, IDcounter
 
             itemDropID = str(itemHash.search(cols[dropTableHead["Item"]].a['title'], SCRAPING_ID))
             if itemDropID != str(NOT_FOUND):
-                print("Scrapping information for ID " + itemDropID + ".")
+                print("Scraping information for ID " + itemDropID + ".")
             else:
                 print("ERROR: Check log file for more information.")
                 logFile.write("ERROR: ID for item '" + cols[dropTableHead["Item"]].a['title'] + "' not found in the database.\n")
@@ -234,7 +234,7 @@ def treasureBagDropScrap(dropList, urlSuffix, bagHash, itemHash, logFile, itemLi
                 itemDrop = cols[dropTableHead["Item"]].find("img")
                 itemDropID = itemHash.search(itemDrop['alt'], SCRAPING_ID)
                 if itemDropID != NOT_FOUND:
-                    print("Scrapping information for ID " + itemDropID + ".")
+                    print("Scraping information for ID " + itemDropID + ".")
                     dropDict[BAG_DROP_RESULT] = str(itemDropID)
                 else:
                     print("ERROR: Check log file for more information.")

@@ -420,7 +420,9 @@
         "Description": "A Green Slime.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "164"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -432,7 +434,9 @@
         "Description": "A Sunflower.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "165"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -444,7 +448,9 @@
         "Description": "A Crystal Heart.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "166"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -456,7 +462,9 @@
         "Description": "Forest trees.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "167"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -468,7 +476,9 @@
         "Description": "Floating Island landscape.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "175"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -480,7 +490,9 @@
         "Description": "Jungle landscape.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "171"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -492,7 +504,9 @@
         "Description": "Snow Biome landscape.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "172"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -504,7 +518,9 @@
         "Description": "Corruption landscape.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "169"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -516,7 +532,9 @@
         "Description": "Hallow landscape.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "170"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -528,7 +546,9 @@
         "Description": "Forest landscape.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "163"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -540,7 +560,9 @@
         "Description": "Desert landscape with Pyramid.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "173"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -552,7 +574,9 @@
         "Description": "Crimson landscape.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "168"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -564,7 +588,9 @@
         "Description": "Frontal view of the Eye of Cthulhu.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "174"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -576,7 +602,9 @@
         "Description": "A Wyvern.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "176"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -1224,7 +1252,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "185"
+                "226"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1239,7 +1267,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "186"
+                "227"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1254,7 +1282,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "187"
+                "228"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1269,7 +1297,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "188"
+                "229"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1283,7 +1311,9 @@
         "Description": "Reference to The Raven, a poem by Edgar Allen Poe, which prominently features the phrase nevermore.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "177"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -1296,7 +1326,9 @@
         "Description": "A hand rising from the ground.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "178"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -1322,7 +1354,9 @@
         "Description": "Based on the iconic movie poster from Poltergeist, a classic 1982 horror film.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "180"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -1335,7 +1369,9 @@
         "Description": "Based on the movie poster from Evil Dead II, a classic 1987 horror film.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "181"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -1348,7 +1384,9 @@
         "Description": "A goblet filled with blood, which appears to be spilling outside the painting's frame.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "182"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -1361,7 +1399,9 @@
         "Description": "A typical still-life painting of a bowl of fruit beside a skull.",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "183"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -1375,7 +1415,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "508"
+                "613"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1390,7 +1430,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "509"
+                "614"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1405,7 +1445,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "510"
+                "615"
             ],
             "Drop": [],
             "Grab Bag": [],

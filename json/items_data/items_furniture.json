@@ -153,6 +153,9 @@
         "Rarity": "0",
         "Sell": "10 Silver Coins",
         "Research": "5 required",
+        "Buff": "Happy!",
+        "Buff tooltip": "Movement speed increased and monster spawns reduced",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
@@ -192,7 +195,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "406"
+                "490"
             ],
             "Drop": [],
             "Grab Bag": [
@@ -685,7 +688,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "241"
+                "325"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1338,10 +1341,13 @@
         "Rarity": "3",
         "Sell": "2 Gold Coins",
         "Research": "1 required",
+        "Buff": "Clairvoyance",
+        "Buff tooltip": "Magic powers are increased",
+        "Duration": "10 minutes",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "400"
+                "484"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1491,7 +1497,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "483"
+                "567"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1509,7 +1515,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "481"
+                "565"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1527,7 +1533,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "482"
+                "566"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2436,7 +2442,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "259"
+                "343"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2454,7 +2460,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "260"
+                "344"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2593,7 +2599,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "418"
+                "502"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2631,7 +2637,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "261"
+                "345"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2649,7 +2655,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "262"
+                "346"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2667,7 +2673,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "263"
+                "347"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2685,7 +2691,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "264"
+                "348"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2703,7 +2709,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "265"
+                "349"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2721,7 +2727,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "266"
+                "350"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2755,6 +2761,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "36"
@@ -2776,7 +2785,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "374"
+                "458"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2794,7 +2803,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "375"
+                "459"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2812,7 +2821,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "376"
+                "460"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2830,7 +2839,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "377"
+                "461"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2849,7 +2858,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "435"
+                "519"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2904,7 +2913,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "434"
+                "518"
             ],
             "Drop": [],
             "Grab Bag": [
@@ -3349,7 +3358,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "428"
+                "512"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -3385,7 +3394,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "425"
+                "509"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -3831,9 +3840,10 @@
         "Item ID": "1408",
         "Name": "Blue Dungeon Vase",
         "Placeable": "Yes",
-        "Use time": "10 (Very fast)",
+        "Use time": "15 (Very fast)",
         "Rarity": "0",
         "Sell": "60 Copper Coins",
+        "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
@@ -3846,9 +3856,10 @@
         "Item ID": "1409",
         "Name": "Green Dungeon Vase",
         "Placeable": "Yes",
-        "Use time": "10 (Very fast)",
+        "Use time": "15 (Very fast)",
         "Rarity": "0",
         "Sell": "60 Copper Coins",
+        "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
@@ -3861,9 +3872,10 @@
         "Item ID": "1410",
         "Name": "Pink Dungeon Vase",
         "Placeable": "Yes",
-        "Use time": "10 (Very fast)",
+        "Use time": "15 (Very fast)",
         "Rarity": "0",
         "Sell": "60 Copper Coins",
+        "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
@@ -4004,7 +4016,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "246"
+                "330"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -4023,7 +4035,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "362"
+                "446"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -4201,9 +4213,10 @@
         "Item ID": "1462",
         "Name": "Obsidian Vase",
         "Placeable": "Yes",
-        "Use time": "10 (Very fast)",
+        "Use time": "15 (Very fast)",
         "Rarity": "0",
         "Sell": "60 Copper Coins",
+        "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
@@ -4449,7 +4462,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "416"
+                "500"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -4809,7 +4822,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "250"
+                "334"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5027,7 +5040,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "480"
+                "564"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5043,7 +5056,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "484"
+                "568"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5059,7 +5072,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "485"
+                "569"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5075,7 +5088,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "486"
+                "570"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5091,7 +5104,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "487"
+                "571"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5107,7 +5120,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "488"
+                "572"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5123,7 +5136,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "489"
+                "573"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5139,7 +5152,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "490"
+                "574"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5155,7 +5168,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "491"
+                "575"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5171,7 +5184,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "492"
+                "576"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5187,7 +5200,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "493"
+                "577"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5203,7 +5216,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "494"
+                "578"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5219,7 +5232,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "495"
+                "579"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -5234,7 +5247,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "580"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5248,7 +5263,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "581"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5262,7 +5279,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "582"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5276,7 +5295,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "583"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5290,7 +5311,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "584"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5304,7 +5327,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "585"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5318,7 +5343,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "586"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5332,7 +5359,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "587"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5346,7 +5375,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "588"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5360,7 +5391,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "589"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5374,7 +5407,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "590"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5388,7 +5423,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "591"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5402,7 +5439,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "592"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5416,7 +5455,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "593"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5430,7 +5471,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "594"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5444,7 +5487,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "595"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5458,7 +5503,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "596"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5472,7 +5519,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "597"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5486,7 +5535,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "598"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -5500,7 +5551,9 @@
         "Sell": "1 Silver Coin",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "599"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -6582,6 +6635,9 @@
         "Rarity": "6",
         "Sell": "3 Gold Coins",
         "Research": "1 required",
+        "Buff": "Ammo Box",
+        "Buff tooltip": "20% chance to not consume ammo",
+        "Duration": "10 minutes",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
@@ -6806,7 +6862,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "441"
+                "525"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -6827,7 +6883,7 @@
                 "900"
             ],
             "NPC": [
-                "436"
+                "520"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -6883,7 +6939,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "442"
+                "526"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -6902,7 +6958,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "439"
+                "523"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -6921,7 +6977,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "438"
+                "522"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -6940,7 +6996,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "443"
+                "527"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -6959,7 +7015,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "440"
+                "524"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -9622,7 +9678,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "368"
+                "452"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -10267,7 +10323,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "369"
+                "453"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -10287,7 +10343,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "345"
+                "429"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -11150,7 +11206,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "381"
+                "465"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -11166,10 +11222,13 @@
         "Rarity": "1",
         "Sell": "2 Gold Coins",
         "Research": "1 required",
+        "Buff": "Bewitched",
+        "Buff tooltip": "Increased max number of minions",
+        "Duration": "10 minutes",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "269"
+                "353"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -11201,6 +11260,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "54"
@@ -11219,6 +11281,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "57"
@@ -11237,6 +11302,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "97"
@@ -11255,6 +11323,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "151"
@@ -11273,6 +11344,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "214"
@@ -12050,6 +12124,9 @@
         "Rarity": "1",
         "Sell": "2 Gold Coins",
         "Research": "1 required",
+        "Buff": "Sharpened",
+        "Buff tooltip": "Melee weapons have armor penetration",
+        "Duration": "10 minutes",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
@@ -12089,7 +12166,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "380"
+                "464"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -12103,6 +12180,7 @@
         "Use time": "15 (Very fast)",
         "Rarity": "0",
         "Sell": "20 Copper Coins",
+        "Research": "25 required",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
@@ -12120,6 +12198,7 @@
         "Use time": "15 (Very fast)",
         "Rarity": "0",
         "Sell": "20 Copper Coins",
+        "Research": "25 required",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
@@ -12137,6 +12216,7 @@
         "Use time": "15 (Very fast)",
         "Rarity": "0",
         "Sell": "20 Copper Coins",
+        "Research": "25 required",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
@@ -12155,6 +12235,7 @@
         "Use time": "15 (Very fast)",
         "Rarity": "0",
         "Sell": "20 Copper Coins",
+        "Research": "25 required",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
@@ -12170,6 +12251,7 @@
         "Use time": "15 (Very fast)",
         "Rarity": "0",
         "Sell": "20 Copper Coins",
+        "Research": "25 required",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
@@ -12187,6 +12269,7 @@
         "Use time": "15 (Very fast)",
         "Rarity": "0",
         "Sell": "20 Copper Coins",
+        "Research": "25 required",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
@@ -12204,6 +12287,7 @@
         "Use time": "15 (Very fast)",
         "Rarity": "0",
         "Sell": "20 Copper Coins",
+        "Research": "25 required",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
@@ -12221,6 +12305,7 @@
         "Use time": "15 (Very fast)",
         "Rarity": "0",
         "Sell": "20 Copper Coins",
+        "Research": "25 required",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
@@ -12473,6 +12558,9 @@
         "Use time": "15 (Very fast)",
         "Rarity": "1",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "459"
@@ -12511,7 +12599,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "379"
+                "463"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -13295,6 +13383,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "288"
@@ -13313,6 +13404,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "22"
@@ -13424,7 +13518,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "387"
+                "471"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -13444,7 +13538,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "388"
+                "472"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -13464,7 +13558,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "389"
+                "473"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -13483,7 +13577,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "384"
+                "468"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -13501,7 +13595,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "395"
+                "479"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -13519,7 +13613,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "394"
+                "478"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -13537,7 +13631,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "393"
+                "477"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -13556,7 +13650,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "386"
+                "470"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -13575,7 +13669,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "382"
+                "466"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -13613,7 +13707,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "385"
+                "469"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -13629,6 +13723,9 @@
         "Rarity": "3",
         "Sell": "50 Silver Coins",
         "Research": "3 required",
+        "Buff": "Sugar Rush",
+        "Buff tooltip": "20% increased movement and mining speed",
+        "Duration": "2 minutes",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
@@ -13681,7 +13778,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "210"
+                "270"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -14728,7 +14825,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "167"
+                "208"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -14746,7 +14843,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "168"
+                "209"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -14764,7 +14861,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "169"
+                "210"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -14782,7 +14879,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "170"
+                "211"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -14800,7 +14897,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "171"
+                "212"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -14818,7 +14915,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "172"
+                "213"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -14837,7 +14934,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "173"
+                "214"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -15419,7 +15516,7 @@
                 "877"
             ],
             "NPC": [
-                "437"
+                "521"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -16347,6 +16444,9 @@
         "Rarity": "1",
         "Sell": "2 Gold Coins",
         "Research": "1 required",
+        "Buff": "The Bast Defense",
+        "Buff tooltip": "Defense is increased by 5",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [],
@@ -16612,7 +16712,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "177"
+                "218"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -16631,7 +16731,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "178"
+                "219"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -16995,7 +17095,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "268"
+                "352"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -17399,7 +17499,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "363"
+                "447"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -17657,7 +17757,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "194"
+                "235"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -17675,7 +17775,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "199"
+                "240"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -17693,7 +17793,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "204"
+                "245"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -17776,6 +17876,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "59"
@@ -17794,6 +17897,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "40"
@@ -17812,6 +17918,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "42"
@@ -17830,6 +17939,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "46"
@@ -17848,6 +17960,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "128"
@@ -17866,6 +17981,9 @@
         "Tooltip": "Life regen is increased when near a campfire",
         "Rarity": "0",
         "Research": "1 required",
+        "Buff": "Cozy Fire",
+        "Buff tooltip": "Life regen is slightly increased",
+        "Duration": "Infinite while in vicinity",
         "Sources": {
             "Crafting Recipes": [
                 "157"
@@ -18643,7 +18761,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "267"
+                "351"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -19153,7 +19271,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "504"
+                "609"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -19171,7 +19289,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "505"
+                "610"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -19189,7 +19307,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "506"
+                "611"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -19207,7 +19325,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "507"
+                "612"
             ],
             "Drop": [],
             "Grab Bag": [],

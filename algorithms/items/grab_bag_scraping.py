@@ -34,7 +34,7 @@ CRATES_TABLE_HEAD_LABELS = [
     "Pre-Hardmode type", "Hardmode type", "Sell", 
     "Rarity", "Biome", "Catch quality"
 ]
-GENERIC_SCRAPPING_DATA = [
+GENERIC_SCRAPING_DATA = [
     "Rarity", "Sell"
 ]
 
@@ -133,7 +133,7 @@ def getGrabBagLinks():
 
 def genericScrap(urlSuffix, tableClass, dictList):
     infobox = getTableContent(urlSuffix, tableClass, FIND_FIRST_TABLE)
-    tableHead = getTableColumns(infobox.findAll("th"), GENERIC_SCRAPPING_DATA)
+    tableHead = getTableColumns(infobox.findAll("th"), GENERIC_SCRAPING_DATA)
     rows = infobox.findAll("tr")
     genericDict = {
         SCRAPING_ITEM_ID: "",

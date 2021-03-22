@@ -390,7 +390,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "271"
+                "355"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -580,7 +580,9 @@
         "Research": "1 required",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "253"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -740,7 +742,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "403"
+                "487"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -757,7 +759,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "404"
+                "488"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -871,7 +873,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "405"
+                "489"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1119,7 +1121,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "272"
+                "356"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1439,7 +1441,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "253"
+                "337"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1455,7 +1457,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "465"
+                "549"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -1503,7 +1505,9 @@
         "Research": "100 required",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "255"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -1888,7 +1892,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "408"
+                "492"
             ],
             "Drop": [],
             "Grab Bag": [],

@@ -170,7 +170,7 @@ def getCraftingRecipes(stationTuple, craftDictList, itemList, itemHash, recipesC
                 recipeQty = "1"
 
         if not PCExcludedRecipe:
-            print(str(recipesCounter) + ": Scrapping '" + recipeResult + "' from '" + stationTuple[TUPLE_TABLE_NAME] + "'s page.")
+            print(str(recipesCounter) + ": Scraping '" + recipeResult + "' from '" + stationTuple[TUPLE_TABLE_NAME] + "'s page.")
 
             recipeDict[RECIPE_RESULT] =  itemHash.search(recipeResult, SCRAPING_ID)
             if recipeDict[RECIPE_RESULT] == NOT_FOUND:
@@ -292,7 +292,7 @@ def main():
             
             tableID = findTableID(stationTuple[TUPLE_TABLE_NAME], tableHash, logFile)
             if tableID == NOT_FOUND:
-                print("Scrapping proccess failed. Exiting with value 1. (tableID_NOT_FOUND).\n")
+                print("Scraping proccess failed. Exiting with value 1. (tableID_NOT_FOUND).\n")
                 logFile.write("FATAL ERROR: Table not found. Exiting with value 1.\n")
                 continue
 

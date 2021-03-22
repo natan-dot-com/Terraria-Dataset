@@ -29,7 +29,7 @@ BOSSES_STATIC_IMG = ["Lepus", "Moon Lord", "Skeletron",
                      "Vortex Pillar", "Stardust Pillar", "Turkor The Ungrateful",
                      "Eater of Worlds", "The Destroyer"]
 
-MAIN_NPC_FILE_PATH = GLOBAL_JSON_PATH + DIR_NPC_DATA + NPC_NAME_FILE + JSON_EXT
+MAIN_NPC_FILE_PATH = GLOBAL_JSON_PATH + DIR_ID_REFERENCES + NPC_NAME_FILE + JSON_EXT
 MAIN_URL = "https://terraria.gamepedia.com"
 URL_CATEGORY_SUFFIXES = {
     "Enemies": '/Enemies',
@@ -100,13 +100,13 @@ def scrapCrittersPage(npcList, IDcounter):
                 SCRAPING_NAME: "",
                 SCRAPING_TYPE: ""
             }
-            npcTableDict[NPC_ID] = IDcounter
+            npcTableDict[NPC_ID] = str(IDcounter)
             npcTableDict[SCRAPING_NAME] = npcImage['alt']
             npcTableDict[SCRAPING_TYPE] = "Critter"
             print("\tScrapped information from '" + npcTableDict[SCRAPING_NAME] + "'.")
 
             if GET_NPC_PAGE_LINK:
-                linkDict[npcTableDict[NPC_ID]] = npcImage.parent['href']
+                linkDict[npcTableDict[NPC_ID]] = str(npcImage.parent['href'])
 
             if GET_NPC_IMAGES:
                 filePath = GLOBAL_JSON_PATH + IMAGE_DIR_NPC + npcTableDict[SCRAPING_NAME].lower().replace(" ", "_") + \
@@ -141,7 +141,7 @@ def scrapTownNPCPage(npcList, IDcounter):
                 SCRAPING_NAME: "",
                 SCRAPING_TYPE: ""
             }
-            npcTableDict[NPC_ID] = IDcounter
+            npcTableDict[NPC_ID] = str(IDcounter)
             npcTableDict[SCRAPING_NAME] = npcImage['alt']
             npcTableDict[SCRAPING_TYPE] = "Town NPC"
             print("\tScrapped information from '" + npcTableDict[SCRAPING_NAME] + "'.")
@@ -179,7 +179,7 @@ def scrapBossesPage(npcList, IDcounter):
             SCRAPING_NAME: "",
             SCRAPING_TYPE: ""
         }
-        npcTableDict[NPC_ID] = IDcounter
+        npcTableDict[NPC_ID] = str(IDcounter)
         npcTableDict[SCRAPING_NAME] = divInstance.find("div", class_="hgroup").find("div", class_="main").text.strip()
         npcTableDict[SCRAPING_TYPE] = "Boss"
         print("\tScrapped information from '" + npcTableDict[SCRAPING_NAME] + "'.")
