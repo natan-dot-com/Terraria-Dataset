@@ -218,14 +218,7 @@
             "159",
             "160",
             "161",
-            "162"
-        ]
-    },
-    {
-        "NPC ID": "419",
-        "Description": "Sells Golf Clubs, Balls, and other golfing items.",
-        "Spawn Requirement": "Found and spoken to in the Underground Desert.",
-        "Selling List": [
+            "162",
             "163",
             "164",
             "165",
@@ -266,22 +259,16 @@
             "200",
             "201",
             "202",
-            "203",
-            "204",
-            "205"
+            "203"
         ]
     },
     {
-        "NPC ID": "420",
-        "Description": "Sells guns, bullets, and other ammunition.",
-        "Spawn Requirement": "A player has bullets or a gun that shoots bullets in their inventory.",
-        "Selling List": []
-    },
-    {
-        "NPC ID": "421",
-        "Description": "Sells items that summon and help with fighting the Old One's Army, most of them only in exchange for Defender Medals.",
-        "Spawn Requirement": "Found and spoken to after the Eater of Worlds or Brain of Cthulhu has been defeated.",
+        "NPC ID": "419",
+        "Description": "Sells Golf Clubs, Balls, and other golfing items.",
+        "Spawn Requirement": "Found and spoken to in the Underground Desert.",
         "Selling List": [
+            "204",
+            "205",
             "206",
             "207",
             "208",
@@ -300,14 +287,7 @@
             "221",
             "222",
             "223",
-            "224"
-        ]
-    },
-    {
-        "NPC ID": "422",
-        "Description": "Can change the player's hairstyle and sells Hair Dyes.",
-        "Spawn Requirement": "Found and spoken to in a Spider Cave.",
-        "Selling List": [
+            "224",
             "225",
             "226",
             "227",
@@ -321,29 +301,22 @@
             "235",
             "236",
             "237",
-            "238"
-        ]
-    },
-    {
-        "NPC ID": "423",
-        "Description": "Sells items such as the Tinkerer's Workshop, and can reforge items.",
-        "Spawn Requirement": "Found and spoken to in the Cavern layer, after a Goblin Invasion has been defeated.",
-        "Selling List": [
+            "238",
             "239",
             "240",
             "241",
             "242",
             "243",
             "244",
-            "245"
+            "245",
+            "246"
         ]
     },
     {
-        "NPC ID": "424",
-        "Description": "Sells the Blowgun, the Imbuing Station, summoner equipment, Fountains, and Leaf Wings.",
-        "Spawn Requirement": "The Queen Bee has been defeated.",
+        "NPC ID": "420",
+        "Description": "Sells guns, bullets, and other ammunition.",
+        "Spawn Requirement": "A player has bullets or a gun that shoots bullets in their inventory.",
         "Selling List": [
-            "246",
             "247",
             "248",
             "249",
@@ -362,19 +335,19 @@
             "262",
             "263",
             "264",
-            "265",
+            "265"
+        ]
+    },
+    {
+        "NPC ID": "421",
+        "Description": "Sells items that summon and help with fighting the Old One's Army, most of them only in exchange for Defender Medals.",
+        "Spawn Requirement": "Found and spoken to after the Eater of Worlds or Brain of Cthulhu has been defeated.",
+        "Selling List": [
             "266",
             "267",
             "268",
             "269",
-            "270"
-        ]
-    },
-    {
-        "NPC ID": "425",
-        "Description": "Sells some vanity items, including the Familiar set.",
-        "Spawn Requirement": "Skeletron has been defeated.",
-        "Selling List": [
+            "270",
             "271",
             "272",
             "273",
@@ -412,7 +385,14 @@
             "305",
             "306",
             "307",
-            "308",
+            "308"
+        ]
+    },
+    {
+        "NPC ID": "422",
+        "Description": "Can change the player's hairstyle and sells Hair Dyes.",
+        "Spawn Requirement": "Found and spoken to in a Spider Cave.",
+        "Selling List": [
             "309",
             "310",
             "311",
@@ -426,21 +406,28 @@
             "319",
             "320",
             "321",
-            "322",
+            "322"
+        ]
+    },
+    {
+        "NPC ID": "423",
+        "Description": "Sells items such as the Tinkerer's Workshop, and can reforge items.",
+        "Spawn Requirement": "Found and spoken to in the Cavern layer, after a Goblin Invasion has been defeated.",
+        "Selling List": [
             "323",
             "324",
             "325",
             "326",
             "327",
-            "328"
+            "328",
+            "329"
         ]
     },
     {
-        "NPC ID": "426",
-        "Description": "Sells the Wrench, Wire, and other mechanism-related items.",
-        "Spawn Requirement": "Found and spoken to in the Dungeon.",
+        "NPC ID": "424",
+        "Description": "Sells the Blowgun, the Imbuing Station, summoner equipment, Fountains, and Leaf Wings.",
+        "Spawn Requirement": "The Queen Bee has been defeated.",
         "Selling List": [
-            "329",
             "330",
             "331",
             "332",
@@ -465,18 +452,18 @@
             "351",
             "352",
             "353",
-            "354",
-            "355",
-            "356",
-            "357",
-            "358"
+            "354"
         ]
     },
     {
-        "NPC ID": "427",
-        "Description": "Sells novelty items that create colorful visual effects.",
-        "Spawn Requirement": "1/40 chance of spawning after 14 / 8 other town NPCs are in the world.Replaces the Guide as the starting NPC when starting a new Drunk world.",
+        "NPC ID": "425",
+        "Description": "Sells some vanity items, including the Familiar set.",
+        "Spawn Requirement": "Skeletron has been defeated.",
         "Selling List": [
+            "355",
+            "356",
+            "357",
+            "358",
             "359",
             "360",
             "361",
@@ -517,14 +504,7 @@
             "396",
             "397",
             "398",
-            "399"
-        ]
-    },
-    {
-        "NPC ID": "428",
-        "Description": "Sells magic-related items.",
-        "Spawn Requirement": "Found and spoken to in the Cavern layer.",
-        "Selling List": [
+            "399",
             "400",
             "401",
             "402",
@@ -535,34 +515,21 @@
             "407",
             "408",
             "409",
-            "410"
+            "410",
+            "411",
+            "412"
         ]
     },
     {
-        "NPC ID": "429",
-        "Description": "Collects property taxes from other NPCs. Earns 50 per NPC present, collectible by the player.",
-        "Spawn Requirement": "A Tortured Soul is transformed with Purification Powder in the Underworld.",
-        "Selling List": []
-    },
-    {
-        "NPC ID": "430",
-        "Description": "Sells the Autohammer, Mushroom Spear, and other mushroom-themed items.",
-        "Spawn Requirement": "A house is available in an above-ground Glowing Mushroom biome during Hardmode.",
+        "NPC ID": "426",
+        "Description": "Sells the Wrench, Wire, and other mechanism-related items.",
+        "Spawn Requirement": "Found and spoken to in the Dungeon.",
         "Selling List": [
-            "411",
-            "412",
             "413",
             "414",
             "415",
             "416",
-            "417"
-        ]
-    },
-    {
-        "NPC ID": "431",
-        "Description": "Sells the Cannon and other pirate-themed items.",
-        "Spawn Requirement": "A Pirate Invasion has been defeated.",
-        "Selling List": [
+            "417",
             "418",
             "419",
             "420",
@@ -572,14 +539,7 @@
             "424",
             "425",
             "426",
-            "427"
-        ]
-    },
-    {
-        "NPC ID": "432",
-        "Description": "Sells the Clentaminator, Teleporter, Jetpack, and other items.",
-        "Spawn Requirement": "A mechanical boss has been defeated.",
-        "Selling List": [
+            "427",
             "428",
             "429",
             "430",
@@ -594,7 +554,14 @@
             "439",
             "440",
             "441",
-            "442",
+            "442"
+        ]
+    },
+    {
+        "NPC ID": "427",
+        "Description": "Sells novelty items that create colorful visual effects.",
+        "Spawn Requirement": "1/40 chance of spawning after 14 / 8 other town NPCs are in the world.Replaces the Guide as the starting NPC when starting a new Drunk world.",
+        "Selling List": [
             "443",
             "444",
             "445",
@@ -610,14 +577,7 @@
             "455",
             "456",
             "457",
-            "458"
-        ]
-    },
-    {
-        "NPC ID": "433",
-        "Description": "Sells the Proximity Mine Launcher, Rockets, and Nanites.",
-        "Spawn Requirement": "Plantera has been defeated.",
-        "Selling List": [
+            "458",
             "459",
             "460",
             "461",
@@ -635,21 +595,21 @@
             "473",
             "474",
             "475",
-            "476"
-        ]
-    },
-    {
-        "NPC ID": "434",
-        "Description": "Sells the Santa set, colored lights, Christmas trees and their decorations.",
-        "Spawn Requirement": "The Frost Legion has been defeated and it is Christmas.",
-        "Selling List": [
+            "476",
             "477",
             "478",
             "479",
             "480",
             "481",
             "482",
-            "483",
+            "483"
+        ]
+    },
+    {
+        "NPC ID": "428",
+        "Description": "Sells magic-related items.",
+        "Spawn Requirement": "Found and spoken to in the Cavern layer.",
+        "Selling List": [
             "484",
             "485",
             "486",
@@ -660,21 +620,34 @@
             "491",
             "492",
             "493",
-            "494",
-            "495"
+            "494"
         ]
     },
     {
-        "NPC ID": "435",
-        "Description": "Sells several vanity and furniture items.",
-        "Spawn Requirement": "All other town NPCs are in the world (except for the Old Man, Traveling Merchant, Santa Claus, and town pets).",
+        "NPC ID": "429",
+        "Description": "Collects property taxes from other NPCs. Earns 50 per NPC present, collectible by the player.",
+        "Spawn Requirement": "A Tortured Soul is transformed with Purification Powder in the Underworld.",
+        "Selling List": []
+    },
+    {
+        "NPC ID": "430",
+        "Description": "Sells the Autohammer, Mushroom Spear, and other mushroom-themed items.",
+        "Spawn Requirement": "A house is available in an above-ground Glowing Mushroom biome during Hardmode.",
         "Selling List": [
+            "495",
             "496",
             "497",
             "498",
             "499",
             "500",
-            "501",
+            "501"
+        ]
+    },
+    {
+        "NPC ID": "431",
+        "Description": "Sells the Cannon and other pirate-themed items.",
+        "Spawn Requirement": "A Pirate Invasion has been defeated.",
+        "Selling List": [
             "502",
             "503",
             "504",
@@ -688,21 +661,9 @@
         ]
     },
     {
-        "NPC ID": "439",
-        "Description": "Stays until the evening, sells a random selection of unique items each day.",
-        "Spawn Requirement": "22.12% spawn chance during morning hours (04:30AM - 12:00PM) once two other NPCs are present.",
-        "Selling List": []
-    },
-    {
-        "NPC ID": "440",
-        "Description": "Found at the entrance to the Dungeon. Summons Skeletron when spoken to, but only at night. Once Skeletron is defeated, the Old Man moves into town as the Clothier.",
-        "Spawn Requirement": "Starting a new world.",
-        "Selling List": []
-    },
-    {
-        "NPC ID": "441",
-        "Description": "Sells Counterweights, Spelunker Glowsticks, Magic Lantern, the Yoyo Glove and some other items, based on the lunar cycle. Some items such as the Slap Hand can only be obtained from him.",
-        "Spawn Requirement": "Rarely found in the Caverns.",
+        "NPC ID": "432",
+        "Description": "Sells the Clentaminator, Teleporter, Jetpack, and other items.",
+        "Spawn Requirement": "A mechanical boss has been defeated.",
         "Selling List": [
             "512",
             "513",
@@ -722,7 +683,152 @@
             "527",
             "528",
             "529",
-            "530"
+            "530",
+            "531",
+            "532",
+            "533",
+            "534",
+            "535",
+            "536",
+            "537",
+            "538",
+            "539",
+            "540",
+            "541",
+            "542"
+        ]
+    },
+    {
+        "NPC ID": "433",
+        "Description": "Sells the Proximity Mine Launcher, Rockets, and Nanites.",
+        "Spawn Requirement": "Plantera has been defeated.",
+        "Selling List": [
+            "543",
+            "544",
+            "545",
+            "546",
+            "547",
+            "548",
+            "549",
+            "550",
+            "551",
+            "552",
+            "553",
+            "554",
+            "555",
+            "556",
+            "557",
+            "558",
+            "559",
+            "560"
+        ]
+    },
+    {
+        "NPC ID": "434",
+        "Description": "Sells the Santa set, colored lights, Christmas trees and their decorations.",
+        "Spawn Requirement": "The Frost Legion has been defeated and it is Christmas.",
+        "Selling List": [
+            "561",
+            "562",
+            "563",
+            "564",
+            "565",
+            "566",
+            "567",
+            "568",
+            "569",
+            "570",
+            "571",
+            "572",
+            "573",
+            "574",
+            "575",
+            "576",
+            "577",
+            "578",
+            "579",
+            "580",
+            "581",
+            "582",
+            "583",
+            "584",
+            "585",
+            "586",
+            "587",
+            "588",
+            "589",
+            "590",
+            "591",
+            "592",
+            "593",
+            "594",
+            "595",
+            "596",
+            "597",
+            "598",
+            "599",
+            "600"
+        ]
+    },
+    {
+        "NPC ID": "435",
+        "Description": "Sells several vanity and furniture items.",
+        "Spawn Requirement": "All other town NPCs are in the world (except for the Old Man, Traveling Merchant, Santa Claus, and town pets).",
+        "Selling List": [
+            "601",
+            "602",
+            "603",
+            "604",
+            "605",
+            "606",
+            "607",
+            "608",
+            "609",
+            "610",
+            "611",
+            "612",
+            "613",
+            "614",
+            "615",
+            "616"
+        ]
+    },
+    {
+        "NPC ID": "439",
+        "Description": "Stays until the evening, sells a random selection of unique items each day.",
+        "Spawn Requirement": "22.12% spawn chance during morning hours (04:30AM - 12:00PM) once two other NPCs are present.",
+        "Selling List": []
+    },
+    {
+        "NPC ID": "440",
+        "Description": "Found at the entrance to the Dungeon. Summons Skeletron when spoken to, but only at night. Once Skeletron is defeated, the Old Man moves into town as the Clothier.",
+        "Spawn Requirement": "Starting a new world.",
+        "Selling List": []
+    },
+    {
+        "NPC ID": "441",
+        "Description": "Sells Counterweights, Spelunker Glowsticks, Magic Lantern, the Yoyo Glove and some other items, based on the lunar cycle. Some items such as the Slap Hand can only be obtained from him.",
+        "Spawn Requirement": "Rarely found in the Caverns.",
+        "Selling List": [
+            "617",
+            "618",
+            "619",
+            "620",
+            "621",
+            "622",
+            "623",
+            "624",
+            "625",
+            "626",
+            "627",
+            "628",
+            "629",
+            "630",
+            "631",
+            "632",
+            "633",
+            "634",
+            "635"
         ]
     }
 ]

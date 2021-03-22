@@ -1605,772 +1605,772 @@
         "Type": "Enemy"
     },
     {
-        "NPC ID": 322,
+        "NPC ID": "322",
         "Name": "Bird",
         "Type": "Critter"
     },
     {
-        "NPC ID": 323,
+        "NPC ID": "323",
         "Name": "Blue Jay",
         "Type": "Critter"
     },
     {
-        "NPC ID": 324,
+        "NPC ID": "324",
         "Name": "Buggy",
         "Type": "Critter"
     },
     {
-        "NPC ID": 325,
+        "NPC ID": "325",
         "Name": "Bunny",
         "Type": "Critter"
     },
     {
-        "NPC ID": 326,
+        "NPC ID": "326",
         "Name": "Explosive Bunny",
         "Type": "Critter"
     },
     {
-        "NPC ID": 327,
+        "NPC ID": "327",
         "Name": "Amethyst Bunny",
         "Type": "Critter"
     },
     {
-        "NPC ID": 328,
+        "NPC ID": "328",
         "Name": "Topaz Bunny",
         "Type": "Critter"
     },
     {
-        "NPC ID": 329,
+        "NPC ID": "329",
         "Name": "Sapphire Bunny",
         "Type": "Critter"
     },
     {
-        "NPC ID": 330,
+        "NPC ID": "330",
         "Name": "Emerald Bunny",
         "Type": "Critter"
     },
     {
-        "NPC ID": 331,
+        "NPC ID": "331",
         "Name": "Ruby Bunny",
         "Type": "Critter"
     },
     {
-        "NPC ID": 332,
+        "NPC ID": "332",
         "Name": "Diamond Bunny",
         "Type": "Critter"
     },
     {
-        "NPC ID": 333,
+        "NPC ID": "333",
         "Name": "Amber Bunny",
         "Type": "Critter"
     },
     {
-        "NPC ID": 334,
+        "NPC ID": "334",
         "Name": "Cardinal",
         "Type": "Critter"
     },
     {
-        "NPC ID": 335,
+        "NPC ID": "335",
         "Name": "Dolphin",
         "Type": "Critter"
     },
     {
-        "NPC ID": 336,
+        "NPC ID": "336",
         "Name": "Duck",
         "Type": "Critter"
     },
     {
-        "NPC ID": 337,
+        "NPC ID": "337",
         "Name": "Mallard Duck",
         "Type": "Critter"
     },
     {
-        "NPC ID": 338,
+        "NPC ID": "338",
         "Name": "Enchanted Nightcrawler",
         "Type": "Critter"
     },
     {
-        "NPC ID": 339,
+        "NPC ID": "339",
         "Name": "Blue Fairy",
         "Type": "Critter"
     },
     {
-        "NPC ID": 340,
+        "NPC ID": "340",
         "Name": "Green Fairy",
         "Type": "Critter"
     },
     {
-        "NPC ID": 341,
+        "NPC ID": "341",
         "Name": "Pink Fairy",
         "Type": "Critter"
     },
     {
-        "NPC ID": 342,
+        "NPC ID": "342",
         "Name": "Firefly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 343,
+        "NPC ID": "343",
         "Name": "Frog",
         "Type": "Critter"
     },
     {
-        "NPC ID": 344,
+        "NPC ID": "344",
         "Name": "Glowing Snail",
         "Type": "Critter"
     },
     {
-        "NPC ID": 345,
+        "NPC ID": "345",
         "Name": "Goldfish",
         "Type": "Critter"
     },
     {
-        "NPC ID": 346,
+        "NPC ID": "346",
         "Name": "Grasshopper",
         "Type": "Critter"
     },
     {
-        "NPC ID": 347,
+        "NPC ID": "347",
         "Name": "Grebe",
         "Type": "Critter"
     },
     {
-        "NPC ID": 348,
+        "NPC ID": "348",
         "Name": "Grubby",
         "Type": "Critter"
     },
     {
-        "NPC ID": 349,
+        "NPC ID": "349",
         "Name": "Ladybug",
         "Type": "Critter"
     },
     {
-        "NPC ID": 350,
+        "NPC ID": "350",
         "Name": "Lavafly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 351,
+        "NPC ID": "351",
         "Name": "Lightning Bug",
         "Type": "Critter"
     },
     {
-        "NPC ID": 352,
+        "NPC ID": "352",
         "Name": "Maggot",
         "Type": "Critter"
     },
     {
-        "NPC ID": 353,
+        "NPC ID": "353",
         "Name": "Magma Snail",
         "Type": "Critter"
     },
     {
-        "NPC ID": 354,
+        "NPC ID": "354",
         "Name": "Mouse",
         "Type": "Critter"
     },
     {
-        "NPC ID": 355,
+        "NPC ID": "355",
         "Name": "Owl",
         "Type": "Critter"
     },
     {
-        "NPC ID": 356,
+        "NPC ID": "356",
         "Name": "Penguin",
         "Type": "Critter"
     },
     {
-        "NPC ID": 357,
+        "NPC ID": "357",
         "Name": "Pupfish",
         "Type": "Critter"
     },
     {
-        "NPC ID": 358,
+        "NPC ID": "358",
         "Name": "Rat",
         "Type": "Critter"
     },
     {
-        "NPC ID": 359,
+        "NPC ID": "359",
         "Name": "Scorpion",
         "Type": "Critter"
     },
     {
-        "NPC ID": 360,
+        "NPC ID": "360",
         "Name": "Black Scorpion",
         "Type": "Critter"
     },
     {
-        "NPC ID": 361,
+        "NPC ID": "361",
         "Name": "Seagull",
         "Type": "Critter"
     },
     {
-        "NPC ID": 362,
+        "NPC ID": "362",
         "Name": "Seahorse",
         "Type": "Critter"
     },
     {
-        "NPC ID": 363,
+        "NPC ID": "363",
         "Name": "Sea Turtle",
         "Type": "Critter"
     },
     {
-        "NPC ID": 364,
+        "NPC ID": "364",
         "Name": "Sluggy",
         "Type": "Critter"
     },
     {
-        "NPC ID": 365,
+        "NPC ID": "365",
         "Name": "Snail",
         "Type": "Critter"
     },
     {
-        "NPC ID": 366,
+        "NPC ID": "366",
         "Name": "Squirrel",
         "Type": "Critter"
     },
     {
-        "NPC ID": 367,
+        "NPC ID": "367",
         "Name": "Red Squirrel",
         "Type": "Critter"
     },
     {
-        "NPC ID": 368,
+        "NPC ID": "368",
         "Name": "Amethyst Squirrel",
         "Type": "Critter"
     },
     {
-        "NPC ID": 369,
+        "NPC ID": "369",
         "Name": "Topaz Squirrel",
         "Type": "Critter"
     },
     {
-        "NPC ID": 370,
+        "NPC ID": "370",
         "Name": "Sapphire Squirrel",
         "Type": "Critter"
     },
     {
-        "NPC ID": 371,
+        "NPC ID": "371",
         "Name": "Emerald Squirrel",
         "Type": "Critter"
     },
     {
-        "NPC ID": 372,
+        "NPC ID": "372",
         "Name": "Ruby Squirrel",
         "Type": "Critter"
     },
     {
-        "NPC ID": 373,
+        "NPC ID": "373",
         "Name": "Diamond Squirrel",
         "Type": "Critter"
     },
     {
-        "NPC ID": 374,
+        "NPC ID": "374",
         "Name": "Amber Squirrel",
         "Type": "Critter"
     },
     {
-        "NPC ID": 375,
+        "NPC ID": "375",
         "Name": "Turtle",
         "Type": "Critter"
     },
     {
-        "NPC ID": 376,
+        "NPC ID": "376",
         "Name": "Jungle Turtle",
         "Type": "Critter"
     },
     {
-        "NPC ID": 377,
+        "NPC ID": "377",
         "Name": "Water Strider",
         "Type": "Critter"
     },
     {
-        "NPC ID": 378,
+        "NPC ID": "378",
         "Name": "Worm",
         "Type": "Critter"
     },
     {
-        "NPC ID": 379,
+        "NPC ID": "379",
         "Name": "Julia Butterfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 380,
+        "NPC ID": "380",
         "Name": "Monarch Butterfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 381,
+        "NPC ID": "381",
         "Name": "Purple Emperor Butterfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 382,
+        "NPC ID": "382",
         "Name": "Red Admiral Butterfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 383,
+        "NPC ID": "383",
         "Name": "Sulphur Butterfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 384,
+        "NPC ID": "384",
         "Name": "Tree Nymph Butterfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 385,
+        "NPC ID": "385",
         "Name": "Ulysses Butterfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 386,
+        "NPC ID": "386",
         "Name": "Zebra Swallowtail Butterfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 387,
+        "NPC ID": "387",
         "Name": "Hell Butterfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 388,
+        "NPC ID": "388",
         "Name": "Prismatic Lacewing",
         "Type": "Critter"
     },
     {
-        "NPC ID": 389,
+        "NPC ID": "389",
         "Name": "Yellow Dragonfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 390,
+        "NPC ID": "390",
         "Name": "Red Dragonfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 391,
+        "NPC ID": "391",
         "Name": "Black Dragonfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 392,
+        "NPC ID": "392",
         "Name": "Blue Dragonfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 393,
+        "NPC ID": "393",
         "Name": "Orange Dragonfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 394,
+        "NPC ID": "394",
         "Name": "Green Dragonfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 395,
+        "NPC ID": "395",
         "Name": "Gold Bird",
         "Type": "Critter"
     },
     {
-        "NPC ID": 396,
+        "NPC ID": "396",
         "Name": "Gold Bunny",
         "Type": "Critter"
     },
     {
-        "NPC ID": 397,
+        "NPC ID": "397",
         "Name": "Gold Butterfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 398,
+        "NPC ID": "398",
         "Name": "Gold Dragonfly",
         "Type": "Critter"
     },
     {
-        "NPC ID": 399,
+        "NPC ID": "399",
         "Name": "Gold Frog",
         "Type": "Critter"
     },
     {
-        "NPC ID": 400,
+        "NPC ID": "400",
         "Name": "Gold Goldfish",
         "Type": "Critter"
     },
     {
-        "NPC ID": 401,
+        "NPC ID": "401",
         "Name": "Gold Grasshopper",
         "Type": "Critter"
     },
     {
-        "NPC ID": 402,
+        "NPC ID": "402",
         "Name": "Gold Ladybug",
         "Type": "Critter"
     },
     {
-        "NPC ID": 403,
+        "NPC ID": "403",
         "Name": "Gold Mouse",
         "Type": "Critter"
     },
     {
-        "NPC ID": 404,
+        "NPC ID": "404",
         "Name": "Gold Seahorse",
         "Type": "Critter"
     },
     {
-        "NPC ID": 405,
+        "NPC ID": "405",
         "Name": "Gold Squirrel",
         "Type": "Critter"
     },
     {
-        "NPC ID": 406,
+        "NPC ID": "406",
         "Name": "Gold Water Strider",
         "Type": "Critter"
     },
     {
-        "NPC ID": 407,
+        "NPC ID": "407",
         "Name": "Gold Worm",
         "Type": "Critter"
     },
     {
-        "NPC ID": 408,
+        "NPC ID": "408",
         "Name": "Prismatic Lacewing",
         "Type": "Critter"
     },
     {
-        "NPC ID": 409,
+        "NPC ID": "409",
         "Name": "Truffle Worm",
         "Type": "Critter"
     },
     {
-        "NPC ID": 410,
+        "NPC ID": "410",
         "Name": "Guide",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 411,
+        "NPC ID": "411",
         "Name": "Merchant",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 412,
+        "NPC ID": "412",
         "Name": "Nurse",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 413,
+        "NPC ID": "413",
         "Name": "Demolitionist",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 414,
+        "NPC ID": "414",
         "Name": "Dye Trader",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 415,
+        "NPC ID": "415",
         "Name": "Angler",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 416,
+        "NPC ID": "416",
         "Name": "Zoologist",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 417,
+        "NPC ID": "417",
         "Name": "Dryad",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 418,
+        "NPC ID": "418",
         "Name": "Painter",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 419,
+        "NPC ID": "419",
         "Name": "Golfer",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 420,
+        "NPC ID": "420",
         "Name": "Arms Dealer",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 421,
+        "NPC ID": "421",
         "Name": "Tavernkeep",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 422,
+        "NPC ID": "422",
         "Name": "Stylist",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 423,
+        "NPC ID": "423",
         "Name": "Goblin Tinkerer",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 424,
+        "NPC ID": "424",
         "Name": "Witch Doctor",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 425,
+        "NPC ID": "425",
         "Name": "Clothier",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 426,
+        "NPC ID": "426",
         "Name": "Mechanic",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 427,
+        "NPC ID": "427",
         "Name": "Party Girl",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 428,
+        "NPC ID": "428",
         "Name": "Wizard",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 429,
+        "NPC ID": "429",
         "Name": "Tax Collector",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 430,
+        "NPC ID": "430",
         "Name": "Truffle",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 431,
+        "NPC ID": "431",
         "Name": "Pirate",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 432,
+        "NPC ID": "432",
         "Name": "Steampunker",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 433,
+        "NPC ID": "433",
         "Name": "Cyborg",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 434,
+        "NPC ID": "434",
         "Name": "Santa Claus",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 435,
+        "NPC ID": "435",
         "Name": "Princess",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 436,
+        "NPC ID": "436",
         "Name": "Town Cat",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 437,
+        "NPC ID": "437",
         "Name": "Town Dog",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 438,
+        "NPC ID": "438",
         "Name": "Town Bunny",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 439,
+        "NPC ID": "439",
         "Name": "Traveling Merchant",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 440,
+        "NPC ID": "440",
         "Name": "Old Man",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 441,
+        "NPC ID": "441",
         "Name": "Skeleton Merchant",
         "Type": "Town NPC"
     },
     {
-        "NPC ID": 442,
+        "NPC ID": "442",
         "Name": "King Slime",
         "Type": "Boss"
     },
     {
-        "NPC ID": 443,
+        "NPC ID": "443",
         "Name": "Eye of Cthulhu",
         "Type": "Boss"
     },
     {
-        "NPC ID": 444,
+        "NPC ID": "444",
         "Name": "Eater of Worlds",
         "Type": "Boss"
     },
     {
-        "NPC ID": 445,
+        "NPC ID": "445",
         "Name": "Brain of Cthulhu",
         "Type": "Boss"
     },
     {
-        "NPC ID": 446,
+        "NPC ID": "446",
         "Name": "Queen Bee",
         "Type": "Boss"
     },
     {
-        "NPC ID": 447,
+        "NPC ID": "447",
         "Name": "Skeletron",
         "Type": "Boss"
     },
     {
-        "NPC ID": 448,
+        "NPC ID": "448",
         "Name": "Wall of Flesh",
         "Type": "Boss"
     },
     {
-        "NPC ID": 449,
+        "NPC ID": "449",
         "Name": "Queen Slime",
         "Type": "Boss"
     },
     {
-        "NPC ID": 450,
+        "NPC ID": "450",
         "Name": "The Twins",
         "Type": "Boss"
     },
     {
-        "NPC ID": 451,
+        "NPC ID": "451",
         "Name": "The Destroyer",
         "Type": "Boss"
     },
     {
-        "NPC ID": 452,
+        "NPC ID": "452",
         "Name": "Skeletron Prime",
         "Type": "Boss"
     },
     {
-        "NPC ID": 453,
+        "NPC ID": "453",
         "Name": "Plantera",
         "Type": "Boss"
     },
     {
-        "NPC ID": 454,
+        "NPC ID": "454",
         "Name": "Golem",
         "Type": "Boss"
     },
     {
-        "NPC ID": 455,
+        "NPC ID": "455",
         "Name": "Empress of Light",
         "Type": "Boss"
     },
     {
-        "NPC ID": 456,
+        "NPC ID": "456",
         "Name": "Duke Fishron",
         "Type": "Boss"
     },
     {
-        "NPC ID": 457,
+        "NPC ID": "457",
         "Name": "Lunatic Cultist",
         "Type": "Boss"
     },
     {
-        "NPC ID": 458,
+        "NPC ID": "458",
         "Name": "Moon Lord",
         "Type": "Boss"
     },
     {
-        "NPC ID": 459,
+        "NPC ID": "459",
         "Name": "Dark Mage",
         "Type": "Boss"
     },
     {
-        "NPC ID": 460,
+        "NPC ID": "460",
         "Name": "Ogre",
         "Type": "Boss"
     },
     {
-        "NPC ID": 461,
+        "NPC ID": "461",
         "Name": "Betsy",
         "Type": "Boss"
     },
     {
-        "NPC ID": 462,
+        "NPC ID": "462",
         "Name": "Flying Dutchman",
         "Type": "Boss"
     },
     {
-        "NPC ID": 463,
+        "NPC ID": "463",
         "Name": "Mourning Wood",
         "Type": "Boss"
     },
     {
-        "NPC ID": 464,
+        "NPC ID": "464",
         "Name": "Pumpking",
         "Type": "Boss"
     },
     {
-        "NPC ID": 465,
+        "NPC ID": "465",
         "Name": "Everscream",
         "Type": "Boss"
     },
     {
-        "NPC ID": 466,
+        "NPC ID": "466",
         "Name": "Santa-NK1",
         "Type": "Boss"
     },
     {
-        "NPC ID": 467,
+        "NPC ID": "467",
         "Name": "Ice Queen",
         "Type": "Boss"
     },
     {
-        "NPC ID": 468,
+        "NPC ID": "468",
         "Name": "Martian Saucer",
         "Type": "Boss"
     },
     {
-        "NPC ID": 469,
+        "NPC ID": "469",
         "Name": "Solar Pillar",
         "Type": "Boss"
     },
     {
-        "NPC ID": 470,
+        "NPC ID": "470",
         "Name": "Nebula Pillar",
         "Type": "Boss"
     },
     {
-        "NPC ID": 471,
+        "NPC ID": "471",
         "Name": "Vortex Pillar",
         "Type": "Boss"
     },
     {
-        "NPC ID": 472,
+        "NPC ID": "472",
         "Name": "Stardust Pillar",
         "Type": "Boss"
     },
     {
-        "NPC ID": 473,
+        "NPC ID": "473",
         "Name": "Ocram",
         "Type": "Boss"
     },
     {
-        "NPC ID": 474,
+        "NPC ID": "474",
         "Name": "Lepus",
         "Type": "Boss"
     },
     {
-        "NPC ID": 475,
+        "NPC ID": "475",
         "Name": "Turkor the Ungrateful",
         "Type": "Boss"
     }

@@ -2274,7 +2274,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "254"
+                "338"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2294,7 +2294,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "255"
+                "339"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -2314,7 +2314,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "256"
+                "340"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -3730,7 +3730,7 @@
         "Sources": {
             "Crafting Recipes": [],
             "NPC": [
-                "472"
+                "556"
             ],
             "Drop": [],
             "Grab Bag": [],
@@ -4067,7 +4067,9 @@
         "Set ID": "49",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "294"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4085,7 +4087,9 @@
         "Set ID": "49",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "295"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4103,7 +4107,9 @@
         "Set ID": "49",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "296"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4121,7 +4127,9 @@
         "Set ID": "46",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "288"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4139,7 +4147,9 @@
         "Set ID": "46",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "289"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4157,7 +4167,9 @@
         "Set ID": "46",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "290"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4175,7 +4187,9 @@
         "Set ID": "48",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "291"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4193,7 +4207,9 @@
         "Set ID": "48",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "292"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4211,7 +4227,9 @@
         "Set ID": "48",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "293"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4229,7 +4247,9 @@
         "Set ID": "47",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "285"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4247,7 +4267,9 @@
         "Set ID": "47",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "286"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4265,7 +4287,9 @@
         "Set ID": "47",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "287"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4283,7 +4307,9 @@
         "Set ID": "59",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "297"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4301,7 +4327,9 @@
         "Set ID": "59",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "298"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4319,7 +4347,9 @@
         "Set ID": "59",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "299"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4337,7 +4367,9 @@
         "Set ID": "62",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "300"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4355,7 +4387,9 @@
         "Set ID": "62",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "301"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4373,7 +4407,9 @@
         "Set ID": "62",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "302"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4391,7 +4427,9 @@
         "Set ID": "61",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "303"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4409,7 +4447,9 @@
         "Set ID": "61",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "304"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4427,7 +4467,9 @@
         "Set ID": "61",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "305"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4445,7 +4487,9 @@
         "Set ID": "60",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "306"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4463,7 +4507,9 @@
         "Set ID": "60",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "307"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
@@ -4481,7 +4527,9 @@
         "Set ID": "60",
         "Sources": {
             "Crafting Recipes": [],
-            "NPC": [],
+            "NPC": [
+                "308"
+            ],
             "Drop": [],
             "Grab Bag": [],
             "Other": ""
