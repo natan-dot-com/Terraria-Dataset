@@ -16,6 +16,10 @@ works, so I could say I'm kinda happy with the results.
 All the information were scrapped using Python's web-scrapping scripts/libraries by
 [me](https://github.com/natan-dot-com) and [Andrei Alisson](https://github.com/AndreiAlisson).
 
+## For future work
+- Increase the data files with the remaining items.
+- Add mob drop information support to each item.
+
 ## License
 
 MIT. Read LICENSE file for more details.
