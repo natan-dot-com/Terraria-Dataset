@@ -1,0 +1,1 @@
+# Terraria Information Dataset Changelog

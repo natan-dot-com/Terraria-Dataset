@@ -21,6 +21,7 @@ and Selenium) by [me](https://github.com/natan-dot-com) and [Andrei Alisson](htt
 - Increase the data files with the remaining items.
 - Add mob drop information support to each item.
 - ...
+Keep on eye on [changelog](changelog.md) file to track each update!
 
 ## License
 
