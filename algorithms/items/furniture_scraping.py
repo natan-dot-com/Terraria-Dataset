@@ -27,31 +27,37 @@ OTHER_FOUNDS = ["Dungeon", "Obsidian"]
 OTHER_FOUNDS_SOURCE = ["Found in the Dungeon", "Found in Ruined Houses, in the Underworld"]
 
 itemList = LoadJSONFile(GLOBAL_JSON_PATH + DIR_ID_REFERENCES + MAIN_NAME_FILE + JSON_EXT)
+
+# Get furniture list to process
+furnitureListToProcess = []
+for itemInstance in itemList:
+    if itemInstance[SCRAPING_TYPE] == "Furniture":
+        furnitureListToProcess.append(itemInstance)
+
 furnituresList = []
 
-@start_threads_decorator(size=len(itemList), threads_number=8)
+@start_threads_decorator(size=len(furnitureListToProcess), threads_number=THREADS_SIZE)
 def furniturescraping(init, fin, threadID):
-    for itemInstance in itemList[init:fin]:
-        if itemInstance[SCRAPING_TYPE] == "Furniture":
-            newURL = URL + itemInstance[SCRAPING_NAME].replace(" ", "_")
+    for furnitureInstance in furnitureListToProcess[init:fin]:
+            newURL = URL + furnitureInstance[SCRAPING_NAME].replace(" ", "_")
             page = requests.get(newURL)
             soup = BeautifulSoup(page.content, "html.parser")
-            print("Thread {}: Processing {} with ID {}".format(threadID, newURL, itemInstance[SCRAPING_ID]))
+            print("Thread {}: Processing {} with ID {}".format(threadID, newURL, furnitureInstance[SCRAPING_ID]))
 
             tableBoxes = soup.find_all("div", class_="infobox item")
             tableBox = tableBoxes[0]
             for tableBoxTmp in tableBoxes:
-                if tableBoxTmp.find("div", class_="title").text == itemInstance[SCRAPING_NAME]:
+                if tableBoxTmp.find("div", class_="title").text == furnitureInstance[SCRAPING_NAME]:
                     tableBox = tableBoxTmp
-            furnitureDict = get_statistics(tableBox, itemInstance=itemInstance)
+            furnitureDict = get_statistics(tableBox, itemInstance=furnitureInstance)
 
             furnitureDict.pop(SCRAPING_SOURCE)
             furnitureSourceOther = ""
             for otherFoundInstance, otherFoundSourceInstance in zip(OTHER_FOUNDS, OTHER_FOUNDS_SOURCE):
-                if re.search(otherFoundInstance, itemInstance[SCRAPING_NAME]) and not re.search("Sink|Obsidian Watcher Banner", itemInstance[SCRAPING_NAME]):
+                if re.search(otherFoundInstance, furnitureInstance[SCRAPING_NAME]) and not re.search("Sink|Obsidian Watcher Banner", furnitureInstance[SCRAPING_NAME]):
                     furnitureSourceOther = otherFoundSourceInstance
                     break
-                elif itemInstance[SCRAPING_NAME] == "Book":
+                elif furnitureInstance[SCRAPING_NAME] == "Book":
                     furnitureSourceOther = "Found in the Dungeon"
 
             furnitureDict[SCRAPING_SOURCE] = {

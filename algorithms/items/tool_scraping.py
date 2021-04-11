@@ -16,7 +16,7 @@ if systemOS == "Linux":
 
 from ...package.scraping_tools import *
 from ...package.json_manager import *
-from ...package.multithreading_starter import *
+from ...package.multithreading_starter import start_threads_decorator
 import re
 import requests
 from bs4 import BeautifulSoup
@@ -29,27 +29,35 @@ FISHING_POLES = [
 ]
 
 itemList = LoadJSONFile(GLOBAL_JSON_PATH + DIR_ID_REFERENCES + MAIN_NAME_FILE + JSON_EXT)
-url = "https://terraria.gamepedia.com/"
-toolsList = []
 
+# Get tool list to process
+toolListToProcess = []
 for itemInstance in itemList:
     if itemInstance[SCRAPING_TYPE] == "Tool":
-        newURL = url + itemInstance[SCRAPING_NAME].replace(" ", "_")
-        print("Processing " + newURL + " with ID " + itemInstance[SCRAPING_ID])
+        toolListToProcess.append(itemInstance)
+
+url = "https://terraria.gamepedia.com/"
+toolList = []
+
+@start_threads_decorator(size=len(toolListToProcess), threads_number=THREADS_SIZE)
+def toolScraping(init, fin, threadID):
+    for toolInstance in toolListToProcess[init:fin]:
+        newURL = url + toolInstance[SCRAPING_NAME].replace(" ", "_")
+        print("Thread {}: Processing {} with ID {}".format(threadID, newURL, toolInstance[SCRAPING_ID]))
         page = requests.get(newURL)
         soup = BeautifulSoup(page.content, "html.parser")
 
-        if not itemInstance[SCRAPING_NAME] in FISHING_POLES:
+        if not toolInstance[SCRAPING_NAME] in FISHING_POLES:
             tableBox = soup.find("div", class_="infobox item")
-            toolDict = get_statistics(tableBox, itemInstance)
-            toolsList.append(toolDict)
+            toolDict = get_statistics(tableBox, toolInstance)
+            toolList.append(toolDict)
             
         #get fishing poles
         else:
             trTags = soup.find("table", id="fishing-poles-table").find_all("tr")
             for trTag in trTags[1:]:
                 tdTags = trTag.find_all("td")
-                if tdTags[1].span.span.span.text == itemInstance[SCRAPING_NAME]:
+                if tdTags[1].span.span.span.text == toolInstance[SCRAPING_NAME]:
                     toolDict = {
                         SCRAPING_ITEM_ID: "",
                         SCRAPING_NAME: "",
@@ -59,8 +67,8 @@ for itemInstance in itemList:
                         SCRAPING_SOURCE: SOURCE_SOURCES_DICT
                     }
                     
-                    toolDict[SCRAPING_ITEM_ID] = itemInstance[SCRAPING_ID]
-                    toolDict[SCRAPING_NAME] = itemInstance[SCRAPING_NAME]
+                    toolDict[SCRAPING_ITEM_ID] = toolInstance[SCRAPING_ID]
+                    toolDict[SCRAPING_NAME] = toolInstance[SCRAPING_NAME]
                     toolDict[SCRAPING_FISHING_POWER] = tdTags[3].text.rstrip()
                     toolDict[SCRAPING_VELOCITY] = tdTags[4].text.rstrip()
                     toolDict[SCRAPING_RARITY] = (re.search("-*\d+", tdTags[6].a["title"])).group()
@@ -68,7 +76,7 @@ for itemInstance in itemList:
                     for statistic in statistics:
                         if statistic.th.text == SCRAPING_USE_TIME:
                             toolDict[SCRAPING_USE_TIME] = statistic.td.text.rstrip()
-                    toolsList.append(toolDict)
+                    toolList.append(toolDict)
                     break
 
-SaveJSONFile(TOOL_PATH, toolsList)
+SaveJSONFile(TOOL_PATH, sortListOfDictsByKey(toolList, SCRAPING_ITEM_ID))

@@ -15,6 +15,7 @@ if systemOS == "Linux":
 
 from ...package.scraping_tools import *
 from ...package.json_manager import *
+from ...package.multithreading_starter import start_threads_decorator
 import requests
 from bs4 import BeautifulSoup
 
@@ -30,19 +31,27 @@ DUNGEON_WALLS = {
 }
 
 itemList = LoadJSONFile(GLOBAL_JSON_PATH + DIR_ID_REFERENCES + MAIN_NAME_FILE + JSON_EXT)
-url = "https://terraria.gamepedia.com/"
-wallsList = []
 
+# Get background list to process
+backgroundListToProcess = []
 for itemInstance in itemList:
     if itemInstance[SCRAPING_TYPE] == "Background":
-        newURL = url + itemInstance[SCRAPING_NAME].replace(" ", "_")
-        print("Processing " + newURL + " with ID " + itemInstance[SCRAPING_ID])
+        backgroundListToProcess.append(itemInstance)
+
+wallsList = []
+url = "https://terraria.gamepedia.com/"
+
+@start_threads_decorator(size=len(backgroundListToProcess), threads_number=THREADS_SIZE)
+def backgroundScraping(init, fin, threadID):
+    for backgroundInstance in backgroundListToProcess:
+        newURL = url + backgroundInstance[SCRAPING_NAME].replace(" ", "_")
+        print("Thread {}: Processing {} with ID {}".format(threadID, newURL, backgroundInstance[SCRAPING_ID]))
         page = requests.get(newURL)
         soup = BeautifulSoup(page.content, "html.parser")
 
-        if not itemInstance[SCRAPING_NAME] in DUNGEON_WALLS:
+        if not backgroundInstance[SCRAPING_NAME] in DUNGEON_WALLS:
             tableBoxes = soup.find_all("div", class_="infobox item")
-        elif itemInstance[SCRAPING_NAME] in DUNGEON_WALLS:       
+        elif backgroundInstance[SCRAPING_NAME] in DUNGEON_WALLS:       
             tableBoxes = soup.find_all("div", class_="infobox item float-left")
         else:
             tableBoxes = soup.find_all("div", class_="infobox npc c-normal background object")
@@ -54,7 +63,7 @@ for itemInstance in itemList:
                 tableBox = tableBoxTmp
                 break
 
-        wallDict = get_statistics(tableBox, itemInstance)
+        wallDict = get_statistics(tableBox, backgroundInstance)
         wallsList.append(wallDict)
 
 SaveJSONFile(BACKGROUND_PATH, wallsList)

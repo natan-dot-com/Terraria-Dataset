@@ -3,8 +3,8 @@ current_dir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentfra
 parent_dir = os.path.dirname(current_dir)
 parent_dir = os.path.dirname(parent_dir)
 sys.path.insert(0, parent_dir)
-from scraping_tools import *
-from json_manager import *
+from package.scraping_tools import *
+from package.json_manager import *
 import os
 from bs4 import BeautifulSoup
 import requests 

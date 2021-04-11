@@ -22,18 +22,24 @@ POTION_PATH = GLOBAL_JSON_PATH + DIR_ITEMS_DATA + POTION_NAME_FILE + JSON_EXT
 URL = "https://terraria.gamepedia.com/"
 
 itemList = LoadJSONFile(GLOBAL_JSON_PATH + DIR_ID_REFERENCES + MAIN_NAME_FILE + JSON_EXT)
+
+# Get potion list to process
+potionListToProcess = []
+for itemInstance in itemList:
+    if itemInstance[SCRAPING_TYPE] == "Potion":
+        potionListToProcess.append(itemInstance)
+
 potionList = []
 
-@start_threads_decorator(size=len(itemList), threads_number=8)
+@start_threads_decorator(size=len(potionListToProcess), threads_number=THREADS_SIZE)
 def potionScraping(init, fin, threadID):
-    for itemInstance in itemList[init:fin]:
-        if itemInstance[SCRAPING_TYPE] == "Potion":
-            newURL = URL + itemInstance[SCRAPING_NAME].replace(" ", "_")
-            page = requests.get(newURL)
-            soup = BeautifulSoup(page.content, "html.parser")
-            print("Thread {}: Processing {} with ID {}".format(threadID, newURL, itemInstance[SCRAPING_ID]))
+    for potionInstance in potionListToProcess[init:fin]:
+        newURL = URL + potionInstance[SCRAPING_NAME].replace(" ", "_")
+        page = requests.get(newURL)
+        soup = BeautifulSoup(page.content, "html.parser")
+        print("Thread {}: Processing {} with ID {}".format(threadID, newURL, potionInstance[SCRAPING_ID]))
 
-            tableBox = soup.find("div", class_="infobox item")
-            potionList.append(get_statistics(tableBox, itemInstance=itemInstance))
+        tableBox = soup.find("div", class_="infobox item")
+        potionList.append(get_statistics(tableBox, itemInstance=potionInstance))
         
 SaveJSONFile(POTION_PATH, sortListOfDictsByKey(potionList, SCRAPING_ITEM_ID))

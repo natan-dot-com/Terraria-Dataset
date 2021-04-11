@@ -1,8 +1,14 @@
+from io import StringIO
+from typing import Any
 import requests
 import re
 from bs4 import BeautifulSoup
 import operator
-import os
+from .log_manager import LOG_PATH
+import logging
+
+# Put the number of threads you want to use on scraping process
+THREADS_SIZE = 8
 
 NOT_FOUND = -1
 FOUND = 1
@@ -97,6 +103,7 @@ SCRAPING_DEBUFF = "Debuff"
 SCRAPING_DEBUFF_TOOLTIP = "Debuff tooltip"
 SCRAPING_ENVIRONMENT = "Environment"
 SCRAPING_AI_TYPE = "AI Type"
+SCRAPING_PICKAXE_POWER_REQUIRED = "Pickaxe power required"
 
 # Image data
 IMAGE_BRICK = "Brick Image"
@@ -330,6 +337,8 @@ nameSubstitutes = {
     "Logic Gates": "Logic Gate (AND)"
 }
 
+logging.basicConfig(format='%(asctime)s: %(message)s', filename=LOG_PATH + "scraping_errors.log", encoding='utf-8', level=logging.ERROR)
+
 # Write/saves an image from a HTML scrap
 def writeImage(imageSource, imagePath):
     imgOutput = requests.get(imageSource, stream=True)
@@ -366,6 +375,7 @@ def getTableColumns(tableHeadRow, scrappingData):
                 indexDict[data] = int(tableHeadRow.index(column))
     return indexDict
 
+# Get only the desktop info from a row that also contains other versions infos
 def get_desktop_text_linear(row):
     eicos = row.find_all("span", class_="eico")
     if eicos:
@@ -380,12 +390,113 @@ def get_desktop_text_linear(row):
     else:
         return row.td.text
 
-#função do urso
+# First case for scraping data
+def scraping_case_1(statistic):
+    try:
+        return statistic.td.text.split("/")[0].encode("ascii", "ignore").decode().rstrip()
+    except:
+        return None
+
+# Second case for scraping data
+def scraping_case_2(statistic):
+    try:
+        return BeautifulSoup(str(statistic.td).replace("<br/>", ". "), 'html.parser').text.rstrip()
+    except:
+        return None
+
+# Third case for scraping data
+def scraping_case_3(statistic):
+    try:
+        return statistic.td.text.rstrip().replace("  ", " ")
+    except:
+        return None
+
+# Fourth case for scraping data
+def scraping_case_4(statistic):
+    try:
+        return statistic.td.text.split(" ")[0].rstrip()
+    except:
+        return None
+
+# Fifth case for scraping data
+def scraping_case_5(statistic):
+    try:
+        return statistic.td.span["title"]
+    except:
+        return None
+
+# Rarity case for scraping data
+def scraping_rarity(statistic):
+    try:
+        if statistic.td.span:
+            if (re.search("-*\d+", statistic.td.span.a["title"])):
+                return (re.search("-*\d+", statistic.td.span.a["title"])).group()
+            else:
+                return RARITY_TIER[statistic.td.span.a["title"].split(": ")[-1]]
+        else:
+            return statistic.td.text.rstrip()
+    except:
+        return None
+
+# Returns "Yes" or "No" info from infobox
+def scraping_yes_no(statistic):
+    try:
+        if statistic.td.span["class"][0] == "t-yes":
+            return "Yes"
+        elif statistic.td.span["class"][0] == "t-no":
+            return  "No"
+        else:
+            return None
+    except:
+        return None
+
+def scraping_get_desktop(statistic):
+    try:
+        return get_desktop_text_linear(statistic).encode("ascii", "replace").decode().replace("?", " ").rstrip()
+    except:
+        return None
+
+def scraping_power(statistic):
+    try:
+        return statistic.text[1:].split(" ", 1)[0]
+    except:
+        return None
+
+# Dict with functions to get all general attributes on any infobox
+GET_STATISTIC = {
+    SCRAPING_USE_TIME: lambda statistic: scraping_case_1(statistic),
+    SCRAPING_RARITY: lambda statistic: scraping_rarity(statistic),
+    SCRAPING_PLACEABLE: lambda statistic: scraping_yes_no(statistic),
+    SCRAPING_MAX_LIFE: lambda statistic: scraping_case_2(statistic),
+    SCRAPING_RESEARCH: lambda statistic: scraping_case_3(statistic),
+    SCRAPING_TOOL_SPEED: lambda statistic: scraping_case_4(statistic),
+    SCRAPING_DAMAGE: lambda statistic: scraping_case_4(statistic),
+    SCRAPING_VELOCITY: lambda statistic: scraping_case_4(statistic),
+    SCRAPING_KNOCKBACK: lambda statistic: scraping_case_1(statistic),
+    SCRAPING_AVAILABLE: lambda statistic: scraping_case_3(statistic),
+    SCRAPING_EFFECT: lambda statistic: scraping_case_2(statistic),
+    SCRAPING_SELL: lambda statistic: scraping_case_5(statistic),
+    SCRAPING_BASE_VELOCITY: lambda statistic: scraping_case_3(statistic),
+    SCRAPING_VELOCITY_MULTIPLIER: lambda statistic: scraping_case_1(statistic),
+    SCRAPING_MANA: lambda statistic: scraping_case_1(statistic),
+    SCRAPING_CRITICAL_CHANCE: lambda statistic: scraping_case_1(statistic),
+    SCRAPING_DEFENSE: lambda statistic: scraping_case_4(statistic),
+    SCRAPING_BODY_SLOT: lambda statistic: scraping_case_3(statistic),
+    SCRAPING_BONUS: lambda statistic: scraping_case_3(statistic),
+    SCRAPING_MAX_STACK: lambda statistic: scraping_case_1(statistic),
+    SCRAPING_CONSUMABLE: lambda statistic: scraping_yes_no(statistic),
+    SCRAPING_PICKAXE_POWER_REQUIRED: lambda statistic: scraping_get_desktop(statistic),
+    SCRAPING_PICKAXE_POWER: lambda statistic: scraping_power(statistic),
+    SCRAPING_HAMMER_POWER: lambda statistic: scraping_power(statistic),
+    SCRAPING_AXE_POWER: lambda statistic: scraping_power(statistic)
+}
+
 #get statistics for every table with infobox class
-def get_statistics(tableBox, itemInstance = {}, usedIn = "", isArmor = False):
+def get_statistics(tableBox: Any, itemInstance: dict = {}, usedIn: str = "", isArmor: bool = False):
 
     jsonDict = {}
-    #Check if optional parameter was given
+
+    # Get item id and name
     if itemInstance:
         jsonDict[SCRAPING_ITEM_ID] = itemInstance[SCRAPING_ID]
         jsonDict[SCRAPING_NAME] = itemInstance[SCRAPING_NAME]
@@ -394,79 +505,36 @@ def get_statistics(tableBox, itemInstance = {}, usedIn = "", isArmor = False):
         jsonDict[SCRAPING_NAME] = tableBox.find("div", class_="title").text
 
     statistics = tableBox.find("div", class_="section statistics").find_all("tr")
+
+    #Get all common statistics from infobox
     for statistic in statistics:
-        if statistic.th.text == SCRAPING_USE_TIME:
-            jsonDict[SCRAPING_USE_TIME] = statistic.td.text.split("/")[0].encode("ascii", "ignore").decode().rstrip()
-        elif statistic.th.text == SCRAPING_RARITY:
-            if statistic.td.span:
-                if (re.search("-*\d+", statistic.td.span.a["title"])):
-                    jsonDict[SCRAPING_RARITY] = (re.search("-*\d+", statistic.td.span.a["title"])).group()
-                else:
-                    jsonDict[SCRAPING_RARITY] = RARITY_TIER[statistic.td.span.a["title"].split(": ")[-1]]
-            else:
-                jsonDict[SCRAPING_RARITY] = statistic.td.text.rstrip()
-        elif statistic.th.text == SCRAPING_PLACEABLE:
-            if statistic.td.span["class"][0] == "t-yes":
-                jsonDict[SCRAPING_PLACEABLE] = "Yes"
-            elif statistic.td.span["class"][0] == "t-no":
-                jsonDict[SCRAPING_PLACEABLE] = "No"
-        elif statistic.th.text == SCRAPING_MAX_LIFE:
-            jsonDict[SCRAPING_MAX_LIFE] = BeautifulSoup(str(statistic.td).replace("<br/>", ". "), 'html.parser').text.rstrip()
-        elif statistic.th.text == SCRAPING_RESEARCH:
-            jsonDict[SCRAPING_RESEARCH] = statistic.td.text.rstrip()
-        elif statistic.th.text == SCRAPING_TOOL_SPEED:
-            jsonDict[SCRAPING_TOOL_SPEED] = statistic.td.text.split(" ", 1)[0]
-        elif statistic.th.text == SCRAPING_DAMAGE:
-            jsonDict[SCRAPING_DAMAGE] = statistic.td.text.split(' ')[0].rstrip()
-        elif statistic.th.text == SCRAPING_VELOCITY:
-            jsonDict[SCRAPING_VELOCITY] = statistic.td.text.split(' ')[0].rstrip()
-        elif statistic.th.text == SCRAPING_KNOCKBACK:
-            jsonDict[SCRAPING_KNOCKBACK] = statistic.td.text.split("/")[0].encode("ascii", "ignore").decode().rstrip()
-        elif statistic.th.text == SCRAPING_AVAILABLE:
-            jsonDict[SCRAPING_AVAILABLE] = (statistic.td.text.rstrip()).replace("  ", " ")
-        elif statistic.th.text == SCRAPING_EFFECT:
-            jsonDict[SCRAPING_EFFECT] = BeautifulSoup(str(statistic.td).replace("<br/>", ". "), 'html.parser').text.rstrip()
-        elif statistic.th.text == SCRAPING_TOOLTIP:
+        # Get tooltip separated because it depends on a optional parameter
+        if statistic.th.text == SCRAPING_TOOLTIP:
             if isArmor:
                 jsonDict[SCRAPING_TOOLTIP] = BeautifulSoup(str(statistic.td).replace("<br/>", ". "), 'html.parser').text.split("/")[0].rstrip()
             else:
                 jsonDict[SCRAPING_TOOLTIP] = BeautifulSoup(str(statistic.td).replace("<br/>", ". "), 'html.parser').text.encode("ascii", "ignore").decode().rstrip()
-        elif statistic.th.text == SCRAPING_SELL:
-            jsonDict[SCRAPING_SELL] = statistic.td.span["title"]
-        elif statistic.th.text == SCRAPING_BASE_VELOCITY:
-            jsonDict[SCRAPING_BASE_VELOCITY] = statistic.td.text.rstrip()
-        elif statistic.th.text == SCRAPING_VELOCITY_MULTIPLIER:
-            jsonDict[SCRAPING_VELOCITY_MULTIPLIER] = statistic.td.text.encode("ascii", "ignore").decode().rstrip() + "x"
-        elif statistic.th.text == SCRAPING_MANA:
-            jsonDict[SCRAPING_MANA] = statistic.td.text.split("/")[0].encode("ascii", "ignore").decode().rstrip()
-        elif statistic.th.text == SCRAPING_CRITICAL_CHANCE:
-            jsonDict[SCRAPING_CRITICAL_CHANCE] = statistic.td.text.split("/")[0].encode("ascii", "ignore").decode().rstrip()
-        elif statistic.th.text == SCRAPING_DEFENSE:
-            jsonDict[SCRAPING_DEFENSE] = statistic.td.text.split(" ")[0]
-        elif statistic.th.text == SCRAPING_BODY_SLOT:
-            jsonDict[SCRAPING_BODY_SLOT] = statistic.td.text
-        elif statistic.th.text == SCRAPING_BONUS:
-            jsonDict[SCRAPING_BONUS] = statistic.td.text
-        elif statistic.th.text == SCRAPING_MAX_STACK:
-            jsonDict[SCRAPING_MAX_STACK] = statistic.td.text.split("/")[0].encode("ascii", "ignore").decode().rstrip()
-        elif statistic.th.text == SCRAPING_CONSUMABLE:
-            if statistic.td.span["class"] == "t-yes":
-                jsonDict[SCRAPING_CONSUMABLE] = "Yes"
-            elif statistic.td.span["class"] == "t-no":
-                jsonDict[SCRAPING_CONSUMABLE] = "No"
+        # Get any other statistic
+        else:
+            if statistic.th.text in GET_STATISTIC.keys():
+                jsonDict[statistic.th.text] = GET_STATISTIC[statistic.th.text](statistic)
+                if not jsonDict[statistic.th.text]:
+                    logging.exception("ERROR: Couldn't get attribute '{}' on: item '{}'.\n".format(statistic.th.text, jsonDict[SCRAPING_NAME]))
 
-    #get toolpower for tools json
+    # Add multiplier text format
+    if SCRAPING_VELOCITY_MULTIPLIER in jsonDict.keys():
+        jsonDict[SCRAPING_VELOCITY_MULTIPLIER] += "x"
+
+    # Get toolpower for tools json
     toolPower = tableBox.find("ul", class_="toolpower")
     if toolPower:
         powerList = toolPower.find_all("li")
         for powerType in powerList:
-            if(powerType["title"] == SCRAPING_PICKAXE_POWER):
-                jsonDict[SCRAPING_PICKAXE_POWER] = powerType.text[1:].split(" ", 1)[0]
-            elif(powerType["title"] == SCRAPING_HAMMER_POWER):
-                jsonDict[SCRAPING_HAMMER_POWER] = powerType.text[1:].split(" ", 1)[0]
-            elif(powerType["title"] == SCRAPING_AXE_POWER):
-                jsonDict[SCRAPING_AXE_POWER] = powerType.text[1:].split(" ", 1)[0]
-    #get buffs
+            jsonDict[powerType["title"]] = GET_STATISTIC[powerType["title"]](powerType)
+            if not jsonDict[powerType["title"]]:
+                logging.exception("ERROR: Couldn't get attribute '{}' on: item '{}'.\n".format(powerType["title"], jsonDict[SCRAPING_NAME]))
+
+    # Get buffs from buffable items
     if tableBox.find("div", class_="section buff"):
         tableBuffs = tableBox.find_all("tr")
         for tableBuff in tableBuffs:
@@ -480,7 +548,8 @@ def get_statistics(tableBox, itemInstance = {}, usedIn = "", isArmor = False):
                     jsonDict[SCRAPING_BUFF_TOOLTIP] = tableBuff.i.text
             elif tableBuff.th.text == SCRAPING_DURATION:
                 jsonDict[SCRAPING_DURATION] = get_desktop_text_linear(tableBuff).encode("ascii", "replace").decode().replace("?", " ").rstrip()
-    #get debuffs
+    
+    # Get debuffs from debuffable items
     if tableBox.find("div", class_="section debuff"):
         tableBuffs = tableBox.find_all("tr")
         for tableBuff in tableBuffs:
@@ -494,10 +563,15 @@ def get_statistics(tableBox, itemInstance = {}, usedIn = "", isArmor = False):
                     jsonDict[SCRAPING_DEBUFF_TOOLTIP] = tableBuff.i.text
             elif tableBuff.th.text == SCRAPING_DURATION:
                 jsonDict[SCRAPING_DURATION] = get_desktop_text_linear(tableBuff).encode("ascii", "replace").decode().replace("?", " ").rstrip()
-    #Check if optional parameter was given
+
+    # For gun category
     if usedIn:
         jsonDict[SCRAPING_USED_IN] = usedIn
+    
+    # For armor category
     if isArmor and itemInstance:
         jsonDict[SCRAPING_SET_ID] = itemInstance[SCRAPING_SET_ID]
+    
+    # Assign void dict to source dict
     jsonDict[SCRAPING_SOURCE] = SOURCE_SOURCES_DICT
     return jsonDict

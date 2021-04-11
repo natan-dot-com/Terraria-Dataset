@@ -20,17 +20,23 @@ DYE_PATH = GLOBAL_JSON_PATH + DIR_ITEMS_DATA + DYE_NAME_FILE + JSON_EXT
 URL = "https://terraria.gamepedia.com/"
 
 itemList = LoadJSONFile(GLOBAL_JSON_PATH + DIR_ID_REFERENCES + MAIN_NAME_FILE + JSON_EXT)
+
+# Get dye list to process
+dyeListToProcess = []
+for itemInstance in itemList:
+    if itemInstance[SCRAPING_TYPE] == "Dye":
+        dyeListToProcess.append(itemInstance)
+
 dyeList = []
 
-@start_threads_decorator(size=len(itemList), threads_number=8)
+@start_threads_decorator(size=len(dyeListToProcess), threads_number=THREADS_SIZE)
 def dyeScraping(init, fin, threadID):
-    for itemInstance in itemList[init:fin]:
-        if itemInstance[SCRAPING_TYPE] == "Dye":
-            print("Thread {}: Processing {} with ID {}".format(threadID, itemInstance[SCRAPING_NAME], itemInstance[SCRAPING_ID]))
-            dyeDict = {}
-            dyeDict[SCRAPING_NAME] = itemInstance[SCRAPING_NAME]
-            dyeDict[SCRAPING_ITEM_ID] = itemInstance[SCRAPING_ID]
-            dyeDict[SCRAPING_SOURCE] = SOURCE_SOURCES_DICT
-            dyeList.append(dyeDict)
+    for dyeInstance in dyeListToProcess[init:fin]:
+        print("Thread {}: Processing {} with ID {}".format(threadID, dyeInstance[SCRAPING_NAME], dyeInstance[SCRAPING_ID]))
+        dyeDict = {}
+        dyeDict[SCRAPING_NAME] = dyeInstance[SCRAPING_NAME]
+        dyeDict[SCRAPING_ITEM_ID] = dyeInstance[SCRAPING_ID]
+        dyeDict[SCRAPING_SOURCE] = SOURCE_SOURCES_DICT
+        dyeList.append(dyeDict)
         
 SaveJSONFile(DYE_PATH, sortListOfDictsByKey(dyeList, SCRAPING_ITEM_ID))

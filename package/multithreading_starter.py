@@ -14,7 +14,7 @@ class myThread (threading.Thread):
         self.fin = fin
         self.func = func
     def run(self):
-        print ("Starting Thread " + str(self.threadID) + " on indexes " + str(self.init) + " to " + str(self.fin))
+        print ("Starting Thread " + str(self.threadID) + " on indexes " + str(self.init) + " to " + str(self.fin-1))
         self.func(self.init, self.fin, self.threadID)
         log.write("Exiting Thread ({})\n".format(str(self.threadID)))
         print ("Exiting Thread " + str(self.threadID))

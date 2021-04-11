@@ -22,18 +22,24 @@ CRAFTING_MATERIAL_PATH = GLOBAL_JSON_PATH + DIR_ITEMS_DATA + CRAFTING_MATERIAL_N
 URL = "https://terraria.gamepedia.com/"
 
 itemList = LoadJSONFile(GLOBAL_JSON_PATH + DIR_ID_REFERENCES + MAIN_NAME_FILE + JSON_EXT)
+
+# Get crafting material list to process
+craftingMaterialListToProcess = []
+for itemInstance in itemList:
+    if itemInstance[SCRAPING_TYPE] == "Crafting material":
+        craftingMaterialListToProcess.append(itemInstance)
+
 craftingMaterialList = []
 
-@start_threads_decorator(size=len(itemList), threads_number=8)
+@start_threads_decorator(size=len(craftingMaterialListToProcess), threads_number=THREADS_SIZE)
 def craftingMaterialScraping(init, fin, threadID):
-    for itemInstance in itemList[init:fin]:
-        if itemInstance[SCRAPING_TYPE] == "Crafting material":
-            newURL = URL + itemInstance[SCRAPING_NAME].replace(" ", "_")
-            page = requests.get(newURL)
-            soup = BeautifulSoup(page.content, "html.parser")
-            print("Thread {}: Processing {} with ID {}".format(threadID, newURL, itemInstance[SCRAPING_ID]))
+    for craftingMaterialInstance in craftingMaterialListToProcess[init:fin]:
+        newURL = URL + craftingMaterialInstance[SCRAPING_NAME].replace(" ", "_")
+        page = requests.get(newURL)
+        soup = BeautifulSoup(page.content, "html.parser")
+        print("Thread {}: Processing {} with ID {}".format(threadID, newURL, craftingMaterialInstance[SCRAPING_ID]))
 
-            tableBox = soup.find("div", class_="infobox item")
-            craftingMaterialList.append(get_statistics(tableBox, itemInstance=itemInstance))
+        tableBox = soup.find("div", class_="infobox item")
+        craftingMaterialList.append(get_statistics(tableBox, itemInstance=craftingMaterialInstance))
         
 SaveJSONFile(CRAFTING_MATERIAL_PATH, sortListOfDictsByKey(craftingMaterialList, SCRAPING_ITEM_ID))
